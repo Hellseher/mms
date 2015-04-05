@@ -1942,6 +1942,25 @@
 <node CREATED="1417391045736" ID="ID_77066734" MODIFIED="1417391047653" TEXT="--all"/>
 </node>
 <node CREATED="1417721579371" ID="ID_892756380" MODIFIED="1417721584664" TEXT="git merge"/>
+<node CREATED="1428236489358" ID="ID_1711445556" MODIFIED="1428236543903">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git <b>push </b>
+    </p>
+    <p>
+      <i><font color="#3296fa">update remote refs along </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">with associated objects</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1417388502895" FOLDED="true" ID="ID_1229923978" MODIFIED="1419802168061" TEXT="git reset">
 <node CREATED="1417730575293" ID="ID_1544742535" MODIFIED="1417730579290" TEXT="--hard"/>
 <node CREATED="1417730579596" ID="ID_749470381" MODIFIED="1417730581881" TEXT="--all"/>
@@ -1971,8 +1990,7 @@
       <b>git remote set-url origin</b>&#160;git@github.com:&lt;Username&gt;/&lt;Project&gt;.git
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428194356495" ID="ID_1609746641" MODIFIED="1428194360976" TEXT="options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428194370130" ID="ID_1206631312" MODIFIED="1428194371872" TEXT="add"/>
