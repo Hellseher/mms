@@ -1775,7 +1775,26 @@
 <node CREATED="1417391953434" ID="ID_627809715" MODIFIED="1417391955367" TEXT="-p"/>
 <node CREATED="1417391955642" ID="ID_1278539732" MODIFIED="1417391956615" TEXT="-t"/>
 </node>
-<node CREATED="1417383037458" ID="ID_1373221328" MODIFIED="1428262954067">
+<node CREATED="1428263787683" ID="ID_1972453631" MODIFIED="1428263833326">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git <b>fetch</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">download objects and refs </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">from another repository</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1417383037458" FOLDED="true" ID="ID_1373221328" MODIFIED="1428264903100">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1994,8 +2013,63 @@
 </node>
 <node CREATED="1417391045736" ID="ID_77066734" MODIFIED="1417391047653" TEXT="--all"/>
 </node>
-<node CREATED="1417721579371" ID="ID_892756380" MODIFIED="1417721584664" TEXT="git merge"/>
-<node CREATED="1428236489358" ID="ID_1711445556" MODIFIED="1428255709977">
+<node CREATED="1417721579371" FOLDED="true" ID="ID_892756380" MODIFIED="1428265336627">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git <b>merge </b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">join two or more development </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">histories together</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>$: git fetch</b>&#160;origin
+    </p>
+    <p>
+      <b>$: git merge</b>&#160;v1.2.3^0
+    </p>
+    <p>
+      <b>$: git merge</b>&#160;<b>--ff-only</b>&#160;v1.2.3
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1428265203630" ID="ID_1994109868" MODIFIED="1428265219675" TEXT="--[no-]rerer-autoupdate"/>
+<node CREATED="1428265224061" ID="ID_984703909" MODIFIED="1428265227515" TEXT="--abort"/>
+<node CREATED="1428264993345" ID="ID_392328077" MODIFIED="1428265000783" TEXT="--commit, --no-commit"/>
+<node CREATED="1428265001233" ID="ID_1188563962" MODIFIED="1428265015438" TEXT="--edit, -e, --no-edit"/>
+<node CREATED="1428265015873" ID="ID_514732845" MODIFIED="1428265018463" TEXT="--ff"/>
+<node CREATED="1428265030705" ID="ID_1964739395" MODIFIED="1428265035454" TEXT="--ff-only"/>
+<node CREATED="1428265035793" ID="ID_1161959080" MODIFIED="1428265054814" TEXT="--log[=&lt;n&gt;], --no-log"/>
+<node CREATED="1428265018784" ID="ID_624909383" MODIFIED="1428265030286" TEXT="--no-ff"/>
+<node CREATED="1428265165246" ID="ID_883857377" MODIFIED="1428265172380" TEXT="--progress, --no-progress"/>
+<node CREATED="1428265075360" ID="ID_903876944" MODIFIED="1428265088445" TEXT="--squash, --no-squash"/>
+<node CREATED="1428265063024" ID="ID_971037496" MODIFIED="1428265074925" TEXT="--stat, -n, --no-stat"/>
+<node CREATED="1428265144047" ID="ID_1834113358" MODIFIED="1428265150844" TEXT="--summary, --no-summary"/>
+<node CREATED="1428265125647" ID="ID_1391775352" MODIFIED="1428265143580" TEXT="--verify-signatures, --no-verify-signatures"/>
+<node CREATED="1428265195294" ID="ID_1833983991" MODIFIED="1428265201995" TEXT="-m &lt;msg&gt;"/>
+<node CREATED="1428265151247" ID="ID_909098168" MODIFIED="1428265160012" TEXT="-q, --quiet"/>
+<node CREATED="1428265089088" ID="ID_1050596024" MODIFIED="1428265101741" TEXT="-s &lt;strategy&gt;"/>
+<node CREATED="1428265173038" ID="ID_509840359" MODIFIED="1428265192444" TEXT="-S[&lt;keyid&gt;], --gpg-sign[=&lt;keyid&gt;]"/>
+<node CREATED="1428265160366" ID="ID_1635248666" MODIFIED="1428265164764" TEXT="-v, --verbose"/>
+<node CREATED="1428265102255" ID="ID_754368747" MODIFIED="1428265125132" TEXT="-X &lt;option&gt;, --strategy-option=&lt;option&gt;"/>
+<node CREATED="1428265232989" ID="ID_20131022" MODIFIED="1428265238715" TEXT="&lt;commit&gt;..."/>
+</node>
+<node CREATED="1428236489358" ID="ID_1711445556" MODIFIED="1428265306893">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2019,7 +2093,7 @@
   </head>
   <body>
     <p>
-      <b>$: git push origin master</b>
+      <b>$: git push </b>origin master
     </p>
   </body>
 </html>
@@ -2031,7 +2105,7 @@
 </node>
 <node CREATED="1417730126628" ID="ID_482397972" MODIFIED="1417730129985" TEXT="git revert"/>
 <node CREATED="1417381484810" ID="ID_273883034" MODIFIED="1417381487192" TEXT="git status"/>
-<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1428259058776">
+<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1428265310910">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2051,7 +2125,7 @@
       <i><font color="#3296fa">Push to github without password using ssh-key</font></i>
     </p>
     <p>
-      <b>git remote set-url origin</b>&#160;git@github.com:&lt;Username&gt;/&lt;Project&gt;.git
+      <b>git remote set-url </b>origin&#160;git@github.com:&lt;Username&gt;/&lt;Project&gt;.git
     </p>
   </body>
 </html>
