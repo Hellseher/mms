@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1426030070974" TEXT="OS">
+<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1427066260225" TEXT="OS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -154,10 +154,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" FOLDED="true" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1426029571824" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1427068184692" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -491,7 +490,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1426029570800" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1427069184533" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -504,7 +503,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397939769863" FOLDED="true" ID="ID_321065827" MODIFIED="1426029527243" STYLE="fork">
+<node CREATED="1397939769863" FOLDED="true" ID="ID_321065827" MODIFIED="1427068805767" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -514,16 +513,16 @@
       <b>BSD</b>
     </p>
     <p>
-      1977 - 1995 <font color="#fa0000">US</font>
+      <font size="2">1977 - 1995 </font><font color="#fa0000" size="2">US</font>
     </p>
     <p>
-      <b>B</b>arkeley <b>S</b>oftware <b>D</b>istribution
+      <b><font size="2">B</font></b><font size="2">arkeley <b>S</b>oftware <b>D</b>istribution </font>
     </p>
     <p>
-      <font color="#3296fa"><i>Bill Joy </i></font>
+      <font color="#3296fa" size="2"><i>Bill Joy </i></font>
     </p>
     <p>
-      [ <font color="#3296fa">CSRG, UC Berkeley </font>]
+      <font size="2">[ </font><font color="#3296fa" size="2">CSRG, UC Berkeley </font><font size="2">]</font>
     </p>
   </body>
 </html></richcontent>
@@ -592,7 +591,7 @@
 <node CREATED="1411251738350" ID="ID_399799707" MODIFIED="1414193635055" TEXT="About BSD">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1404056851003" ID="ID_1396446167" MODIFIED="1423592075111">
+<node COLOR="#329632" CREATED="1404056851003" ID="ID_1396446167" MODIFIED="1427068708985">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -693,9 +692,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1412623355229" ID="ID_753604911" MODIFIED="1423592075126" TEXT="4.4BSD-Liet derived">
+<node CREATED="1412623355229" FOLDED="true" ID="ID_753604911" MODIFIED="1427068803071" TEXT="4.4 BSD-Liet derived">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397938103330" FOLDED="true" ID="ID_585629590" LINK="https://www.netbsd.org/" MODIFIED="1422823009673" STYLE="fork">
+<node CREATED="1397938103330" ID="ID_585629590" LINK="https://www.netbsd.org/" MODIFIED="1427067702163" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -799,7 +798,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1402006831078" FOLDED="true" ID="ID_963854001" MODIFIED="1422823009673" STYLE="fork">
+<node COLOR="#329632" CREATED="1402006831078" ID="ID_963854001" MODIFIED="1427067770338" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -993,7 +992,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397938941484" ID="ID_507558849" LINK="https://www.freebsd.org/" MODIFIED="1423592075138" STYLE="fork">
+<node CREATED="1397938941484" ID="ID_507558849" LINK="https://www.freebsd.org/" MODIFIED="1427067694995" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1185,7 +1184,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1399324971139" FOLDED="true" ID="ID_469737457" MODIFIED="1426029523990">
+<node COLOR="#329632" CREATED="1399324971139" FOLDED="true" ID="ID_469737457" MODIFIED="1427068793217">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1199,7 +1198,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414627701153" ID="ID_1910323275" LINK="http://archbsd.net/" MODIFIED="1414627710471" TEXT="archBSD"/>
-<node CREATED="1398565200386" FOLDED="true" ID="ID_1049258162" LINK="https://www.dragonflybsd.org/" MODIFIED="1422823009679" STYLE="fork">
+<node CREATED="1398565200386" ID="ID_1049258162" LINK="https://www.dragonflybsd.org/" MODIFIED="1427067779969" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1216,7 +1215,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1412624023216" FOLDED="true" ID="ID_1659978168" MODIFIED="1422823009678" TEXT="About DragonFly BSD">
+<node CREATED="1412624023216" FOLDED="true" ID="ID_1659978168" MODIFIED="1427068791048" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1388,7 +1387,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1411247947628" FOLDED="true" ID="ID_1069546930" LINK="http://www.trustedbsd.org/" MODIFIED="1422823009680">
+<node CREATED="1411247947628" FOLDED="true" ID="ID_1069546930" LINK="http://www.trustedbsd.org/" MODIFIED="1426722307702">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1405,7 +1404,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411248148872" ID="ID_458957299" MODIFIED="1411248168914" TEXT="About TrustedBSD">
+<node CREATED="1411248148872" ID="ID_458957299" MODIFIED="1426709506377" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1420,7 +1419,7 @@
 </node>
 </node>
 <node COLOR="#fa0000" CREATED="1409334721593" ID="ID_1375726520" MODIFIED="1409683834720" TEXT="~ discontinued"/>
-<node COLOR="#006699" CREATED="1410824076457" ID="ID_1991498005" MODIFIED="1423592075179" STYLE="fork" TEXT="~minor">
+<node COLOR="#006699" CREATED="1410824076457" ID="ID_1991498005" MODIFIED="1427068756363" STYLE="fork" TEXT="~minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1403351566561" ID="ID_1210106817" LINK="https://www.pfsense.org/" MODIFIED="1403351578853" TEXT="pfSense"/>
 <node CREATED="1403351545505" FOLDED="true" ID="ID_974140555" LINK="http://m0n0.ch/wall/" MODIFIED="1422823009682">
@@ -1538,7 +1537,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1403216456094" ID="ID_277731352" LINK="http://www.ghostbsd.org/" MODIFIED="1403216471410" TEXT="GhostBSD"/>
-<node CREATED="1403198913227" FOLDED="true" ID="ID_1144776876" LINK="http://www.midnightbsd.org/" MODIFIED="1422823009682">
+<node CREATED="1403198913227" FOLDED="true" ID="ID_1144776876" LINK="http://www.midnightbsd.org/" MODIFIED="1426722307702">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1552,7 +1551,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415147141212" ID="ID_365171988" MODIFIED="1415147159054" TEXT="About MidnightBSD">
+<node CREATED="1415147141212" ID="ID_365171988" MODIFIED="1426711576328" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1579,7 +1578,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1408397580099" ID="ID_948657681" LINK="http://www.freenas.org/" MODIFIED="1423592075184">
+<node CREATED="1408397580099" FOLDED="true" ID="ID_948657681" LINK="http://www.freenas.org/" MODIFIED="1426708285300">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1778,7 +1777,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1422823038178" STYLE="fork">
+<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1427068846940" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1880,7 +1879,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936504333" FOLDED="true" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1426029544003" STYLE="fork">
+<node CREATED="1397936504333" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1427069597724" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1898,7 +1897,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397937159400" FOLDED="true" ID="ID_667175312" LINK="https://www.archlinux.org/" MODIFIED="1422823009713" STYLE="fork">
+<node CREATED="1397937159400" FOLDED="true" ID="ID_667175312" LINK="https://www.archlinux.org/" MODIFIED="1427073882419" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1934,7 +1933,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1401661664320" FOLDED="true" ID="ID_1128288296" MODIFIED="1422823009692" TEXT="About Arch Linux">
+<node CREATED="1401661664320" FOLDED="true" ID="ID_1128288296" MODIFIED="1427069624429" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2075,7 +2074,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399117728944" FOLDED="true" ID="ID_1490065541" MODIFIED="1422823009713" STYLE="fork">
+<node COLOR="#329632" CREATED="1399117728944" FOLDED="true" ID="ID_1490065541" MODIFIED="1427073879452" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2088,7 +2087,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1210929182" LINK="http://antergos.com/" MODIFIED="1422823009693" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_1210929182" LINK="http://antergos.com/" MODIFIED="1427069878071" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2169,17 +2168,17 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399118093660" FOLDED="true" ID="ID_1603248348" LINK="http://wiki.archbang.org/index.php?title=Main_Page" MODIFIED="1422823009696" STYLE="fork">
+<node CREATED="1399118093660" FOLDED="true" ID="ID_1603248348" LINK="http://wiki.archbang.org/index.php?title=Main_Page" MODIFIED="1427069880359" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>ArchBang </b><img src="icons/archbang_lunux.png"/>
+      <b>ArchBang </b><img src="icons/archbang_linux.png" />
     </p>
     <p>
-      2012&#xa0;<font color="#fa0000">CA </font>
+      2012&#160;<font color="#fa0000">CA </font>
     </p>
     <p>
       <font color="#3296fa"><i>Stan McLaren</i></font>
@@ -2275,7 +2274,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_593403534" LINK="http://chakraos.org/home/" MODIFIED="1422823009698" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_593403534" LINK="http://chakraos.org/home/" MODIFIED="1427069882702" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2717,16 +2716,16 @@
 <node CREATED="1403353107878" ID="ID_1625481155" LINK="http://live.linux-gamers.net/" MODIFIED="1403353115787" TEXT="linuX-gamers Live DVD"/>
 <node CREATED="1403353012982" ID="ID_131655028" LINK="http://moonsoft.org/" MODIFIED="1403353032233" STYLE="fork" TEXT="Liquid Lemur Linux"/>
 </node>
-<node COLOR="#006699" CREATED="1403352469483" FOLDED="true" ID="ID_78201545" MODIFIED="1422823009713" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1403352469483" ID="ID_78201545" MODIFIED="1427073804470" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1403042796976" FOLDED="true" ID="ID_1874496958" LINK="http://archlinuxarm.org/" MODIFIED="1422823009704" STYLE="fork">
+<node CREATED="1403042796976" ID="ID_1874496958" LINK="http://archlinuxarm.org/" MODIFIED="1427073837216" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Arch Linux ARM </b>
+      <b>Arch Linux ARM </b><img src="icons/arch_linux.png" />
     </p>
     <p>
       2009
@@ -3083,7 +3082,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1403042804192" FOLDED="true" ID="ID_445984285" LINK="https://parabolagnulinux.org/" MODIFIED="1422823009710" STYLE="fork">
+<node CREATED="1403042804192" FOLDED="true" ID="ID_445984285" LINK="https://parabolagnulinux.org/" MODIFIED="1427070093115" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3118,7 +3117,7 @@
 <node CREATED="1402952076180" ID="ID_812964175" LINK="http://www.gnu.org/distros/free-distros.html" MODIFIED="1402952116652" TEXT="Free GNU/Linux distributions"/>
 </node>
 </node>
-<node CREATED="1403219825062" FOLDED="true" ID="ID_8321694" LINK="http://www.poliarch.org/wiki/index.php?title=Pagina_principale" MODIFIED="1422823009711" STYLE="fork">
+<node CREATED="1403219825062" FOLDED="true" ID="ID_8321694" LINK="http://www.poliarch.org/wiki/index.php?title=Pagina_principale" MODIFIED="1427070094899" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3358,7 +3357,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1408917208531" FOLDED="true" ID="ID_1532926852" LINK="https://arkos.io/" MODIFIED="1422823009712">
+<node CREATED="1408917208531" ID="ID_1532926852" LINK="https://arkos.io/" MODIFIED="1427073692802">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3443,14 +3442,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1426029541979" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1427072592031" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Debian</b><img src="icons/debian.png" />
+      <b>Debian </b><img src="icons/debian.png" />
     </p>
     <p>
       1993 <font color="#fa0000">Glob</font>
@@ -3885,7 +3884,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398707032229" FOLDED="true" ID="ID_630368414" MODIFIED="1426029539146" STYLE="fork">
+<node COLOR="#329632" CREATED="1398707032229" ID="ID_630368414" MODIFIED="1427072538928" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3898,23 +3897,23 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399488917472" FOLDED="true" ID="ID_852843767" LINK="http://bosslinux.in/" MODIFIED="1422823009719" STYLE="fork">
+<node CREATED="1399488917472" FOLDED="true" ID="ID_852843767" LINK="http://bosslinux.in/" MODIFIED="1427070730949" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>BOSS</b><b>GNU/Linux </b><img src="icons/boss.png" />
+      <b>BOSS GNU/Linux </b><img src="icons/boss.png" />
     </p>
     <p>
-      2007 <font color="#fa0000">ID</font>
+      <font size="2">2007 </font><font color="#fa0000" size="2">ID</font>
     </p>
     <p>
-      Bharat Operating System Solutions
+      <font size="2">Bharat Operating System Solutions </font>
     </p>
     <p>
-      [<font color="#3296fa">C-DAC</font>]
+      <font size="2">[</font><font color="#3296fa" size="2">C-DAC</font><font size="2">]</font>
     </p>
   </body>
 </html></richcontent>
@@ -4995,7 +4994,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943315007" FOLDED="true" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1426029537419" STYLE="fork">
+<node CREATED="1397943315007" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1427070750372" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5568,7 +5567,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398706233853" FOLDED="true" ID="ID_410876810" MODIFIED="1422823009774" STYLE="fork">
+<node COLOR="#329632" CREATED="1398706233853" FOLDED="true" ID="ID_410876810" MODIFIED="1427071975729" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5726,7 +5725,7 @@
 <node CREATED="1402952076180" ID="ID_1009288868" LINK="http://www.gnu.org/distros/free-distros.html" MODIFIED="1402952116652" TEXT="Free GNU/Linux distributions"/>
 </node>
 </node>
-<node CREATED="1399322732048" FOLDED="true" ID="ID_461969037" LINK="http://elementaryos.org/" MODIFIED="1422823009741" STYLE="fork">
+<node CREATED="1399322732048" FOLDED="true" ID="ID_461969037" LINK="http://elementaryos.org/" MODIFIED="1427065652137" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5765,7 +5764,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402958490834" FOLDED="true" ID="ID_1361429281" MODIFIED="1422823009741" TEXT="About Elementary OS">
+<node CREATED="1402958490834" FOLDED="true" ID="ID_1361429281" MODIFIED="1427065649144" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5878,7 +5877,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1408394661030" FOLDED="true" ID="ID_1498295007" LINK="http://www.guadalinex.org/" MODIFIED="1422823009741" STYLE="fork">
+<node CREATED="1408394661030" FOLDED="true" ID="ID_1498295007" LINK="http://www.guadalinex.org/" MODIFIED="1427065911414" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5897,14 +5896,14 @@
 </html></richcontent>
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1410996632774" ID="ID_1871983522" MODIFIED="1410997458153">
+<node CREATED="1410996632774" ID="ID_1871983522" MODIFIED="1427065909127">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      About Guadalinex <img src="icons/open_source.png" />
+      info <img src="icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -5921,7 +5920,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397937117305" FOLDED="true" ID="ID_1036293217" LINK="http://linuxmint.com/" MODIFIED="1422823009744" STYLE="fork">
+<node CREATED="1397937117305" FOLDED="true" ID="ID_1036293217" LINK="http://linuxmint.com/" MODIFIED="1427071954560" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5979,7 +5978,7 @@
 <node CREATED="1399825393365" ID="ID_714441269" MODIFIED="1399825396004" TEXT="15 Olivia"/>
 <node CREATED="1399825396757" ID="ID_926798469" MODIFIED="1399825402116" TEXT="16 Petra"/>
 </node>
-<node CREATED="1403350583306" FOLDED="true" ID="ID_1254341468" MODIFIED="1422823009744" TEXT="About Linux Mint">
+<node CREATED="1403350583306" FOLDED="true" ID="ID_1254341468" MODIFIED="1427065969148" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6049,7 +6048,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407968194954" ID="ID_1110716896" MODIFIED="1407968197387" TEXT="DEB"/>
 </node>
-<node CREATED="1399325339808" FOLDED="true" ID="ID_130189976" MODIFIED="1422823009743">
+<node CREATED="1399325339808" FOLDED="true" ID="ID_130189976" MODIFIED="1427065967810">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6082,7 +6081,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1403199438566" FOLDED="true" ID="ID_845861232" MODIFIED="1422823009744" STYLE="fork">
+<node COLOR="#329632" CREATED="1403199438566" ID="ID_845861232" MODIFIED="1427071952010" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6114,14 +6113,14 @@
 <node CREATED="1416959820500" ID="ID_1867524789" LINK="http://liquidlemurlinux.org/" MODIFIED="1416959833641" TEXT="Liquid Lemur Linux"/>
 </node>
 </node>
-<node CREATED="1397943446078" FOLDED="true" ID="ID_1288601626" LINK="http://trisquel.info/" MODIFIED="1422823009745" STYLE="fork">
+<node CREATED="1397943446078" FOLDED="true" ID="ID_1288601626" LINK="http://trisquel.info/" MODIFIED="1427071886673" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Trisquel</b><img src="icons/trisquel.png" />
+      <b>Trisquel </b><img src="icons/trisquel.png" />
     </p>
     <p>
       2004 <font color="#fa0000">ES</font>
@@ -6153,7 +6152,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402699058733" FOLDED="true" ID="ID_820665255" MODIFIED="1422823009745" TEXT="About Trisquel">
+<node CREATED="1402699058733" FOLDED="true" ID="ID_820665255" MODIFIED="1427065920466" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6172,13 +6171,13 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402952076180" ID="ID_1624284034" LINK="http://www.gnu.org/distros/free-distros.html" MODIFIED="1402952116652" TEXT="Free GNU/Linux distributions"/>
-<node CREATED="1399325783949" FOLDED="true" ID="ID_25541276" MODIFIED="1422823009745" TEXT="DE/WM">
+<node CREATED="1399325783949" FOLDED="true" ID="ID_25541276" MODIFIED="1427065918146" TEXT="DE/WM">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399325802461" ID="ID_39444701" MODIFIED="1399325804892" TEXT="GNOME"/>
 <node CREATED="1399325805373" ID="ID_1598802713" MODIFIED="1399325807180" TEXT="LXDE"/>
 <node CREATED="1399325807629" ID="ID_889697048" MODIFIED="1399325809964" TEXT="Openbox"/>
 </node>
-<node CREATED="1399325777037" FOLDED="true" ID="ID_1524694418" MODIFIED="1422823009745" TEXT="architecture">
+<node CREATED="1399325777037" FOLDED="true" ID="ID_1524694418" MODIFIED="1427065919467" TEXT="architecture">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399325790749" ID="ID_186661238" MODIFIED="1399325795948" TEXT="i686"/>
 <node CREATED="1399325796333" ID="ID_1822184873" MODIFIED="1399325799660" TEXT="x86_64"/>
@@ -6392,7 +6391,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1403553625426" FOLDED="true" ID="ID_1224691312" MODIFIED="1422823009763" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1403553625426" FOLDED="true" ID="ID_1224691312" MODIFIED="1427071883922" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1410825539138" FOLDED="true" ID="ID_1651318148" LINK="http://www.apodio.org/" MODIFIED="1422823009747">
 <richcontent TYPE="NODE"><html>
@@ -6473,14 +6472,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411257207782" FOLDED="true" ID="ID_617345616" LINK="http://baltix.akl.lt/" MODIFIED="1422823009748">
+<node CREATED="1411257207782" FOLDED="true" ID="ID_617345616" LINK="http://baltix.akl.lt/" MODIFIED="1427070834003">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Baltix GNU/Linux</b><img src="icons/baltix.png" />
+      <b>Baltix GNU/Linux </b><img src="icons/baltix.png" />
     </p>
     <p>
       2008 <font color="#fa0000">LT</font>
@@ -6548,14 +6547,14 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1411257950410" FOLDED="true" ID="ID_1908205162" LINK="http://www.blankonlinux.or.id/" MODIFIED="1422823009748">
+<node CREATED="1411257950410" FOLDED="true" ID="ID_1908205162" LINK="http://www.blankonlinux.or.id/" MODIFIED="1427070868643">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>BlankON</b><img src="icons/blankon.png" />
+      <b>BlankON </b><img src="icons/blankon.png" />
     </p>
     <p>
       2008 <font color="#fa0000">ID</font>
@@ -7767,7 +7766,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399323817209" FOLDED="true" ID="ID_1959841791" LINK="http://www.zorin-os.com/" MODIFIED="1422823009762" STYLE="fork">
+<node CREATED="1399323817209" FOLDED="true" ID="ID_1959841791" LINK="http://www.zorin-os.com/" MODIFIED="1426722307705" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7782,12 +7781,12 @@
   </body>
 </html></richcontent>
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1401835792993" FOLDED="true" ID="ID_1940316199" MODIFIED="1422823009762" TEXT="architecture">
+<node CREATED="1401835792993" FOLDED="true" ID="ID_1940316199" MODIFIED="1426712199907" TEXT="architecture">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401832919955" ID="ID_188750389" MODIFIED="1401832924034" TEXT="x86_64"/>
 <node CREATED="1401835779249" ID="ID_346563537" MODIFIED="1401835782224" TEXT="i386"/>
 </node>
-<node CREATED="1401835736065" ID="ID_1361875571" MODIFIED="1401835768488" TEXT="About Zorin OS">
+<node CREATED="1401835736065" ID="ID_1361875571" MODIFIED="1426711807332" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -7890,7 +7889,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1412023650628" FOLDED="true" ID="ID_1366572384" MODIFIED="1422823009774" STYLE="fork">
+<node CREATED="1412023650628" FOLDED="true" ID="ID_1366572384" MODIFIED="1427066084338" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9124,7 +9123,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1403217143689" FOLDED="true" ID="ID_201955821" MODIFIED="1426029536250" STYLE="fork">
+<node COLOR="#329632" CREATED="1403217143689" FOLDED="true" ID="ID_201955821" MODIFIED="1427071337265" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9138,7 +9137,7 @@
 </html></richcontent>
 <edge COLOR="#329632" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1407366275951" ID="ID_1610941924" LINK="http://www.caelinux.com/CMS/" MODIFIED="1422825782050" STYLE="fork">
+<node CREATED="1407366275951" FOLDED="true" ID="ID_1610941924" LINK="http://www.caelinux.com/CMS/" MODIFIED="1426708285302" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9494,7 +9493,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1410735291002" FOLDED="true" ID="ID_72902743" MODIFIED="1422823009783" STYLE="fork" TEXT="~minor">
+<node COLOR="#006699" CREATED="1410735291002" FOLDED="true" ID="ID_72902743" MODIFIED="1427071333954" STYLE="fork" TEXT="~minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411256581156" FOLDED="true" ID="ID_23759117" MODIFIED="1422823009778">
 <richcontent TYPE="NODE"><html>
@@ -9565,7 +9564,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1410997612201" FOLDED="true" ID="ID_581333330" LINK="http://external.educa2.madrid.org/web/max" MODIFIED="1422823009781">
+<node CREATED="1410997612201" ID="ID_581333330" LINK="http://external.educa2.madrid.org/web/max" MODIFIED="1427071147175">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10057,7 +10056,7 @@
 <node CREATED="1399326845207" ID="ID_634141393" MODIFIED="1415146951069" TEXT="GNOME"/>
 </node>
 </node>
-<node CREATED="1403818878177" FOLDED="true" ID="ID_296717852" MODIFIED="1422823009781">
+<node CREATED="1403818878177" ID="ID_296717852" MODIFIED="1427071147176">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10307,7 +10306,7 @@
 </node>
 </node>
 <node CREATED="1416959756725" ID="ID_237133107" LINK="http://www.peachosi.com/" MODIFIED="1416959768507" TEXT="peach OSI"/>
-<node CREATED="1416960038496" FOLDED="true" ID="ID_789459893" LINK="http://www.centrych.org/" MODIFIED="1422823009783" TEXT="Centrych OS">
+<node CREATED="1416960038496" FOLDED="true" ID="ID_789459893" LINK="http://www.centrych.org/" MODIFIED="1427070614116" TEXT="Centrych OS">
 <node CREATED="1416960058736" ID="ID_1523831284" MODIFIED="1416960071484" TEXT="About Centrych OS">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -10325,7 +10324,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1747196456" MODIFIED="1422823009790" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1747196456" MODIFIED="1427070645795" TEXT="~ discontinued">
 <node CREATED="1411253632979" ID="ID_1433687539" MODIFIED="1411253789628">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11091,7 +11090,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1399848874492" FOLDED="true" ID="ID_728948550" MODIFIED="1422823009802" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1399848874492" FOLDED="true" ID="ID_728948550" MODIFIED="1427072589816" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1407877568313" FOLDED="true" ID="ID_253020130" LINK="http://www.2x.com/" MODIFIED="1422823009790">
 <richcontent TYPE="NODE"><html>
@@ -12191,7 +12190,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1403133706949" FOLDED="true" ID="ID_1749153583" MODIFIED="1422823009817" STYLE="fork">
+<node COLOR="#329632" CREATED="1403133706949" FOLDED="true" ID="ID_1749153583" MODIFIED="1427066183016" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12650,7 +12649,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399808438207" FOLDED="true" ID="ID_480163065" LINK="https://tails.boum.org/" MODIFIED="1422823009808" STYLE="fork">
+<node CREATED="1399808438207" FOLDED="true" ID="ID_480163065" LINK="https://tails.boum.org/" MODIFIED="1427065382651" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12799,7 +12798,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1401743782399" ID="ID_1744149081" MODIFIED="1401743888558" TEXT="About Tails">
+<node CREATED="1401743782399" ID="ID_1744149081" MODIFIED="1427065365150" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -13849,7 +13848,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1403199322103" FOLDED="true" ID="ID_366038262" MODIFIED="1422823009823" STYLE="fork">
+<node COLOR="#329632" CREATED="1403199322103" FOLDED="true" ID="ID_366038262" MODIFIED="1426708841353" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13862,7 +13861,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399808438207" FOLDED="true" ID="ID_1657534987" LINK="http://www.finnix.org/" MODIFIED="1422823009817" STYLE="fork">
+<node CREATED="1399808438207" FOLDED="true" ID="ID_1657534987" LINK="http://www.finnix.org/" MODIFIED="1426708285303" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13879,7 +13878,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1399808517916" FOLDED="true" ID="ID_1760049483" MODIFIED="1422823009817" TEXT="architecture">
+<node CREATED="1399808517916" FOLDED="true" ID="ID_1760049483" MODIFIED="1426708285302" TEXT="architecture">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399811311848" ID="ID_135373399" MODIFIED="1399811316008" TEXT="i386"/>
 <node CREATED="1399811316440" ID="ID_1324229691" MODIFIED="1399811322695" TEXT="PowerPC"/>
@@ -13904,7 +13903,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397943304911" FOLDED="true" ID="ID_1361565873" LINK="http://www.kali.org/" MODIFIED="1422823009819" STYLE="fork">
+<node CREATED="1397943304911" FOLDED="true" ID="ID_1361565873" LINK="http://www.kali.org/" MODIFIED="1426708841352" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13942,7 +13941,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402954324162" FOLDED="true" ID="ID_1657268848" MODIFIED="1422823009818" TEXT="About Kali Linux">
+<node CREATED="1402954324162" FOLDED="true" ID="ID_1657268848" MODIFIED="1426708792644" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -15225,7 +15224,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1407707608030" FOLDED="true" ID="ID_69113729" LINK="http://frugalware.org/" MODIFIED="1422823009830">
+<node CREATED="1407707608030" FOLDED="true" ID="ID_69113729" LINK="http://frugalware.org/" MODIFIED="1427073889259">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15262,7 +15261,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407708269306" FOLDED="true" ID="ID_1901457945" MODIFIED="1422823009830">
+<node CREATED="1407708269306" ID="ID_1901457945" MODIFIED="1427066131173">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15304,7 +15303,7 @@
 <node CREATED="1407708239210" ID="ID_619240416" MODIFIED="1407708242617" TEXT="ReiserFS"/>
 <node CREATED="1407708243034" ID="ID_1068893689" MODIFIED="1407708244377" TEXT="XFS"/>
 </node>
-<node CREATED="1407708145019" FOLDED="true" ID="ID_295167155" MODIFIED="1422823009829">
+<node CREATED="1407708145019" ID="ID_295167155" MODIFIED="1427066122523">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15410,7 +15409,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397944658182" FOLDED="true" ID="ID_743365499" LINK="https://www.gentoo.org/" MODIFIED="1422823009841" STYLE="fork">
+<node CREATED="1397944658182" FOLDED="true" ID="ID_743365499" LINK="https://www.gentoo.org/" MODIFIED="1427072249492" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15605,7 +15604,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398718911458" FOLDED="true" ID="ID_1331480623" MODIFIED="1422823009840" STYLE="fork">
+<node COLOR="#329632" CREATED="1398718911458" FOLDED="true" ID="ID_1331480623" MODIFIED="1427072248363" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15754,53 +15753,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1398719129488" FOLDED="true" ID="ID_96970726" LINK="http://proyecto.ututo.net/cmsd/" MODIFIED="1422823009833" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Ututo </b><img src="icons/ututo.png"/>
-    </p>
-    <p>
-      2000 <font color="#fa0000">AR</font>
-    </p>
-    <p>
-      <i><font color="#3296fa">Diego Saravia </font></i>
-    </p>
-    <p>
-      [<i><font color="#3296fa">National University of Salta</font></i>]
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#969696"/>
-<node CREATED="1403553823041" FOLDED="true" ID="ID_188227652" MODIFIED="1422823009833">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      About Ututo <img src="icons/open_source.png"/>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      UTUTO GNU/Linux is a Gentoo-based distribution developed by at the Universidad Nacional de Salta in Argentina. Named after a fidgety local lizard that pokes its nose into every hole, UTUTO is a high-performance desktop system designed to be used by home and office users, developers, organisations and government officials.&#xa0;
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402952076180" ID="ID_117805030" LINK="http://www.gnu.org/distros/free-distros.html" MODIFIED="1402952116652" TEXT="Free GNU/Linux distributions"/>
-</node>
-</node>
-<node COLOR="#006699" CREATED="1402960608193" FOLDED="true" ID="ID_194046865" MODIFIED="1422823009840" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1402960608193" FOLDED="true" ID="ID_194046865" MODIFIED="1427072247516" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1401834504009" ID="ID_1172291604" LINK="http://www.anikos.org/?lang=en" MODIFIED="1402339293180" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -15829,7 +15782,7 @@
 </html></richcontent>
 <edge COLOR="#969696"/>
 </node>
-<node CREATED="1398718963217" FOLDED="true" ID="ID_69183543" LINK="http://www.calculate-linux.ru/en" MODIFIED="1422823009834" STYLE="fork">
+<node CREATED="1398718963217" FOLDED="true" ID="ID_69183543" LINK="http://www.calculate-linux.ru/en" MODIFIED="1427072166917" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16124,7 +16077,7 @@
 <node CREATED="1401834412681" ID="ID_313014176" MODIFIED="1402339293185" STYLE="fork" TEXT="Navyn OS">
 <edge COLOR="#969696"/>
 </node>
-<node CREATED="1399808438207" FOLDED="true" ID="ID_922624130" LINK="http://www.pardus.org.tr/" MODIFIED="1422823009836" STYLE="fork">
+<node CREATED="1399808438207" FOLDED="true" ID="ID_922624130" LINK="http://www.pardus.org.tr/" MODIFIED="1427072245620" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16542,7 +16495,7 @@
 </html></richcontent>
 <edge COLOR="#969696"/>
 </node>
-<node CREATED="1411243667233" FOLDED="true" ID="ID_1303743707" LINK="https://piratelinux.org/?page_id=13" MODIFIED="1422823009839">
+<node CREATED="1411243667233" ID="ID_1303743707" LINK="https://piratelinux.org/?page_id=13" MODIFIED="1427072105200">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16636,7 +16589,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1111260697" MODIFIED="1422823009840" STYLE="fork" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1111260697" MODIFIED="1427072239412" STYLE="fork" TEXT="~ discontinued">
 <edge COLOR="#7d7d7d" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1412969512888" ID="ID_1054890114" MODIFIED="1412969526208" TEXT="Navyn OS">
 <richcontent TYPE="NOTE"><html>
@@ -16715,17 +16668,63 @@
 <node CREATED="1401834433065" ID="ID_155263401" MODIFIED="1402339293186" STYLE="fork" TEXT="Karoraa">
 <edge COLOR="#969696"/>
 </node>
-</node>
-</node>
-</node>
-<node CREATED="1409685038456" FOLDED="true" ID="ID_1614089269" LINK="http://www.linuxfromscratch.org/" MODIFIED="1422823009841">
+<node CREATED="1398719129488" FOLDED="true" ID="ID_96970726" LINK="http://proyecto.ututo.net/cmsd/" MODIFIED="1422823009833" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Linux From Scratch</b><img src="icons/lfs.png" />
+      <b>Ututo </b><img src="icons/ututo.png"/>
+    </p>
+    <p>
+      2000 <font color="#fa0000">AR</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Diego Saravia </font></i>
+    </p>
+    <p>
+      [<i><font color="#3296fa">National University of Salta</font></i>]
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#969696"/>
+<node CREATED="1403553823041" FOLDED="true" ID="ID_188227652" MODIFIED="1422823009833">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      About Ututo <img src="icons/open_source.png"/>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      UTUTO GNU/Linux is a Gentoo-based distribution developed by at the Universidad Nacional de Salta in Argentina. Named after a fidgety local lizard that pokes its nose into every hole, UTUTO is a high-performance desktop system designed to be used by home and office users, developers, organisations and government officials.&#xa0;
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1402952076180" ID="ID_117805030" LINK="http://www.gnu.org/distros/free-distros.html" MODIFIED="1402952116652" TEXT="Free GNU/Linux distributions"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1409685038456" FOLDED="true" ID="ID_1614089269" LINK="http://www.linuxfromscratch.org/" MODIFIED="1426712735669">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Linux From Scratch </b><img src="icons/lfs.png" />
     </p>
     <p>
       2000 <font color="#fa0000">CA</font>
@@ -16823,7 +16822,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399323299549" FOLDED="true" ID="ID_1013675962" LINK="http://www.puppylinux.com/" MODIFIED="1422823009844">
+<node CREATED="1399323299549" FOLDED="true" ID="ID_1013675962" LINK="http://www.puppylinux.com/" MODIFIED="1427072266054">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16856,14 +16855,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1402688145754" FOLDED="true" ID="ID_967208136" MODIFIED="1422823009842" TEXT="About Puppy Linux">
+<node CREATED="1402688145754" FOLDED="true" ID="ID_967208136" MODIFIED="1427066260242" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.&#xa0;
+      Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.&#160;
     </p>
     <p>
       
@@ -16957,7 +16956,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1402695917972" FOLDED="true" ID="ID_495859604" MODIFIED="1422823009844" STYLE="fork">
+<node COLOR="#329632" CREATED="1402695917972" FOLDED="true" ID="ID_495859604" MODIFIED="1427072265155" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16971,7 +16970,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402695930643" ID="ID_503625265" LINK="http://puppyrus.org/" MODIFIED="1402696788033" STYLE="fork" TEXT="PuppyRus Linux"/>
-<node CREATED="1402696575886" FOLDED="true" ID="ID_1534665966" LINK="http://puppylinux.org/wikka/LegacyOS" MODIFIED="1422823009842" STYLE="fork">
+<node CREATED="1402696575886" ID="ID_1534665966" LINK="http://puppylinux.org/wikka/LegacyOS" MODIFIED="1427066257158" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16988,14 +16987,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1407367809892" ID="ID_865182966" MODIFIED="1407367825213" TEXT="About Legacy OS">
+<node CREATED="1407367809892" ID="ID_865182966" MODIFIED="1427066268735" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Legacy OS (formerly TEENpup Linux) is a distribution based on Puppy Linux. Although the original concept was to create a flavour of Puppy Linux with more applications and a more appealing desktop aimed at teenage users, Legacy OS has now grown to become a general purpose distribution. It comes with a large number of applications, browser plugins and media codecs as standard software. Despite these enhancements Legacy OS is still perfectly suitable for installation on older and low-resource computers, as well as modern hardware.&#xa0;
+      Legacy OS (formerly TEENpup Linux) is a distribution based on Puppy Linux. Although the original concept was to create a flavour of Puppy Linux with more applications and a more appealing desktop aimed at teenage users, Legacy OS has now grown to become a general purpose distribution. It comes with a large number of applications, browser plugins and media codecs as standard software. Despite these enhancements Legacy OS is still perfectly suitable for installation on older and low-resource computers, as well as modern hardware.&#160;
     </p>
   </body>
 </html></richcontent>
@@ -17003,7 +17002,7 @@
 </node>
 </node>
 <node CREATED="1402696586366" ID="ID_453699339" LINK="http://boxen.math.washington.edu/home/emil/doc/html/en/" MODIFIED="1402696788032" STYLE="fork" TEXT="Sage Live CD"/>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1456017341" LINK="http://www.macpup.org/" MODIFIED="1422823009843" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_1456017341" LINK="http://www.macpup.org/" MODIFIED="1427072262979" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17018,37 +17017,6 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399323734602" FOLDED="true" ID="ID_610761374" MODIFIED="1422823009843">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/architecture.png"/>
-      &#xa0;architecture
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399327469795" ID="ID_1529323032" MODIFIED="1399327471265" TEXT="i386"/>
-</node>
-<node CREATED="1399327403395" FOLDED="true" ID="ID_1803917690" MODIFIED="1422823009843">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/de_wm.png"/>
-      &#xa0;DE/WM
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402007282626" ID="ID_1268018005" MODIFIED="1402007288290" TEXT="Enlightenment"/>
-<node CREATED="1402694030288" ID="ID_977925071" MODIFIED="1402694032079" TEXT="JWM"/>
-</node>
 <node CREATED="1398707062277" ID="ID_773647963" MODIFIED="1409092433433">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17066,7 +17034,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402007594337" FOLDED="true" ID="ID_8629552" MODIFIED="1422823009843" TEXT="About Macpup">
+<node CREATED="1402007594337" FOLDED="true" ID="ID_8629552" MODIFIED="1427066250288" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -17082,9 +17050,40 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402955766487" ID="ID_1839500847" MODIFIED="1402955812006" TEXT="run from RAM 164 MB"/>
+<node CREATED="1399327403395" FOLDED="true" ID="ID_1803917690" MODIFIED="1422823009843">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/de_wm.png"/>
+      &#xa0;DE/WM
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1402007282626" ID="ID_1268018005" MODIFIED="1402007288290" TEXT="Enlightenment"/>
+<node CREATED="1402694030288" ID="ID_977925071" MODIFIED="1402694032079" TEXT="JWM"/>
+</node>
+<node CREATED="1399323734602" FOLDED="true" ID="ID_610761374" MODIFIED="1422823009843">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/architecture.png"/>
+      &#xa0;architecture
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399327469795" ID="ID_1529323032" MODIFIED="1399327471265" TEXT="i386"/>
 </node>
 </node>
-<node CREATED="1402959546281" FOLDED="true" ID="ID_1124602527" LINK="http://simplicitylinux.org/" MODIFIED="1422823009843" STYLE="fork">
+</node>
+<node CREATED="1402959546281" FOLDED="true" ID="ID_1124602527" LINK="http://simplicitylinux.org/" MODIFIED="1427072264259" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17099,7 +17098,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1403965845083" ID="ID_689816913" MODIFIED="1403965857165" TEXT="About Simplicity Linux">
+<node CREATED="1403965845083" ID="ID_689816913" MODIFIED="1427066241999" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -17129,7 +17128,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1409082871918" ID="ID_1417693384" LINK="http://lxpup.weebly.com/" MODIFIED="1409092753984" TEXT="LXPup"/>
-<node CREATED="1413498376418" FOLDED="true" ID="ID_631947915" LINK="http://www.lhpup.org/" MODIFIED="1422823009844">
+<node CREATED="1413498376418" FOLDED="true" ID="ID_631947915" LINK="http://www.lhpup.org/" MODIFIED="1427072260899">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17146,7 +17145,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1413498480848" FOLDED="true" ID="ID_966531371" MODIFIED="1422823009843" TEXT="About Lighthouse Pup">
+<node CREATED="1413498480848" ID="ID_966531371" MODIFIED="1427066235248" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -17169,14 +17168,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943651821" FOLDED="true" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1422823009876" STYLE="fork">
+<node CREATED="1397943651821" FOLDED="true" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1427072267668" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Red Hat</b><img src="icons/redhat.png" />
+      <b>Red Hat </b><img src="icons/redhat.png" />
     </p>
     <p>
       1995 <font color="#fa0000">US</font>
@@ -17337,7 +17336,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1422823009876" STYLE="fork">
+<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1427069092499" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17351,156 +17350,23 @@
 </html></richcontent>
 <edge COLOR="#329632" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399318664984" FOLDED="true" ID="ID_1510635863" LINK="http://alinux.tv/" MODIFIED="1422823009847" STYLE="fork">
+<node CREATED="1399324529813" FOLDED="true" ID="ID_1643490877" LINK="http://www.centos.org/" MODIFIED="1427069078378" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>aLinux</b><img src="icons/alinux.png" />
+      <b>CentOS</b><img src="icons/centos.png" />
     </p>
     <p>
-      Peanut Linux
+      <font size="2">2004 </font><font color="#fa0000" size="2">US</font>
     </p>
     <p>
-      2001 <font color="#fa0000">CA</font>
+      <font size="2">Community ENTerprise </font>
     </p>
     <p>
-      <i><font color="#3296fa">Jay Klepacs</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#969696"/>
-<node CREATED="1399327606482" ID="ID_129662027" MODIFIED="1414372588891">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/version_history.png" />
-      <b>Version history</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">Desktop, Live medium</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1414372490782" FOLDED="true" ID="ID_891129737" MODIFIED="1422823009847" TEXT="About aLinux">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      aLinux&#8482; is an advanced Office/Multimedia RPM based GNU/Linux distribution. Installing new programs, applications and updating your system from time-to-time has never been easier using our Synaptic Package Management System. aLinux&#8482; is a Professional Linux Operating System already designed to surpass both Microsoft Windows XP/Vista and Apple Mac OS X. While sporting an even more visually stunning Graphical User Interface then our competitors, we still are able to maintain a high level of sophistication, experienced Linux users, have come to appreciate. We believe Linux hobbyists, new users and advanced users, will find the aLinux&#8482; Operating System an utmost PROFESSIONAL, FAST and EXTREMELY FUN distribution.
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399117745647" FOLDED="true" ID="ID_970868246" MODIFIED="1422823009846">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/architecture.png"/>
-      &#xa0;architecture
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399117764494" ID="ID_1366382324" MODIFIED="1399117769870" TEXT="i686"/>
-</node>
-<node CREATED="1399327599730" FOLDED="true" ID="ID_836349937" MODIFIED="1422823009846">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/de_wm.png"/>
-      &#xa0;DE/WM
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414372624764" ID="ID_389658185" MODIFIED="1414372630313" TEXT="AfterStep"/>
-<node CREATED="1414372631244" ID="ID_1874332552" MODIFIED="1414372634649" TEXT="Fluxbox"/>
-<node CREATED="1414372635148" ID="ID_1175930566" MODIFIED="1414372639433" TEXT="IceWM"/>
-<node CREATED="1399327663778" ID="ID_812036624" MODIFIED="1399327666480" TEXT="KDE"/>
-<node CREATED="1414372650315" ID="ID_494036671" MODIFIED="1414372655001" TEXT="WMaker"/>
-<node CREATED="1399327671104" ID="ID_933759077" MODIFIED="1399327674001" TEXT="Xfce"/>
-</node>
-<node CREATED="1407448457847" FOLDED="true" ID="ID_848676236" MODIFIED="1422823009846">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/fs.png"/>
-      &#xa0;FS
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1407448471287" ID="ID_149184594" MODIFIED="1407448474183" TEXT="ext3"/>
-<node CREATED="1409602950713" ID="ID_320945201" MODIFIED="1414372774855" TEXT="Reiser4FS"/>
-<node CREATED="1409602950713" ID="ID_570787915" MODIFIED="1409602955272" TEXT="ReiserFS"/>
-<node CREATED="1407448477335" ID="ID_1689405000" MODIFIED="1407448478743" TEXT="XFS"/>
-</node>
-<node CREATED="1407708429257" FOLDED="true" ID="ID_1022838078" MODIFIED="1422823009846">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/pm.png"/>
-      &#xa0;PM
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1407708432809" ID="ID_1315658532" MODIFIED="1414372797830" TEXT="RPM"/>
-</node>
-</node>
-<node CREATED="1404234459415" ID="ID_239277465" LINK="http://alinux.tv/linux-downloads.html" MODIFIED="1414372744929">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      download <img src="icons/download.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-<node CREATED="1399324529813" FOLDED="true" ID="ID_1643490877" LINK="http://www.centos.org/" MODIFIED="1422823009850" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>CentOS</b><font color="#fa0000"></font><img src="icons/centos.png" />
-    </p>
-    <p>
-      2004 <font color="#fa0000">US</font>
-    </p>
-    <p>
-      Community ENTerprise
-    </p>
-    <p>
-      Operating System
+      <font size="2">Operating Syste</font>m
     </p>
   </body>
 </html></richcontent>
@@ -17627,7 +17493,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329b32" CREATED="1398707032229" FOLDED="true" ID="ID_741400214" MODIFIED="1422823009850" STYLE="fork">
+<node COLOR="#329b32" CREATED="1398707032229" FOLDED="true" ID="ID_741400214" MODIFIED="1427069076666" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17640,7 +17506,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1403957670482" FOLDED="true" ID="ID_1244454483" LINK="http://www.clearfoundation.com/" MODIFIED="1422823009848">
+<node CREATED="1403957670482" FOLDED="true" ID="ID_1244454483" LINK="http://www.clearfoundation.com/" MODIFIED="1427069063147">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17715,9 +17581,9 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1408050616312" FOLDED="true" ID="ID_869883569" MODIFIED="1422823009849" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1408050616312" FOLDED="true" ID="ID_869883569" MODIFIED="1427069075915" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1403556119168" FOLDED="true" ID="ID_1436113743" LINK="http://www.digantel.org/" MODIFIED="1422823009848">
+<node CREATED="1403556119168" FOLDED="true" ID="ID_1436113743" LINK="http://www.digantel.org/" MODIFIED="1427069067242">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17762,7 +17628,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1402615222620" FOLDED="true" ID="ID_1675235653" LINK="http://wiki.contribs.org/Main_Page" MODIFIED="1422823009848" STYLE="fork">
+<node CREATED="1402615222620" FOLDED="true" ID="ID_1675235653" LINK="http://wiki.contribs.org/Main_Page" MODIFIED="1427069069162" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17868,7 +17734,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403555991297" FOLDED="true" ID="ID_924922690" LINK="http://www.asterisk.org/" MODIFIED="1422823009849">
+<node CREATED="1403555991297" FOLDED="true" ID="ID_924922690" LINK="http://www.asterisk.org/" MODIFIED="1427069074770">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17940,7 +17806,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_659136312" MODIFIED="1422823009850" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_659136312" MODIFIED="1427069060883" TEXT="~ discontinued">
 <node CREATED="1411333952923" ID="ID_1465381603" LINK="http://projects.honeynet.org/honeywall" MODIFIED="1411334000802" TEXT="Honeywall CDROM">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -17997,7 +17863,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397937148360" FOLDED="true" ID="ID_429530788" LINK="https://fedoraproject.org/" MODIFIED="1422823009863" STYLE="fork">
+<node CREATED="1397937148360" FOLDED="true" ID="ID_429530788" LINK="https://fedoraproject.org/" MODIFIED="1427067427116" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18007,10 +17873,10 @@
       <b>Fedora</b>&#160;<img src="icons/fedora.png" />
     </p>
     <p>
-      2003 <font color="#fa0000">US</font>
+      <font size="2">2003 </font><font color="#fa0000" size="2">US</font>
     </p>
     <p>
-      [ <font color="#3296fa">Red Hat </font>]
+      <font size="2">[ </font><font color="#3296fa" size="2">Red Hat </font><font size="2">]</font>
     </p>
   </body>
 </html></richcontent>
@@ -18467,7 +18333,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399318586473" FOLDED="true" ID="ID_738912851" MODIFIED="1422823009863" STYLE="fork">
+<node COLOR="#329632" CREATED="1399318586473" FOLDED="true" ID="ID_738912851" MODIFIED="1427067425907" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18584,7 +18450,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1593061741" LINK="http://www.momonga-linux.org/" MODIFIED="1422823009854" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_1593061741" LINK="http://www.momonga-linux.org/" MODIFIED="1427067418755" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18791,7 +18657,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1830095306" MODIFIED="1422823009856" STYLE="fork" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1830095306" MODIFIED="1427066851756" STYLE="fork" TEXT="~ discontinued">
 <edge COLOR="#7d7d7d" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411320433354" ID="ID_592611696" MODIFIED="1413585227260" TEXT="ADIOS Linux Boot CD">
 <richcontent TYPE="NOTE"><html>
@@ -18994,7 +18860,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1403551356484" FOLDED="true" ID="ID_1943940477" MODIFIED="1422823009863" STYLE="fork">
+<node COLOR="#006699" CREATED="1403551356484" FOLDED="true" ID="ID_1943940477" MODIFIED="1427067414043" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -19428,7 +19294,7 @@
 </node>
 </node>
 <node CREATED="1410999435417" ID="ID_173154629" LINK="http://www.hanthana.org/" MODIFIED="1410999449680" TEXT="Hanthana Linux"/>
-<node CREATED="1402684137542" FOLDED="true" ID="ID_1876322117" LINK="http://www.linpus.com/" MODIFIED="1422823009859" STYLE="fork">
+<node CREATED="1402684137542" ID="ID_1876322117" LINK="http://www.linpus.com/" MODIFIED="1427067333022" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -19462,7 +19328,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1409092321517" ID="ID_233114925" MODIFIED="1409092336039" TEXT="About Linpus Linux">
+<node CREATED="1409092321517" ID="ID_233114925" MODIFIED="1427067337071" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -19927,23 +19793,23 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943805820" FOLDED="true" ID="ID_1069992554" LINK="http://www.mandriva.com/en/" MODIFIED="1422823009869" STYLE="fork">
+<node CREATED="1397943805820" FOLDED="true" ID="ID_1069992554" LINK="http://www.mandriva.com/en/" MODIFIED="1427069088778" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Mandriva Linux</b>&#xa0;<img src="icons/mandriva.png"/>
+      <b>Mandriva Linux</b>&#160;<img src="icons/mandriva.png" />
     </p>
     <p>
-      1998 <font color="#fa0000">FR </font>
+      <font size="2">1998 </font><font color="#fa0000" size="2">FR </font>
     </p>
     <p>
-      Mandrake
+      <font size="2">Mandrake </font>
     </p>
     <p>
-      <font color="#3296fa"><i>Ga&#x451;l Duval </i></font>
+      <font color="#3296fa" size="2"><i>Ga&#1105;l Duval </i></font>
     </p>
   </body>
 </html></richcontent>
@@ -20044,7 +19910,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1399243729764" FOLDED="true" ID="ID_1329516950" MODIFIED="1422823009869" STYLE="fork">
+<node COLOR="#329632" CREATED="1399243729764" FOLDED="true" ID="ID_1329516950" MODIFIED="1427069087378" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -20151,7 +20017,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943881675" FOLDED="true" ID="ID_1174014815" LINK="http://www.mageia.org/en/" MODIFIED="1422823009866" STYLE="fork">
+<node CREATED="1397943881675" FOLDED="true" ID="ID_1174014815" LINK="http://www.mageia.org/en/" MODIFIED="1427068869272" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -20187,7 +20053,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402167224008" FOLDED="true" ID="ID_1276316208" MODIFIED="1422823009866" TEXT="About Mageia">
+<node CREATED="1402167224008" FOLDED="true" ID="ID_1276316208" MODIFIED="1427068867303" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -20319,14 +20185,14 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_82543518" LINK="http://openmandriva.org/" MODIFIED="1422823009867" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_82543518" LINK="http://openmandriva.org/" MODIFIED="1427068862183" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>OpenMandriva Lx</b>&#xa0;<img src="icons/openmanriva_lx.png"/>
+      <b>OpenMandriva Lx</b>&#160;<img src="icons/openmandriva_lx.png" />
     </p>
     <p>
       2013 <font color="#fa0000">FR</font>
@@ -20359,7 +20225,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414374177380" ID="ID_669047938" MODIFIED="1414374188273" TEXT="OpenMandriva Lx 2014.1"/>
 </node>
-<node CREATED="1402007594337" FOLDED="true" ID="ID_532964358" MODIFIED="1422823009867" TEXT="About OpenMandriva Lx">
+<node CREATED="1402007594337" FOLDED="true" ID="ID_532964358" MODIFIED="1427068861190" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -20824,7 +20690,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_674448197" MODIFIED="1422823009871" STYLE="fork" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_674448197" MODIFIED="1427069091186" STYLE="fork" TEXT="~ discontinued">
 <edge COLOR="#7d7d7d" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411249151304" ID="ID_1078604167" MODIFIED="1413589172710">
 <richcontent TYPE="NODE"><html>
@@ -20920,6 +20786,139 @@
     </p>
     <p>
       (c) http://distrowatch.com/table.php?distribution=yoper
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1399318664984" ID="ID_1510635863" LINK="http://alinux.tv/" MODIFIED="1427066434651" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>aLinux</b><img src="icons/alinux.png" />
+    </p>
+    <p>
+      Peanut Linux
+    </p>
+    <p>
+      2001 <font color="#fa0000">CA</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Jay Klepacs</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#969696"/>
+<node CREATED="1399327606482" ID="ID_129662027" MODIFIED="1414372588891">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/version_history.png" />
+      <b>Version history</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">Desktop, Live medium</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1414372490782" FOLDED="true" ID="ID_891129737" MODIFIED="1422823009847" TEXT="About aLinux">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      aLinux&#8482; is an advanced Office/Multimedia RPM based GNU/Linux distribution. Installing new programs, applications and updating your system from time-to-time has never been easier using our Synaptic Package Management System. aLinux&#8482; is a Professional Linux Operating System already designed to surpass both Microsoft Windows XP/Vista and Apple Mac OS X. While sporting an even more visually stunning Graphical User Interface then our competitors, we still are able to maintain a high level of sophistication, experienced Linux users, have come to appreciate. We believe Linux hobbyists, new users and advanced users, will find the aLinux&#8482; Operating System an utmost PROFESSIONAL, FAST and EXTREMELY FUN distribution.
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399117745647" FOLDED="true" ID="ID_970868246" MODIFIED="1422823009846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/architecture.png"/>
+      &#xa0;architecture
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399117764494" ID="ID_1366382324" MODIFIED="1399117769870" TEXT="i686"/>
+</node>
+<node CREATED="1399327599730" FOLDED="true" ID="ID_836349937" MODIFIED="1422823009846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/de_wm.png"/>
+      &#xa0;DE/WM
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1414372624764" ID="ID_389658185" MODIFIED="1414372630313" TEXT="AfterStep"/>
+<node CREATED="1414372631244" ID="ID_1874332552" MODIFIED="1414372634649" TEXT="Fluxbox"/>
+<node CREATED="1414372635148" ID="ID_1175930566" MODIFIED="1414372639433" TEXT="IceWM"/>
+<node CREATED="1399327663778" ID="ID_812036624" MODIFIED="1399327666480" TEXT="KDE"/>
+<node CREATED="1414372650315" ID="ID_494036671" MODIFIED="1414372655001" TEXT="WMaker"/>
+<node CREATED="1399327671104" ID="ID_933759077" MODIFIED="1399327674001" TEXT="Xfce"/>
+</node>
+<node CREATED="1407448457847" FOLDED="true" ID="ID_848676236" MODIFIED="1422823009846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/fs.png"/>
+      &#xa0;FS
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1407448471287" ID="ID_149184594" MODIFIED="1407448474183" TEXT="ext3"/>
+<node CREATED="1409602950713" ID="ID_320945201" MODIFIED="1414372774855" TEXT="Reiser4FS"/>
+<node CREATED="1409602950713" ID="ID_570787915" MODIFIED="1409602955272" TEXT="ReiserFS"/>
+<node CREATED="1407448477335" ID="ID_1689405000" MODIFIED="1407448478743" TEXT="XFS"/>
+</node>
+<node CREATED="1407708429257" FOLDED="true" ID="ID_1022838078" MODIFIED="1422823009846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="icons/pm.png"/>
+      &#xa0;PM
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1407708432809" ID="ID_1315658532" MODIFIED="1414372797830" TEXT="RPM"/>
+</node>
+</node>
+<node CREATED="1404234459415" ID="ID_239277465" LINK="http://alinux.tv/linux-downloads.html" MODIFIED="1414372744929">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      download <img src="icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -21531,7 +21530,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397944766584" FOLDED="true" ID="ID_423821898" LINK="http://www.slackware.com/" MODIFIED="1422823009886" STYLE="fork">
+<node CREATED="1397944766584" FOLDED="true" ID="ID_423821898" LINK="http://www.slackware.com/" MODIFIED="1427072811876" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21663,7 +21662,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399318146892" FOLDED="true" ID="ID_1290299967" MODIFIED="1422823009886" STYLE="fork">
+<node COLOR="#329632" CREATED="1399318146892" FOLDED="true" ID="ID_1290299967" MODIFIED="1427072810580" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21677,7 +21676,7 @@
 </html></richcontent>
 <edge COLOR="#329632" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1404252796779" FOLDED="true" ID="ID_1921148033" LINK="http://www.salixos.org/" MODIFIED="1422823009878" STYLE="fork">
+<node CREATED="1404252796779" FOLDED="true" ID="ID_1921148033" LINK="http://www.salixos.org/" MODIFIED="1427072422364" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21709,7 +21708,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1406417681347" FOLDED="true" ID="ID_848913249" MODIFIED="1422823009878" TEXT="About Salix">
+<node CREATED="1406417681347" FOLDED="true" ID="ID_848913249" MODIFIED="1427072420691" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -21771,21 +21770,21 @@
 <node CREATED="1403351776367" ID="ID_290483579" MODIFIED="1403351776367" TEXT="x86_64"/>
 </node>
 </node>
-<node CREATED="1404234459415" ID="ID_101397024" LINK="http://www.salixos.org/download.html" MODIFIED="1411321086923">
+<node CREATED="1404234459415" ID="ID_101397024" LINK="http://www.salixos.org/download.html" MODIFIED="1427072409260">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      download Salix <img src="icons/download.png"/>
+      download<img src="icons/download.png" />
     </p>
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1356899137" LINK="http://www.vectorlinux.com/" MODIFIED="1422823009879" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_1356899137" LINK="http://www.vectorlinux.com/" MODIFIED="1427072423337" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21827,7 +21826,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402007594337" FOLDED="true" ID="ID_1848173884" MODIFIED="1422823009879" TEXT="About VectorLinux">
+<node CREATED="1402007594337" FOLDED="true" ID="ID_1848173884" MODIFIED="1427072416419" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -21902,7 +21901,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_739554425" LINK="http://www.slax.org/" MODIFIED="1422823009880" STYLE="fork">
+<node CREATED="1397936526301" ID="ID_739554425" LINK="http://www.slax.org/" MODIFIED="1427072424695" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22003,7 +22002,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1403199322103" FOLDED="true" ID="ID_680970384" MODIFIED="1422823009880">
+<node COLOR="#329632" CREATED="1403199322103" FOLDED="true" ID="ID_680970384" MODIFIED="1427072809251">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22068,7 +22067,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1407365470708" FOLDED="true" ID="ID_1795818090" MODIFIED="1422823009885" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1407365470708" FOLDED="true" ID="ID_1795818090" MODIFIED="1427072804003" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411337410786" FOLDED="true" ID="ID_278447805" LINK="http://www.absolutelinux.org/" MODIFIED="1422823009881">
 <richcontent TYPE="NODE"><html>
@@ -22439,17 +22438,17 @@
 <node CREATED="1402690698999" ID="ID_874852727" MODIFIED="1402690705604" TEXT="lightweight"/>
 </node>
 </node>
-<node CREATED="1402684507891" FOLDED="true" ID="ID_829556082" LINK="http://www.dracolinux.org/" MODIFIED="1422823009883" STYLE="fork">
+<node CREATED="1402684507891" FOLDED="true" ID="ID_829556082" LINK="http://www.dracolinux.org/" MODIFIED="1427072647626" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Draco GNU/Linux </b><img src="icons/draco_gnu_linux%20.png"/>
+      <b>Draco GNU/Linux </b><img src="icons/draco_gnu_linux.png" />
     </p>
     <p>
-      2007<font color="#fa0000">&#xa0;NO</font>
+      2007<font color="#fa0000">&#160;NO</font>
     </p>
   </body>
 </html></richcontent>
@@ -22760,7 +22759,7 @@
 </node>
 <node CREATED="1414618684846" ID="ID_265221040" LINK="http://smartlinux.sourceforge.net/" MODIFIED="1414618700087" TEXT="S.M.A.R.T. Linux"/>
 </node>
-<node COLOR="#fa0000" CREATED="1409684934008" FOLDED="true" ID="ID_615252325" MODIFIED="1422823009886" STYLE="fork" TEXT="~Discontinued">
+<node COLOR="#fa0000" CREATED="1409684934008" ID="ID_615252325" MODIFIED="1427072798285" STYLE="fork" TEXT="~Discontinued">
 <edge COLOR="#7d7d7d" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1409684962409" ID="ID_1817164131" MODIFIED="1409684974568" TEXT="WHAX">
 <richcontent TYPE="NOTE"><html>
@@ -22803,7 +22802,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397944695685" FOLDED="true" ID="ID_758067280" LINK="http://www.opensuse.org/en/" MODIFIED="1422823009888" STYLE="fork">
+<node CREATED="1397944695685" FOLDED="true" ID="ID_758067280" LINK="http://www.opensuse.org/en/" MODIFIED="1427072859459" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22986,7 +22985,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399117728944" FOLDED="true" ID="ID_1750833669" MODIFIED="1422823009888" STYLE="fork">
+<node COLOR="#329632" CREATED="1399117728944" ID="ID_1750833669" MODIFIED="1427072857766" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23065,7 +23064,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_456097542" MODIFIED="1422823009888" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_456097542" MODIFIED="1427073897443" TEXT="~ discontinued">
 <node CREATED="1404235635725" ID="ID_153887388" MODIFIED="1416425687460">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -23206,7 +23205,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1399849354345" FOLDED="true" ID="ID_578100384" MODIFIED="1422823009908">
+<node COLOR="#006699" CREATED="1399849354345" FOLDED="true" ID="ID_578100384" MODIFIED="1427220886856">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23308,7 +23307,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399117890382" FOLDED="true" ID="ID_1072812585" LINK="http://crux.nu/" MODIFIED="1422823009893">
+<node CREATED="1399117890382" FOLDED="true" ID="ID_1072812585" LINK="http://crux.nu/" MODIFIED="1426708285304">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23344,7 +23343,7 @@
 <node CREATED="1401832041672" ID="ID_1273371428" MODIFIED="1401832041672" TEXT="2.8        2012 October"/>
 <node CREATED="1401832041672" ID="ID_1565768814" MODIFIED="1401832041672" TEXT="3.0        2013 January"/>
 </node>
-<node CREATED="1401831972457" FOLDED="true" ID="ID_123638994" MODIFIED="1422823009890" TEXT="About CRUX">
+<node CREATED="1401831972457" FOLDED="true" ID="ID_123638994" MODIFIED="1426707951687" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -25519,7 +25518,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1408913372241" FOLDED="true" ID="ID_1650773753" LINK="http://sorcerer.silverice.org/" MODIFIED="1422823009906">
+<node CREATED="1408913372241" FOLDED="true" ID="ID_1650773753" LINK="http://sorcerer.silverice.org/" MODIFIED="1426722307707">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25533,7 +25532,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1408913406112" ID="ID_1470330019" MODIFIED="1410905026703" TEXT="About Sorcerer">
+<node CREATED="1408913406112" ID="ID_1470330019" MODIFIED="1426709052179" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -25793,20 +25792,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1397937883892" FOLDED="true" ID="ID_1699537950" MODIFIED="1422823009909" STYLE="fork">
+<node CREATED="1397937883892" FOLDED="true" ID="ID_1699537950" MODIFIED="1427069596083" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>MINIX</b>&#xa0;<img src="icons/minix.png"/>
+      <b>MINIX</b>&#160;<img src="icons/minix.png" />
     </p>
     <p>
-      1987 <font color="#fa0000">NL</font>
+      <font size="2">1987 </font><font color="#fa0000" size="2">NL</font>
     </p>
     <p>
-      <font color="#3296fa"><i>Andrew S. Tanenbaum</i></font>
+      <font color="#3296fa" size="2"><i>Andrew S. Tanenbaum</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -25848,7 +25847,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1398566419310" FOLDED="true" ID="ID_1183033211" LINK="http://plan9.bell-labs.com/plan9/" MODIFIED="1422823009910" STYLE="fork">
+<node CREATED="1398566419310" FOLDED="true" ID="ID_1183033211" LINK="http://plan9.bell-labs.com/plan9/" MODIFIED="1427068843999" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25873,7 +25872,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398632549064" ID="ID_1668430924" MODIFIED="1398632561063" TEXT="Third Edition 2006"/>
 </node>
-<node CREATED="1402008447818" ID="ID_1321026201" MODIFIED="1402146364615" TEXT="About Plan 9">
+<node CREATED="1402008447818" ID="ID_1321026201" MODIFIED="1427066260264" TEXT="About Plan 9">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -25932,7 +25931,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1410906984797" FOLDED="true" ID="ID_1661011407" MODIFIED="1422823009916">
+<node CREATED="1410906984797" ID="ID_1661011407" MODIFIED="1427069188086">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25946,7 +25945,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1398564209843" FOLDED="true" ID="ID_568251019" MODIFIED="1422823009915" STYLE="fork">
+<node CREATED="1398564209843" FOLDED="true" ID="ID_568251019" MODIFIED="1427069591380" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25977,7 +25976,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_647698580" MODIFIED="1422823009915" STYLE="fork">
+<node COLOR="#329632" CREATED="1402144715013" ID="ID_647698580" MODIFIED="1427065009063" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25990,7 +25989,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398564936534" FOLDED="true" ID="ID_1678700364" LINK="http://blog.illumos.org/about-illumos-2/" MODIFIED="1422823009914" STYLE="fork">
+<node CREATED="1398564936534" ID="ID_1678700364" LINK="http://blog.illumos.org/about-illumos-2/" MODIFIED="1427065010548" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26043,14 +26042,14 @@
 </node>
 <node CREATED="1412704303664" ID="ID_1024350755" MODIFIED="1412704306125" TEXT="111b"/>
 </node>
-<node CREATED="1402143442334" FOLDED="true" ID="ID_1624800375" MODIFIED="1422823009911" TEXT="About OpenSolaris">
+<node CREATED="1402143442334" FOLDED="true" ID="ID_1624800375" MODIFIED="1427066260278" TEXT="About OpenSolaris">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Indiana is a binary distribution of an operating system built out of the OpenSolaris source code. The distribution is a point of integration for several current projects on OpenSolaris.org, including those to make the installation experience easier, to modernise the look and feel of OpenSolaris on the desktop, and to introduce a network-based package management system into Solaris. The resulting distribution is a live CD install image, and is fully permissible to be redistributed by anyone.&#xa0;
+      Indiana is a binary distribution of an operating system built out of the OpenSolaris source code. The distribution is a point of integration for several current projects on OpenSolaris.org, including those to make the installation experience easier, to modernise the look and feel of OpenSolaris on the desktop, and to introduce a network-based package management system into Solaris. The resulting distribution is a live CD install image, and is fully permissible to be redistributed by anyone.&#160;
     </p>
     <p>
       
@@ -26073,7 +26072,7 @@
 <node CREATED="1402145964349" ID="ID_1915722637" MODIFIED="1402145967005" TEXT="x86_64"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_582607684" MODIFIED="1422823009914" STYLE="fork">
+<node COLOR="#329632" CREATED="1402144715013" ID="ID_582607684" MODIFIED="1427065227765" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26086,7 +26085,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402145419201" FOLDED="true" ID="ID_132307934" LINK="http://wiki.illumos.org/display/illumos/illumos+Home" MODIFIED="1422823009913" STYLE="fork">
+<node CREATED="1402145419201" ID="ID_132307934" LINK="http://wiki.illumos.org/display/illumos/illumos+Home" MODIFIED="1427065025476" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26103,7 +26102,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411690347160" ID="ID_709019343" MODIFIED="1411690410332" TEXT="About Illumos">
+<node CREATED="1411690347160" ID="ID_709019343" MODIFIED="1427066260288" TEXT="About Illumos">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -26116,7 +26115,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_665679623" MODIFIED="1422823009913" STYLE="fork">
+<node COLOR="#329632" CREATED="1402144715013" ID="ID_665679623" MODIFIED="1427069567154" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26397,7 +26396,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1412705304209" ID="ID_88517111" LINK="http://www.tribblix.org/" MODIFIED="1412706139848" TEXT="Tribblix"/>
-<node CREATED="1403199142392" FOLDED="true" ID="ID_1353770598" LINK="http://www.nexentastor.org/" MODIFIED="1422823009912">
+<node CREATED="1403199142392" FOLDED="true" ID="ID_1353770598" LINK="http://www.nexenta.com/products/nexentastor" MODIFIED="1427069521129">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26547,14 +26546,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1397940485794" FOLDED="true" ID="ID_714223805" LINK="http://www.oracle.com/us/products/servers-storage/solaris/solaris11/overview/index.html" MODIFIED="1422823009915" STYLE="fork">
+<node CREATED="1397940485794" FOLDED="true" ID="ID_714223805" LINK="http://www.oracle.com/us/products/servers-storage/solaris/solaris11/overview/index.html" MODIFIED="1427069589723" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Solaris</b><img src="icons/solaris.png" />
+      <b>Solaris </b><img src="icons/solaris.png" />
     </p>
     <p>
       1992 <font color="#fa0000">US</font>
@@ -26568,7 +26567,7 @@
   </body>
 </html></richcontent>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1678700364" ENDARROW="Default" ENDINCLINATION="159;0;" ID="Arrow_ID_588096349" STARTARROW="None" STARTINCLINATION="159;0;"/>
-<node CREATED="1402145181122" FOLDED="true" ID="ID_405700155" MODIFIED="1422823009914">
+<node CREATED="1402145181122" FOLDED="true" ID="ID_405700155" MODIFIED="1426708841355">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26619,7 +26618,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397940070292" FOLDED="true" ID="ID_837644077" LINK="http://www8.hp.com/us/en/products/servers/hp-ux.html#tab=TAB1" MODIFIED="1422823009915" STYLE="fork">
+<node CREATED="1397940070292" ID="ID_837644077" LINK="http://www8.hp.com/us/en/products/servers/hp-ux.html#tab=TAB1" MODIFIED="1427069223266" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26998,7 +26997,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399812359681" FOLDED="true" ID="ID_531095719" MODIFIED="1422823009921" POSITION="left">
+<node CREATED="1399812359681" FOLDED="true" ID="ID_531095719" MODIFIED="1427068562786" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27033,7 +27032,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411229895646" FOLDED="true" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1422823009919">
+<node CREATED="1411229895646" FOLDED="true" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1426708841357">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27050,7 +27049,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411231317767" FOLDED="true" ID="ID_1791203185" MODIFIED="1422823009919" TEXT="Supported Hypervisors">
+<node CREATED="1411231317767" FOLDED="true" ID="ID_1791203185" MODIFIED="1426708841357" TEXT="Supported Hypervisors">
 <node CREATED="1411231327926" ID="ID_448196165" MODIFIED="1411231330883" TEXT="LXC"/>
 <node CREATED="1411231331734" ID="ID_63054238" MODIFIED="1411231335380" TEXT="OpenVZ"/>
 <node CREATED="1411231336134" ID="ID_775799397" MODIFIED="1411231348467" TEXT="QEMU/KVM"/>
@@ -27279,7 +27278,7 @@
 <node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1420935808883" TEXT="VMM"/>
 <node CREATED="1411231383653" ID="ID_348571407" MODIFIED="1411231393666" TEXT="Parallels Worsktation"/>
 </node>
-<node CREATED="1401313421636" FOLDED="true" ID="ID_149771912" MODIFIED="1422823009921" POSITION="left">
+<node CREATED="1401313421636" FOLDED="true" ID="ID_149771912" MODIFIED="1427068567722" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27365,7 +27364,7 @@
 <node CREATED="1415571911707" ID="ID_440903599" MODIFIED="1415571913433" TEXT="Google Compute"/>
 <node CREATED="1415651773634" ID="ID_495120759" LINK="https://cloudstack.apache.org/" MODIFIED="1415651783496" TEXT="CloudStack"/>
 </node>
-<node CREATED="1399826643180" FOLDED="true" ID="ID_1064629402" MODIFIED="1422823009923" POSITION="left" TEXT="Embedded Systems">
+<node CREATED="1399826643180" FOLDED="true" ID="ID_1064629402" MODIFIED="1427068611954" POSITION="left" TEXT="Embedded Systems">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399826651403" ID="ID_707673820" MODIFIED="1399826661595" TEXT="Hildon"/>
 <node CREATED="1401908928093" ID="ID_1783750185" MODIFIED="1401908971738">
@@ -27430,9 +27429,9 @@
 <node CREATED="1402187975437" ID="ID_105990211" MODIFIED="1402187978396" TEXT="Palm OS"/>
 <node CREATED="1399826648188" ID="ID_10253844" MODIFIED="1399826650891" TEXT="Symbian"/>
 <node CREATED="1399834561669" ID="ID_1644750741" MODIFIED="1399834563955" TEXT="&#xc5;ngstr&#xf6;m distribution"/>
-<node CREATED="1407277500943" FOLDED="true" ID="ID_432874815" MODIFIED="1422823009922" TEXT="Mobile OS">
+<node CREATED="1407277500943" FOLDED="true" ID="ID_432874815" MODIFIED="1427068610426" TEXT="Mobile OS">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1407277535662" FOLDED="true" ID="ID_1793776962" MODIFIED="1422823009922" TEXT="POSIX (UNIX)">
+<node CREATED="1407277535662" ID="ID_1793776962" MODIFIED="1427068606201" TEXT="POSIX (UNIX)">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1406933175061" ID="ID_808648046" LINK="https://www.tizen.org/" MODIFIED="1406933472691">
 <richcontent TYPE="NODE"><html>
@@ -27663,7 +27662,7 @@
 </node>
 <node CREATED="1408397886017" ID="ID_1863588705" LINK="http://www.openfiler.com/" MODIFIED="1408398037829" TEXT="Openfiler"/>
 </node>
-<node CREATED="1399314645233" FOLDED="true" ID="ID_1967541706" MODIFIED="1422823009925" POSITION="left" TEXT="standarts">
+<node CREATED="1399314645233" FOLDED="true" ID="ID_1967541706" MODIFIED="1427068617945" POSITION="left" TEXT="standarts">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399314650689" ID="ID_505859528" MODIFIED="1399314661616" TEXT="Single UNIX Specification"/>
 <node CREATED="1399569868117" ID="ID_210863876" MODIFIED="1399569883488">
@@ -27682,7 +27681,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401821527611" FOLDED="true" ID="ID_1120474239" MODIFIED="1422823009928" POSITION="left" TEXT="experemental">
+<node CREATED="1401821527611" FOLDED="true" ID="ID_1120474239" MODIFIED="1427068616193" POSITION="left" TEXT="experemental">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401820633194" FOLDED="true" ID="ID_536020574" LINK="http://www.barrelfish.org/" MODIFIED="1422823009926">
 <richcontent TYPE="NODE"><html>
@@ -27948,7 +27947,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401821284316" FOLDED="true" ID="ID_1627326010" MODIFIED="1422823009928" POSITION="left" TEXT="licenses">
+<node CREATED="1401821284316" FOLDED="true" ID="ID_1627326010" MODIFIED="1427068621017" POSITION="left" TEXT="licenses">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401821307548" ID="ID_1829863154" MODIFIED="1401821315611" TEXT="BSD licenses"/>
 <node CREATED="1401821823465" ID="ID_810543222" MODIFIED="1401821829272" TEXT="MIT Open Source"/>
@@ -28723,7 +28722,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398560690956" FOLDED="true" ID="ID_1648217335" MODIFIED="1422823009938" POSITION="right">
+<node CREATED="1398560690956" FOLDED="true" ID="ID_1648217335" MODIFIED="1426708707635" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -29106,7 +29105,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_494252847" MODIFIED="1422823009939" POSITION="left" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_494252847" MODIFIED="1427068626905" POSITION="left" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -29486,7 +29485,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1415650774584" FOLDED="true" ID="ID_411383167" MODIFIED="1422823009941" POSITION="left">
+<node CREATED="1415650774584" FOLDED="true" ID="ID_411383167" MODIFIED="1427068704011" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -29559,7 +29558,7 @@
 <node CREATED="1415651014062" ID="ID_928183988" MODIFIED="1415651022315" TEXT="OCS Inventory NG"/>
 <node CREATED="1415651029677" ID="ID_516991025" MODIFIED="1415651031915" TEXT="Opsi"/>
 <node CREATED="1415651033246" ID="ID_1641436860" MODIFIED="1415651042971" TEXT="PIKT"/>
-<node CREATED="1414789820052" FOLDED="true" ID="ID_1545293189" LINK="http://puppetlabs.com/" MODIFIED="1422823009941">
+<node CREATED="1414789820052" FOLDED="true" ID="ID_1545293189" LINK="http://puppetlabs.com/" MODIFIED="1427068701602">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -29569,10 +29568,10 @@
       <b>puppet </b><img src="icons/puppet.png" />
     </p>
     <p>
-      2005 <font color="#fa0000">US </font>
+      <font size="2">2005 </font><font color="#fa0000" size="2">US </font>
     </p>
     <p>
-      <font color="#3296fa"><i>Luke kanies</i></font>
+      <font color="#3296fa" size="2"><i>Luke kanies</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -29597,7 +29596,7 @@
 <node CREATED="1415651063165" ID="ID_1946241487" MODIFIED="1415651071386" TEXT="Rudder"/>
 <node CREATED="1415651072973" ID="ID_225681628" MODIFIED="1415651074890" TEXT="Rundeck"/>
 <node CREATED="1415651075709" ID="ID_1137559434" MODIFIED="1415651080490" TEXT="SmartFrog"/>
-<node CREATED="1415651081725" ID="ID_1345957183" LINK="http://www.saltstack.com/" MODIFIED="1417462632248">
+<node CREATED="1415651081725" ID="ID_1345957183" LINK="http://www.saltstack.com/" MODIFIED="1427068674963">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -29607,13 +29606,13 @@
       <b>SaltStack </b><img src="icons/saltstack.png" />
     </p>
     <p>
-      2011
+      <font size="2">2011 </font>
     </p>
     <p>
-      Python
+      <font size="2">Python </font>
     </p>
     <p>
-      <font color="#3296fa"><i>Thomas S Hatch</i></font>
+      <font color="#3296fa" size="2"><i>Thomas S Hatch</i></font>
     </p>
   </body>
 </html></richcontent>
