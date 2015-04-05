@@ -1657,18 +1657,25 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428255585266" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428269817389" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      git <img src="icons/git.png"/>
+      <b>git</b>&#160;<img src="icons/git.png" />
+    </p>
+    <p>
+      <font size="2">2005 </font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Linus Torvalds</font></i>
     </p>
   </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1747,7 +1754,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1428193838184" ID="ID_601178658" MODIFIED="1428193852838" TEXT="git bisect"/>
-<node CREATED="1417721538316" FOLDED="true" ID="ID_1526409165" MODIFIED="1428262171808">
+<node CREATED="1417721538316" FOLDED="true" ID="ID_1526409165" MODIFIED="1428269819431">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1763,6 +1770,22 @@
 </html>
 </richcontent>
 <node CREATED="1428259115245" ID="ID_1211446334" MODIFIED="1428259118458" TEXT="--contains"/>
+<node CREATED="1428266038993" ID="ID_1462198555" MODIFIED="1428266080501">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-a, --all </b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">list all branches</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1428259110717" ID="ID_523201236" MODIFIED="1428259114650" TEXT="--list"/>
 <node CREATED="1428259118989" ID="ID_461714238" MODIFIED="1428259131082" TEXT="--track"/>
 <node CREATED="1428259137756" ID="ID_1721158596" MODIFIED="1428259139036" TEXT="-d"/>
@@ -1922,7 +1945,33 @@
 <node CREATED="1417721462717" ID="ID_1511736267" MODIFIED="1417721464842" TEXT="git help"/>
 <node CREATED="1417391501873" ID="ID_1533831869" MODIFIED="1417391503822" TEXT="git hist"/>
 <node CREATED="1417380915379" ID="ID_576443732" MODIFIED="1417380922096" TEXT="git init"/>
-<node CREATED="1417390725277" FOLDED="true" ID="ID_368636394" MODIFIED="1417391946085" TEXT="git log">
+<node CREATED="1417390725277" ID="ID_368636394" MODIFIED="1428269870299">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git <b>log </b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">show commit log</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1417391045736" ID="ID_77066734" MODIFIED="1417391047653" TEXT="--all"/>
+<node CREATED="1417391042183" ID="ID_394695944" MODIFIED="1417391045413" TEXT="--author"/>
+<node CREATED="1417391409123" FOLDED="true" ID="ID_1668125113" MODIFIED="1428270020948" TEXT="--date=">
+<node CREATED="1417391413411" ID="ID_96335901" MODIFIED="1417391415407" TEXT="short"/>
+</node>
+<node CREATED="1428269883477" ID="ID_149645055" MODIFIED="1428269886368" TEXT="--follow"/>
+<node CREATED="1417391030856" ID="ID_1166378141" MODIFIED="1417391034373" TEXT="--max"/>
+<node CREATED="1428269887237" ID="ID_447339679" MODIFIED="1428269909522" TEXT="--no-decorate, --decorate[=short|full|no]"/>
+<node CREATED="1417391034776" ID="ID_1168255250" MODIFIED="1417391038549" TEXT="--since"/>
+<node CREATED="1417391039048" ID="ID_1612164407" MODIFIED="1417391041924" TEXT="--untill"/>
+<node CREATED="1428269970931" ID="ID_374262952" MODIFIED="1428270048195" TEXT="commit formating">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417390806508" FOLDED="true" ID="ID_1834016455" MODIFIED="1419802168062" TEXT="--pretty=">
 <node CREATED="1417391054792" ID="ID_294490296" MODIFIED="1417391056949" TEXT="oneline"/>
 <node CREATED="1417391071176" FOLDED="true" ID="ID_497903237" MODIFIED="1419802168061" TEXT="format">
@@ -2003,15 +2052,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1417391030856" ID="ID_1166378141" MODIFIED="1417391034373" TEXT="--max"/>
-<node CREATED="1417391034776" ID="ID_1168255250" MODIFIED="1417391038549" TEXT="--since"/>
 <node CREATED="1417391187302" ID="ID_1628365603" MODIFIED="1417391190115" TEXT="--graph"/>
-<node CREATED="1417391039048" ID="ID_1612164407" MODIFIED="1417391041924" TEXT="--untill"/>
-<node CREATED="1417391042183" ID="ID_394695944" MODIFIED="1417391045413" TEXT="--author"/>
-<node CREATED="1417391409123" FOLDED="true" ID="ID_1668125113" MODIFIED="1419802168062" TEXT="--date=">
-<node CREATED="1417391413411" ID="ID_96335901" MODIFIED="1417391415407" TEXT="short"/>
 </node>
-<node CREATED="1417391045736" ID="ID_77066734" MODIFIED="1417391047653" TEXT="--all"/>
 </node>
 <node CREATED="1417721579371" FOLDED="true" ID="ID_892756380" MODIFIED="1428265336627">
 <richcontent TYPE="NODE"><html>
