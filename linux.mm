@@ -3,17 +3,18 @@
 <node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1425832843415" TEXT="Linux">
 <icon BUILTIN="penguin"/>
 <node CREATED="1413589261730" ID="ID_378105576" LINK="https://www.suse.com/support/security/" MODIFIED="1413589308589" POSITION="right" TEXT="AppArmor"/>
-<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1425832839446" POSITION="right">
+<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1428237138396" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      File System <img src="icons/fs.png"/>
+      File System <img src="icons/fs.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401737091376" ID="ID_894468200" LINK="http://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.html" MODIFIED="1402185936172" TEXT="Filesystem Hierarchy Standard">
 <font NAME="SansSerif" SIZE="12"/>
