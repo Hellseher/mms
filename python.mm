@@ -16,7 +16,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="17"/>
-<node CREATED="1398203924280" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1427742366139" POSITION="left" TEXT="build-in">
+<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1428334391284" POSITION="left" TEXT="build-in">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924280" ID="185" MODIFIED="1427742394653" TEXT="converters">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -813,7 +813,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" ID="24" MODIFIED="1428098822739" POSITION="right" TEXT="Built-in Types">
+<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1428334387644" POSITION="right" TEXT="Built-in Types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1418686567556" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1227,8 +1227,7 @@
       <font color="#3296fa" size="2"><i>reverse list in place</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398203924285" ID="157" MODIFIED="1428100240728">
 <richcontent TYPE="NODE"><html>
@@ -1240,8 +1239,7 @@
       list.<b>sort</b>(<i>cmp=None, key=None, reverse=False</i>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1398545988606" FOLDED="true" ID="ID_1248159037" MODIFIED="1428100155488" TEXT="slicing">
@@ -1509,8 +1507,7 @@
       &#160;&#160;&#160;&#160;new_nam = f.read()
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398203924287" ID="160" MODIFIED="1404166125246" TEXT="F.read()"/>
 <node CREATED="1404166094282" ID="ID_465820690" MODIFIED="1404166106782" TEXT="F.readline()"/>
@@ -1893,7 +1890,7 @@
 <node CREATED="1421508106109" ID="ID_682102269" MODIFIED="1421508112907" TEXT="Odoo"/>
 </node>
 </node>
-<node CREATED="1398456024904" ID="ID_1318102844" MODIFIED="1428159486768" POSITION="left" TEXT="keywords">
+<node CREATED="1398456024904" FOLDED="true" ID="ID_1318102844" MODIFIED="1428334389597" POSITION="left" TEXT="keywords">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398456037448" ID="ID_1482639065" MODIFIED="1398456039174" TEXT="as"/>
 <node CREATED="1398456039976" ID="ID_251240780" MODIFIED="1398456041703" TEXT="assert"/>
@@ -1931,8 +1928,7 @@
       functions <img src="icons/function.png" />&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398456125928" ID="ID_1247186485" MODIFIED="1398456129318" TEXT="yeld"/>
 <node CREATED="1398456054105" ID="ID_1814773695" MODIFIED="1427742405171" TEXT="def">
@@ -1948,8 +1944,7 @@
       [TAB]&#160;&#160;&#160;&#160;&lt;<i>statements</i>&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398456115592" ID="ID_1727899629" MODIFIED="1398456120407" TEXT="return"/>
 <node CREATED="1398456100264" ID="ID_100217414" MODIFIED="1398456102183" TEXT="lambda"/>
@@ -1966,8 +1961,7 @@
       loops <img src="icons/loop.png" />&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398456078184" ID="ID_102362471" MODIFIED="1398456079334" TEXT="for"/>
 <node CREATED="1398456042393" ID="ID_1734402449" MODIFIED="1398456045447" TEXT="break"/>
@@ -2206,10 +2200,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398454442503" ID="ID_167849043" LINK="https://docs.python.org/2/library/fileinput.html#module-fileinput" MODIFIED="1398454477012" TEXT="fileinput">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1406418215215" ID="ID_1359919550" LINK="https://docs.python.org/2/library/fileinput.html#module-fileinput" MODIFIED="1416677249944" TEXT="fileinput">
+<node CREATED="1418081544144" ID="ID_335480497" MODIFIED="1418081549212" TEXT="collection"/>
+<node CREATED="1406418215215" ID="ID_1359919550" LINK="https://docs.python.org/2/library/fileinput.html#module-fileinput" MODIFIED="1428334662577" TEXT="fileinput">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2219,13 +2211,63 @@
       This module implements a helper class and functions to quickly write a loop over standard input or a list of files. If you just want to read or write one file see open().
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1417817614512" FOLDED="true" ID="ID_1800256508" LINK="https://docs.python.org/2/library/getopt.html" MODIFIED="1417820411232">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>getopt </b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>parce for cmd line options</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1417817803200" ID="ID_1562088094" MODIFIED="1417817803200" TEXT="__all__"/>
+<node CREATED="1417817803201" ID="ID_1393548903" MODIFIED="1417817803201" TEXT="__builtins__"/>
+<node CREATED="1417817803202" ID="ID_1040455688" MODIFIED="1417817803202" TEXT="__doc__"/>
+<node CREATED="1417817803202" ID="ID_1983459060" MODIFIED="1417817803202" TEXT="__file__"/>
+<node CREATED="1417817803203" ID="ID_209398460" MODIFIED="1417817803203" TEXT="__name__"/>
+<node CREATED="1417817803203" ID="ID_1548040885" MODIFIED="1417817803203" TEXT="__package__"/>
+<node CREATED="1417817803204" ID="ID_588038993" MODIFIED="1417817803204" TEXT="do_longs"/>
+<node CREATED="1417817803204" ID="ID_155508168" MODIFIED="1417817803204" TEXT="do_shorts"/>
+<node CREATED="1417817803205" ID="ID_28317560" MODIFIED="1417817803205" TEXT="error"/>
+<node CREATED="1417817803205" ID="ID_1130215121" MODIFIED="1417817803205" TEXT="getopt"/>
+<node CREATED="1417817803206" ID="ID_1305835474" MODIFIED="1417817803206" TEXT="gnu_getopt"/>
+<node CREATED="1417817803206" ID="ID_1632914339" MODIFIED="1417817803206" TEXT="long_has_args"/>
+<node CREATED="1417817803207" ID="ID_1386506532" MODIFIED="1417817803207" TEXT="os"/>
+<node CREATED="1417817803208" ID="ID_421856908" MODIFIED="1417817803208" TEXT="short_has_arg"/>
 </node>
 <node CREATED="1400273930084" ID="ID_1276467750" LINK="https://docs.python.org/2/library/glob.html#module-glob" MODIFIED="1400273933995" TEXT="glob">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398542787634" FOLDED="true" ID="ID_881512107" LINK="https://docs.python.org/2/library/keyword.html" MODIFIED="1416680357109" TEXT="keyword">
+<node CREATED="1418556577457" ID="ID_1122954794" MODIFIED="1418556590656" TEXT="http">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1428334399759" ID="ID_221585921" LINK="https://docs.python.org/2/library/inspect.html" MODIFIED="1428334686889">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>inspect </b>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">get info about life objects</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1428334700426" ID="ID_78888745" MODIFIED="1428334707896" TEXT="inspect.getsource()"/>
+</node>
+<node CREATED="1398542787634" FOLDED="true" ID="ID_881512107" LINK="https://docs.python.org/2/library/keyword.html" MODIFIED="1428334669775" TEXT="keyword">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398542815682" ID="ID_1774791037" MODIFIED="1398542824858" TEXT="keyword.kwlist"/>
 <node CREATED="1398542874098" ID="ID_205517801" MODIFIED="1398542896609" TEXT="keyword.iskeyword(s)"/>
@@ -2828,53 +2870,6 @@
 <node CREATED="1417738044468" ID="ID_903895629" MODIFIED="1417738044468" TEXT="os.spawnvpe"/>
 </node>
 </node>
-<node CREATED="1417822282665" FOLDED="true" ID="ID_179356466" MODIFIED="1418556575866" TEXT="~old">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417822301640" FOLDED="true" ID="ID_324499103" LINK="#ID_1759469872" MODIFIED="1417822697093">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      replaced by
-    </p>
-    <p>
-      <b>subprocess</b>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417738044471" ID="ID_1352859278" MODIFIED="1417813775963">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      os.<b>system()</b>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1417738044466" ID="ID_1411265709" MODIFIED="1417822423076" TEXT="os.spawn"/>
-<node CREATED="1417738044458" ID="ID_651451404" MODIFIED="1417813749549">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      os.<b>popen()</b>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1417738044458" ID="ID_354582582" MODIFIED="1417738044458" TEXT="os.popen2"/>
-<node CREATED="1417822540837" ID="ID_1229806736" MODIFIED="1417822552594" TEXT="popen2.*"/>
-<node CREATED="1417822546948" ID="ID_1588958516" MODIFIED="1417822550626" TEXT="commands.*"/>
-</node>
-</node>
 <node CREATED="1398464586857" FOLDED="true" ID="ID_866774273" LINK="https://docs.python.org/2/library/platform.html" MODIFIED="1417817703727">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2938,6 +2933,55 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+<node CREATED="1417821801264" FOLDED="true" ID="ID_1759469872" LINK="https://docs.python.org/2/library/subprocess.html#module-subprocess" MODIFIED="1428103296390">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>subprocess </b>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>to spawn new process</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417822020320" ID="ID_28878149" MODIFIED="1417822020320" TEXT="MAXFD"/>
+<node CREATED="1417822020321" ID="ID_901496714" MODIFIED="1417822020321" TEXT="PIPE"/>
+<node CREATED="1417822020322" ID="ID_1819181976" MODIFIED="1417822020322" TEXT="Popen"/>
+<node CREATED="1417822020322" ID="ID_963786030" MODIFIED="1417822020322" TEXT="STDOUT"/>
+<node CREATED="1417822020323" ID="ID_1803647703" MODIFIED="1417822020323" TEXT="_PIPE_BUF"/>
+<node CREATED="1417822020323" ID="ID_1209856784" MODIFIED="1417822020323" TEXT="__all__"/>
+<node CREATED="1417822020324" ID="ID_968546716" MODIFIED="1417822020324" TEXT="__builtins__"/>
+<node CREATED="1417822020324" ID="ID_1967014260" MODIFIED="1417822020324" TEXT="__doc__"/>
+<node CREATED="1417822020324" ID="ID_728140137" MODIFIED="1417822020324" TEXT="__file__"/>
+<node CREATED="1417822020325" ID="ID_658418711" MODIFIED="1417822020325" TEXT="__name__"/>
+<node CREATED="1417822020325" ID="ID_287963290" MODIFIED="1417822020325" TEXT="__package__"/>
+<node CREATED="1417822020326" ID="ID_1788809729" MODIFIED="1417822020326" TEXT="_active"/>
+<node CREATED="1417822020326" ID="ID_917183940" MODIFIED="1417822020326" TEXT="_args_from_interpreter_flags"/>
+<node CREATED="1417822020327" ID="ID_86311935" MODIFIED="1417822020327" TEXT="_cleanup"/>
+<node CREATED="1417822020327" ID="ID_1421931992" MODIFIED="1417822020327" TEXT="_demo_posix"/>
+<node CREATED="1417822020327" ID="ID_1681165570" MODIFIED="1417822020327" TEXT="_demo_windows"/>
+<node CREATED="1417822020328" ID="ID_864183113" MODIFIED="1417822020328" TEXT="_eintr_retry_call"/>
+<node CREATED="1417822020328" ID="ID_182251033" MODIFIED="1417822020328" TEXT="_has_poll"/>
+<node CREATED="1417822020329" ID="ID_725579625" MODIFIED="1417822020329" TEXT="call"/>
+<node CREATED="1417822020329" ID="ID_1540989028" MODIFIED="1417822020329" TEXT="check_call"/>
+<node CREATED="1417822020330" ID="ID_805199925" MODIFIED="1417822020330" TEXT="check_output"/>
+<node CREATED="1417822020330" ID="ID_1334544177" MODIFIED="1417822020330" TEXT="errno"/>
+<node CREATED="1417822020330" ID="ID_1029273990" MODIFIED="1417822020330" TEXT="fcntl"/>
+<node CREATED="1417822020331" ID="ID_1964259785" MODIFIED="1417822020331" TEXT="gc"/>
+<node CREATED="1417822020331" ID="ID_748524355" MODIFIED="1417822020331" TEXT="list2cmdline"/>
+<node CREATED="1417822020332" ID="ID_131765054" MODIFIED="1417822020332" TEXT="mswindows"/>
+<node CREATED="1417822020332" ID="ID_1320932057" MODIFIED="1417822020332" TEXT="os"/>
+<node CREATED="1417822020333" ID="ID_344142778" MODIFIED="1417822020333" TEXT="pickle"/>
+<node CREATED="1417822020333" ID="ID_137702251" MODIFIED="1417822020333" TEXT="select"/>
+<node CREATED="1417822020333" ID="ID_1873762794" MODIFIED="1417822020333" TEXT="signal"/>
+<node CREATED="1417822020334" ID="ID_1812951044" MODIFIED="1417822020334" TEXT="sys"/>
+<node CREATED="1417822020334" ID="ID_294896330" MODIFIED="1417822020334" TEXT="traceback"/>
+<node CREATED="1417822020335" ID="ID_1607798791" MODIFIED="1417822020335" TEXT="types"/>
 </node>
 <node CREATED="1398452036990" FOLDED="true" ID="ID_863486132" LINK="https://docs.python.org/2/library/sys.html#module-sys" MODIFIED="1418077485835">
 <richcontent TYPE="NODE"><html>
@@ -3764,6 +3808,9 @@
 <node CREATED="1411826706189" ID="ID_254180861" MODIFIED="1411826711919" TEXT="tkinter">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1418556603503" ID="ID_1955229682" MODIFIED="1418556608336" TEXT="urllib">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node CREATED="1416677139668" ID="ID_1461762395" MODIFIED="1416677217298">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3779,91 +3826,52 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417817614512" FOLDED="true" ID="ID_1800256508" LINK="https://docs.python.org/2/library/getopt.html" MODIFIED="1417820411232">
+<node CREATED="1417822282665" FOLDED="true" ID="ID_179356466" MODIFIED="1418556575866" TEXT="~old">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417822301640" FOLDED="true" ID="ID_324499103" LINK="#ID_1759469872" MODIFIED="1417822697093">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>getopt </b>
+      replaced by
     </p>
     <p>
-      <font color="#3296fa"><i>parce for cmd line options</i></font>
+      <b>subprocess</b>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1417817803200" ID="ID_1562088094" MODIFIED="1417817803200" TEXT="__all__"/>
-<node CREATED="1417817803201" ID="ID_1393548903" MODIFIED="1417817803201" TEXT="__builtins__"/>
-<node CREATED="1417817803202" ID="ID_1040455688" MODIFIED="1417817803202" TEXT="__doc__"/>
-<node CREATED="1417817803202" ID="ID_1983459060" MODIFIED="1417817803202" TEXT="__file__"/>
-<node CREATED="1417817803203" ID="ID_209398460" MODIFIED="1417817803203" TEXT="__name__"/>
-<node CREATED="1417817803203" ID="ID_1548040885" MODIFIED="1417817803203" TEXT="__package__"/>
-<node CREATED="1417817803204" ID="ID_588038993" MODIFIED="1417817803204" TEXT="do_longs"/>
-<node CREATED="1417817803204" ID="ID_155508168" MODIFIED="1417817803204" TEXT="do_shorts"/>
-<node CREATED="1417817803205" ID="ID_28317560" MODIFIED="1417817803205" TEXT="error"/>
-<node CREATED="1417817803205" ID="ID_1130215121" MODIFIED="1417817803205" TEXT="getopt"/>
-<node CREATED="1417817803206" ID="ID_1305835474" MODIFIED="1417817803206" TEXT="gnu_getopt"/>
-<node CREATED="1417817803206" ID="ID_1632914339" MODIFIED="1417817803206" TEXT="long_has_args"/>
-<node CREATED="1417817803207" ID="ID_1386506532" MODIFIED="1417817803207" TEXT="os"/>
-<node CREATED="1417817803208" ID="ID_421856908" MODIFIED="1417817803208" TEXT="short_has_arg"/>
-</node>
-<node CREATED="1417821801264" FOLDED="true" ID="ID_1759469872" LINK="https://docs.python.org/2/library/subprocess.html#module-subprocess" MODIFIED="1428103296390">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417738044471" ID="ID_1352859278" MODIFIED="1417813775963">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>subprocess </b>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>to spawn new process</i></font>
+      os.<b>system()</b>
     </p>
   </body>
-</html>
-</richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417822020320" ID="ID_28878149" MODIFIED="1417822020320" TEXT="MAXFD"/>
-<node CREATED="1417822020321" ID="ID_901496714" MODIFIED="1417822020321" TEXT="PIPE"/>
-<node CREATED="1417822020322" ID="ID_1819181976" MODIFIED="1417822020322" TEXT="Popen"/>
-<node CREATED="1417822020322" ID="ID_963786030" MODIFIED="1417822020322" TEXT="STDOUT"/>
-<node CREATED="1417822020323" ID="ID_1803647703" MODIFIED="1417822020323" TEXT="_PIPE_BUF"/>
-<node CREATED="1417822020323" ID="ID_1209856784" MODIFIED="1417822020323" TEXT="__all__"/>
-<node CREATED="1417822020324" ID="ID_968546716" MODIFIED="1417822020324" TEXT="__builtins__"/>
-<node CREATED="1417822020324" ID="ID_1967014260" MODIFIED="1417822020324" TEXT="__doc__"/>
-<node CREATED="1417822020324" ID="ID_728140137" MODIFIED="1417822020324" TEXT="__file__"/>
-<node CREATED="1417822020325" ID="ID_658418711" MODIFIED="1417822020325" TEXT="__name__"/>
-<node CREATED="1417822020325" ID="ID_287963290" MODIFIED="1417822020325" TEXT="__package__"/>
-<node CREATED="1417822020326" ID="ID_1788809729" MODIFIED="1417822020326" TEXT="_active"/>
-<node CREATED="1417822020326" ID="ID_917183940" MODIFIED="1417822020326" TEXT="_args_from_interpreter_flags"/>
-<node CREATED="1417822020327" ID="ID_86311935" MODIFIED="1417822020327" TEXT="_cleanup"/>
-<node CREATED="1417822020327" ID="ID_1421931992" MODIFIED="1417822020327" TEXT="_demo_posix"/>
-<node CREATED="1417822020327" ID="ID_1681165570" MODIFIED="1417822020327" TEXT="_demo_windows"/>
-<node CREATED="1417822020328" ID="ID_864183113" MODIFIED="1417822020328" TEXT="_eintr_retry_call"/>
-<node CREATED="1417822020328" ID="ID_182251033" MODIFIED="1417822020328" TEXT="_has_poll"/>
-<node CREATED="1417822020329" ID="ID_725579625" MODIFIED="1417822020329" TEXT="call"/>
-<node CREATED="1417822020329" ID="ID_1540989028" MODIFIED="1417822020329" TEXT="check_call"/>
-<node CREATED="1417822020330" ID="ID_805199925" MODIFIED="1417822020330" TEXT="check_output"/>
-<node CREATED="1417822020330" ID="ID_1334544177" MODIFIED="1417822020330" TEXT="errno"/>
-<node CREATED="1417822020330" ID="ID_1029273990" MODIFIED="1417822020330" TEXT="fcntl"/>
-<node CREATED="1417822020331" ID="ID_1964259785" MODIFIED="1417822020331" TEXT="gc"/>
-<node CREATED="1417822020331" ID="ID_748524355" MODIFIED="1417822020331" TEXT="list2cmdline"/>
-<node CREATED="1417822020332" ID="ID_131765054" MODIFIED="1417822020332" TEXT="mswindows"/>
-<node CREATED="1417822020332" ID="ID_1320932057" MODIFIED="1417822020332" TEXT="os"/>
-<node CREATED="1417822020333" ID="ID_344142778" MODIFIED="1417822020333" TEXT="pickle"/>
-<node CREATED="1417822020333" ID="ID_137702251" MODIFIED="1417822020333" TEXT="select"/>
-<node CREATED="1417822020333" ID="ID_1873762794" MODIFIED="1417822020333" TEXT="signal"/>
-<node CREATED="1417822020334" ID="ID_1812951044" MODIFIED="1417822020334" TEXT="sys"/>
-<node CREATED="1417822020334" ID="ID_294896330" MODIFIED="1417822020334" TEXT="traceback"/>
-<node CREATED="1417822020335" ID="ID_1607798791" MODIFIED="1417822020335" TEXT="types"/>
+</html></richcontent>
 </node>
-<node CREATED="1418081544144" ID="ID_335480497" MODIFIED="1418081549212" TEXT="collection"/>
-<node CREATED="1418556577457" ID="ID_1122954794" MODIFIED="1418556590656" TEXT="http">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417738044466" ID="ID_1411265709" MODIFIED="1417822423076" TEXT="os.spawn"/>
+<node CREATED="1417738044458" ID="ID_651451404" MODIFIED="1417813749549">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      os.<b>popen()</b>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1418556603503" ID="ID_1955229682" MODIFIED="1418556608336" TEXT="urllib">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417738044458" ID="ID_354582582" MODIFIED="1417738044458" TEXT="os.popen2"/>
+<node CREATED="1417822540837" ID="ID_1229806736" MODIFIED="1417822552594" TEXT="popen2.*"/>
+<node CREATED="1417822546948" ID="ID_1588958516" MODIFIED="1417822550626" TEXT="commands.*"/>
+</node>
 </node>
 </node>
 <node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1427411515808" TEXT="Therd party">
