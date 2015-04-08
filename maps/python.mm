@@ -7,7 +7,7 @@
   </head>
   <body>
     <p style="text-align: center">
-      <img src="icons/py.png"/>
+      <img src="../icons/py.png"/>
       
     </p>
     <p style="text-align: center">
@@ -1551,7 +1551,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1563,7 +1563,7 @@
 <node CREATED="1402523263459" ID="ID_1680302708" MODIFIED="1402523266514" TEXT="supperclass"/>
 <node CREATED="1402523275587" ID="ID_610834845" MODIFIED="1402523279826" TEXT="inheritance"/>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="182" MODIFIED="1428103303606" POSITION="right" TEXT="formating">
+<node CREATED="1398203924283" ID="182" MODIFIED="1428453517312" POSITION="right" TEXT="formating">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924283" FOLDED="true" ID="183" MODIFIED="1419988079792" TEXT="directives">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1608,7 +1608,7 @@
 <node CREATED="1398543303833" ID="ID_1685724205" MODIFIED="1398543306872" TEXT="%G"/>
 <node CREATED="1398543307340" ID="ID_1798523270" MODIFIED="1398543313288" TEXT="%%"/>
 </node>
-<node CREATED="1398543096654" ID="ID_630762538" MODIFIED="1428098341847" TEXT="escapes">
+<node CREATED="1398543096654" FOLDED="true" ID="ID_630762538" MODIFIED="1428453518971" TEXT="escapes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398543114141" ID="ID_489152637" MODIFIED="1398543117643" TEXT="\newline"/>
 <node CREATED="1398543118125" ID="ID_946479421" MODIFIED="1398543120812" TEXT="\\"/>
@@ -1652,7 +1652,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418084488673" ID="ID_1121184345" MODIFIED="1418084490222" TEXT="token"/>
 </node>
-<node CREATED="1401918998874" FOLDED="true" ID="ID_1299363364" MODIFIED="1419991795997" TEXT="style">
+<node CREATED="1401918998874" FOLDED="true" ID="ID_1299363364" MODIFIED="1428453525498" TEXT="style">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401918512749" FOLDED="true" ID="ID_1045264571" LINK="http://legacy.python.org/dev/peps/pep-0008/" MODIFIED="1416680357099">
 <richcontent TYPE="NODE"><html>
@@ -1705,14 +1705,14 @@
 <node CREATED="1402006262010" ID="ID_1039910772" LINK="http://code.activestate.com/recipes/langs/python/" MODIFIED="1402006270284" TEXT="Popular Python recipes"/>
 </node>
 </node>
-<node CREATED="1398544902354" FOLDED="true" ID="ID_1341355363" MODIFIED="1426201455457" POSITION="right">
+<node CREATED="1398544902354" FOLDED="true" ID="ID_1341355363" MODIFIED="1428453560815" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1878,7 +1878,7 @@
   </head>
   <body>
     <p>
-      <b>Zope</b>&#160;<img src="icons/zope.png" />
+      <b>Zope</b>&#160;<img src="../icons/zope.png" />
     </p>
     <p>
       1995 <font color="#fa0000">US</font>
@@ -1925,7 +1925,7 @@
   </head>
   <body>
     <p>
-      functions <img src="icons/function.png" />&#160;
+      functions <img src="../icons/function.png" />&#160;
     </p>
   </body>
 </html></richcontent>
@@ -1958,7 +1958,7 @@
   </head>
   <body>
     <p>
-      loops <img src="icons/loop.png" />&#160;
+      loops <img src="../icons/loop.png" />&#160;
     </p>
   </body>
 </html></richcontent>
@@ -1982,7 +1982,7 @@
 <node COLOR="#9632fa" CREATED="1398456090616" ID="ID_433732192" MODIFIED="1414524411685" TEXT="import"/>
 </node>
 </node>
-<node CREATED="1418500529306" FOLDED="true" ID="ID_7657495" MODIFIED="1419991563709" POSITION="right" TEXT="keys">
+<node CREATED="1418500529306" FOLDED="true" ID="ID_7657495" MODIFIED="1428453554434" POSITION="right" TEXT="keys">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418500534060" MODIFIED="1418500534060" TEXT="-a,--annotate"/>
 <node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-s,--sign"/>
@@ -2027,7 +2027,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924279" ID="69" MODIFIED="1428159483624" TEXT="standart">
+<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1428529164665" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416682044057" FOLDED="true" ID="ID_614858224" LINK="https://docs.python.org/2/library/base64.html" MODIFIED="1416683606563" TEXT="base64">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2211,8 +2211,7 @@
       This module implements a helper class and functions to quickly write a loop over standard input or a list of files. If you just want to read or write one file see open().
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1417817614512" FOLDED="true" ID="ID_1800256508" LINK="https://docs.python.org/2/library/getopt.html" MODIFIED="1417820411232">
@@ -2263,8 +2262,7 @@
       <i><font color="#3296fa" size="2">get info about life objects</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428334700426" ID="ID_78888745" MODIFIED="1428334707896" TEXT="inspect.getsource()"/>
 </node>
 <node CREATED="1398542787634" FOLDED="true" ID="ID_881512107" LINK="https://docs.python.org/2/library/keyword.html" MODIFIED="1428334669775" TEXT="keyword">
@@ -2983,7 +2981,7 @@
 <node CREATED="1417822020334" ID="ID_294896330" MODIFIED="1417822020334" TEXT="traceback"/>
 <node CREATED="1417822020335" ID="ID_1607798791" MODIFIED="1417822020335" TEXT="types"/>
 </node>
-<node CREATED="1398452036990" FOLDED="true" ID="ID_863486132" LINK="https://docs.python.org/2/library/sys.html#module-sys" MODIFIED="1418077485835">
+<node CREATED="1398452036990" FOLDED="true" ID="ID_863486132" LINK="https://docs.python.org/2/library/sys.html#module-sys" MODIFIED="1428529162070">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3022,7 +3020,7 @@
 <node CREATED="1417735235818" MODIFIED="1417735235818" TEXT="sys._getframe"/>
 <node CREATED="1417735235818" MODIFIED="1417735235818" TEXT="sys._mercurial"/>
 <node CREATED="1417735235819" MODIFIED="1417735235819" TEXT="sys.api_version"/>
-<node CREATED="1417735235819" FOLDED="true" ID="ID_1353366175" MODIFIED="1417814573556">
+<node CREATED="1417735235819" FOLDED="true" ID="ID_1353366175" MODIFIED="1428529115119">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3874,9 +3872,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1427411515808" TEXT="Therd party">
+<node CREATED="1398284883230" ID="ID_542604586" MODIFIED="1428529173531" TEXT="Therd party">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398284924490" FOLDED="true" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1427411514712">
+<node CREATED="1398284924490" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1428529308514">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3906,7 +3904,7 @@
   </head>
   <body>
     <p>
-      <b>Matlotib&#160;</b><img src="icons/matplotlib.png" />
+      <b>Matlotib&#160;</b><img src="../icons/matplotlib.png" />
     </p>
     <p>
       <font color="#3296fa" size="2"><i>Comprehensive </i></font>
@@ -3924,7 +3922,7 @@
   </head>
   <body>
     <p>
-      <b>Sympy </b><img src="icons/sympy.png" />
+      <b>Sympy </b><img src="../icons/sympy.png" />
     </p>
     <p>
       <font color="#3296fa" size="2"><i>Symbolic mathematics</i></font>
@@ -3939,7 +3937,7 @@
   </head>
   <body>
     <p>
-      <b>SciPy libraray&#160; </b><img src="icons/scipy.png" />
+      <b>SciPy libraray&#160; </b><img src="../icons/scipy.png" />
     </p>
     <p>
       <font color="#3296fa" face="Open Sans, sans-serif" size="2"><i>Fundamental library </i></font>
@@ -3957,7 +3955,7 @@
   </head>
   <body>
     <p>
-      <b>IPython </b><img src="icons/ipython.png" />
+      <b>IPython </b><img src="../icons/ipython.png" />
     </p>
     <p>
       <font size="2" color="#3296fa"><i>Enhanced Interactive Console</i></font>
@@ -3987,7 +3985,7 @@
   </head>
   <body>
     <p>
-      <b>NumPy</b>&#160;<img src="icons/numpy.png" />
+      <b>NumPy</b>&#160;<img src="../icons/numpy.png" />
     </p>
     <p>
       Numeric 1995
@@ -4547,7 +4545,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1417821622707" ID="ID_707281927" MODIFIED="1418509451022" POSITION="left" TEXT="Tezarus">
+<node CREATED="1417821622707" ID="ID_707281927" MODIFIED="1428453482147" POSITION="left" TEXT="Tezarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4580,8 +4578,15 @@
     <p>
       url mapping
     </p>
+    <p>
+      iteration
+    </p>
+    <p>
+      recursion
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1426201456825" POSITION="left" TEXT="frameworks">
@@ -4593,7 +4598,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/django.png" />
+      <img src="../icons/django.png" />
       
     </p>
     <p>

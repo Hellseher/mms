@@ -9,7 +9,7 @@
   </head>
   <body>
     <p>
-      <b>Sublim Text</b>&#160;<img src="icons/sublime_text.png" />
+      <b>Sublim Text</b>&#160;<img src="../icons/sublime_text.png" />
     </p>
     <p>
       Python
@@ -30,7 +30,7 @@
   </head>
   <body>
     <p>
-      <b>Emacs</b>&#xa0;<img src="icons/emacs.png"/>
+      <b>Emacs</b>&#xa0;<img src="../icons/emacs.png"/>
     </p>
     <p>
       1970 <font color="#fa0000">US</font>
@@ -69,7 +69,7 @@
   </head>
   <body>
     <p>
-      <b>Vim</b>&#xa0;<img src="icons/vim.png"/>
+      <b>Vim</b>&#xa0;<img src="../icons/vim.png"/>
     </p>
     <p>
       1991 <font color="#fa0000">US</font>
@@ -86,7 +86,7 @@
   </head>
   <body>
     <p>
-      <b>NeoVim</b>&#160;<img src="icons/neovim.png" />
+      <b>NeoVim</b>&#160;<img src="../icons/neovim.png" />
     </p>
     <p>
       <i><font color="#3296fa">Thiago de Arruda Padilha</font></i>
@@ -120,7 +120,7 @@
   </head>
   <body>
     <p>
-      <b>Light Table</b>&#160;<img src="icons/light_table.png" />
+      <b>Light Table</b>&#160;<img src="../icons/light_table.png" />
     </p>
     <p>
       2012
@@ -159,7 +159,7 @@
   </head>
   <body>
     <p>
-      <b>Lime Text </b><img src="icons/lime_text.png" />
+      <b>Lime Text </b><img src="../icons/lime_text.png" />
     </p>
     <p>
       2013
@@ -179,7 +179,7 @@
   </head>
   <body>
     <p>
-      <b>Brackets </b><img src="icons/brackets.png" />
+      <b>Brackets </b><img src="../icons/brackets.png" />
     </p>
     <p>
       2014
@@ -223,7 +223,7 @@
   </head>
   <body>
     <p>
-      <b>Gedit</b>&#xa0;<img src="icons/gedit.png"/>
+      <b>Gedit</b>&#xa0;<img src="../icons/gedit.png"/>
     </p>
     <p>
       Write in C, Python
@@ -266,7 +266,7 @@
   </head>
   <body>
     <p>
-      <b>Editra</b><img src="icons/editra.png" />
+      <b>Editra</b><img src="../icons/editra.png" />
     </p>
     <p>
       2009
@@ -277,7 +277,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414183931048" ID="ID_1347439886" MODIFIED="1427065111696" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1428530085878" POSITION="left" TEXT="IDE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408468706000" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1415905082524">
 <richcontent TYPE="NODE"><html>
@@ -286,7 +286,7 @@
   </head>
   <body>
     <p>
-      <b>Eclipse</b>&#160;<img src="icons/eclipse.png" />
+      <b>Eclipse</b>&#160;<img src="../icons/eclipse.png" />
     </p>
     <p>
       Java
@@ -309,7 +309,7 @@
   </head>
   <body>
     <p>
-      <b>Komodo IDE </b><img src="icons/komodoide.png" />
+      <b>Komodo IDE </b><img src="../icons/komodoide.png" />
     </p>
     <p>
       2007
@@ -337,7 +337,7 @@
   </head>
   <body>
     <p>
-      <b>Coda</b>&#160;<img src="icons/coda.png" />
+      <b>Coda</b>&#160;<img src="../icons/coda.png" />
     </p>
     <p>
       2007
@@ -356,7 +356,7 @@
   </head>
   <body>
     <p>
-      <b>TextMate</b>&#160;<img src="icons/textmate.png" />
+      <b>TextMate</b>&#160;<img src="../icons/textmate.png" />
     </p>
     <p>
       2004 <font color="#fa0000">US</font>
@@ -374,19 +374,19 @@
   </head>
   <body>
     <p>
-      Bluefish <img src="icons/bluefish.png" />
+      Bluefish <img src="../icons/bluefish.png" />
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906274404" ID="ID_516240618" MODIFIED="1426709680243" POSITION="left">
+<node CREATED="1415906274404" ID="ID_516240618" MODIFIED="1428530395982" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Windows <img src="icons/windows.png" />
+      Windows <img src="../icons/windows.png" />
     </p>
   </body>
 </html></richcontent>
@@ -398,7 +398,7 @@
   </head>
   <body>
     <p>
-      <b>Notepad++</b>&#160;<img src="icons/npp.png" />&#160;
+      <b>Notepad++</b>&#160;<img src="../icons/npp.png" />&#160;
     </p>
     <p>
       C++
@@ -440,7 +440,7 @@
   </head>
   <body>
     <p>
-      <b>TopStyle </b><img src="icons/topstyle.png" />
+      <b>TopStyle </b><img src="../icons/topstyle.png" />
     </p>
     <p>
       2003
@@ -464,7 +464,7 @@
   </head>
   <body>
     <p>
-      <b>EmEditor</b>&#160;<img src="icons/emeditor.png" />
+      <b>EmEditor</b>&#160;<img src="../icons/emeditor.png" />
     </p>
     <p>
       [ <font color="#3296fa">Emusoft, inc </font>]

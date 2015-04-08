@@ -1,120 +1,17 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1418258046199" TEXT="Languages">
-<node CREATED="1400090034610" ID="ID_365678118" MODIFIED="1400090035954" POSITION="left" TEXT="Alef"/>
-<node CREATED="1399824712281" FOLDED="true" ID="ID_286246793" MODIFIED="1415650587941" POSITION="left" TEXT="Asembler">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1403907731100" ID="ID_1836967640" LINK="http://flatassembler.net/" MODIFIED="1403907922809">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1428447937849">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <b>fasm </b>
-    </p>
-    <p>
-      1999 <font color="#fa0000">PL</font>
-    </p>
-    <p>
-      <i><font color="#3296fa">Tomasz Grysztar </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">a.k.a. Privalov</font></i>
+    <p style="text-align: left">
+      <b>PL</b>
     </p>
   </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1399824675594" ID="ID_556164453" MODIFIED="1399824677943" POSITION="left" TEXT="BASIC"/>
-<node CREATED="1411231254008" ID="ID_1454215732" LINK="http://caml.inria.fr/" MODIFIED="1411231265727" POSITION="left" TEXT="Caml"/>
-<node CREATED="1401918350479" ID="ID_509329743" MODIFIED="1401918356320" POSITION="left" TEXT="CoffeScript"/>
-<node CREATED="1414797714275" ID="ID_1852875123" MODIFIED="1414797720928" POSITION="right" TEXT="Datalog"/>
-<node CREATED="1399915873334" FOLDED="true" ID="ID_401023813" MODIFIED="1421534804798" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Go!</b>&#160;
-    </p>
-    <p>
-      2003
-    </p>
-    <p>
-      <i><font color="#3296fa">Francis McCabe </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">Keith Clark</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223133879" ID="ID_918647012" MODIFIED="1414223248661" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="370;0;"/>
-</node>
-<node CREATED="1414223136119" ID="ID_765649329" MODIFIED="1414223137124" TEXT="&gt;"/>
-</node>
-<node CREATED="1414184653132" FOLDED="true" ID="ID_175252723" LINK="http://hacklang.org/" MODIFIED="1416423983015" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>hack</b><img src="icons/hack.png" />
-    </p>
-    <p>
-      [ <font color="#3296fa">facebook</font>&#160;]
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223148487" ID="ID_1285929834" MODIFIED="1414223276581" TEXT="&gt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="789;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="544;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" SOURCE="ID_1491081924" STARTARROW="None" STARTINCLINATION="458;0;"/>
-</node>
-</node>
-<node CREATED="1399831298187" FOLDED="true" ID="ID_80709921" MODIFIED="1420241673370" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Limbo</b>
-    </p>
-    <p>
-      1995
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_1419902224" MODIFIED="1415650587950">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="icons/people.png" />
-      &#160;people
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#3296fa" CREATED="1413826635289" ID="ID_82045966" LINK="http://herpolhode.com/rob/" MODIFIED="1414223575496" TEXT="Rob Pike">
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1414223749485" ID="ID_20110829" MODIFIED="1414223782718" STYLE="fork" TEXT="Sean Dorward">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1414223754973" ID="ID_1817433885" MODIFIED="1414223782715" STYLE="fork" TEXT="Phil Winterbottom">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-</node>
+</html>
+</richcontent>
 <node CREATED="1399828711389" FOLDED="true" ID="ID_1268856589" MODIFIED="1416423051941" POSITION="left" TEXT="Mac API">
 <node CREATED="1399828718045" ID="ID_1410829608" MODIFIED="1399828720315" TEXT="Cocoa"/>
 <node CREATED="1399828720733" ID="ID_260258861" MODIFIED="1399828724859" TEXT="Carbon"/>
@@ -122,7 +19,6 @@
 </node>
 <node CREATED="1399831194844" ID="ID_1456221369" MODIFIED="1399831197370" POSITION="left" TEXT="ML"/>
 <node CREATED="1399831197916" ID="ID_773608004" MODIFIED="1399831206298" POSITION="left" TEXT="noweb"/>
-<node CREATED="1399828679998" ID="ID_716278565" MODIFIED="1399828684156" POSITION="left" TEXT="OpenStep"/>
 <node CREATED="1399832431283" ID="ID_1593109300" MODIFIED="1399832466718" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -135,32 +31,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1399915894165" FOLDED="true" ID="ID_1945064632" MODIFIED="1421534805686" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Prolog</b>
-    </p>
-    <p>
-      1972 <font color="#fa0000">FR</font>
-    </p>
-    <p>
-      <i><font color="#3296fa">Alain Comerauer</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223237446" ID="ID_909720635" MODIFIED="1421534770959" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" STARTARROW="None" STARTINCLINATION="370;0;"/>
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" STARTARROW="None" STARTINCLINATION="264;0;"/>
-</node>
-<node CREATED="1414223239349" ID="ID_819437184" MODIFIED="1414223240258" TEXT="&lt;"/>
-</node>
 <node CREATED="1399851675913" ID="ID_105388496" MODIFIED="1399851678551" POSITION="left" TEXT="REXX"/>
-<node CREATED="1399824707146" ID="ID_757291439" MODIFIED="1399824711768" POSITION="right" TEXT="SNOBOL"/>
-<node CREATED="1400090039778" ID="ID_1483966976" MODIFIED="1400090041378" POSITION="right" TEXT="Vala"/>
 <node CREATED="1399831210684" FOLDED="true" ID="ID_609191620" MODIFIED="1416423065301" POSITION="left" TEXT="Win API">
 <node CREATED="1399831218460" ID="ID_1910136151" MODIFIED="1399831238071">
 <richcontent TYPE="NODE"><html>
@@ -182,9 +53,9 @@
 <node CREATED="1399851555466" ID="ID_1584953736" MODIFIED="1399851558280" TEXT="Win32s"/>
 <node CREATED="1399851560058" ID="ID_415377549" MODIFIED="1399851564057" TEXT="Win64"/>
 </node>
-<node CREATED="1420241736096" ID="ID_487791167" MODIFIED="1425407511190" POSITION="right" TEXT="Families ">
+<node CREATED="1420241736096" FOLDED="true" ID="ID_487791167" MODIFIED="1427411522129" POSITION="right" TEXT="Families ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417279334489" ID="ID_693855860" MODIFIED="1425407525581" TEXT="Markup language">
+<node CREATED="1417279334489" FOLDED="true" ID="ID_693855860" MODIFIED="1426111346724" TEXT="Markup language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417279352665" FOLDED="true" ID="ID_575866232" MODIFIED="1421534517026" TEXT="HTML">
 <node CREATED="1417279619380" ID="ID_1210723804" LINK="http://haml.info/" MODIFIED="1417279673287" TEXT="Haml"/>
@@ -210,7 +81,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1425407529133" TEXT="Compiled">
+<node CREATED="1416423580002" FOLDED="true" ID="ID_1728030669" MODIFIED="1427321213394" TEXT="Compiled">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414972454263" ID="ID_255010547" LINK="http://www.rust-lang.org/" MODIFIED="1414972547910">
 <richcontent TYPE="NODE"><html>
@@ -219,7 +90,7 @@
   </head>
   <body>
     <p>
-      <b>Rust</b>&#160;<img src="icons/rust.png" />
+      <b>Rust</b>&#160;<img src="../icons/rust.png" />
     </p>
     <p>
       2012
@@ -251,7 +122,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_131686982" ENDARROW="Default" ENDINCLINATION="427;0;" ID="Arrow_ID_1734129943" STARTARROW="None" STARTINCLINATION="427;0;"/>
 </node>
 </node>
-<node CREATED="1399824600938" ID="ID_678160437" MODIFIED="1421534655472">
+<node CREATED="1399824600938" FOLDED="true" ID="ID_678160437" MODIFIED="1426978586780">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -272,13 +143,13 @@
   </body>
 </html></richcontent>
 <node CREATED="1399916443345" ID="ID_240628614" MODIFIED="1418257648137" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" STARTARROW="None" STARTINCLINATION="789;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_27482317" STARTARROW="None" STARTINCLINATION="96;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1764151906" ENDARROW="Default" ENDINCLINATION="191;0;" ID="Arrow_ID_91180816" STARTARROW="None" STARTINCLINATION="191;0;"/>
 <arrowlink COLOR="#969696" DESTINATION="ID_905758910" ENDARROW="Default" ENDINCLINATION="395;-59;" ID="Arrow_ID_1508489523" STARTARROW="None" STARTINCLINATION="83;-50;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" STARTARROW="None" STARTINCLINATION="548;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" STARTARROW="None" STARTINCLINATION="347;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="313;0;" ID="Arrow_ID_469403593" STARTARROW="None" STARTINCLINATION="313;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" STARTARROW="None" STARTINCLINATION="789;0;"/>
 </node>
 <node CREATED="1414223077832" ID="ID_131686982" MODIFIED="1414223100040" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_131686982" ENDARROW="Default" ENDINCLINATION="427;0;" ID="Arrow_ID_1734129943" SOURCE="ID_1361491213" STARTARROW="None" STARTINCLINATION="427;0;"/>
@@ -293,7 +164,7 @@
   </head>
   <body>
     <p>
-      <b>D</b>&#160;<img src="icons/d_programming_language.png" />
+      <b>D</b>&#160;<img src="../icons/d_programming_language.png" />
     </p>
     <p>
       2001
@@ -317,7 +188,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -413,7 +284,7 @@
   </head>
   <body>
     <p>
-      <b>Java</b>&#xa0;<img src="icons/java.png"/>
+      <b>Java</b>&#xa0;<img src="../icons/java.png"/>
     </p>
     <p>
       1995
@@ -424,14 +295,14 @@
   </body>
 </html></richcontent>
 <node CREATED="1414223170390" ID="ID_311815872" MODIFIED="1416423327943" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" STARTARROW="None" STARTINCLINATION="544;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="275;0;" ID="Arrow_ID_1794232383" STARTARROW="None" STARTINCLINATION="275;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" STARTARROW="None" STARTINCLINATION="212;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" STARTARROW="None" STARTINCLINATION="544;0;"/>
 </node>
 <node CREATED="1414223172630" ID="ID_457272363" MODIFIED="1414223173939" TEXT="&lt;"/>
 </node>
 <node CREATED="1414222734464" ID="ID_97565479" MODIFIED="1414222738970" TEXT="ALGOL"/>
-<node CREATED="1399824683722" ID="ID_530058893" MODIFIED="1425407540397">
+<node CREATED="1399824683722" FOLDED="true" ID="ID_530058893" MODIFIED="1427320885711">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -449,7 +320,7 @@
   </body>
 </html></richcontent>
 <node CREATED="1402147646769" ID="ID_973523044" MODIFIED="1402147648223" TEXT="Richard Gabriel"/>
-<node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1425407691164" STYLE="fork" TEXT="LiSP-dialect">
+<node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1426978347370" STYLE="fork" TEXT="LiSP-dialect">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416424910382" ID="ID_67820810" LINK="http://clojure.org/" MODIFIED="1416425415178">
@@ -459,7 +330,7 @@
   </head>
   <body>
     <p>
-      <b>Clojure</b>&#160;<img src="icons/clojure.png" />
+      <b>Clojure</b>&#160;<img src="../icons/clojure.png" />
     </p>
     <p>
       2007
@@ -470,30 +341,98 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1425407697267">
+<node CREATED="1424819964852" FOLDED="true" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1426978584636">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Common LISP </b><img src="icons/commonlisp.png" />
+      <b>Common LISP </b><img src="../icons/commonlisp.png" />
+    </p>
+    <p>
+      1994
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1424819969970" ID="ID_429146574" MODIFIED="1424819971872" TEXT="Scheme"/>
-</node>
-</node>
-<node CREATED="1399831192876" FOLDED="true" ID="ID_1602035379" LINK="http://golang.org/" MODIFIED="1418258046189">
+</html></richcontent>
+<node CREATED="1402184349896" ID="ID_1889598577" MODIFIED="1426111642615">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Go</b>&#160;
+      <img src="../icons/people.png" />
+      &#160;people
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#3296fa" CREATED="1426111698288" ID="ID_632946498" LINK="https://www.cs.cmu.edu/~sef/" MODIFIED="1426111747295" STYLE="fork" TEXT="Scott Fahlman">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1426111698288" ID="ID_1463582471" LINK="http://dreamsongs.com/" MODIFIED="1426111805948" STYLE="fork" TEXT="Richard P. Gabriel">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1426111698288" ID="ID_1003900126" MODIFIED="1426111709967" STYLE="fork" TEXT="Dave Moon">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1426111698289" ID="ID_125716950" MODIFIED="1426111709966" STYLE="fork" TEXT="Guy Steele">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1426111698289" ID="ID_1493583909" MODIFIED="1426111709965" STYLE="fork" TEXT="Dan Weinreb">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1424819969970" ID="ID_429146574" LINK="http://www.schemers.org/" MODIFIED="1426978581600">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Scheme</b>
+    </p>
+    <p>
+      1975
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1426978118432" ID="ID_1491621856" LINK="http://www.newlisp.org/" MODIFIED="1426978505456">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>newLISP</b>&#160;<img src="../icons/newlisp.png" />
+    </p>
+    <p>
+      <font size="2">1991 </font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Lutz Mueller</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1399831192876" FOLDED="true" ID="ID_1602035379" LINK="http://golang.org/" MODIFIED="1427321211474">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Go</b>&#160; <img src="../icons/golang.png" />
     </p>
     <p>
       2009
@@ -513,7 +452,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png" />
+      <img src="../icons/people.png" />
       &#160;people
     </p>
   </body>
@@ -543,7 +482,7 @@
   </head>
   <body>
     <p>
-      <b>Swift</b>&#xa0;<img src="icons/swift_aple.png"/>
+      <b>Swift</b>&#xa0;<img src="../icons/swift_aple.png"/>
     </p>
     <p>
       2014
@@ -563,7 +502,7 @@
   </head>
   <body>
     <p>
-      <b>Haskell</b>&#160;<img src="icons/haskell.png" />
+      <b>Haskell</b>&#160;<img src="../icons/haskell.png" />
     </p>
     <p>
       1990
@@ -586,8 +525,8 @@
   </body>
 </html></richcontent>
 <node CREATED="1414790088090" ID="ID_1076606841" MODIFIED="1421534770959" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="264;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" SOURCE="ID_1168675224" STARTARROW="None" STARTINCLINATION="82;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="264;0;"/>
 </node>
 <node CREATED="1414790090282" ID="ID_1546611264" MODIFIED="1414790091031" TEXT="&gt;"/>
 <node CREATED="1421534717827" ID="ID_152636690" MODIFIED="1421534724228" TEXT="developers">
@@ -609,7 +548,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423396294" FOLDED="true" ID="ID_1627802312" MODIFIED="1424819946108">
+<node CREATED="1416423396294" ID="ID_1627802312" MODIFIED="1427070243480">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -634,7 +573,7 @@
   </head>
   <body>
     <p>
-      <b>Python</b>&#xa0;<img src="icons/py.png"/>
+      <b>Python</b>&#xa0;<img src="../icons/py.png"/>
     </p>
     <p>
       1991
@@ -657,7 +596,7 @@
   </head>
   <body>
     <p>
-      <b>Ruby</b>&#160;<img src="icons/ruby.png" />
+      <b>Ruby</b>&#160;<img src="../icons/ruby.png" />
     </p>
     <p>
       1995 JP
@@ -679,7 +618,7 @@
   </head>
   <body>
     <p>
-      <b>PHP </b><img src="icons/php.png" />
+      <b>PHP </b><img src="../icons/php.png" />
     </p>
     <p>
       1995
@@ -705,7 +644,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       &#160;<b>Version history</b>
     </p>
   </body>
@@ -714,7 +653,7 @@
 <node CREATED="1414629479957" ID="ID_1946059570" MODIFIED="1414629482578" TEXT="5.4"/>
 </node>
 </node>
-<node CREATED="1416423430293" FOLDED="true" ID="ID_1932605362" MODIFIED="1418258046180" TEXT="JavaScript">
+<node CREATED="1416423430293" FOLDED="true" ID="ID_1932605362" MODIFIED="1427321218681" TEXT="JavaScript">
 <node CREATED="1418257326877" ID="ID_549111796" MODIFIED="1418257328042" TEXT="&gt;"/>
 <node CREATED="1418257328461" ID="ID_1796491976" MODIFIED="1418257415021" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="347;0;"/>
@@ -729,14 +668,14 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" STARTARROW="None" STARTINCLINATION="82;0;"/>
 </node>
 </node>
-<node CREATED="1399824602570" FOLDED="true" ID="ID_697178098" LINK="http://www.lua.org/" MODIFIED="1418257285367" STYLE="fork">
+<node CREATED="1399824602570" FOLDED="true" ID="ID_697178098" LINK="http://www.lua.org/" MODIFIED="1427070256949" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Lua </b><img src="icons/lua.png" />
+      <b>Lua </b><img src="../icons/lua.png" />
     </p>
     <p>
       1993
@@ -750,7 +689,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -797,7 +736,7 @@
   </head>
   <body>
     <p>
-      <b>Perl</b>&#160;<img src="icons/perl.png" />
+      <b>Perl</b>&#160;<img src="../icons/perl.png" />
     </p>
     <p>
       1987
@@ -841,7 +780,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png" />
+      <img src="../icons/people.png" />
       &#160;people
     </p>
   </body>
@@ -939,7 +878,7 @@
   </head>
   <body>
     <p>
-      <b>JSON </b><img src="icons/json.png" />
+      <b>JSON </b><img src="../icons/json.png" />
     </p>
     <p>
       <i><font color="#3296fa">Douglas Crockford</font></i>
@@ -949,8 +888,172 @@
 </node>
 </node>
 </node>
+<node CREATED="1414184653132" FOLDED="true" ID="ID_175252723" LINK="http://hacklang.org/" MODIFIED="1416423983015">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>hack</b><img src="../icons/hack.png" />
+    </p>
+    <p>
+      [ <font color="#3296fa">facebook</font>&#160;]
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223148487" ID="ID_1285929834" MODIFIED="1414223276581" TEXT="&gt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="789;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="544;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" SOURCE="ID_1491081924" STARTARROW="None" STARTINCLINATION="458;0;"/>
 </node>
-<node CREATED="1417986585330" ID="ID_370572784" MODIFIED="1424899470378" POSITION="right" TEXT="Components">
+</node>
+<node CREATED="1399831298187" FOLDED="true" ID="ID_80709921" MODIFIED="1420241673370">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Limbo</b>
+    </p>
+    <p>
+      1995
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1402184349896" FOLDED="true" ID="ID_1419902224" MODIFIED="1415650587950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/people.png" />
+      &#160;people
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#3296fa" CREATED="1413826635289" ID="ID_82045966" LINK="http://herpolhode.com/rob/" MODIFIED="1414223575496" TEXT="Rob Pike">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1414223749485" ID="ID_20110829" MODIFIED="1414223782718" STYLE="fork" TEXT="Sean Dorward">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1414223754973" ID="ID_1817433885" MODIFIED="1414223782715" STYLE="fork" TEXT="Phil Winterbottom">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1399824675594" ID="ID_556164453" MODIFIED="1399824677943" TEXT="BASIC"/>
+<node CREATED="1399824712281" FOLDED="true" ID="ID_286246793" MODIFIED="1415650587941" TEXT="Asembler">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1403907731100" ID="ID_1836967640" LINK="http://flatassembler.net/" MODIFIED="1403907922809">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>fasm </b>
+    </p>
+    <p>
+      1999 <font color="#fa0000">PL</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Tomasz Grysztar </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">a.k.a. Privalov</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1400090034610" ID="ID_365678118" MODIFIED="1400090035954" TEXT="Alef"/>
+<node CREATED="1411231254008" ID="ID_1454215732" LINK="http://caml.inria.fr/" MODIFIED="1411231265727" TEXT="Caml"/>
+<node CREATED="1401918350479" ID="ID_509329743" MODIFIED="1401918356320" TEXT="CoffeScript"/>
+<node CREATED="1399828679998" ID="ID_716278565" MODIFIED="1399828684156" TEXT="OpenStep"/>
+<node CREATED="1399915894165" FOLDED="true" ID="ID_1945064632" MODIFIED="1421534805686">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Prolog</b>
+    </p>
+    <p>
+      1972 <font color="#fa0000">FR</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Alain Comerauer</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223237446" ID="ID_909720635" MODIFIED="1421534770959" TEXT="&gt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" STARTARROW="None" STARTINCLINATION="264;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" STARTARROW="None" STARTINCLINATION="370;0;"/>
+</node>
+<node CREATED="1414223239349" ID="ID_819437184" MODIFIED="1414223240258" TEXT="&lt;"/>
+</node>
+<node CREATED="1400090039778" ID="ID_1483966976" MODIFIED="1400090041378" TEXT="Vala"/>
+<node CREATED="1399824707146" ID="ID_757291439" MODIFIED="1399824711768" TEXT="SNOBOL"/>
+<node CREATED="1399915873334" FOLDED="true" ID="ID_401023813" MODIFIED="1421534804798">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Go!</b>&#160;
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <i><font color="#3296fa">Francis McCabe </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">Keith Clark</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223133879" ID="ID_918647012" MODIFIED="1414223248661" TEXT="&lt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="370;0;"/>
+</node>
+<node CREATED="1414223136119" ID="ID_765649329" MODIFIED="1414223137124" TEXT="&gt;"/>
+</node>
+<node CREATED="1414797714275" ID="ID_1852875123" MODIFIED="1414797720928" TEXT="Datalog"/>
+<node CREATED="1418257397068" FOLDED="true" ID="ID_1945727541" MODIFIED="1427321166010" TEXT="HyperTalk">
+<node CREATED="1418257404796" ID="ID_524077208" MODIFIED="1418257415021" TEXT="&gt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" STARTARROW="None" STARTINCLINATION="1282;0;"/>
+</node>
+<node CREATED="1418257406140" ID="ID_307838912" MODIFIED="1418257406729" TEXT="&lt;"/>
+</node>
+<node CREATED="1427321228049" ID="ID_1236310478" MODIFIED="1427321349400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Scala </b><img src="../icons/scala.png" />
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <i><font color="#3296fa">Martin Odersky</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1417986585330" ID="ID_370572784" MODIFIED="1428447942551" POSITION="right" TEXT="Components">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417986592068" FOLDED="true" ID="ID_1569326826" MODIFIED="1424899471605" TEXT="Comments">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1010,12 +1113,12 @@
 </node>
 <node CREATED="1424820015442" ID="ID_1258216614" MODIFIED="1424820040752" TEXT="(* {Text} *)"/>
 </node>
-<node CREATED="1423093757549" FOLDED="true" ID="ID_1787103895" MODIFIED="1424899473212" TEXT="Variables">
+<node CREATED="1423093757549" FOLDED="true" ID="ID_1787103895" MODIFIED="1426978615804" TEXT="Variables">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1423093763484" ID="ID_415798276" MODIFIED="1423093775258" TEXT="$[var_name]"/>
 <node CREATED="1423093781005" ID="ID_1432785671" MODIFIED="1423093784473" TEXT="[var_name]"/>
 </node>
-<node CREATED="1424899474294" FOLDED="true" ID="ID_1267059046" MODIFIED="1425407489806" TEXT="Modulo">
+<node CREATED="1424899474294" ID="ID_1267059046" MODIFIED="1428447968775" TEXT="Modulo">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1025,10 +1128,9 @@
       &#160;the modulo operation finds the remainder after division of one number by another
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424899482585" ID="ID_1259276460" MODIFIED="1424899485846" TEXT="%">
+<node CREATED="1424899482585" FOLDED="true" ID="ID_1259276460" MODIFIED="1428447989588" TEXT="%">
 <node CREATED="1424899580102" ID="ID_1676071871" MODIFIED="1424899582804" TEXT="Awk"/>
 <node CREATED="1424899583367" ID="ID_1636897451" MODIFIED="1424899586709" TEXT="Python"/>
 <node CREATED="1424899587047" ID="ID_629680165" MODIFIED="1424899594341" TEXT="C/C++"/>
@@ -1038,17 +1140,17 @@
 <node CREATED="1424899688598" ID="ID_872143039" MODIFIED="1424899690116" TEXT="Perl"/>
 <node CREATED="1424899709157" ID="ID_232425213" MODIFIED="1424899710755" TEXT="Ruby"/>
 </node>
-<node CREATED="1424899486265" ID="ID_1810172944" MODIFIED="1424899489468" TEXT="mod">
+<node CREATED="1424899486265" FOLDED="true" ID="ID_1810172944" MODIFIED="1426978607220" TEXT="mod">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1424899602935" ID="ID_1232936900" MODIFIED="1424899606069" TEXT="Common Lisp"/>
 <node CREATED="1424899677830" ID="ID_1033320749" MODIFIED="1424899680275" TEXT="Pascal"/>
 <node CREATED="1424899717013" ID="ID_1855129104" MODIFIED="1424899719138" TEXT="Scheme"/>
 </node>
-<node CREATED="1424899665254" ID="ID_1777301125" MODIFIED="1424899668088" TEXT="MOD">
+<node CREATED="1424899665254" FOLDED="true" ID="ID_1777301125" MODIFIED="1426978608372" TEXT="MOD">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1424899668725" ID="ID_27694921" MODIFIED="1424899670995" TEXT="Oberon"/>
 </node>
-<node CREATED="1424899494553" ID="ID_39310485" MODIFIED="1424899498025" TEXT="rem">
+<node CREATED="1424899494553" FOLDED="true" ID="ID_39310485" MODIFIED="1427321190634" TEXT="rem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1424899609767" ID="ID_448000918" MODIFIED="1424899612836" TEXT="Common Lisp"/>
 <node CREATED="1424899619094" ID="ID_1816880202" MODIFIED="1424899622501" TEXT="Erlang"/>
@@ -1056,8 +1158,17 @@
 </node>
 <node CREATED="1424899514697" ID="ID_877022934" MODIFIED="1424899517205" TEXT="\\"/>
 </node>
+<node CREATED="1428447948952" ID="ID_1444544552" MODIFIED="1428447964938" TEXT="Floor division">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1428447973352" ID="ID_134445198" MODIFIED="1428447975269" TEXT="//">
+<node CREATED="1428447976119" ID="ID_1903500265" MODIFIED="1428447980118" TEXT="Pyhon"/>
+</node>
+</node>
 <node CREATED="1425407491620" ID="ID_291276606" MODIFIED="1425407502419" TEXT="Function">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1426978620777" ID="ID_1983959118" MODIFIED="1426978623285" TEXT="def"/>
+<node CREATED="1426978623666" ID="ID_1987592671" MODIFIED="1426978626197" TEXT="defun"/>
+<node CREATED="1426978626568" ID="ID_1878644229" MODIFIED="1426978634325" TEXT="defn"/>
 </node>
 </node>
 <node CREATED="1418255896436" ID="ID_1230031090" MODIFIED="1424820065170" POSITION="right" TEXT="Paradigms">
@@ -1153,12 +1264,6 @@
 <node CREATED="1424820069425" ID="ID_508369269" MODIFIED="1424820074195" TEXT="COP">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-</node>
-<node CREATED="1418257397068" FOLDED="true" ID="ID_1945727541" MODIFIED="1418258046199" POSITION="right" TEXT="HyperTalk">
-<node CREATED="1418257404796" ID="ID_524077208" MODIFIED="1418257415021" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" STARTARROW="None" STARTINCLINATION="1282;0;"/>
-</node>
-<node CREATED="1418257406140" ID="ID_307838912" MODIFIED="1418257406729" TEXT="&lt;"/>
 </node>
 </node>
 </map>

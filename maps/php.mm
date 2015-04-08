@@ -7,7 +7,7 @@
   </head>
   <body>
     <p>
-      &#160;<img src="icons/php.png" />
+      &#160;<img src="../icons/php.png" />
     </p>
     <p>
       <b>PHP</b>
@@ -622,7 +622,7 @@
   </head>
   <body>
     <p>
-      functions <img src="icons/function.png" />
+      functions <img src="../icons/function.png" />
     </p>
   </body>
 </html></richcontent>

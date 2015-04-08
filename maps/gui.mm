@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1426711953282" STYLE="fork" TEXT="GUI">
+<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1428529351731" STYLE="fork" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10,9 +10,10 @@
       http://en.wikipedia.org/wiki/Desktop_environment
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399812553231" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1417377653574" POSITION="right">
+<node CREATED="1399812553231" FOLDED="true" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1428529711436" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -40,14 +41,14 @@
 <node CREATED="1399835401896" LINK="http://www.freedesktop.org/wiki/" MODIFIED="1399835429372" TEXT="fd.o"/>
 </node>
 <node CREATED="1409598848341" ID="ID_1994806805" MODIFIED="1409598850676" TEXT="DRI2"/>
-<node COLOR="#ff0000" CREATED="1399817067615" FOLDED="true" ID="ID_1507815884" LINK="http://wayland.freedesktop.org/" MODIFIED="1417296625781">
+<node COLOR="#ff0000" CREATED="1399817067615" FOLDED="true" ID="ID_1507815884" LINK="http://wayland.freedesktop.org/" MODIFIED="1428529395257">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b><font color="#000000">Wayland</font>&#xa0;</b>&#xa0;<img src="icons/wayland.png"/>
+      <b><font color="#000000">Wayland</font>&#xa0;</b>&#xa0;<img src="../icons/wayland.png"/>
     </p>
     <p>
       <font color="#000000">2008</font>&#xa0;<font color="#fa0000">US</font>
@@ -79,7 +80,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417377656934" ID="ID_1949155085" MODIFIED="1417377664167" TEXT="terminals">
+<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1428529708996" TEXT="terminals">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417378969784" MODIFIED="1417378969784" TEXT="aterm"/>
 <node CREATED="1417378969785" MODIFIED="1417378969785" TEXT="eterm"/>
@@ -106,7 +107,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -116,14 +117,14 @@
 <node CREATED="1417296340015" ID="ID_1591249503" MODIFIED="1417296364544" POSITION="left" TEXT="Display manager">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417297438174" ID="ID_712302856" MODIFIED="1426711955720" POSITION="left">
+<node CREATED="1417297438174" FOLDED="true" ID="ID_712302856" MODIFIED="1428529648182" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Window Manager <img src="icons/de_wm.png" />
+      Window Manager <img src="../icons/de_wm.png" />
     </p>
   </body>
 </html></richcontent>
@@ -144,7 +145,7 @@
 <node CREATED="1417298281134" ID="ID_504887434" MODIFIED="1417298281134" TEXT="wm2"/>
 <node CREATED="1417298281135" ID="ID_571511731" MODIFIED="1417298281135" TEXT="wmx"/>
 <node CREATED="1399322458146" ID="ID_1061689773" MODIFIED="1399322463696" TEXT="WMaker"/>
-<node CREATED="1417300353201" ID="ID_1958118582" MODIFIED="1426712016728" TEXT="composite">
+<node CREATED="1417300353201" ID="ID_1958118582" MODIFIED="1428529470919" TEXT="composite">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812709342" ID="ID_1634763815" LINK="http://www.compiz.org/" MODIFIED="1426712016731">
 <richcontent TYPE="NODE"><html>
@@ -153,7 +154,7 @@
   </head>
   <body>
     <p>
-      <b>Compiz</b>&#160;<img src="icons/compiz.png" />
+      <b>Compiz</b>&#160;<img src="../icons/compiz.png" />
     </p>
     <p>
       2006
@@ -173,7 +174,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -263,7 +264,7 @@
 <node CREATED="1403351808569" ID="ID_1123762814" LINK="http://blogs.gnome.org/metacity/" MODIFIED="1417297511477" TEXT="Metacity"/>
 <node CREATED="1417300697100" ID="ID_154120649" MODIFIED="1417300700745" TEXT="Xfwm"/>
 </node>
-<node CREATED="1417300425711" FOLDED="true" ID="ID_538987514" MODIFIED="1417301946323" TEXT="stacking">
+<node CREATED="1417300425711" ID="ID_538987514" MODIFIED="1428529644559" TEXT="stacking">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417301288774" MODIFIED="1417301288774" TEXT="4Dwm"/>
 <node CREATED="1417301288774" ID="ID_1541088169" LINK="http://unauthorised.org/dhog/9wm.html" MODIFIED="1417301404554">
@@ -294,7 +295,7 @@
   </head>
   <body>
     <p>
-      <b>Fluxbox</b>&#160;<img src="icons/fluxbox.png" />
+      <b>Fluxbox</b>&#160;<img src="../icons/fluxbox.png" />
     </p>
     <p>
       2001
@@ -311,7 +312,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -366,7 +367,7 @@
   </head>
   <body>
     <p>
-      <b>i3wm</b>&#160;<img src="icons/i3wm.png" />
+      <b>i3wm</b>&#160;<img src="../icons/i3wm.png" />
     </p>
   </body>
 </html></richcontent>
@@ -380,7 +381,7 @@
   </head>
   <body>
     <p>
-      <b>Awesome</b>&#160;<img src="icons/awesome.png" />
+      <b>Awesome</b>&#160;<img src="../icons/awesome.png" />
     </p>
     <p>
       2007
@@ -409,7 +410,7 @@
 <node CREATED="1403351808572" ID="ID_149423730" MODIFIED="1403351808572" TEXT="XBMC"/>
 <node CREATED="1411937807687" ID="ID_1814997764" LINK="http://www.sugarlabs.org/" MODIFIED="1411937819822" TEXT="Sugar"/>
 </node>
-<node CREATED="1417296355983" ID="ID_759953660" MODIFIED="1426711964518" POSITION="left" TEXT="Desktop Environment">
+<node CREATED="1417296355983" FOLDED="true" ID="ID_759953660" MODIFIED="1428529581255" POSITION="left" TEXT="Desktop Environment">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397937262168" ID="ID_94654175" LINK="http://lxde.org/" MODIFIED="1417299830751" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -418,7 +419,7 @@
   </head>
   <body>
     <p>
-      <b>LXDE</b>&#160;<img src="icons/lxde.png" />
+      <b>LXDE</b>&#160;<img src="../icons/lxde.png" />
     </p>
     <p>
       2006
@@ -459,7 +460,7 @@
   </head>
   <body>
     <p>
-      <b>KDE </b><img src="icons/kde.png" />
+      <b>KDE </b><img src="../icons/kde.png" />
     </p>
     <p>
       1996
@@ -477,7 +478,7 @@
   </head>
   <body>
     <p>
-      <b>GNOME</b>&#160;<img src="icons/gnome.png" />
+      <b>GNOME</b>&#160;<img src="../icons/gnome.png" />
     </p>
     <p>
       1997
@@ -498,7 +499,7 @@
   </head>
   <body>
     <p>
-      <b>Xfce </b><img src="icons/xfce.png"/>
+      <b>Xfce </b><img src="../icons/xfce.png"/>
     </p>
     <p>
       1996
@@ -532,7 +533,7 @@
   </head>
   <body>
     <p>
-      <b>Razor-qt </b><img src="icons/razor_qt.png" />
+      <b>Razor-qt </b><img src="../icons/razor_qt.png" />
     </p>
     <p>
       2010
@@ -561,7 +562,7 @@
   </head>
   <body>
     <p>
-      <b>Unity </b><img src="icons/unity.png" />
+      <b>Unity </b><img src="../icons/unity.png" />
     </p>
     <p>
       2010
@@ -610,7 +611,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1417296420878" FOLDED="true" ID="ID_171099615" MODIFIED="1417377575305" POSITION="left" TEXT="Graphical User Interface">
+<node CREATED="1417296420878" FOLDED="true" ID="ID_171099615" MODIFIED="1428529705525" POSITION="left" TEXT="Graphical User Interface">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -620,7 +621,8 @@
       http://en.wikipedia.org/wiki/Desktop_environment
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399312026486" ID="ID_1903506174" LINK="http://www.fltk.org/index.php" MODIFIED="1399312133143">
 <richcontent TYPE="NODE"><html>
@@ -644,7 +646,7 @@
   </head>
   <body>
     <p>
-      <b>Qt</b>&#160;<img src="icons/qt.png" />
+      <b>Qt</b>&#160;<img src="../icons/qt.png" />
     </p>
     <p>
       1995
@@ -658,7 +660,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -694,7 +696,7 @@
   </head>
   <body>
     <p>
-      <b>GTK+</b>&#160;<img src="icons/gtk.png" />
+      <b>GTK+</b>&#160;<img src="../icons/gtk.png" />
     </p>
     <p>
       1998

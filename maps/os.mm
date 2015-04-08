@@ -186,7 +186,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
   </body>
@@ -259,7 +259,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version 6 Unix</b>
     </p>
     <p>
@@ -421,7 +421,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/busybox.png"/>
+      <img src="../icons/busybox.png"/>
       &#xa0;<b>BusyBox</b>&#xa0;1995
     </p>
     <p>
@@ -448,7 +448,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       /Busybox
     </p>
   </body>
@@ -467,7 +467,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -498,7 +498,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       Unix family
     </p>
   </body>
@@ -535,7 +535,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
   </body>
@@ -599,7 +599,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       BSD-lderived
     </p>
   </body>
@@ -702,7 +702,7 @@
   </head>
   <body>
     <p>
-      <b>NetBSD</b>&#xa0;<img src="icons/netbsd.png"/>
+      <b>NetBSD</b>&#xa0;<img src="../icons/netbsd.png"/>
     </p>
     <p>
       1993 <font color="#fa0000">US</font>
@@ -716,7 +716,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -751,7 +751,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -765,7 +765,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -779,7 +779,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -806,7 +806,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       NetBSD-derived
     </p>
   </body>
@@ -820,7 +820,7 @@
   </head>
   <body>
     <p>
-      <b>OpenBSD</b>&#xa0;<img src="icons/openbsd.png"/>&#xa0;
+      <b>OpenBSD</b>&#xa0;<img src="../icons/openbsd.png"/>&#xa0;
     </p>
     <p>
       1996 <font color="#fa0000">CA</font>
@@ -864,7 +864,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -907,7 +907,7 @@
   </head>
   <body>
     <p>
-      <b>MirOS BSD </b><img src="icons/miros_bsd.png"/>
+      <b>MirOS BSD </b><img src="../icons/miros_bsd.png"/>
     </p>
     <p>
       2005 <font color="#fa0000">DE</font>
@@ -921,7 +921,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -951,7 +951,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -1000,7 +1000,7 @@
   </head>
   <body>
     <p>
-      &#xa0;<b>FreeBSD</b>&#xa0;<img src="icons/freebsd.png"/>
+      &#xa0;<b>FreeBSD</b>&#xa0;<img src="../icons/freebsd.png"/>
     </p>
     <p>
       1993 <font color="#fa0000">US</font>
@@ -1015,7 +1015,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -1053,7 +1053,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -1080,7 +1080,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -1106,7 +1106,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -1124,7 +1124,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -1139,7 +1139,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -1177,7 +1177,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc: FreeBSD
     </p>
   </body>
@@ -1192,7 +1192,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;FreeBSD-derived
     </p>
   </body>
@@ -1206,7 +1206,7 @@
   </head>
   <body>
     <p>
-      <b>DragonFly BSD </b><img src="icons/dragonfly_bsd.png" />
+      <b>DragonFly BSD </b><img src="../icons/dragonfly_bsd.png" />
     </p>
     <p>
       2004 <font color="#fa0000">US</font>
@@ -1235,7 +1235,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -1251,7 +1251,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -1272,7 +1272,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -1287,7 +1287,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -1302,7 +1302,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: DragonFly BSD
     </p>
   </body>
@@ -1317,7 +1317,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -1331,7 +1331,7 @@
   </head>
   <body>
     <p>
-      <b>PC-BSD</b>&#xa0;<img src="icons/pcbsd.png"/>
+      <b>PC-BSD</b>&#xa0;<img src="../icons/pcbsd.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">US </font>
@@ -1348,7 +1348,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -1430,7 +1430,7 @@
   </head>
   <body>
     <p>
-      <b>m0n0wall</b>&#xa0;<img src="icons/monowall.png"/>
+      <b>m0n0wall</b>&#xa0;<img src="../icons/monowall.png"/>
     </p>
     <p>
       2004 <font color="#fa0000">CH </font>
@@ -1460,7 +1460,7 @@
   </head>
   <body>
     <p>
-      <b>pfSense</b>&#xa0;<img src="icons/pfsense.png"/>
+      <b>pfSense</b>&#xa0;<img src="../icons/pfsense.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">US </font>
@@ -1511,7 +1511,7 @@
   </head>
   <body>
     <p>
-      <b>HardenedBSD</b>&#xa0;<img src="icons/hardenedbsd.png"/>
+      <b>HardenedBSD</b>&#xa0;<img src="../icons/hardenedbsd.png"/>
     </p>
     <p>
       2014 <font color="#fa0000">US </font>
@@ -1545,7 +1545,7 @@
   </head>
   <body>
     <p>
-      <b>MidnightBSD</b><img src="icons/midnightbsd.png" />
+      <b>MidnightBSD</b><img src="../icons/midnightbsd.png" />
     </p>
     <p>
       2006 <font color="#fa0000">US</font>
@@ -1572,7 +1572,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -1586,7 +1586,7 @@
   </head>
   <body>
     <p>
-      <b>FreeNAS</b>&#xa0;<img src="icons/freenas.png"/>
+      <b>FreeNAS</b>&#xa0;<img src="../icons/freenas.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">FR</font>
@@ -1600,7 +1600,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1623,7 +1623,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -1693,7 +1693,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png" />
+      <img src="../icons/people.png" />
       <b>people</b>
     </p>
   </body>
@@ -1785,7 +1785,7 @@
   </head>
   <body>
     <p>
-      <b>GNU/Linux</b><img src="icons/gnu.png"/><img src="icons/linux.png"/>
+      <b>GNU/Linux</b><img src="../icons/gnu.png"/><img src="../icons/linux.png"/>
     </p>
     <p>
       1983, 1991
@@ -1800,7 +1800,7 @@
   </head>
   <body>
     <p>
-      <b>GNU</b>&#xa0;<img src="icons/gnu.png"/>
+      <b>GNU</b>&#xa0;<img src="../icons/gnu.png"/>
     </p>
     <p>
       1983
@@ -1887,7 +1887,7 @@
   </head>
   <body>
     <p>
-      <b>Linux </b><img src="icons/linux.png"/>
+      <b>Linux </b><img src="../icons/linux.png"/>
     </p>
     <p>
       1991
@@ -1905,7 +1905,7 @@
   </head>
   <body>
     <p>
-      <b>Arch Linux&#xa0;</b><img src="icons/arch_linux.png"/>
+      <b>Arch Linux&#xa0;</b><img src="../icons/arch_linux.png"/>
     </p>
     <p>
       2002 <font color="#fa0000">CA</font>
@@ -1921,7 +1921,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -1941,7 +1941,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -1970,7 +1970,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -1987,7 +1987,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -2008,7 +2008,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -2031,7 +2031,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -2051,7 +2051,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -2066,7 +2066,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;<b>doc: Arch Linux</b>
     </p>
   </body>
@@ -2080,7 +2080,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2093,7 +2093,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Arch-derived
     </p>
   </body>
@@ -2106,7 +2106,7 @@
   </head>
   <body>
     <p>
-      <b>Antergos</b>&#xa0;<img src="icons/antergos.png"/>
+      <b>Antergos</b>&#xa0;<img src="../icons/antergos.png"/>
     </p>
     <p>
       2005 <font color="#fa0000">ES</font>
@@ -2125,7 +2125,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -2142,7 +2142,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -2184,7 +2184,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2198,7 +2198,7 @@
   </head>
   <body>
     <p>
-      <b>ArchBang </b><img src="icons/archbang_linux.png" />
+      <b>ArchBang </b><img src="../icons/archbang_linux.png" />
     </p>
     <p>
       2012&#160;<font color="#fa0000">CA </font>
@@ -2216,7 +2216,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -2233,7 +2233,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -2268,7 +2268,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -2284,7 +2284,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -2301,7 +2301,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2315,7 +2315,7 @@
   </head>
   <body>
     <p>
-      <b>Chakra GNU/Linux</b>&#160;<img src="icons/chakra_gnu_linux.png" />
+      <b>Chakra GNU/Linux</b>&#160;<img src="../icons/chakra_gnu_linux.png" />
     </p>
     <p>
       2011 <font color="#fa0000">DE</font>
@@ -2333,7 +2333,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       &#160;<b>Version history</b>
     </p>
     <p>
@@ -2350,7 +2350,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -2379,7 +2379,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -2412,7 +2412,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -2447,7 +2447,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -2465,7 +2465,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2479,7 +2479,7 @@
   </head>
   <body>
     <p>
-      <b>Manjaro </b><img src="icons/manjaro.png"/>&#xa0;<b>&#xa0; </b>
+      <b>Manjaro </b><img src="../icons/manjaro.png"/>&#xa0;<b>&#xa0; </b>
     </p>
     <p>
       2012 <font color="#fa0000">AT | DE | FR</font>
@@ -2494,7 +2494,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -2514,7 +2514,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -2543,7 +2543,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -2566,7 +2566,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -2591,7 +2591,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -2608,7 +2608,7 @@
   </head>
   <body>
     <p>
-      get source <img src="icons/download.png" />
+      get source <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2621,7 +2621,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Manjaro-derived
     </p>
   </body>
@@ -2635,7 +2635,7 @@
   </head>
   <body>
     <p>
-      <b>Netrunner </b><img src="icons/netrunner.png"/>
+      <b>Netrunner </b><img src="../icons/netrunner.png"/>
     </p>
     <p>
       Rolling Release
@@ -2665,7 +2665,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2706,7 +2706,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2781,7 +2781,7 @@
   </head>
   <body>
     <p>
-      <b>Arch Linux ARM </b><img src="icons/arch_linux.png" />
+      <b>Arch Linux ARM </b><img src="../icons/arch_linux.png" />
     </p>
     <p>
       2009
@@ -2807,7 +2807,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -2836,7 +2836,7 @@
   </head>
   <body>
     <p>
-      <b>Black Arch Linux</b>&#xa0;<img src="icons/blackarch_linux.png"/>
+      <b>Black Arch Linux</b>&#xa0;<img src="../icons/blackarch_linux.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">US</font>
@@ -2850,7 +2850,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -2884,7 +2884,7 @@
   </head>
   <body>
     <p>
-      <b>Bridge Linux</b>&#xa0;<img src="icons/bridge_linux.png"/>
+      <b>Bridge Linux</b>&#xa0;<img src="../icons/bridge_linux.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">US</font>
@@ -2898,7 +2898,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -2927,7 +2927,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -2943,7 +2943,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -2961,7 +2961,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -2980,7 +2980,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -2996,7 +2996,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3011,7 +3011,7 @@
   </head>
   <body>
     <p>
-      <b>CTKArch</b>&#xa0;<img src="icons/arch_linux.png"/>
+      <b>CTKArch</b>&#xa0;<img src="../icons/arch_linux.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">FR</font>
@@ -3026,7 +3026,7 @@
   </head>
   <body>
     <p>
-      <b>KahelOS</b>&#xa0;<img src="icons/kahelos.png"/>
+      <b>KahelOS</b>&#xa0;<img src="../icons/kahelos.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">PH</font>
@@ -3041,7 +3041,7 @@
   </head>
   <body>
     <p>
-      <b>LinHES&#xa0;</b><img src="icons/linhes.png"/>
+      <b>LinHES&#xa0;</b><img src="../icons/linhes.png"/>
     </p>
     <p>
       2003 <font color="#fa0000">US </font>
@@ -3059,7 +3059,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -3145,7 +3145,7 @@
   </head>
   <body>
     <p>
-      <b>Parabola GNU/Linux</b>&#xa0;<img src="icons/parabola_gnu_linux.png"/>
+      <b>Parabola GNU/Linux</b>&#xa0;<img src="../icons/parabola_gnu_linux.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">CL</font>
@@ -3180,7 +3180,7 @@
   </head>
   <body>
     <p>
-      <b>PoliArch</b>&#xa0;<img src="icons/poliarch.png"/>
+      <b>PoliArch</b>&#xa0;<img src="../icons/poliarch.png"/>
     </p>
     <p>
       2013<font color="#fa0000">&#xa0;IT</font>
@@ -3194,7 +3194,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -3406,7 +3406,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -3431,7 +3431,7 @@
   </head>
   <body>
     <p>
-      <b>arkOS</b>&#xa0;<img src="icons/arkos.png"/>
+      <b>arkOS</b>&#xa0;<img src="../icons/arkos.png"/>
     </p>
     <p>
       <i><font color="#3296fa">Jacob Cook</font></i>
@@ -3445,7 +3445,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -3465,7 +3465,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -3478,7 +3478,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       <b>doc: arkOS</b>
     </p>
   </body>
@@ -3492,7 +3492,7 @@
   </head>
   <body>
     <p>
-      get source <img src="icons/download.png" />
+      get source <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3527,7 +3527,7 @@
   </head>
   <body>
     <p>
-      <b>Debian </b><img src="icons/debian.png" />
+      <b>Debian </b><img src="../icons/debian.png" />
     </p>
     <p>
       1993 <font color="#fa0000">Glob</font>
@@ -3546,7 +3546,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -3773,7 +3773,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -3802,7 +3802,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -3827,7 +3827,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -3852,7 +3852,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -3902,7 +3902,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -3922,7 +3922,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -3939,7 +3939,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc: Debian
     </p>
   </body>
@@ -3952,7 +3952,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       /Debian
     </p>
   </body>
@@ -3967,7 +3967,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -3980,7 +3980,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Debian-derived
     </p>
   </body>
@@ -3993,7 +3993,7 @@
   </head>
   <body>
     <p>
-      <b>BOSS GNU/Linux </b><img src="icons/boss.png" />
+      <b>BOSS GNU/Linux </b><img src="../icons/boss.png" />
     </p>
     <p>
       <font size="2">2007 </font><font color="#fa0000" size="2">ID</font>
@@ -4013,7 +4013,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -4033,7 +4033,7 @@
   </head>
   <body>
     <p>
-      <b>About BOSS</b><img src="icons/open_source.png" />
+      <b>About BOSS</b><img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -4055,7 +4055,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -4070,7 +4070,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -4085,7 +4085,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -4101,7 +4101,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -4115,7 +4115,7 @@
   </head>
   <body>
     <p>
-      <b>BRLix</b><img src="icons/brlix.png" />
+      <b>BRLix</b><img src="../icons/brlix.png" />
     </p>
     <p>
       2004 <font color="#fa0000">BR</font>
@@ -4143,7 +4143,7 @@
   </head>
   <body>
     <p>
-      <b>Caixa M&#xe1;gica</b>&#xa0;<img src="icons/caixa_magica.png"/>
+      <b>Caixa M&#xe1;gica</b>&#xa0;<img src="../icons/caixa_magica.png"/>
     </p>
     <p>
       2000 <font color="#fa0000">PT</font>
@@ -4160,7 +4160,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -4194,7 +4194,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -4209,7 +4209,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -4224,7 +4224,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -4245,7 +4245,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -4259,7 +4259,7 @@
   </head>
   <body>
     <p>
-      <b>GParted Live </b><img src="icons/gparted.png"/>
+      <b>GParted Live </b><img src="../icons/gparted.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">US</font>
@@ -4273,7 +4273,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -4307,7 +4307,7 @@
   </head>
   <body>
     <p>
-      <b>KNOPPIX</b>&#xa0;<img src="icons/knoppix.png"/>
+      <b>KNOPPIX</b>&#xa0;<img src="../icons/knoppix.png"/>
     </p>
     <p>
       2000 <font color="#fa0000">DE</font>
@@ -4325,7 +4325,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -4360,7 +4360,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -4376,7 +4376,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -4392,7 +4392,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;KNOPPIX-derived
     </p>
   </body>
@@ -4419,7 +4419,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -4434,7 +4434,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -4450,7 +4450,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -4485,7 +4485,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -4529,7 +4529,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Damn Small Linux-derived
     </p>
   </body>
@@ -4545,7 +4545,7 @@
   </head>
   <body>
     <p>
-      <b>Tiny Core Linux</b>&#xa0;<img src="icons/tiny_core_linux.png"/>
+      <b>Tiny Core Linux</b>&#xa0;<img src="../icons/tiny_core_linux.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">US </font>
@@ -4563,7 +4563,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -4579,7 +4579,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -4599,7 +4599,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -4640,7 +4640,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Tini Core Linux - derived
     </p>
   </body>
@@ -4654,7 +4654,7 @@
   </head>
   <body>
     <p>
-      <b>Nanolinux&#xa0;</b>&#xa0;<img src="icons/nanolinux.png"/>
+      <b>Nanolinux&#xa0;</b>&#xa0;<img src="../icons/nanolinux.png"/>
     </p>
     <p>
       2014<font color="#fa0000">&#xa0;DE</font>
@@ -4759,7 +4759,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -4819,7 +4819,7 @@
   </head>
   <body>
     <p>
-      <b>Parsix </b><img src="icons/parsix.png" />
+      <b>Parsix </b><img src="../icons/parsix.png" />
     </p>
     <p>
       2005 <font color="#fa0000">IR </font>
@@ -4836,7 +4836,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -5001,7 +5001,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -5090,7 +5090,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu </b><img src="icons/ubuntu.png" />
+      <b>Ubuntu </b><img src="../icons/ubuntu.png" />
     </p>
     <p>
       2004 <font color="#fa0000">GB</font>
@@ -5112,7 +5112,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -5558,7 +5558,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -5577,7 +5577,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -5592,7 +5592,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png" />
+      <img src="../icons/pm.png" />
       PM
     </p>
   </body>
@@ -5609,7 +5609,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png" />
+      <img src="../icons/fs.png" />
       FS
     </p>
   </body>
@@ -5629,7 +5629,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: Ubuntu
     </p>
   </body>
@@ -5650,7 +5650,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -5663,7 +5663,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Ubuntu-derived
     </p>
   </body>
@@ -5677,7 +5677,7 @@
   </head>
   <body>
     <p>
-      <b>Deepin </b><img src="icons/deepin.png"/>
+      <b>Deepin </b><img src="../icons/deepin.png"/>
     </p>
     <p>
       2004 <font color="#fa0000">CN</font>
@@ -5692,7 +5692,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -5724,7 +5724,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -5740,7 +5740,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -5755,7 +5755,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -5776,7 +5776,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -5790,7 +5790,7 @@
   </head>
   <body>
     <p>
-      <b>dyne:bolic</b>&#xa0;<img src="icons/dynebolic.png"/>
+      <b>dyne:bolic</b>&#xa0;<img src="../icons/dynebolic.png"/>
     </p>
     <p>
       2005 <font color="#fa0000">IT</font>
@@ -5821,7 +5821,7 @@
   </head>
   <body>
     <p>
-      <b>Elementary OS</b>&#xa0;<img src="icons/elementary_os.png"/>
+      <b>Elementary OS</b>&#xa0;<img src="../icons/elementary_os.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">CA </font>
@@ -5840,7 +5840,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -5878,7 +5878,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -5894,7 +5894,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -5909,7 +5909,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -5929,7 +5929,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -5944,7 +5944,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc: Elementary OS
     </p>
   </body>
@@ -5959,7 +5959,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -5973,7 +5973,7 @@
   </head>
   <body>
     <p>
-      <b>Guadalinex </b><img src="icons/guadalinex.png" />
+      <b>Guadalinex </b><img src="../icons/guadalinex.png" />
     </p>
     <p>
       2003<font color="#fa0000">ES </font>
@@ -5992,7 +5992,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/open_source.png" />
+      info <img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -6016,7 +6016,7 @@
   </head>
   <body>
     <p>
-      <b>Linux<font color="#fa0000">&#xa0;</font>Mint</b>&#xa0;<img src="icons/linux_mint.png"/>
+      <b>Linux<font color="#fa0000">&#xa0;</font>Mint</b>&#xa0;<img src="../icons/linux_mint.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">IE</font>
@@ -6036,7 +6036,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -6092,7 +6092,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -6108,7 +6108,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -6144,7 +6144,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -6164,7 +6164,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -6177,7 +6177,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Linux Mint-derived
     </p>
   </body>
@@ -6191,7 +6191,7 @@
   </head>
   <body>
     <p>
-      <b>VAST (VIPER Assessment Security Tools)</b><img src="icons/vast.png" />
+      <b>VAST (VIPER Assessment Security Tools)</b><img src="../icons/vast.png" />
     </p>
     <p>
       2012 <font color="#fa0000">US</font>
@@ -6209,7 +6209,7 @@
   </head>
   <body>
     <p>
-      <b>Trisquel </b><img src="icons/trisquel.png" />
+      <b>Trisquel </b><img src="../icons/trisquel.png" />
     </p>
     <p>
       2004 <font color="#fa0000">ES</font>
@@ -6228,7 +6228,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -6283,7 +6283,7 @@
   </head>
   <body>
     <p>
-      <b>GnackTrack</b><img src="icons/gnacktrack.png" />
+      <b>GnackTrack</b><img src="../icons/gnacktrack.png" />
     </p>
   </body>
 </html></richcontent>
@@ -6489,7 +6489,7 @@
   </head>
   <body>
     <p>
-      <b>APODIO </b><img src="icons/apodio.png" />
+      <b>APODIO </b><img src="../icons/apodio.png" />
     </p>
     <p>
       2004 <font color="#fa0000">FR</font>
@@ -6568,7 +6568,7 @@
   </head>
   <body>
     <p>
-      <b>Baltix GNU/Linux </b><img src="icons/baltix.png" />
+      <b>Baltix GNU/Linux </b><img src="../icons/baltix.png" />
     </p>
     <p>
       2008 <font color="#fa0000">LT</font>
@@ -6612,7 +6612,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -6643,7 +6643,7 @@
   </head>
   <body>
     <p>
-      <b>BlankON </b><img src="icons/blankon.png" />
+      <b>BlankON </b><img src="../icons/blankon.png" />
     </p>
     <p>
       2008 <font color="#fa0000">ID</font>
@@ -6673,7 +6673,7 @@
   </head>
   <body>
     <p>
-      <b>Bodhi Linux</b>&#xa0;<img src="icons/bodhi_linux.png"/>
+      <b>Bodhi Linux</b>&#xa0;<img src="../icons/bodhi_linux.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">US</font>
@@ -6689,7 +6689,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -6730,7 +6730,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -6747,7 +6747,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -6762,7 +6762,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -6797,7 +6797,7 @@
   </head>
   <body>
     <p>
-      <b>Descent|OS</b><img src="icons/descentos.png" />
+      <b>Descent|OS</b><img src="../icons/descentos.png" />
     </p>
     <p>
       2012<font color="#fa0000">US</font>
@@ -6812,7 +6812,7 @@
   </head>
   <body>
     <p>
-      <b>EasyPeasy</b>&#xa0;<img src="icons/easypeasy.png"/>
+      <b>EasyPeasy</b>&#xa0;<img src="../icons/easypeasy.png"/>
     </p>
     <p>
       Ubuntu Eee
@@ -6829,7 +6829,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -6875,7 +6875,7 @@
   </head>
   <body>
     <p>
-      <b>ExTiX</b><img src="icons/extix.png" />
+      <b>ExTiX</b><img src="../icons/extix.png" />
     </p>
     <p>
       2008<font color="#fa0000">SE</font>
@@ -6918,7 +6918,7 @@
   </head>
   <body>
     <p>
-      <b>Greenie Linux </b><img src="icons/greenie.png"/>
+      <b>Greenie Linux </b><img src="../icons/greenie.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">SK</font>
@@ -7001,7 +7001,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
   </body>
@@ -7016,7 +7016,7 @@
   </head>
   <body>
     <p>
-      <b>Linuxfx</b><img src="icons/linuxfx.png" />
+      <b>Linuxfx</b><img src="../icons/linuxfx.png" />
     </p>
     <p>
       2014 <font color="#fa0000">BR</font>
@@ -7059,7 +7059,7 @@
   </head>
   <body>
     <p>
-      <b>Madbox Linux </b><img src="icons/madbox_linux.png" />
+      <b>Madbox Linux </b><img src="../icons/madbox_linux.png" />
     </p>
     <p>
       2010 <font color="#fa0000">BE</font>
@@ -7085,7 +7085,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -7100,7 +7100,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -7116,7 +7116,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -7130,7 +7130,7 @@
   </head>
   <body>
     <p>
-      <b>Mythbuntu</b><img src="icons/mythbuntu.png" />
+      <b>Mythbuntu</b><img src="../icons/mythbuntu.png" />
     </p>
     <p>
       2007 <font color="#fa0000">US </font>
@@ -7144,7 +7144,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -7191,7 +7191,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -7222,7 +7222,7 @@
   </head>
   <body>
     <p>
-      <b>OpenArtist</b><img src="icons/openartist.png" />
+      <b>OpenArtist</b><img src="../icons/openartist.png" />
     </p>
   </body>
 </html></richcontent>
@@ -7234,7 +7234,7 @@
   </head>
   <body>
     <p>
-      <b>Oz Unity</b>&#xa0;<img src="icons/ozunity.png"/>
+      <b>Oz Unity</b>&#xa0;<img src="../icons/ozunity.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">AU</font>
@@ -7248,7 +7248,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -7299,7 +7299,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -7313,7 +7313,7 @@
   </head>
   <body>
     <p>
-      <b>Pinguy OS</b>&#xa0;<img src="icons/pinguy_os.png"/>
+      <b>Pinguy OS</b>&#xa0;<img src="../icons/pinguy_os.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">UK </font>
@@ -7331,7 +7331,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -7388,7 +7388,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -7420,7 +7420,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -7454,7 +7454,7 @@
   </head>
   <body>
     <p>
-      <b>Runtu </b><img src="icons/runtu.png"/>
+      <b>Runtu </b><img src="../icons/runtu.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">RU</font>
@@ -7498,7 +7498,7 @@
   </head>
   <body>
     <p>
-      <b>UberStudent</b><img src="icons/uberstudent.png" />
+      <b>UberStudent</b><img src="../icons/uberstudent.png" />
     </p>
     <p>
       2010 <font color="#fa0000">US</font>
@@ -7526,7 +7526,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu Desktop Pack</b><img src="icons/ubuntu_desktoppack.png" />
+      <b>Ubuntu Desktop Pack</b><img src="../icons/ubuntu_desktoppack.png" />
     </p>
     <p>
       2012 <font color="#fa0000">UA</font>
@@ -7554,7 +7554,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu GNOME</b>&#xa0;<img src="icons/ubuntu_gnome.png"/>
+      <b>Ubuntu GNOME</b>&#xa0;<img src="../icons/ubuntu_gnome.png"/>
     </p>
     <p>
       2013 <font color="#fa0000">GB </font>
@@ -7574,7 +7574,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu Studio</b>&#xa0;<img src="icons/ubuntu_studio.png"/>
+      <b>Ubuntu Studio</b>&#xa0;<img src="../icons/ubuntu_studio.png"/>
     </p>
     <p>
       2007 <font color="#fa0000">US </font>
@@ -7591,7 +7591,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -7638,7 +7638,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -7652,7 +7652,7 @@
   </head>
   <body>
     <p>
-      <b>Ultimate Edition </b><img src="icons/ultimate_edition.png" />
+      <b>Ultimate Edition </b><img src="../icons/ultimate_edition.png" />
     </p>
     <p>
       2006<b></b><font color="#fa0000">US </font>
@@ -7672,7 +7672,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version History</b>
     </p>
     <p>
@@ -7720,7 +7720,7 @@
   </head>
   <body>
     <p>
-      <b>wattOS </b><img src="icons/wattos.png"/>
+      <b>wattOS </b><img src="../icons/wattos.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">US</font>
@@ -7749,7 +7749,7 @@
   </head>
   <body>
     <p>
-      <b>Zentyal</b>&#xa0;<img src="icons/zentyal.png"/>
+      <b>Zentyal</b>&#xa0;<img src="../icons/zentyal.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">ES </font>
@@ -7766,7 +7766,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -7801,7 +7801,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -7817,7 +7817,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -7834,7 +7834,7 @@
   </head>
   <body>
     <p>
-      <b>ZevenOS </b><img src="icons/zevenos.png"/>
+      <b>ZevenOS </b><img src="../icons/zevenos.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">DE</font>
@@ -7862,7 +7862,7 @@
   </head>
   <body>
     <p>
-      <b>Zorin OS </b><img src="icons/zorin_os.png"/>
+      <b>Zorin OS </b><img src="../icons/zorin_os.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">IE</font>
@@ -7930,7 +7930,7 @@
   </head>
   <body>
     <p>
-      <b>Nova</b><img src="icons/nova.png" />
+      <b>Nova</b><img src="../icons/nova.png" />
     </p>
     <p>
       2009 <font color="#fa0000">CU</font>
@@ -7953,7 +7953,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -7985,7 +7985,7 @@
   </head>
   <body>
     <p>
-      ~ Official distros <img src="icons/canonical.png" />
+      ~ Official distros <img src="../icons/canonical.png" />
     </p>
   </body>
 </html></richcontent>
@@ -7998,7 +7998,7 @@
   </head>
   <body>
     <p>
-      <b>Kubuntu </b><img src="icons/kubuntu.png"/>
+      <b>Kubuntu </b><img src="../icons/kubuntu.png"/>
     </p>
     <p>
       2005&#xa0;<font color="#fa0000">GB</font>
@@ -8019,7 +8019,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -8057,7 +8057,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -8073,7 +8073,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png" />
+      <img src="../icons/de_wm.png" />
       <b>DE/WM</b>
     </p>
   </body>
@@ -8088,7 +8088,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png" />
+      <img src="../icons/pm.png" />
       PM
     </p>
   </body>
@@ -8103,7 +8103,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png" />
+      <img src="../icons/fs.png" />
       FS
     </p>
   </body>
@@ -8124,7 +8124,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Kubuntu-derived
     </p>
   </body>
@@ -8137,7 +8137,7 @@
   </head>
   <body>
     <p>
-      <b>Ulteo Application System </b><img src="icons/ulteo.png"/>
+      <b>Ulteo Application System </b><img src="../icons/ulteo.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">FR</font>
@@ -8154,7 +8154,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -8182,7 +8182,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -8207,7 +8207,7 @@
   </head>
   <body>
     <p>
-      <b>Bardinux </b><img src="icons/bardinux.png" />
+      <b>Bardinux </b><img src="../icons/bardinux.png" />
     </p>
     <p>
       2008 <font color="#fa0000">ES</font>
@@ -8233,7 +8233,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png" />
+      <img src="../icons/architecture.png" />
       architecture
     </p>
   </body>
@@ -8249,7 +8249,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: Bardinux
     </p>
   </body>
@@ -8265,7 +8265,7 @@
   </head>
   <body>
     <p>
-      <b>Netrunner </b><img src="icons/netrunner.png"/>
+      <b>Netrunner </b><img src="../icons/netrunner.png"/>
     </p>
     <p>
       Standard Release
@@ -8296,7 +8296,7 @@
   </head>
   <body>
     <p>
-      <b>BigLinux</b><img src="icons/biglinux.png" />
+      <b>BigLinux</b><img src="../icons/biglinux.png" />
     </p>
     <p>
       2004 <font color="#fa0000">BR </font>
@@ -8313,7 +8313,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -8345,7 +8345,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -8360,7 +8360,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -8377,7 +8377,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -8394,7 +8394,7 @@
   </head>
   <body>
     <p>
-      <b>Astrunix</b><img src="icons/asturix.png" />
+      <b>Astrunix</b><img src="../icons/asturix.png" />
     </p>
     <p>
       2008 - 2014 <font color="#fa0000">ES </font>
@@ -8441,7 +8441,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -8463,7 +8463,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -8477,7 +8477,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu Kyling</b>&#xa0;<img src="icons/ubuntukylin.png"/>
+      <b>Ubuntu Kyling</b>&#xa0;<img src="../icons/ubuntukylin.png"/>
     </p>
     <p>
       [<font color="#3296fa">Canonical Ltd.</font>]
@@ -8506,7 +8506,7 @@
   </head>
   <body>
     <p>
-      <b>Xubuntu</b>&#xa0;<img src="icons/xubuntu.png"/>
+      <b>Xubuntu</b>&#xa0;<img src="../icons/xubuntu.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">GB</font>
@@ -8525,7 +8525,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -8541,7 +8541,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -8556,7 +8556,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -8592,7 +8592,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Xubuntu-derived
     </p>
   </body>
@@ -8636,7 +8636,7 @@
   </head>
   <body>
     <p>
-      <b>Edubuntu</b>&#xa0; <img src="icons/edubuntu.png"/>
+      <b>Edubuntu</b>&#xa0; <img src="../icons/edubuntu.png"/>
     </p>
     <p>
       2005 <font color="#fa0000">GB </font>
@@ -8655,7 +8655,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -8701,7 +8701,7 @@
   </head>
   <body>
     <p>
-      <b>Lubuntu</b>&#xa0;<img src="icons/lubuntu.png"/>
+      <b>Lubuntu</b>&#xa0;<img src="../icons/lubuntu.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">FR | TW</font>
@@ -8723,7 +8723,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -8810,7 +8810,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       /Lubuntu
     </p>
   </body>
@@ -8824,7 +8824,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -8840,7 +8840,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -8859,7 +8859,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Lubuntu-derived
     </p>
   </body>
@@ -8872,7 +8872,7 @@
   </head>
   <body>
     <p>
-      <b>Peppermint </b><img src="icons/peppermint_linux_os.png"/>
+      <b>Peppermint </b><img src="../icons/peppermint_linux_os.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">US</font>
@@ -8887,7 +8887,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -8925,7 +8925,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -8966,7 +8966,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -8981,7 +8981,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -8999,7 +8999,7 @@
   </head>
   <body>
     <p>
-      <b>LXLE</b>&#xa0;<img src="icons/lxle.png"/>
+      <b>LXLE</b>&#xa0;<img src="../icons/lxle.png"/>
     </p>
     <p>
       2014 <font color="#fa0000">US</font>
@@ -9014,7 +9014,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       &#160;<b>Version history</b>
     </p>
     <p>
@@ -9046,7 +9046,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -9062,7 +9062,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -9079,7 +9079,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -9093,7 +9093,7 @@
   </head>
   <body>
     <p>
-      <b>DEFT Linux </b><img src="icons/deft_linux.png"/>
+      <b>DEFT Linux </b><img src="../icons/deft_linux.png"/>
     </p>
     <p>
       2009<font color="#fa0000">&#xa0;IT</font>
@@ -9108,7 +9108,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -9189,7 +9189,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -9219,7 +9219,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Ubuntu(LTS)-derived
     </p>
   </body>
@@ -9233,7 +9233,7 @@
   </head>
   <body>
     <p>
-      <b>CAE Linux </b><img src="icons/cae_linux.png"/>
+      <b>CAE Linux </b><img src="../icons/cae_linux.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">CH</font>
@@ -9248,7 +9248,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -9263,7 +9263,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -9278,7 +9278,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -9298,7 +9298,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -9321,7 +9321,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -9335,7 +9335,7 @@
   </head>
   <body>
     <p>
-      <b>CAINE </b><img src="icons/caine.png"/>
+      <b>CAINE </b><img src="../icons/caine.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">IT</font>
@@ -9354,7 +9354,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -9385,7 +9385,7 @@
   </head>
   <body>
     <p>
-      <b>DreamStudio </b><img src="icons/dreamstudio.png" />
+      <b>DreamStudio </b><img src="../icons/dreamstudio.png" />
     </p>
     <p>
       2011 <font color="#fa0000">CA</font>
@@ -9415,7 +9415,7 @@
   </head>
   <body>
     <p>
-      <b>LliureX</b><img src="icons/lliurex.png" />
+      <b>LliureX</b><img src="../icons/lliurex.png" />
     </p>
     <p>
       2005 <font color="#fa0000">ES</font>
@@ -9446,7 +9446,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -9461,7 +9461,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -9478,7 +9478,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -9497,7 +9497,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -9512,7 +9512,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: LlirueX
     </p>
   </body>
@@ -9527,7 +9527,7 @@
   </head>
   <body>
     <p>
-      download LliureX <img src="icons/download.png" />
+      download LliureX <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -9541,7 +9541,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu Christian Edition</b>&#xa0;<img src="icons/ubuntuce.png"/>
+      <b>Ubuntu Christian Edition</b>&#xa0;<img src="../icons/ubuntuce.png"/>
     </p>
     <p>
       <font color="#000000">2007</font><font color="#fa0000">&#xa0;US</font>
@@ -9571,7 +9571,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -9591,7 +9591,7 @@
   </head>
   <body>
     <p>
-      <b>Centrych OS </b><img src="icons/centrych_os.png" />
+      <b>Centrych OS </b><img src="../icons/centrych_os.png" />
     </p>
     <p>
       2013 <font color="#fa0000">US</font>
@@ -9619,7 +9619,7 @@
   </head>
   <body>
     <p>
-      <b>Karoshi </b><img src="icons/karoshi.png" />
+      <b>Karoshi </b><img src="../icons/karoshi.png" />
     </p>
     <p>
       2009 <font color="#fa0000">UK</font>
@@ -9646,7 +9646,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -9660,7 +9660,7 @@
   </head>
   <body>
     <p>
-      <b>MAX </b><img src="icons/max_madrid_linux.png" />
+      <b>MAX </b><img src="../icons/max_madrid_linux.png" />
     </p>
     <p>
       2004 <font color="#fa0000">ES </font>
@@ -9680,7 +9680,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -10120,7 +10120,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -10136,7 +10136,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -10152,7 +10152,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -10196,7 +10196,7 @@
   </head>
   <body>
     <p>
-      <b>SuperX</b><img src="icons/superx.png" />
+      <b>SuperX</b><img src="../icons/superx.png" />
     </p>
     <p>
       2011 <font color="#fa0000">ID</font>
@@ -10240,7 +10240,7 @@
   </head>
   <body>
     <p>
-      <b>HAZE OS</b><img src="icons/haze_os.png" />
+      <b>HAZE OS</b><img src="../icons/haze_os.png" />
     </p>
     <p>
       <font color="#fa0000">IN</font>
@@ -10258,7 +10258,7 @@
   </head>
   <body>
     <p>
-      <b>BackBox Linux </b><img src="icons/backbox.png"/>
+      <b>BackBox Linux </b><img src="../icons/backbox.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">IT</font>
@@ -10276,7 +10276,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -10309,7 +10309,7 @@
   </head>
   <body>
     <p>
-      <b>download </b><img src="icons/download.png" />
+      <b>download </b><img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -10322,7 +10322,7 @@
   </head>
   <body>
     <p>
-      <b>Linux Lite </b><img src="icons/linux_lite.png"/>
+      <b>Linux Lite </b><img src="../icons/linux_lite.png"/>
     </p>
     <p>
       2014<font color="#fa0000">&#xa0;NZ</font>
@@ -10337,7 +10337,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -10352,7 +10352,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -10367,7 +10367,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -10421,7 +10421,7 @@
   </head>
   <body>
     <p>
-      <b>BeatrlX Linux</b><img src="icons/beatrix_linux.png" />
+      <b>BeatrlX Linux</b><img src="../icons/beatrix_linux.png" />
     </p>
     <p>
       2004 - 2005 <font color="#fa0000">CZ</font>
@@ -10454,7 +10454,7 @@
   </head>
   <body>
     <p>
-      <b>DANIX GNU/Linux</b><img src="icons/danix.png" />
+      <b>DANIX GNU/Linux</b><img src="../icons/danix.png" />
     </p>
     <p>
       2003 - 2007 <font color="#fa0000">CZ</font>
@@ -10469,7 +10469,7 @@
   </head>
   <body>
     <p>
-      <b>Dreamlinux </b><img src="icons/dreamlinux.png" />
+      <b>Dreamlinux </b><img src="../icons/dreamlinux.png" />
     </p>
     <p>
       2007-2012<font color="#fa0000">BR</font>
@@ -10483,7 +10483,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -10522,7 +10522,7 @@
   </head>
   <body>
     <p>
-      <b>Nexenta OS</b><img src="icons/nexenta_os.png" />
+      <b>Nexenta OS</b><img src="../icons/nexenta_os.png" />
     </p>
     <p>
       2008 - 2011
@@ -10563,7 +10563,7 @@
   </head>
   <body>
     <p>
-      <b>Olive </b><img src="icons/olive.png" />
+      <b>Olive </b><img src="../icons/olive.png" />
     </p>
     <p>
       2006 <font color="#fa0000">CZ</font>
@@ -10614,7 +10614,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -10658,7 +10658,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png">
+      <img src="../icons/version_history.png">
       <b>Version history</b>
     </p>
     <p>
@@ -10705,7 +10705,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -11142,7 +11142,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png" />
+      <img src="../icons/people.png" />
       people
     </p>
   </body>
@@ -11244,7 +11244,7 @@
   </head>
   <body>
     <p>
-      <b>Astra Linux </b><img src="icons/astra_linux.png" />
+      <b>Astra Linux </b><img src="../icons/astra_linux.png" />
     </p>
     <p>
       2009<font color="#fa0000">RU </font>
@@ -11262,7 +11262,7 @@
   </head>
   <body>
     <p>
-      <b>AV Linux </b><img src="icons/avlinux.png"/>
+      <b>AV Linux </b><img src="../icons/avlinux.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">CA</font>
@@ -11309,7 +11309,7 @@
   </head>
   <body>
     <p>
-      <b>Emdebian Grip </b><img src="icons/debian.png" />
+      <b>Emdebian Grip </b><img src="../icons/debian.png" />
     </p>
     <p>
       2009 <font color="#fa0000">US </font>
@@ -11326,7 +11326,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -11474,7 +11474,7 @@
   </head>
   <body>
     <p>
-      <b>GALPon MiniNo</b>&#xa0;<img src="icons/galpon_minino.png"/>
+      <b>GALPon MiniNo</b>&#xa0;<img src="../icons/galpon_minino.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">ES</font>
@@ -11489,7 +11489,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -11505,7 +11505,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -11521,7 +11521,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -11561,7 +11561,7 @@
   </head>
   <body>
     <p>
-      <b>HandyLinux </b><img src="icons/handy_linux.png" />
+      <b>HandyLinux </b><img src="../icons/handy_linux.png" />
     </p>
     <p>
       2013 <font color="#fa0000">FR </font>
@@ -11578,7 +11578,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history </b>
     </p>
     <p>
@@ -11610,7 +11610,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png" />
+      <img src="../icons/architecture.png" />
       architecture
     </p>
   </body>
@@ -11626,7 +11626,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png" />
+      <img src="../icons/de_wm.png" />
       DE/WM
     </p>
   </body>
@@ -11695,7 +11695,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -11713,7 +11713,7 @@
   </head>
   <body>
     <p>
-      <b>Musix GNU+Linux</b>&#xa0;<img src="icons/musix_gnu_linux.png"/>
+      <b>Musix GNU+Linux</b>&#xa0;<img src="../icons/musix_gnu_linux.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">AR</font>
@@ -11787,7 +11787,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png">
+      <img src="../icons/version_history.png">
       <b>Version history</b>
     </p>
     <p>
@@ -11823,7 +11823,7 @@
   </head>
   <body>
     <p>
-      <b>NG Firewall</b>&#xa0;<img src="icons/untangle.png"/>
+      <b>NG Firewall</b>&#xa0;<img src="../icons/untangle.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">US </font>
@@ -11841,7 +11841,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -11857,7 +11857,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -11872,7 +11872,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -11917,7 +11917,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -11958,7 +11958,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -12027,7 +12027,7 @@
   </head>
   <body>
     <p>
-      <b>SolusOS </b><img src="icons/solusos.png"/>
+      <b>SolusOS </b><img src="../icons/solusos.png"/>
     </p>
     <p>
       2013 <font color="#fa0000">GB </font>
@@ -12044,7 +12044,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -12078,7 +12078,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -12095,7 +12095,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -12113,7 +12113,7 @@
   </head>
   <body>
     <p>
-      <b>Tanglu</b>&#160;<img src="icons/tanglu.png" />
+      <b>Tanglu</b>&#160;<img src="../icons/tanglu.png" />
     </p>
     <p>
       2014 <font color="#fa0000">DE</font>
@@ -12127,7 +12127,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -12150,7 +12150,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -12164,7 +12164,7 @@
   </head>
   <body>
     <p>
-      <b>Ubuntu Privacy Remix </b><img src="icons/upr.png"/>
+      <b>Ubuntu Privacy Remix </b><img src="../icons/upr.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">DE</font>
@@ -12193,7 +12193,7 @@
   </head>
   <body>
     <p>
-      <b>Univention Corporate Server </b><img src="icons/ucs.png"/>
+      <b>Univention Corporate Server </b><img src="../icons/ucs.png"/>
     </p>
     <p>
       2014<font color="#fa0000">&#xa0;DE</font>
@@ -12207,7 +12207,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -12253,7 +12253,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -12286,7 +12286,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Debian(Stable)-derived
     </p>
   </body>
@@ -12299,7 +12299,7 @@
   </head>
   <body>
     <p>
-      <b>Elive&#xa0;</b><img src="icons/elive.png"/>
+      <b>Elive&#xa0;</b><img src="../icons/elive.png"/>
     </p>
     <p>
       2000 <font color="#fa0000">BE </font>
@@ -12316,7 +12316,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history </b>
     </p>
     <p>
@@ -12355,7 +12355,7 @@
   </head>
   <body>
     <p>
-      <b>gNewSense</b>&#xa0;<img src="icons/gnewsense.png"/>
+      <b>gNewSense</b>&#xa0;<img src="../icons/gnewsense.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">IE </font>
@@ -12369,7 +12369,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -12449,7 +12449,7 @@
   </head>
   <body>
     <p>
-      About gNewSense <img src="icons/open_source.png" />
+      About gNewSense <img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -12471,7 +12471,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png" />
+      <img src="../icons/architecture.png" />
       architecture
     </p>
   </body>
@@ -12487,7 +12487,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png" />
+      <img src="../icons/de_wm.png" />
       DE/WM
     </p>
   </body>
@@ -12502,7 +12502,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png" />
+      <img src="../icons/people.png" />
       people
     </p>
   </body>
@@ -12531,7 +12531,7 @@
   </head>
   <body>
     <p>
-      <b>MEPIS Linux </b><img src="icons/mepis_linux.png" />
+      <b>MEPIS Linux </b><img src="../icons/mepis_linux.png" />
     </p>
     <p>
       2003 <font color="#fa0000">US </font>
@@ -12551,7 +12551,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -12606,7 +12606,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -12619,7 +12619,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;MEPIS Linux-derived
     </p>
   </body>
@@ -12633,7 +12633,7 @@
   </head>
   <body>
     <p>
-      <b>antiX </b><img src="icons/antix.png" />
+      <b>antiX </b><img src="../icons/antix.png" />
     </p>
     <p>
       2007 <font color="#fa0000">GR </font>
@@ -12650,7 +12650,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -12680,7 +12680,7 @@
   </head>
   <body>
     <p>
-      <b>About antiX</b><img src="icons/open_source.png" />
+      <b>About antiX</b><img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -12708,7 +12708,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -12724,7 +12724,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -12745,7 +12745,7 @@
   </head>
   <body>
     <p>
-      <b>Tails </b><img src="icons/tails.png"/>
+      <b>Tails </b><img src="../icons/tails.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">IE </font>
@@ -12774,7 +12774,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -12931,7 +12931,7 @@
   </head>
   <body>
     <p>
-      <b>Canaima GNU/Linux</b>&#xa0;<img src="icons/canaima_gnu_linux.png"/>
+      <b>Canaima GNU/Linux</b>&#xa0;<img src="../icons/canaima_gnu_linux.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">VE</font>
@@ -12970,7 +12970,7 @@
   </head>
   <body>
     <p>
-      <b>ForLEx </b><img src="icons/forlex.png"/>
+      <b>ForLEx </b><img src="../icons/forlex.png"/>
     </p>
     <p>
       2013 <font color="#fa0000">IT</font>
@@ -12998,7 +12998,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -13012,7 +13012,7 @@
   </head>
   <body>
     <p>
-      <b>Matriux</b>&#xa0;<img src="icons/matriux.png"/>
+      <b>Matriux</b>&#xa0;<img src="../icons/matriux.png"/>
     </p>
     <p>
       2012<font color="#fa0000">&#xa0;ID</font>
@@ -13026,7 +13026,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -13043,7 +13043,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -13065,7 +13065,7 @@
   </head>
   <body>
     <p>
-      doc:<img src="icons/doc.png" />
+      doc:<img src="../icons/doc.png" />
     </p>
   </body>
 </html></richcontent>
@@ -13079,7 +13079,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -13093,7 +13093,7 @@
   </head>
   <body>
     <p>
-      <b>PiBang Linux</b>&#xa0;<img src="icons/pibang.png"/>
+      <b>PiBang Linux</b>&#xa0;<img src="../icons/pibang.png"/>
     </p>
     <p>
       2013<font color="#fa0000">&#xa0;US</font>
@@ -13107,7 +13107,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -13138,7 +13138,7 @@
   </head>
   <body>
     <p>
-      <b>Proxmox </b><img src="icons/proxmox.png" />
+      <b>Proxmox </b><img src="../icons/proxmox.png" />
     </p>
     <p>
       2013 <font color="#fa0000">AT </font>
@@ -13158,7 +13158,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -13187,7 +13187,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -13202,7 +13202,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -13218,7 +13218,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -13233,7 +13233,7 @@
   </head>
   <body>
     <p>
-      <b>Raspbmc </b><img src="icons/raspbmc.png"/>
+      <b>Raspbmc </b><img src="../icons/raspbmc.png"/>
     </p>
     <p>
       2014 <font color="#fa0000">US</font>
@@ -13247,7 +13247,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -13278,7 +13278,7 @@
   </head>
   <body>
     <p>
-      <b>Rescatux</b>&#xa0;<img src="icons/rescatux.png"/>
+      <b>Rescatux</b>&#xa0;<img src="../icons/rescatux.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">ES</font>
@@ -13292,7 +13292,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -13323,7 +13323,7 @@
   </head>
   <body>
     <p>
-      <b>Skolelinux&#xa0;</b><img src="icons/skolelinux.png"/>
+      <b>Skolelinux&#xa0;</b><img src="../icons/skolelinux.png"/>
     </p>
     <p>
       2001 <font color="#fa0000">NO </font>
@@ -13352,7 +13352,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -13392,7 +13392,7 @@
   </head>
   <body>
     <p>
-      <b>Tango Studio</b>&#xa0;<img src="icons/tango_studio.png"/>
+      <b>Tango Studio</b>&#xa0;<img src="../icons/tango_studio.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">FR</font>
@@ -13435,7 +13435,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -13452,7 +13452,7 @@
   </head>
   <body>
     <p>
-      info&#160;<img src="icons/info.png" />
+      info&#160;<img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -13476,7 +13476,7 @@
   </head>
   <body>
     <p>
-      <b>Volumio</b>&#xa0;<img src="icons/volumio.png"/>
+      <b>Volumio</b>&#xa0;<img src="../icons/volumio.png"/>
     </p>
     <p>
       2013<font color="#fa0000">&#xa0;IT</font>
@@ -13491,7 +13491,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -13522,7 +13522,7 @@
   </head>
   <body>
     <p>
-      <b>Vyatta</b>&#xa0;<img src="icons/vyatta.png"/>
+      <b>Vyatta</b>&#xa0;<img src="../icons/vyatta.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">US</font>
@@ -13585,7 +13585,7 @@
   </head>
   <body>
     <p>
-      <b>Kwheezy</b>&#xa0;<img src="icons/kwheezy.png"/>
+      <b>Kwheezy</b>&#xa0;<img src="../icons/kwheezy.png"/>
     </p>
     <p>
       2013 <font color="#fa0000">US</font>
@@ -13599,7 +13599,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -13628,7 +13628,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -13644,7 +13644,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -13660,7 +13660,7 @@
   </head>
   <body>
     <p>
-      download Kwheezy <img src="icons/download.png" />
+      download Kwheezy <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -13674,7 +13674,7 @@
   </head>
   <body>
     <p>
-      <b>Voyager Live</b>&#xa0;<img src="icons/voyager_live.png"/>
+      <b>Voyager Live</b>&#xa0;<img src="../icons/voyager_live.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">FR</font>
@@ -13703,7 +13703,7 @@
   </head>
   <body>
     <p>
-      <b>Robolinux</b>&#xa0;<img src="icons/robolinux.png"/>
+      <b>Robolinux</b>&#xa0;<img src="../icons/robolinux.png"/>
     </p>
     <p>
       2014 <font color="#fa0000">US</font>
@@ -13731,7 +13731,7 @@
   </head>
   <body>
     <p>
-      <b>Point Linux</b>&#xa0;<img src="icons/point_linux.png"/>
+      <b>Point Linux</b>&#xa0;<img src="../icons/point_linux.png"/>
     </p>
     <p>
       2013 <font color="#fa0000">RU</font>
@@ -13745,7 +13745,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -13761,7 +13761,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -13776,7 +13776,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -13809,7 +13809,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -13823,7 +13823,7 @@
   </head>
   <body>
     <p>
-      <b>CrunchBang Linux </b><img src="icons/crunchbang_linux.png"/>
+      <b>CrunchBang Linux </b><img src="../icons/crunchbang_linux.png"/>
     </p>
     <p>
       <b>&#xa0;</b>2011<b>&#xa0;</b><font color="#fa0000">GB</font>
@@ -13840,7 +13840,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -13879,7 +13879,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -13894,7 +13894,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -13913,7 +13913,7 @@
   </head>
   <body>
     <p>
-      <b>SteamOS</b>&#160;<img src="icons/steamos.png" />
+      <b>SteamOS</b>&#160;<img src="../icons/steamos.png" />
     </p>
     <p>
       2013 <font color="#fa0000">US</font>
@@ -13944,7 +13944,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Debian(Testing)-derived
     </p>
   </body>
@@ -13999,7 +13999,7 @@
   </head>
   <body>
     <p>
-      <b>Kali Linux </b><img src="icons/kali_linux.png"/>
+      <b>Kali Linux </b><img src="../icons/kali_linux.png"/>
     </p>
     <p>
       2004&#xa0;<font color="#fa0000">CH </font>
@@ -14017,7 +14017,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -14066,7 +14066,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -14101,7 +14101,7 @@
   </head>
   <body>
     <p>
-      <b>download </b><img src="icons/download.png" />
+      <b>download </b><img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -14114,7 +14114,7 @@
   </head>
   <body>
     <p>
-      <b>Webconverger</b>&#xa0;<img src="icons/webconverger.png"/>
+      <b>Webconverger</b>&#xa0;<img src="../icons/webconverger.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">UK</font>
@@ -14159,7 +14159,7 @@
   </head>
   <body>
     <p>
-      <b>Epidemic GNU/Linux </b><img src="icons/epidemic_gnu_linux.png"/>
+      <b>Epidemic GNU/Linux </b><img src="../icons/epidemic_gnu_linux.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">BR</font>
@@ -14187,7 +14187,7 @@
   </head>
   <body>
     <p>
-      <b>Grml</b><img src="icons/grml.png" />
+      <b>Grml</b><img src="../icons/grml.png" />
     </p>
     <p>
       2004 <font color="#fa0000">AT </font>
@@ -14204,7 +14204,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png">
+      <img src="../icons/version_history.png">
       <b>Version history</b>
     </p>
     <p>
@@ -14239,7 +14239,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png" />
+      <img src="../icons/architecture.png" />
       <b>architecture</b>
     </p>
   </body>
@@ -14255,7 +14255,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png" />
+      <img src="../icons/de_wm.png" />
       <b>DE/WM</b>
     </p>
   </body>
@@ -14272,7 +14272,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -14298,7 +14298,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -14317,7 +14317,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -14332,7 +14332,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: grml
     </p>
   </body>
@@ -14348,7 +14348,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -14362,7 +14362,7 @@
   </head>
   <body>
     <p>
-      <b>LinEx </b><img src="icons/linex.png" />
+      <b>LinEx </b><img src="../icons/linex.png" />
     </p>
     <p>
       2002 <font color="#fa0000">ES</font>
@@ -14390,7 +14390,7 @@
   </head>
   <body>
     <p>
-      <b>SparkyLinux</b>&#xa0;<img src="icons/sparky.png"/>
+      <b>SparkyLinux</b>&#xa0;<img src="../icons/sparky.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">PL</font>
@@ -14404,7 +14404,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -14436,7 +14436,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -14466,7 +14466,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -14480,7 +14480,7 @@
   </head>
   <body>
     <p>
-      <b>SolydXK&#xa0;</b><img src="icons/solydxk.png"/>
+      <b>SolydXK&#xa0;</b><img src="../icons/solydxk.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">NL </font>
@@ -14497,7 +14497,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -14531,7 +14531,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -14547,7 +14547,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -14583,7 +14583,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Debian(Unstable)-derived
     </p>
   </body>
@@ -14597,7 +14597,7 @@
   </head>
   <body>
     <p>
-      <b>Clonezilla Live </b><img src="icons/clonezilla.png"/>
+      <b>Clonezilla Live </b><img src="../icons/clonezilla.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">TW</font>
@@ -14616,7 +14616,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -14652,7 +14652,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -14667,7 +14667,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -14686,7 +14686,7 @@
   </head>
   <body>
     <p>
-      <b>siduction</b>&#xa0;<img src="icons/siduction.png"/>
+      <b>siduction</b>&#xa0;<img src="../icons/siduction.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">DE</font>
@@ -14701,7 +14701,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       &#160;<b>Version history</b>
     </p>
     <p>
@@ -14745,7 +14745,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -14759,7 +14759,7 @@
   </head>
   <body>
     <p>
-      <b>Semplice Linux</b>&#xa0;<img src="icons/semplice.png"/>
+      <b>Semplice Linux</b>&#xa0;<img src="../icons/semplice.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">IT</font>
@@ -14774,7 +14774,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -14805,7 +14805,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -14819,7 +14819,7 @@
   </head>
   <body>
     <p>
-      <b>aptosid</b>&#xa0;<img src="icons/aptosid.png"/>
+      <b>aptosid</b>&#xa0;<img src="../icons/aptosid.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">US</font>
@@ -14837,7 +14837,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -14877,7 +14877,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       aptosid-derived
     </p>
   </body>
@@ -14905,7 +14905,7 @@
   </head>
   <body>
     <p>
-      <b>LinuxBBQ&#xa0;</b><img src="icons/linuxbbq.png"/>
+      <b>LinuxBBQ&#xa0;</b><img src="../icons/linuxbbq.png"/>
     </p>
     <p>
       2012 <font color="#fa0000">US </font>
@@ -15162,7 +15162,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -15193,7 +15193,7 @@
   </head>
   <body>
     <p>
-      <b>Symphony OS</b>&#xa0;<img src="icons/symphonyos.png"/>
+      <b>Symphony OS</b>&#xa0;<img src="../icons/symphonyos.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">US </font>
@@ -15236,7 +15236,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -15251,7 +15251,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -15266,7 +15266,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -15320,7 +15320,7 @@
   </head>
   <body>
     <p>
-      <b>Frugalware Linux </b><img src="icons/frugalware_linux.png"/>
+      <b>Frugalware Linux </b><img src="../icons/frugalware_linux.png"/>
     </p>
     <p>
       2004 <font color="#fa0000">HU </font>
@@ -15337,7 +15337,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -15357,7 +15357,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -15379,7 +15379,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png" />
+      <img src="../icons/fs.png" />
       FS
     </p>
   </body>
@@ -15399,7 +15399,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png" />
+      <img src="../icons/pm.png" />
       PM
     </p>
   </body>
@@ -15417,7 +15417,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       &#160;doc
     </p>
   </body>
@@ -15431,7 +15431,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -15491,7 +15491,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -15505,7 +15505,7 @@
   </head>
   <body>
     <p>
-      <b>Gentoo Linux</b>&#xa0;<img src="icons/gentoo_linux.png"/>
+      <b>Gentoo Linux</b>&#xa0;<img src="../icons/gentoo_linux.png"/>
     </p>
     <p>
       2002 <font color="#fa0000">US</font>
@@ -15527,7 +15527,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history </b>
     </p>
     <p>
@@ -15575,7 +15575,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -15596,7 +15596,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -15622,7 +15622,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -15641,7 +15641,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -15657,7 +15657,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc: Gentoo Linux
     </p>
   </body>
@@ -15672,7 +15672,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;wiki/Gentoo_Linux
     </p>
   </body>
@@ -15687,7 +15687,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -15700,7 +15700,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Gentoo-derived
     </p>
   </body>
@@ -15714,7 +15714,7 @@
   </head>
   <body>
     <p>
-      <b>Sabayon Linux</b>&#xa0;<img src="icons/sabayon.png"/>
+      <b>Sabayon Linux</b>&#xa0;<img src="../icons/sabayon.png"/>
     </p>
     <p>
       2005 <font color="#fa0000">IT</font>
@@ -15750,7 +15750,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -15766,7 +15766,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -15789,7 +15789,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc: Sabayon Linux
     </p>
   </body>
@@ -15803,7 +15803,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -15819,7 +15819,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -15835,7 +15835,7 @@
   </head>
   <body>
     <p>
-      download Sabayaon Linux&#xa0;<img src="icons/download.png"/>
+      download Sabayaon Linux&#xa0;<img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -15878,7 +15878,7 @@
   </head>
   <body>
     <p>
-      <b>Calculate Linux</b>&#xa0; <img src="icons/calculate_linux.png"/>
+      <b>Calculate Linux</b>&#xa0; <img src="../icons/calculate_linux.png"/>
     </p>
     <p>
       2007 <font color="#fa0000">RU</font>
@@ -15904,7 +15904,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -15943,7 +15943,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -15973,7 +15973,7 @@
   </head>
   <body>
     <p>
-      <b>Funtoo Linux</b>&#xa0;<img src="icons/funtoo.png"/>
+      <b>Funtoo Linux</b>&#xa0;<img src="../icons/funtoo.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">US</font>
@@ -16011,7 +16011,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -16078,7 +16078,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -16201,7 +16201,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -16280,7 +16280,7 @@
   </head>
   <body>
     <p>
-      <b>Pentoo</b>&#xa0;<img src="icons/pentoo.png"/>
+      <b>Pentoo</b>&#xa0;<img src="../icons/pentoo.png"/>
     </p>
     <p>
       2005 <font color="#fa0000">CH</font>
@@ -16295,7 +16295,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -16324,7 +16324,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -16339,7 +16339,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -16359,7 +16359,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;<b>people</b>
     </p>
   </body>
@@ -16392,7 +16392,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -16424,7 +16424,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -16463,7 +16463,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -16480,7 +16480,7 @@
   </head>
   <body>
     <p>
-      <b>Toorox </b><img src="icons/toorox.png"/>
+      <b>Toorox </b><img src="../icons/toorox.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">DE</font>
@@ -16495,7 +16495,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -16524,7 +16524,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -16540,7 +16540,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -16558,7 +16558,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -16591,7 +16591,7 @@
   </head>
   <body>
     <p>
-      <b>Pirate Linux </b><img src="icons/pirate_linux.png" />
+      <b>Pirate Linux </b><img src="../icons/pirate_linux.png" />
     </p>
     <p>
       2012 <font color="#fa0000">CA</font>
@@ -16608,7 +16608,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history </b>
     </p>
     <p>
@@ -16764,7 +16764,7 @@
   </head>
   <body>
     <p>
-      <b>Ututo </b><img src="icons/ututo.png"/>
+      <b>Ututo </b><img src="../icons/ututo.png"/>
     </p>
     <p>
       2000 <font color="#fa0000">AR</font>
@@ -16785,7 +16785,7 @@
   </head>
   <body>
     <p>
-      About Ututo <img src="icons/open_source.png"/>
+      About Ututo <img src="../icons/open_source.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -16813,7 +16813,7 @@
   </head>
   <body>
     <p>
-      <b>Linux From Scratch </b><img src="icons/lfs.png" />
+      <b>Linux From Scratch </b><img src="../icons/lfs.png" />
     </p>
     <p>
       2000 <font color="#fa0000">CA</font>
@@ -16840,7 +16840,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       LFS-derived
     </p>
   </body>
@@ -16854,7 +16854,7 @@
   </head>
   <body>
     <p>
-      <b>IPCop Firewall</b><img src="icons/ipcop.png" />
+      <b>IPCop Firewall</b><img src="../icons/ipcop.png" />
     </p>
     <p>
       2008 <font color="#fa0000">US</font>
@@ -16918,7 +16918,7 @@
   </head>
   <body>
     <p>
-      <b>Puppy Linux </b><img src="icons/puppylinux.png"/>
+      <b>Puppy Linux </b><img src="../icons/puppylinux.png"/>
     </p>
     <p>
       2003 <font color="#fa0000">AU</font>
@@ -16932,7 +16932,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -16969,7 +16969,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -16984,7 +16984,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -17000,7 +17000,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -17023,7 +17023,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;/Puppy_linux
     </p>
   </body>
@@ -17039,7 +17039,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17052,7 +17052,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Puppy Linux-derived
     </p>
   </body>
@@ -17098,7 +17098,7 @@
   </head>
   <body>
     <p>
-      <b>MacPUP</b>&#xa0;<img src="icons/macpup.png"/>
+      <b>MacPUP</b>&#xa0;<img src="../icons/macpup.png"/>
     </p>
     <p>
       2009
@@ -17113,7 +17113,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -17146,7 +17146,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -17162,7 +17162,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -17264,7 +17264,7 @@
   </head>
   <body>
     <p>
-      <b>Red Hat </b><img src="icons/redhat.png" />
+      <b>Red Hat </b><img src="../icons/redhat.png" />
     </p>
     <p>
       1995 <font color="#fa0000">US</font>
@@ -17283,7 +17283,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -17341,7 +17341,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;wiki/Red_hat
     </p>
   </body>
@@ -17354,7 +17354,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -17373,7 +17373,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -17389,7 +17389,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -17404,7 +17404,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -17432,7 +17432,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Red Hat-derived
     </p>
   </body>
@@ -17446,7 +17446,7 @@
   </head>
   <body>
     <p>
-      <b>CentOS</b><img src="icons/centos.png" />
+      <b>CentOS</b><img src="../icons/centos.png" />
     </p>
     <p>
       <font size="2">2004 </font><font color="#fa0000" size="2">US</font>
@@ -17467,7 +17467,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -17487,7 +17487,7 @@
   </head>
   <body>
     <p>
-      About CentOS <img src="icons/open_source.png" />
+      About CentOS <img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17515,7 +17515,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -17531,7 +17531,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -17547,7 +17547,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -17561,7 +17561,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: CentOS
     </p>
   </body>
@@ -17576,7 +17576,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17589,7 +17589,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;CentOS-derived
     </p>
   </body>
@@ -17602,7 +17602,7 @@
   </head>
   <body>
     <p>
-      <b>ClearOS</b>&#xa0;<img src="icons/clearos.png"/>
+      <b>ClearOS</b>&#xa0;<img src="../icons/clearos.png"/>
     </p>
     <p>
       2001<font color="#fa0000">&#xa0;NZ</font>
@@ -17618,7 +17618,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -17638,7 +17638,7 @@
   </head>
   <body>
     <p>
-      About ClearOS <img src="icons/open_source.png" />
+      About ClearOS <img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17693,7 +17693,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -17724,7 +17724,7 @@
   </head>
   <body>
     <p>
-      <b>SME Server </b><img src="icons/sme_server.png"/>
+      <b>SME Server </b><img src="../icons/sme_server.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">US</font>
@@ -17738,7 +17738,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -17771,7 +17771,7 @@
   </head>
   <body>
     <p>
-      <b>Yellow Dog Linux</b><img src="icons/ydl.png" />
+      <b>Yellow Dog Linux</b><img src="../icons/ydl.png" />
     </p>
     <p>
       1999
@@ -17799,7 +17799,7 @@
   </head>
   <body>
     <p>
-      <b>Rocks Cluster Distribution </b><img src="icons/rcd.png"/>
+      <b>Rocks Cluster Distribution </b><img src="../icons/rcd.png"/>
     </p>
     <p>
       2004<font color="#fa0000">&#xa0;US</font>
@@ -17830,7 +17830,7 @@
   </head>
   <body>
     <p>
-      <b>Asterisk </b><img src="icons/asterisk.png" />
+      <b>Asterisk </b><img src="../icons/asterisk.png" />
     </p>
     <p>
       2005 <font color="#fa0000">US </font>
@@ -17847,7 +17847,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -17864,7 +17864,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17887,7 +17887,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17959,7 +17959,7 @@
   </head>
   <body>
     <p>
-      <b>Fedora</b>&#160;<img src="icons/fedora.png" />
+      <b>Fedora</b>&#160;<img src="../icons/fedora.png" />
     </p>
     <p>
       <font size="2">2003 </font><font color="#fa0000" size="2">US</font>
@@ -17977,7 +17977,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -18285,7 +18285,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />&#160;<img src="icons/open_source.png" />
+      info <img src="../icons/info.png" />&#160;<img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -18313,7 +18313,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -18333,7 +18333,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -18357,7 +18357,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -18375,7 +18375,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -18391,7 +18391,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       &#160;doc
     </p>
   </body>
@@ -18403,7 +18403,7 @@
     
   </head>
   <body>
-    <img src="icons/ru.png" />
+    <img src="../icons/ru.png" />
   </body>
 </html></richcontent>
 </node>
@@ -18416,7 +18416,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -18429,7 +18429,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Fedora-derived
     </p>
   </body>
@@ -18443,7 +18443,7 @@
   </head>
   <body>
     <p>
-      <b>BLAG Linux And GNU&#xa0;</b><font color="#fa0000">&#xa0;</font><img src="icons/blag.png"/>
+      <b>BLAG Linux And GNU&#xa0;</b><font color="#fa0000">&#xa0;</font><img src="../icons/blag.png"/>
     </p>
     <p>
       2002 <font color="#fa0000">UK</font>
@@ -18461,7 +18461,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -18516,7 +18516,7 @@
   </head>
   <body>
     <p>
-      <b>Korora Project </b><img src="icons/korora.png"/>
+      <b>Korora Project </b><img src="../icons/korora.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">AU</font>
@@ -18546,7 +18546,7 @@
   </head>
   <body>
     <p>
-      <b>Momonga Linux </b><img src="icons/momonga.png"/>
+      <b>Momonga Linux </b><img src="../icons/momonga.png"/>
     </p>
     <p>
       2004&#xa0;<font color="#fa0000">JP</font>
@@ -18562,7 +18562,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -18597,7 +18597,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -18614,7 +18614,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -18632,7 +18632,7 @@
   </head>
   <body>
     <p>
-      <b>Network <img src="icons/nst.png" /><br />Security<br />Toolkit<br /></b>
+      <b>Network <img src="../icons/nst.png" /><br />Security<br />Toolkit<br /></b>
     </p>
   </body>
 </html></richcontent>
@@ -18644,7 +18644,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -18673,7 +18673,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -18688,7 +18688,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -18705,7 +18705,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -18723,7 +18723,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -18739,7 +18739,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -18767,7 +18767,7 @@
   </head>
   <body>
     <p>
-      <b>ASPLinux </b><img src="icons/asp_linux.png" />
+      <b>ASPLinux </b><img src="../icons/asp_linux.png" />
     </p>
     <p>
       2001-2008<font color="#fa0000">RU</font>
@@ -18781,7 +18781,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -18822,7 +18822,7 @@
   </head>
   <body>
     <p>
-      <b>Aurora SPARC Linux</b>&#xa0;<img src="icons/asl.png"/>
+      <b>Aurora SPARC Linux</b>&#xa0;<img src="../icons/asl.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -18844,7 +18844,7 @@
   </head>
   <body>
     <p>
-      <b>Aurox </b><img src="icons/aurox.png" />
+      <b>Aurox </b><img src="../icons/aurox.png" />
     </p>
     <p>
       2002-2006 <font color="#fa0000">PL</font>
@@ -18869,7 +18869,7 @@
   </head>
   <body>
     <p>
-      <b>Bee Linux</b><img src="icons/bee_linux.png" />
+      <b>Bee Linux</b><img src="../icons/bee_linux.png" />
     </p>
     <p>
       2009 <font color="#fa0000">DZ</font>
@@ -18885,7 +18885,7 @@
   </head>
   <body>
     <p>
-      <b>Hakin9 Live </b><img src="icons/hakin9.png"/>
+      <b>Hakin9 Live </b><img src="../icons/hakin9.png"/>
     </p>
     <p>
       2003 -2006 <font color="#fa0000">PL</font>
@@ -18996,7 +18996,7 @@
   </head>
   <body>
     <p>
-      <b>Ekaaty Linux</b>&#xa0;<img src="icons/ekaaty_linux.png"/>
+      <b>Ekaaty Linux</b>&#xa0;<img src="../icons/ekaaty_linux.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">BR</font>
@@ -19010,7 +19010,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -19312,7 +19312,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -19328,7 +19328,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -19343,7 +19343,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -19359,7 +19359,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -19375,7 +19375,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -19390,7 +19390,7 @@
   </head>
   <body>
     <p>
-      <b>Linpus Linux </b><img src="icons/linpus.png" />
+      <b>Linpus Linux </b><img src="../icons/linpus.png" />
     </p>
     <p>
       2000<font color="#fa0000">TW</font>
@@ -19404,7 +19404,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -19424,7 +19424,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -19477,7 +19477,7 @@
   </head>
   <body>
     <p>
-      <b>OLPC OS</b>&#xa0;<img src="icons/olpc.png"/>
+      <b>OLPC OS</b>&#xa0;<img src="../icons/olpc.png"/>
     </p>
     <p>
       2011 <font color="#fa0000">US</font>
@@ -19506,7 +19506,7 @@
   </head>
   <body>
     <p>
-      <b>Openwall GNU/*/Linux </b><img src="icons/openwall.png" />
+      <b>Openwall GNU/*/Linux </b><img src="../icons/openwall.png" />
     </p>
     <p>
       1999 <font color="#fa0000">Global </font>
@@ -19523,7 +19523,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -19554,7 +19554,7 @@
   </head>
   <body>
     <p>
-      <b>Pidora</b>&#xa0;<img src="icons/pidora.png"/>
+      <b>Pidora</b>&#xa0;<img src="../icons/pidora.png"/>
     </p>
     <p>
       2014<font color="#fa0000">&#xa0;CA</font>
@@ -19568,7 +19568,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -19585,7 +19585,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html>
@@ -19611,7 +19611,7 @@
   </head>
   <body>
     <p>
-      <b>Qubes OS</b><img src="icons/qubes.png" />
+      <b>Qubes OS</b><img src="../icons/qubes.png" />
     </p>
     <p>
       2010 <font color="#fa0000">US </font>
@@ -19628,7 +19628,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -19657,7 +19657,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -19672,7 +19672,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -19688,7 +19688,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -19703,7 +19703,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -19723,7 +19723,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: Qubes
     </p>
   </body>
@@ -19735,7 +19735,7 @@
     
   </head>
   <body>
-    <img src="icons/ru.png" />
+    <img src="../icons/ru.png" />
   </body>
 </html></richcontent>
 </node>
@@ -19748,7 +19748,7 @@
   </head>
   <body>
     <p>
-      download Qubes <img src="icons/download.png" />
+      download Qubes <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -19762,7 +19762,7 @@
   </head>
   <body>
     <p>
-      <b>Springdale Linux </b><img src="icons/springdale_linux.png"/>
+      <b>Springdale Linux </b><img src="../icons/springdale_linux.png"/>
     </p>
     <p>
       2013 <font color="#fa0000">US</font>
@@ -19795,7 +19795,7 @@
   </head>
   <body>
     <p>
-      <b>SuliX</b><img src="icons/sulix.png" />
+      <b>SuliX</b><img src="../icons/sulix.png" />
     </p>
     <p>
       2003 <font color="#fa0000">HU</font>
@@ -19822,7 +19822,7 @@
   </head>
   <body>
     <p>
-      <b>Userful Desktop</b><img src="icons/userful_desktop.png" />
+      <b>Userful Desktop</b><img src="../icons/userful_desktop.png" />
     </p>
     <p>
       2008 <font color="#fa0000">CA</font>
@@ -19850,7 +19850,7 @@
   </head>
   <body>
     <p>
-      <b>VortexBox&#xa0; </b><img src="icons/vortexbox.png"/>
+      <b>VortexBox&#xa0; </b><img src="../icons/vortexbox.png"/>
     </p>
     <p>
       2000 <font color="#fa0000">US </font>
@@ -19864,7 +19864,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -19912,7 +19912,7 @@
   </head>
   <body>
     <p>
-      <b>Mandriva Linux</b>&#160;<img src="icons/mandriva.png" />
+      <b>Mandriva Linux</b>&#160;<img src="../icons/mandriva.png" />
     </p>
     <p>
       <font size="2">1998 </font><font color="#fa0000" size="2">FR </font>
@@ -19935,7 +19935,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history </b>
     </p>
     <p>
@@ -19976,7 +19976,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -19992,7 +19992,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20015,7 +20015,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       /Mandrake_Linux
     </p>
   </body>
@@ -20029,7 +20029,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Mandriva-derived
     </p>
   </body>
@@ -20043,7 +20043,7 @@
   </head>
   <body>
     <p>
-      <b>ALT Linux</b>&#xa0;<img src="icons/alt_linux.png"/>
+      <b>ALT Linux</b>&#xa0;<img src="../icons/alt_linux.png"/>
     </p>
     <p>
       1999 <font color="#fa0000">RU</font>
@@ -20058,7 +20058,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -20090,7 +20090,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20107,7 +20107,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20136,7 +20136,7 @@
   </head>
   <body>
     <p>
-      <b>Mageia</b>&#160;<img src="icons/mageia.png" />
+      <b>Mageia</b>&#160;<img src="../icons/mageia.png" />
     </p>
     <p>
       2010&#160;<font color="#fa0000">FR</font>
@@ -20152,7 +20152,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -20190,7 +20190,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20206,7 +20206,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20230,7 +20230,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -20250,7 +20250,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -20265,7 +20265,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: Mageia
     </p>
   </body>
@@ -20277,7 +20277,7 @@
     
   </head>
   <body>
-    <img src="icons/ru.png" />
+    <img src="../icons/ru.png" />
   </body>
 </html></richcontent>
 </node>
@@ -20290,7 +20290,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -20304,7 +20304,7 @@
   </head>
   <body>
     <p>
-      <b>OpenMandriva Lx</b>&#160;<img src="icons/openmandriva_lx.png" />
+      <b>OpenMandriva Lx</b>&#160;<img src="../icons/openmandriva_lx.png" />
     </p>
     <p>
       2013 <font color="#fa0000">FR</font>
@@ -20326,7 +20326,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -20362,7 +20362,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20378,7 +20378,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20394,7 +20394,7 @@
   </head>
   <body>
     <p>
-      download Fedora <img src="icons/download.png" />
+      download Fedora <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -20408,7 +20408,7 @@
   </head>
   <body>
     <p>
-      <b>Rosa Linux </b><img src="icons/rosa.png"/>
+      <b>Rosa Linux </b><img src="../icons/rosa.png"/>
     </p>
     <p>
       2011<font color="#fa0000">&#xa0;RU</font>
@@ -20429,7 +20429,7 @@
   </head>
   <body>
     <p>
-      <b>Unity Linux</b><img src="icons/unity_linux.png" />
+      <b>Unity Linux</b><img src="../icons/unity_linux.png" />
     </p>
     <p>
       2009
@@ -20444,7 +20444,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       Uniti Linux-derived
     </p>
   </body>
@@ -20520,7 +20520,7 @@
   </head>
   <body>
     <p>
-      <b>Trinity Rescue Kit </b><img src="icons/trinity_rescue_kit.png"/>
+      <b>Trinity Rescue Kit </b><img src="../icons/trinity_rescue_kit.png"/>
     </p>
     <p>
       2001 <font color="#fa0000">BE </font>
@@ -20537,7 +20537,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20572,7 +20572,7 @@
   </head>
   <body>
     <p>
-      <b>blackpanther OS </b><img src="icons/blackpanther.png"/>
+      <b>blackpanther OS </b><img src="../icons/blackpanther.png"/>
     </p>
     <p>
       2003 <font color="#fa0000">HU</font>
@@ -20641,7 +20641,7 @@
   </head>
   <body>
     <p>
-      <b>Turbolinux</b><img src="icons/turbolinux.png" />
+      <b>Turbolinux</b><img src="../icons/turbolinux.png" />
     </p>
     <p>
       1992 <font color="#fa0000">JP </font>
@@ -20659,7 +20659,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -20694,7 +20694,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20710,7 +20710,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20727,7 +20727,7 @@
   </head>
   <body>
     <p>
-      <b>Vine Linux</b>&#xa0;<img src="icons/vine_linux.png"/>
+      <b>Vine Linux</b>&#xa0;<img src="../icons/vine_linux.png"/>
     </p>
     <p>
       1998 <font color="#fa0000">JP</font>
@@ -20742,7 +20742,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -20777,7 +20777,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20792,7 +20792,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20811,7 +20811,7 @@
   </head>
   <body>
     <p>
-      <b>Immunix Secure Server OS </b><img src="icons/immunix.png" />
+      <b>Immunix Secure Server OS </b><img src="../icons/immunix.png" />
     </p>
     <p>
       2000 - 2003 <font color="#fa0000">US</font>
@@ -20876,7 +20876,7 @@
   </head>
   <body>
     <p>
-      <b>YOPER</b><img src="icons/yoper.png" />
+      <b>YOPER</b><img src="../icons/yoper.png" />
     </p>
     <p>
       2003<font color="#fa0000">NZ</font>
@@ -20911,7 +20911,7 @@
   </head>
   <body>
     <p>
-      <b>aLinux</b><img src="icons/alinux.png" />
+      <b>aLinux</b><img src="../icons/alinux.png" />
     </p>
     <p>
       Peanut Linux
@@ -20932,7 +20932,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -20961,7 +20961,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -20976,7 +20976,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -20996,7 +20996,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -21014,7 +21014,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -21030,7 +21030,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -21059,7 +21059,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21075,7 +21075,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21090,7 +21090,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -21198,7 +21198,7 @@
   </head>
   <body>
     <p>
-      <b>Miracle Linux </b><img src="icons/miracle.png"/>
+      <b>Miracle Linux </b><img src="../icons/miracle.png"/>
     </p>
     <p>
       2000<font color="#fa0000">&#xa0;JP</font>
@@ -21213,7 +21213,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21229,7 +21229,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21245,7 +21245,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -21285,7 +21285,7 @@
   </head>
   <body>
     <p>
-      <b>Oracle Linux </b><img src="icons/oracle_linux.png"/>
+      <b>Oracle Linux </b><img src="../icons/oracle_linux.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">US</font>
@@ -21331,7 +21331,7 @@
   </head>
   <body>
     <p>
-      <b>Scientific Linux </b><img src="icons/scientific_linux.png"/>
+      <b>Scientific Linux </b><img src="../icons/scientific_linux.png"/>
     </p>
     <p>
       2004 <font color="#fa0000">US</font>
@@ -21351,7 +21351,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -21392,7 +21392,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21409,7 +21409,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21426,7 +21426,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -21439,7 +21439,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Scientific Linux-derived
     </p>
   </body>
@@ -21453,7 +21453,7 @@
   </head>
   <body>
     <p>
-      <b>Fermi Linux </b><img src="icons/fermi_linux.png" />
+      <b>Fermi Linux </b><img src="../icons/fermi_linux.png" />
     </p>
     <p>
       1998 <font color="#fa0000">US </font>
@@ -21471,7 +21471,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -21506,7 +21506,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21523,7 +21523,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21540,7 +21540,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -21556,7 +21556,7 @@
   </head>
   <body>
     <p>
-      <b>StartCom Linux</b><img src="icons/startcom.png" />
+      <b>StartCom Linux</b><img src="../icons/startcom.png" />
     </p>
     <p>
       2004 <font color="#fa0000">IL</font>
@@ -21570,7 +21570,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -21599,7 +21599,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21615,7 +21615,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21632,7 +21632,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -21649,7 +21649,7 @@
   </head>
   <body>
     <p>
-      <b>Slackware</b><font color="#3296fa"><i>&#xa0;</i></font><img src="icons/slackware.png"/>
+      <b>Slackware</b><font color="#3296fa"><i>&#xa0;</i></font><img src="../icons/slackware.png"/>
     </p>
     <p>
       1993 <font color="#fa0000">US</font>
@@ -21667,7 +21667,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -21702,7 +21702,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png" />
+      <img src="../icons/architecture.png" />
       architecture
     </p>
   </body>
@@ -21720,7 +21720,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png" />
+      <img src="../icons/de_wm.png" />
       DE/WM
     </p>
   </body>
@@ -21740,7 +21740,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;wiki/Slackware
     </p>
   </body>
@@ -21753,7 +21753,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: Slackware
     </p>
   </body>
@@ -21768,7 +21768,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -21781,7 +21781,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Slackware-direved
     </p>
   </body>
@@ -21795,7 +21795,7 @@
   </head>
   <body>
     <p>
-      <b>Salix </b><img src="icons/salix.png"/>
+      <b>Salix </b><img src="../icons/salix.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">EU</font>
@@ -21810,7 +21810,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -21852,7 +21852,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21871,7 +21871,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21889,7 +21889,7 @@
   </head>
   <body>
     <p>
-      download<img src="icons/download.png" />
+      download<img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -21903,7 +21903,7 @@
   </head>
   <body>
     <p>
-      <b>VectorLinux</b><img src="icons/vector_linux.png" />
+      <b>VectorLinux</b><img src="../icons/vector_linux.png" />
     </p>
     <p>
       2003 <font color="#fa0000">CA </font>
@@ -21925,7 +21925,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -21963,7 +21963,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -21979,7 +21979,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -21998,7 +21998,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -22020,7 +22020,7 @@
   </head>
   <body>
     <p>
-      <b>Slax </b><img src="icons/slax.png"/>&#xa0;
+      <b>Slax </b><img src="../icons/slax.png"/>&#xa0;
     </p>
     <p>
       1999 <font color="#fa0000">CZ</font>
@@ -22039,7 +22039,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -22074,7 +22074,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22090,7 +22090,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22108,7 +22108,7 @@
   </head>
   <body>
     <p>
-      download Slax <img src="icons/download.png" />
+      download Slax <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -22121,7 +22121,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Slax-derived
     </p>
   </body>
@@ -22147,7 +22147,7 @@
   </head>
   <body>
     <p>
-      <b>Damn Vulnerable Linux </b><img src="icons/dvl.png" />
+      <b>Damn Vulnerable Linux </b><img src="../icons/dvl.png" />
     </p>
   </body>
 </html></richcontent>
@@ -22188,7 +22188,7 @@
   </head>
   <body>
     <p>
-      <b>AbsoluteLinux </b><img src="icons/absolute_linux.png" />
+      <b>AbsoluteLinux </b><img src="../icons/absolute_linux.png" />
     </p>
     <p>
       2007 <font color="#fa0000">US</font>
@@ -22202,7 +22202,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -22231,7 +22231,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22246,7 +22246,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22263,7 +22263,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -22277,7 +22277,7 @@
   </head>
   <body>
     <p>
-      <b>AgiliaLinux </b><img src="icons/agilia_linux.png" />
+      <b>AgiliaLinux </b><img src="../icons/agilia_linux.png" />
     </p>
     <p>
       2009 <font color="#fa0000">RU</font>
@@ -22296,7 +22296,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -22326,7 +22326,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22342,7 +22342,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22362,7 +22362,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: AgiliaLinux
     </p>
   </body>
@@ -22377,7 +22377,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -22391,7 +22391,7 @@
   </head>
   <body>
     <p>
-      <b>AUSTRUMI</b>&#xa0;<img src="icons/austrumi.png"/>
+      <b>AUSTRUMI</b>&#xa0;<img src="../icons/austrumi.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">LV</font>
@@ -22409,7 +22409,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22424,7 +22424,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22440,7 +22440,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -22491,7 +22491,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22507,7 +22507,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22522,7 +22522,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -22557,7 +22557,7 @@
   </head>
   <body>
     <p>
-      <b>Draco GNU/Linux </b><img src="icons/draco_gnu_linux.png" />
+      <b>Draco GNU/Linux </b><img src="../icons/draco_gnu_linux.png" />
     </p>
     <p>
       2007<font color="#fa0000">&#160;NO</font>
@@ -22608,7 +22608,7 @@
   </head>
   <body>
     <p>
-      <b>Porteus</b>&#xa0;<img src="icons/porteus.png"/>&#xa0;
+      <b>Porteus</b>&#xa0;<img src="../icons/porteus.png"/>&#xa0;
     </p>
     <p>
       2010 <font color="#fa0000">IE</font>
@@ -22627,7 +22627,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -22662,7 +22662,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22678,7 +22678,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22716,7 +22716,7 @@
   </head>
   <body>
     <p>
-      <b>Superb Mini Server </b><img src="icons/sms.png" />
+      <b>Superb Mini Server </b><img src="../icons/sms.png" />
     </p>
     <p>
       2011 <font color="#fa0000">GR</font>
@@ -22744,7 +22744,7 @@
   </head>
   <body>
     <p>
-      <b>Wifislax </b><img src="icons/wifislax.png"/>
+      <b>Wifislax </b><img src="../icons/wifislax.png"/>
     </p>
     <p>
       2007 <font color="#fa0000">ES</font>
@@ -22759,7 +22759,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -22788,7 +22788,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -22804,7 +22804,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -22820,7 +22820,7 @@
   </head>
   <body>
     <p>
-      download Wifislax <img src="icons/download.png" />
+      download Wifislax <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -22834,7 +22834,7 @@
   </head>
   <body>
     <p>
-      <b>Zenwalk</b>&#xa0;<img src="icons/zenwalk.png"/>
+      <b>Zenwalk</b>&#xa0;<img src="../icons/zenwalk.png"/>
     </p>
     <p>
       2005<font color="#fa0000">&#xa0;FR </font>
@@ -22892,7 +22892,7 @@
   </head>
   <body>
     <p>
-      <b>EvilEntity Linux</b><img src="icons/evilentity_linux.png" />
+      <b>EvilEntity Linux</b><img src="../icons/evilentity_linux.png" />
     </p>
     <p>
       2003 <font color="#fa0000">US</font>
@@ -22921,7 +22921,7 @@
   </head>
   <body>
     <p>
-      <b>openSUSE </b><img src="icons/suse.png" />
+      <b>openSUSE </b><img src="../icons/suse.png" />
     </p>
     <p>
       2003 <font color="#fa0000">US</font>
@@ -22941,7 +22941,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -22961,7 +22961,7 @@
   </head>
   <body>
     <p>
-      About openSUSE <img src="icons/open_source.png"/>
+      About openSUSE <img src="../icons/open_source.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -22989,7 +22989,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -23005,7 +23005,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -23027,7 +23027,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -23047,7 +23047,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -23062,7 +23062,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc: openSUSE
     </p>
   </body>
@@ -23075,7 +23075,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;wiki/openSUSE
     </p>
   </body>
@@ -23091,7 +23091,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -23104,7 +23104,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;SUSE-derived
     </p>
   </body>
@@ -23121,7 +23121,7 @@
   </head>
   <body>
     <p>
-      <b>NetSecL OS</b><img src="icons/netsecl.png" />
+      <b>NetSecL OS</b><img src="../icons/netsecl.png" />
     </p>
     <p>
       2005 <font color="#fa0000">BG</font>
@@ -23135,7 +23135,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -23244,7 +23244,7 @@
   </head>
   <body>
     <p>
-      <b>Conectiva Linux </b><img src="icons/conectiva.png"/>
+      <b>Conectiva Linux </b><img src="../icons/conectiva.png"/>
     </p>
     <p>
       1997 - 2005 <font color="#fa0000">BR </font>
@@ -23285,7 +23285,7 @@
   </head>
   <body>
     <p>
-      <b>Ark Linux </b><img src="icons/ark_linux.png" />
+      <b>Ark Linux </b><img src="../icons/ark_linux.png" />
     </p>
     <p>
       2005-2014 <font color="#fa0000">DE</font>
@@ -23338,7 +23338,7 @@
   </head>
   <body>
     <p>
-      <b>0Linux </b><img src="icons/0linux.png" />
+      <b>0Linux </b><img src="../icons/0linux.png" />
     </p>
     <p>
       2014 <font color="#fa0000">FR</font>
@@ -23366,7 +23366,7 @@
   </head>
   <body>
     <p>
-      <b>Burapha Linux Server </b><img src="icons/burapha_linux_server.png" />
+      <b>Burapha Linux Server </b><img src="../icons/burapha_linux_server.png" />
     </p>
     <p>
       2003 <font color="#fa0000">TH</font>
@@ -23394,7 +23394,7 @@
   </head>
   <body>
     <p>
-      <b>CoreOS </b><img src="icons/coreos.png"/>
+      <b>CoreOS </b><img src="../icons/coreos.png"/>
     </p>
     <p>
       2014 <font color="#fa0000">US</font>
@@ -23426,7 +23426,7 @@
   </head>
   <body>
     <p>
-      <b>CRUX</b>&#xa0;<img src="icons/crux.png"/>
+      <b>CRUX</b>&#xa0;<img src="../icons/crux.png"/>
     </p>
     <p>
       2002 <font color="#fa0000">SE </font>
@@ -23490,7 +23490,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;CRUX-derived
     </p>
   </body>
@@ -23504,7 +23504,7 @@
   </head>
   <body>
     <p>
-      <b>Kwort Linux</b>&#xa0;<img src="icons/kwort_linux.png"/>
+      <b>Kwort Linux</b>&#xa0;<img src="../icons/kwort_linux.png"/>
     </p>
     <p>
       2006 <font color="#fa0000">AR</font>
@@ -23541,7 +23541,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -23569,7 +23569,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;Thinstation-derived
     </p>
   </body>
@@ -23597,7 +23597,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -23631,7 +23631,7 @@
   </head>
   <body>
     <p>
-      <b>NuTyX</b><img src="icons/nutyx.png" />
+      <b>NuTyX</b><img src="../icons/nutyx.png" />
     </p>
     <p>
       2007 <font color="#fa0000">FR</font>
@@ -23645,7 +23645,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -23674,7 +23674,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -23690,7 +23690,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -23708,7 +23708,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -23723,7 +23723,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -23753,7 +23753,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -23769,7 +23769,7 @@
   </head>
   <body>
     <p>
-      <b>Devil-Linux </b><img src="icons/devil_linux.png"/>
+      <b>Devil-Linux </b><img src="../icons/devil_linux.png"/>
     </p>
     <p>
       2002 <font color="#fa0000">US</font>
@@ -23783,7 +23783,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -23816,7 +23816,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -23830,7 +23830,7 @@
   </head>
   <body>
     <p>
-      <b>Dragora&#xa0;</b><img src="icons/dragora.png"/>
+      <b>Dragora&#xa0;</b><img src="../icons/dragora.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">AR</font>
@@ -23844,7 +23844,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -23860,7 +23860,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -23877,7 +23877,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -23916,7 +23916,7 @@
   </head>
   <body>
     <p>
-      About DSLR <img src="icons/open_source.png"/>
+      About DSLR <img src="../icons/open_source.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -23941,7 +23941,7 @@
   </head>
   <body>
     <p>
-      <b>EnGarde Secure Linux </b><img src="icons/engarde_secure_linux.png" />
+      <b>EnGarde Secure Linux </b><img src="../icons/engarde_secure_linux.png" />
     </p>
     <p>
       2001
@@ -23960,7 +23960,7 @@
   </head>
   <body>
     <p>
-      <b>Exherbo</b><img src="icons/exherbo.png" />
+      <b>Exherbo</b><img src="../icons/exherbo.png" />
     </p>
     <p>
       2014 <font color="#fa0000">DE</font>
@@ -23989,7 +23989,7 @@
   </head>
   <body>
     <p>
-      <b>Foresight Linux</b>&#xa0;<img src="icons/foresight.png"/>
+      <b>Foresight Linux</b>&#xa0;<img src="../icons/foresight.png"/>
     </p>
     <p>
       2007 <font color="#fa0000">US </font>
@@ -24020,7 +24020,7 @@
   </head>
   <body>
     <p>
-      <b>GeeXboX</b>&#xa0;<img src="icons/geexbox.png"/>
+      <b>GeeXboX</b>&#xa0;<img src="../icons/geexbox.png"/>
     </p>
     <p>
       2002 <font color="#fa0000">FR</font>
@@ -24048,7 +24048,7 @@
   </head>
   <body>
     <p>
-      <b>GoboLinux</b>&#xa0;<img src="icons/gobo.png"/>
+      <b>GoboLinux</b>&#xa0;<img src="../icons/gobo.png"/>
     </p>
     <p>
       2002<font color="#fa0000">&#xa0;BR</font>
@@ -24062,7 +24062,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -24107,7 +24107,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;/Gobolinux
     </p>
   </body>
@@ -24123,7 +24123,7 @@
   </head>
   <body>
     <p>
-      <b>KaOS </b><img src="icons/kaos.png" />
+      <b>KaOS </b><img src="../icons/kaos.png" />
     </p>
     <p>
       2014 <font color="#fa0000">US</font>
@@ -24220,7 +24220,7 @@
   </head>
   <body>
     <p>
-      <b>Alpine Linux </b><img src="icons/alpinelinux.png"/>
+      <b>Alpine Linux </b><img src="../icons/alpinelinux.png"/>
     </p>
     <p>
       2010<font color="#fa0000">&#xa0;NO</font>
@@ -24234,7 +24234,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -24254,7 +24254,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -24286,7 +24286,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -24327,7 +24327,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -24353,7 +24353,7 @@
   </head>
   <body>
     <p>
-      download OpenSuse <img src="icons/download.png"/>
+      download OpenSuse <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -24367,7 +24367,7 @@
   </head>
   <body>
     <p>
-      <b>Maui </b><img src="icons/maui.png" />
+      <b>Maui </b><img src="../icons/maui.png" />
     </p>
   </body>
 </html></richcontent>
@@ -24410,7 +24410,7 @@
   </head>
   <body>
     <p>
-      <b>NixOS </b><img src="icons/nixos.png" />
+      <b>NixOS </b><img src="../icons/nixos.png" />
     </p>
     <p>
       2014 <font color="#fa0000">NL</font>
@@ -24424,7 +24424,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -24444,7 +24444,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -24466,7 +24466,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -24482,7 +24482,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -24502,7 +24502,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -24518,7 +24518,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -24532,7 +24532,7 @@
   </head>
   <body>
     <p>
-      <b>OpenELEC </b><img src="icons/openelec.png"/>
+      <b>OpenELEC </b><img src="../icons/openelec.png"/>
     </p>
     <p>
       2009<font color="#fa0000">&#xa0;CH</font>
@@ -24558,7 +24558,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -24578,7 +24578,7 @@
   </head>
   <body>
     <p>
-      <b>openmamba GNU/Linux </b><img src="icons/openmamba.png"/>
+      <b>openmamba GNU/Linux </b><img src="../icons/openmamba.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">IT</font>
@@ -24606,7 +24606,7 @@
   </head>
   <body>
     <p>
-      <b>paldo GNU/Linux </b><img src="icons/paldo_gnu_linux.png" />
+      <b>paldo GNU/Linux </b><img src="../icons/paldo_gnu_linux.png" />
     </p>
     <p>
       pure adaptable linux distribution
@@ -24626,7 +24626,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -24655,7 +24655,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -24672,7 +24672,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -24688,7 +24688,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -24706,7 +24706,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -24723,7 +24723,7 @@
   </head>
   <body>
     <p>
-      <b>Parted Magic&#xa0;</b><img src="icons/partedmagic.png"/>
+      <b>Parted Magic&#xa0;</b><img src="../icons/partedmagic.png"/>
     </p>
     <p>
       2007<font color="#fa0000">&#xa0;US</font>
@@ -24740,7 +24740,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -24757,7 +24757,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -24772,7 +24772,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -24813,7 +24813,7 @@
   </head>
   <body>
     <p>
-      <b>PCLinuxOS</b>&#xa0;<img src="icons/pclinuxos.png"/>
+      <b>PCLinuxOS</b>&#xa0;<img src="../icons/pclinuxos.png"/>
     </p>
     <p>
       2003 <font color="#fa0000">US </font>
@@ -24831,7 +24831,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -24867,7 +24867,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       /PCLinuxOS
     </p>
   </body>
@@ -24880,7 +24880,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -24897,7 +24897,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -24916,7 +24916,7 @@
   </head>
   <body>
     <p>
-      <b>PLD Linux Distributin </b><img src="icons/pld.png" />
+      <b>PLD Linux Distributin </b><img src="../icons/pld.png" />
     </p>
     <p>
       1998<font color="#fa0000">PL</font>
@@ -25018,7 +25018,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -25047,7 +25047,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -25193,7 +25193,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -25211,7 +25211,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -25227,7 +25227,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       doc: ROCK
     </p>
   </body>
@@ -25242,7 +25242,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -25255,7 +25255,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       ROCK-direved
     </p>
   </body>
@@ -25269,7 +25269,7 @@
   </head>
   <body>
     <p>
-      <b>T2 SDE</b><img src="icons/t2sde.png" />
+      <b>T2 SDE</b><img src="../icons/t2sde.png" />
     </p>
     <p>
       2006 <font color="#fa0000">DE</font>
@@ -25316,7 +25316,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -25348,7 +25348,7 @@
   </head>
   <body>
     <p>
-      <b>SliTaz GNU/Linux</b>&#xa0;<img src="icons/slitaz_gnu_linux.png"/>
+      <b>SliTaz GNU/Linux</b>&#xa0;<img src="../icons/slitaz_gnu_linux.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">CH </font>
@@ -25387,7 +25387,7 @@
   </head>
   <body>
     <p>
-      download SliTaz GNU/Linux <img src="icons/download.png"/>
+      download SliTaz GNU/Linux <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -25400,7 +25400,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;SliTaz GNU/Linux-derived
     </p>
   </body>
@@ -25414,7 +25414,7 @@
   </head>
   <body>
     <p>
-      <b>Ophacrack LiveCD</b>&#xa0;<img src="icons/ophcrack.png"/>
+      <b>Ophacrack LiveCD</b>&#xa0;<img src="../icons/ophcrack.png"/>
     </p>
     <p>
       2007<font color="#fa0000">&#xa0;CH</font>
@@ -25429,7 +25429,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -25458,7 +25458,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -25473,7 +25473,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -25488,7 +25488,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -25541,7 +25541,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -25557,7 +25557,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -25593,7 +25593,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p>
@@ -25623,7 +25623,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -25637,7 +25637,7 @@
   </head>
   <body>
     <p>
-      <b>Sorcerer </b><img src="icons/sorcerer.png" />
+      <b>Sorcerer </b><img src="../icons/sorcerer.png" />
     </p>
     <p>
       2001 <font color="#fa0000">US</font>
@@ -25664,7 +25664,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       Sorcerer-direved
     </p>
   </body>
@@ -25678,7 +25678,7 @@
   </head>
   <body>
     <p>
-      <b>Lunar Linux </b><img src="icons/lunar_linux.png" />
+      <b>Lunar Linux </b><img src="../icons/lunar_linux.png" />
     </p>
     <p>
       2002<font color="#fa0000">US</font>
@@ -25723,7 +25723,7 @@
   </head>
   <body>
     <p>
-      <b>StartOS</b><img src="icons/startos.png" />
+      <b>StartOS</b><img src="../icons/startos.png" />
     </p>
     <p>
       Ylmf OS
@@ -25755,7 +25755,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -25788,7 +25788,7 @@
   </head>
   <body>
     <p>
-      <b>UHU-Linux</b><img src="icons/uhu_linux.png" />
+      <b>UHU-Linux</b><img src="../icons/uhu_linux.png" />
     </p>
     <p>
       2003 <font color="#fa0000">HU</font>
@@ -25816,7 +25816,7 @@
   </head>
   <body>
     <p>
-      <b>Unified Threat Management </b><img src="icons/utm.png" />
+      <b>Unified Threat Management </b><img src="../icons/utm.png" />
     </p>
     <p>
       2001<font color="#fa0000">DE</font>
@@ -25865,7 +25865,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="line-height: 100%; margin-bottom: 0cm">
@@ -25911,7 +25911,7 @@
   </head>
   <body>
     <p>
-      <b>MINIX</b>&#160;<img src="icons/minix.png" />
+      <b>MINIX</b>&#160;<img src="../icons/minix.png" />
     </p>
     <p>
       <font size="2">1987 </font><font color="#fa0000" size="2">NL</font>
@@ -26064,7 +26064,7 @@
   </head>
   <body>
     <p>
-      <b>SunOS</b>&#xa0;<img src="icons/sunos.png"/>
+      <b>SunOS</b>&#xa0;<img src="../icons/sunos.png"/>
     </p>
     <p>
       1982 - 1994 <font color="#fa0000">US </font>
@@ -26081,7 +26081,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
   </body>
@@ -26095,7 +26095,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       SunOS-derived
     </p>
   </body>
@@ -26108,7 +26108,7 @@
   </head>
   <body>
     <p>
-      <b>OpenSolaris</b><img src="icons/opensolaris.png" />
+      <b>OpenSolaris</b><img src="../icons/opensolaris.png" />
     </p>
     <p>
       2008 - 2010 <font color="#fa0000">US</font>
@@ -26191,7 +26191,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;OpenSolaris-derived
     </p>
   </body>
@@ -26204,7 +26204,7 @@
   </head>
   <body>
     <p>
-      <b>illumos</b>&#xa0;<img src="icons/illumos.png"/>
+      <b>illumos</b>&#xa0;<img src="../icons/illumos.png"/>
     </p>
     <p>
       2010 <font color="#fa0000">US </font>
@@ -26234,7 +26234,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       Illumos-derived
     </p>
   </body>
@@ -26310,7 +26310,7 @@
   </head>
   <body>
     <p>
-      <b>OpenIndiana </b><img src="icons/openindiana.png" />
+      <b>OpenIndiana </b><img src="../icons/openindiana.png" />
     </p>
     <p>
       2013 <font color="#fa0000">US </font>
@@ -26339,7 +26339,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png" />
+      <img src="../icons/derived.png" />
       OpenIndiana-derived
     </p>
   </body>
@@ -26352,7 +26352,7 @@
   </head>
   <body>
     <p>
-      <b>SchilliX </b><img src="icons/schillix.png" />
+      <b>SchilliX </b><img src="../icons/schillix.png" />
     </p>
     <p>
       2005 <font color="#fa0000">DE </font>
@@ -26384,7 +26384,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -26468,7 +26468,7 @@
   </head>
   <body>
     <p>
-      <b>SmartOS</b><img src="icons/smartos.png" />
+      <b>SmartOS</b><img src="../icons/smartos.png" />
     </p>
     <p>
       2014 <font color="#fa0000">US </font>
@@ -26515,7 +26515,7 @@
   </head>
   <body>
     <p>
-      <b>NexentaStor</b><img src="icons/nexentastor.png" />
+      <b>NexentaStor</b><img src="../icons/nexentastor.png" />
     </p>
     <p>
       [<font color="#3296fa">Nexenta Systems</font>]
@@ -26543,7 +26543,7 @@
   </head>
   <body>
     <p>
-      <b>BeleniX</b><img src="icons/belenix.png" />
+      <b>BeleniX</b><img src="../icons/belenix.png" />
     </p>
     <p>
       2005 <font color="#fa0000">IN</font>
@@ -26557,7 +26557,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -26665,7 +26665,7 @@
   </head>
   <body>
     <p>
-      <b>Solaris </b><img src="icons/solaris.png" />
+      <b>Solaris </b><img src="../icons/solaris.png" />
     </p>
     <p>
       1992 <font color="#fa0000">US</font>
@@ -26686,7 +26686,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       <b>Version history</b>
     </p>
   </body>
@@ -26737,7 +26737,7 @@
   </head>
   <body>
     <p>
-      <b>HP-UX </b><img src="icons/hp_ux.png" />
+      <b>HP-UX </b><img src="../icons/hp_ux.png" />
     </p>
     <p>
       1983 <font color="#fa0000">US</font>
@@ -26755,7 +26755,7 @@
   </head>
   <body>
     <p>
-      <b>About HP-UX </b><img src="icons/corporate.png" />
+      <b>About HP-UX </b><img src="../icons/corporate.png" />
     </p>
   </body>
 </html>
@@ -26769,7 +26769,7 @@
   </head>
   <body>
     <p>
-      &#xa0;<b>AIX</b>&#xa0;<img src="icons/aix.png"/>
+      &#xa0;<b>AIX</b>&#xa0;<img src="../icons/aix.png"/>
     </p>
     <p>
       1986 <font color="#fa0000">US</font>
@@ -26807,7 +26807,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -27005,7 +27005,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -27090,7 +27090,7 @@
   </head>
   <body>
     <p>
-      <b>QNX </b><img src="icons/qnx_genune.png" /><img src="icons/qnx_black_berry.png" />
+      <b>QNX </b><img src="../icons/qnx_genune.png" /><img src="../icons/qnx_black_berry.png" />
     </p>
     <p>
       1982
@@ -27118,7 +27118,7 @@
   </head>
   <body>
     <p>
-      hypervisors <img src="icons/hypervisor.png" />&#160;
+      hypervisors <img src="../icons/hypervisor.png" />&#160;
     </p>
   </body>
 </html></richcontent>
@@ -27132,7 +27132,7 @@
   </head>
   <body>
     <p>
-      <b>KVM </b><img src="icons/kvm.png" />
+      <b>KVM </b><img src="../icons/kvm.png" />
     </p>
     <p>
       2007
@@ -27189,7 +27189,7 @@
   </head>
   <body>
     <p>
-      <b>OpenVZ</b><img src="icons/openvz.png" />
+      <b>OpenVZ</b><img src="../icons/openvz.png" />
     </p>
     <p>
       2005
@@ -27205,7 +27205,7 @@
   </head>
   <body>
     <p>
-      <b>VirtualBox</b>&#160;<img src="icons/virtualbox.png" />
+      <b>VirtualBox</b>&#160;<img src="../icons/virtualbox.png" />
     </p>
     <p>
       [ <font color="#3296fa">Oracle</font>&#160;]
@@ -27221,7 +27221,7 @@
   </head>
   <body>
     <p>
-      <b>QEMU </b><img src="icons/qemu.png" />
+      <b>QEMU </b><img src="../icons/qemu.png" />
     </p>
     <p>
       <i><font color="#3296fa">Fabrice Bellard </font></i>
@@ -27238,7 +27238,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -27322,7 +27322,7 @@
   </head>
   <body>
     <p>
-      <b>Xen</b>&#xa0;<img src="icons/xen.png"/>
+      <b>Xen</b>&#xa0;<img src="../icons/xen.png"/>
     </p>
     <p>
       2003 <font color="#fa0000">UK</font>
@@ -27342,7 +27342,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -27399,7 +27399,7 @@
   </head>
   <body>
     <p>
-      cloud <img src="icons/cloud.png" />
+      cloud <img src="../icons/cloud.png" />
     </p>
   </body>
 </html></richcontent>
@@ -27411,7 +27411,7 @@
   </head>
   <body>
     <p>
-      <b>OpenStack </b><img src="icons/openstack.png" />
+      <b>OpenStack </b><img src="../icons/openstack.png" />
     </p>
     <p>
       2010 <font color="#fa0000">US</font>
@@ -27529,7 +27529,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
   </body>
@@ -27554,7 +27554,7 @@
   </head>
   <body>
     <p>
-      <b>Tizen </b><img src="icons/tizen.png"/>
+      <b>Tizen </b><img src="../icons/tizen.png"/>
     </p>
     <p>
       2012
@@ -27572,7 +27572,7 @@
   </head>
   <body>
     <p>
-      <b>Android </b><img src="icons/android.png"/>
+      <b>Android </b><img src="../icons/android.png"/>
     </p>
     <p>
       2008 <font color="#fa0000">US</font>
@@ -27589,7 +27589,7 @@
   </head>
   <body>
     <p>
-      <b>Replicant</b>&#xa0;<img src="icons/replicant.png"/>
+      <b>Replicant</b>&#xa0;<img src="../icons/replicant.png"/>
     </p>
     <p>
       2010
@@ -27611,7 +27611,7 @@
   </head>
   <body>
     <p>
-      <b>Sailfish OS </b><img src="icons/sailfish.png"/>
+      <b>Sailfish OS </b><img src="../icons/sailfish.png"/>
     </p>
     <p>
       2012
@@ -27728,7 +27728,7 @@
   </head>
   <body>
     <p>
-      <b>NAS4Free </b><img src="icons/nas4free.png"/>
+      <b>NAS4Free </b><img src="../icons/nas4free.png"/>
     </p>
     <p>
       2014 <font color="#fa0000">NL</font>
@@ -27767,7 +27767,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png" />
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -28012,7 +28012,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/wikipedia.png"/>
+      <img src="../icons/wikipedia.png"/>
       &#xa0;/Multics
     </p>
   </body>
@@ -28155,7 +28155,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;BeOS-derived
     </p>
   </body>
@@ -28200,7 +28200,7 @@
   </head>
   <body>
     <p>
-      wiki/NetWare<img src="icons/wikipedia.png"/>
+      wiki/NetWare<img src="../icons/wikipedia.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -28214,7 +28214,7 @@
   </head>
   <body>
     <p>
-      <b>RISC OS</b>&#xa0;<img src="icons/risc_os.png"/>
+      <b>RISC OS</b>&#xa0;<img src="../icons/risc_os.png"/>
     </p>
     <p>
       1987 <font color="#fa0000">UK</font>
@@ -28238,7 +28238,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>
@@ -28273,7 +28273,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -28306,7 +28306,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -28348,7 +28348,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;RISC OS-derived
     </p>
   </body>
@@ -28383,7 +28383,7 @@
   </head>
   <body>
     <p>
-      <b>About FreeDOS</b>&#xa0;<img src="icons/open_source.png"/>
+      <b>About FreeDOS</b>&#xa0;<img src="../icons/open_source.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -28408,7 +28408,7 @@
   </head>
   <body>
     <p>
-      <b>SkyOS</b>&#xa0;<img src="icons/skyos.png"/>
+      <b>SkyOS</b>&#xa0;<img src="../icons/skyos.png"/>
     </p>
     <p>
       1997
@@ -28448,7 +28448,7 @@
   </head>
   <body>
     <p>
-      <b>AmigaOS </b><img src="icons/amiga.png"/>
+      <b>AmigaOS </b><img src="../icons/amiga.png"/>
     </p>
     <p>
       1985
@@ -28465,7 +28465,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p>
@@ -28523,7 +28523,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -28539,7 +28539,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;AmigaOS-derived
     </p>
   </body>
@@ -28553,7 +28553,7 @@
   </head>
   <body>
     <p>
-      <b>AtheOS</b>&#xa0;<img src="icons/atheos.png"/>
+      <b>AtheOS</b>&#xa0;<img src="../icons/atheos.png"/>
     </p>
     <p>
       2000 <font color="#fa0000">NO</font>
@@ -28586,7 +28586,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       <b>Version history</b>
     </p>
     <p>
@@ -28640,7 +28640,7 @@
   </head>
   <body>
     <p>
-      people <img src="icons/people.png"/>
+      people <img src="../icons/people.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -28677,7 +28677,7 @@
   </head>
   <body>
     <p>
-      <b>AROS</b><img src="icons/aros.png" />
+      <b>AROS</b><img src="../icons/aros.png" />
     </p>
     <p>
       1996
@@ -28691,7 +28691,7 @@
   </head>
   <body>
     <p>
-      About AROS <img src="icons/open_source.png" />
+      About AROS <img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -28718,7 +28718,7 @@
   </head>
   <body>
     <p>
-      <b>MorphOS</b>&#xa0;<img src="icons/morphos.png"/>
+      <b>MorphOS</b>&#xa0;<img src="../icons/morphos.png"/>
     </p>
     <p>
       2000
@@ -28752,7 +28752,7 @@
   </head>
   <body>
     <p>
-      <b>download </b><img src="icons/download.png"/>
+      <b>download </b><img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -28784,7 +28784,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;MenuetOS-derived
     </p>
   </body>
@@ -28798,7 +28798,7 @@
   </head>
   <body>
     <p>
-      <b>KolibriOS</b>&#xa0;<img src="icons/kolibri.png"/>
+      <b>KolibriOS</b>&#xa0;<img src="../icons/kolibri.png"/>
     </p>
     <p>
       2009 <font color="#fa0000">RU</font>
@@ -28827,7 +28827,7 @@
   </head>
   <body>
     <p>
-      <b>download</b>&#xa0;<img src="icons/download.png"/>
+      <b>download</b>&#xa0;<img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -28843,7 +28843,7 @@
   </head>
   <body>
     <p>
-      <b>Windows </b><img src="icons/windows.png" />
+      <b>Windows </b><img src="../icons/windows.png" />
     </p>
     <p>
       1985 <font color="#fa0000">US</font>
@@ -29247,7 +29247,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/de_wm.png"/>
+      <img src="../icons/de_wm.png"/>
       &#xa0;DE/WM
     </p>
   </body>
@@ -29298,7 +29298,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png"/>
+      <img src="../icons/version_history.png"/>
       &#xa0;<b>Version history</b>
     </p>
     <p style="margin-bottom: 0cm; line-height: 100%">
@@ -29342,7 +29342,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -29356,7 +29356,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/fs.png"/>
+      <img src="../icons/fs.png"/>
       &#xa0;FS
     </p>
   </body>
@@ -29374,7 +29374,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/pm.png"/>
+      <img src="../icons/pm.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -29402,7 +29402,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png"/>
+      <img src="../icons/doc.png"/>
       &#xa0;doc:
     </p>
   </body>
@@ -29416,7 +29416,7 @@
   </head>
   <body>
     <p>
-      download <img src="icons/download.png"/>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -29429,7 +29429,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/derived.png"/>
+      <img src="../icons/derived.png"/>
       &#xa0;[Name]-derived
     </p>
   </body>
@@ -29466,7 +29466,7 @@
   </head>
   <body>
     <p>
-      <b>Canonical </b><img src="icons/canonical.png" />
+      <b>Canonical </b><img src="../icons/canonical.png" />
     </p>
     <p>
       
@@ -29486,7 +29486,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000">Jolla</font>&#xa0;<img src="icons/jolla.png"/>
+      <font color="#000000">Jolla</font>&#xa0;<img src="../icons/jolla.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -29504,7 +29504,7 @@
   </head>
   <body>
     <p>
-      <b>Be Inc.</b>&#xa0;<img src="icons/beinc.png"/>
+      <b>Be Inc.</b>&#xa0;<img src="../icons/beinc.png"/>
     </p>
     <p>
       1990 <font color="#fa0000">US</font>&#xa0;
@@ -29534,7 +29534,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/univention.png" />
+      <img src="../icons/univention.png" />
     </p>
   </body>
 </html></richcontent>
@@ -29586,7 +29586,7 @@
   </head>
   <body>
     <p>
-      <b>eComStation</b>&#xa0;<img src="icons/ecomstation.png"/>
+      <b>eComStation</b>&#xa0;<img src="../icons/ecomstation.png"/>
     </p>
     <p>
       2001 <font color="#fa0000">US </font>
@@ -29655,7 +29655,7 @@
   </head>
   <body>
     <p>
-      <b>Juju </b><img src="icons/juju.png" />
+      <b>Juju </b><img src="../icons/juju.png" />
     </p>
     <p>
       Python &gt; Go
@@ -29679,7 +29679,7 @@
   </head>
   <body>
     <p>
-      <b>puppet </b><img src="icons/puppet.png" />
+      <b>puppet </b><img src="../icons/puppet.png" />
     </p>
     <p>
       <font size="2">2005 </font><font color="#fa0000" size="2">US </font>
@@ -29697,7 +29697,7 @@
   </head>
   <body>
     <p>
-      <b>info</b>&#160;<img src="icons/info.png" />
+      <b>info</b>&#160;<img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -29717,7 +29717,7 @@
   </head>
   <body>
     <p>
-      <b>SaltStack </b><img src="icons/saltstack.png" />
+      <b>SaltStack </b><img src="../icons/saltstack.png" />
     </p>
     <p>
       <font size="2">2011 </font>

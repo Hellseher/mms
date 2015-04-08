@@ -185,7 +185,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1427068551672" POSITION="right" TEXT="cmd">
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1428530793830" POSITION="right" TEXT="cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1419816590079" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -829,7 +829,7 @@
   </head>
   <body>
     <p>
-      Compressing Data <img src="icons/compressing_data.png" />
+      Compressing Data <img src="../icons/compressing_data.png" />
     </p>
   </body>
 </html></richcontent>
@@ -839,14 +839,14 @@
 <node CREATED="1408313014947" ID="ID_1688109403" MODIFIED="1408313016417" TEXT="xz"/>
 <node CREATED="1408313017187" ID="ID_1329878499" MODIFIED="1408313018241" TEXT="zip"/>
 </node>
-<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1420999855474">
+<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1428530795691">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Config Info <img src="icons/hardware.png" />
+      Config Info <img src="../icons/hardware.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1063,7 +1063,7 @@
   </head>
   <body>
     <p>
-      crypto <img src="icons/crypto.png" />
+      crypto <img src="../icons/crypto.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1077,7 +1077,7 @@
   </head>
   <body>
     <p>
-      documentation&#xa0;&#xa0;<img src="icons/doc.png"/>
+      documentation&#xa0;&#xa0;<img src="../icons/doc.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -1162,7 +1162,7 @@
   </head>
   <body>
     <p>
-      File System <img src="icons/file_system.png" />
+      File System <img src="../icons/file_system.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1796,7 +1796,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1935,7 +1935,7 @@
   </head>
   <body>
     <p>
-      Image <img src="icons/image.png" />
+      Image <img src="../icons/image.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1957,7 +1957,7 @@
   </head>
   <body>
     <p>
-      Network <img src="icons/network.png"/>
+      Network <img src="../icons/network.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -2050,7 +2050,7 @@
   </head>
   <body>
     <p>
-      <b>ipcalc</b>&#160;<img src="icons/debian.png" />
+      <b>ipcalc</b>&#160;<img src="../icons/debian.png" />
     </p>
     <p>
       <i><font color="#3296fa">IP Netmask/broadcast/etc calculator </font></i>
@@ -2068,7 +2068,7 @@
   </head>
   <body>
     <p>
-      <b>ipcalc</b>&#160;<img src="icons/redhat.png" />
+      <b>ipcalc</b>&#160;<img src="../icons/redhat.png" />
     </p>
     <p>
       <i><font color="#3296fa">perform simple manipulation </font></i>
@@ -2351,14 +2351,14 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1427914947683">
+<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1428530645046">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      searching <img src="icons/searching.png" />
+      searching <img src="../icons/searching.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2477,8 +2477,7 @@
       <b>~$: find ./ -type f -exec grep &quot;&lt;string&gt;&quot; {} /dev/null \;</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1404661871854" ID="ID_1273135729" MODIFIED="1427330721344" TEXT="-size">
@@ -2497,8 +2496,7 @@
       <i><font color="#3296fa" size="2">bytes</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1404661898590" ID="ID_1826574439" MODIFIED="1404661901901" TEXT="k"/>
 <node CREATED="1427330779156" ID="ID_259280701" MODIFIED="1427330780753" TEXT="w"/>
@@ -2845,7 +2843,7 @@
   </head>
   <body>
     <p>
-      Test and repair <img src="icons/test_and_repair.png" />
+      Test and repair <img src="../icons/test_and_repair.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3024,7 +3022,7 @@
   </head>
   <body>
     <p>
-      Text processing <img src="icons/text.png" />
+      Text processing <img src="../icons/text.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3361,7 +3359,7 @@
   </head>
   <body>
     <p>
-      vi/vim <img src="icons/vim.png" />
+      vi/vim <img src="../icons/vim.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3415,7 +3413,7 @@
   </head>
   <body>
     <p>
-      Viewing files <img src="icons/viewing.png"/>
+      Viewing files <img src="../icons/viewing.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -3582,7 +3580,7 @@
   </head>
   <body>
     <p>
-      User Environment <img src="icons/user.png"/>
+      User Environment <img src="../icons/user.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -3697,7 +3695,7 @@
 <node CREATED="1406757073314" ID="ID_1285307270" MODIFIED="1406757074178" TEXT="o"/>
 <node CREATED="1407704425907" ID="ID_1817101938" MODIFIED="1407704427778" TEXT="l"/>
 </node>
-<node CREATED="1407704886592" ID="ID_1295405350" MODIFIED="1428076208681" TEXT="Octal Code">
+<node CREATED="1407704886592" ID="ID_1295405350" MODIFIED="1428530960523" TEXT="Octal Code">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4385,7 +4383,7 @@
 <node CREATED="1411679651821" ID="ID_857964240" LINK="BASH.mm" MODIFIED="1411679651822" TEXT="BASH"/>
 <node CREATED="1416767298160" ID="ID_1237790546" LINK="http://www.regexr.com/" MODIFIED="1416767302376" TEXT="http://www.regexr.com/"/>
 </node>
-<node CREATED="1404510196952" FOLDED="true" ID="ID_268432590" LINK="http://www.regular-expressions.info/" MODIFIED="1416768618964" POSITION="left" TEXT="Regular Expressions">
+<node CREATED="1404510196952" FOLDED="true" ID="ID_268432590" LINK="http://www.regular-expressions.info/" MODIFIED="1428530960545" POSITION="left" TEXT="Regular Expressions">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4398,7 +4396,8 @@
       Many text editors and utilities such as&#160;<b>vi,&#160;sed,&#160;awk</b>,&#160;find&#160;and&#160;grep&#160;work extensively with regular expressions. Some of the popular computer languages that use regular expressions include&#160;<b>Perl,Python&#160;</b>and&#160;<b>Ruby</b>.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1404510291943" FOLDED="true" ID="ID_518059675" MODIFIED="1416768582890" TEXT="anchors">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

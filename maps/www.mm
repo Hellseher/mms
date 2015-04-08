@@ -14,7 +14,7 @@
 <node CREATED="1414795436807" ID="ID_515177694" MODIFIED="1415650742270" POSITION="left" TEXT="deployment">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1415052925776" FOLDED="true" ID="ID_1087413980" MODIFIED="1418065254125" POSITION="left">
+<node CREATED="1415052925776" FOLDED="true" ID="ID_1087413980" MODIFIED="1428531156590" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -40,7 +40,7 @@
   </head>
   <body>
     <p>
-      <b>Denwer</b>&#160;<img src="icons/denwer.png" />
+      <b>Denwer</b>&#160;<img src="../icons/denwer.png" />
     </p>
     <p>
       1999
@@ -55,7 +55,7 @@
   </head>
   <body>
     <p>
-      &#160;<b>XAMPP</b>&#160;<img src="icons/xampp.png" />
+      &#160;<b>XAMPP</b>&#160;<img src="../icons/xampp.png" />
     </p>
     <p>
       [ <font color="#3296fa">Apache Friends</font>&#160;]
@@ -95,7 +95,7 @@
   </head>
   <body>
     <p>
-      <b>AMPPS</b>&#160;<img src="icons/ampps.png" />
+      <b>AMPPS</b>&#160;<img src="../icons/ampps.png" />
     </p>
   </body>
 </html></richcontent>
@@ -109,7 +109,7 @@
 <node CREATED="1414629228505" ID="ID_1491072785" LINK="http://www.postfix.org/" MODIFIED="1414795883255" TEXT="Postfix"/>
 <node CREATED="1414795867472" ID="ID_1096832058" MODIFIED="1414795873133" TEXT="Sendmail"/>
 </node>
-<node CREATED="1415451421836" ID="ID_1916043396" MODIFIED="1428159366226" POSITION="right" TEXT="WAF">
+<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1428531168726" POSITION="right" TEXT="WAF">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -119,12 +119,11 @@
       <b>W</b>eb <b>A</b>pplication <b>F</b>ramework is a&#160;software framework&#160;that is designed to support the development of dynamic websites,&#160;web applications,&#160;web services&#160;and&#160;web resources.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415451959108" ID="ID_1266449404" MODIFIED="1415451962081" TEXT="ASP.NET"/>
 <node CREATED="1415452052754" ID="ID_697094265" MODIFIED="1415452054975" TEXT="Catalyst"/>
-<node CREATED="1414629413574" ID="ID_1844300681" MODIFIED="1428159554586" TEXT="CMS">
+<node CREATED="1414629413574" FOLDED="true" ID="ID_1844300681" MODIFIED="1428531163262" TEXT="CMS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -134,8 +133,7 @@
       <b>C</b>ontent <b>M</b>anagement <b>S</b>ystem&#160;is a&#160;computer application&#160;that allows&#160;publishing,&#160;editing&#160;and modifying content, organizing, deleting as well as maintenance from a central interface. Such systems of&#160;content management provide procedures to manage&#160;workflow&#160;in a&#160;collaborative environment.&#160;These procedures can be manual steps or an automated cascade. CMSs have been available since the late 1990s.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415449371516" ID="ID_596205427" LINK="https://www.drupal.org/" MODIFIED="1415449875381">
 <richcontent TYPE="NODE"><html>
@@ -144,7 +142,7 @@
   </head>
   <body>
     <p>
-      <b>Drupal</b>&#160;<img src="icons/drupal.png" />
+      <b>Drupal</b>&#160;<img src="../icons/drupal.png" />
     </p>
     <p>
       2001 US
@@ -165,7 +163,7 @@
   </head>
   <body>
     <p>
-      <b>Joomla!</b>&#160;<img src="icons/joomla.png" />
+      <b>Joomla!</b>&#160;<img src="../icons/joomla.png" />
     </p>
     <p>
       2005
@@ -203,7 +201,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -242,7 +240,7 @@
   </head>
   <body>
     <p>
-      <b>MODx </b><img src="icons/modx.png" />
+      <b>MODx </b><img src="../icons/modx.png" />
     </p>
     <p>
       2004
@@ -259,7 +257,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -298,7 +296,7 @@
   </head>
   <body>
     <p>
-      <b>Textpattern </b><img src="icons/textpattern.png" />
+      <b>Textpattern </b><img src="../icons/textpattern.png" />
     </p>
     <p>
       2003
@@ -319,7 +317,7 @@
   </head>
   <body>
     <p>
-      <b>TYPO3</b>&#160;<img src="icons/typo3.png" />
+      <b>TYPO3</b>&#160;<img src="../icons/typo3.png" />
     </p>
     <p>
       1998
@@ -340,7 +338,7 @@
   </head>
   <body>
     <p>
-      <b>WordPress</b>&#160;<img src="icons/wordpress.png" />
+      <b>WordPress</b>&#160;<img src="../icons/wordpress.png" />
     </p>
     <p>
       2003
@@ -357,7 +355,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/people.png"/>
+      <img src="../icons/people.png"/>
       &#xa0;people
     </p>
   </body>
@@ -390,14 +388,14 @@
 </node>
 </node>
 <node CREATED="1415452346990" ID="ID_1515744213" MODIFIED="1415452352187" TEXT="solodev"/>
-<node CREATED="1418065454854" FOLDED="true" ID="ID_1457668245" LINK="http://magento.com/" MODIFIED="1427065526440">
+<node CREATED="1418065454854" ID="ID_1457668245" LINK="http://magento.com/" MODIFIED="1428531065937">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Magento</b>&#160;<img src="icons/magento.png" />
+      <b>Magento</b>&#160;<img src="../icons/magento.png" />
     </p>
     <p>
       2007
@@ -414,7 +412,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -440,7 +438,7 @@
 <node CREATED="1415452066658" ID="ID_277225078" MODIFIED="1415452071695" TEXT="Mojolicious"/>
 <node CREATED="1415452038803" ID="ID_698151028" MODIFIED="1415452043423" TEXT="OpenACS"/>
 <node CREATED="1415451627657" ID="ID_621542542" MODIFIED="1415451631686" TEXT="Play"/>
-<node CREATED="1415452188736" ID="ID_1768888654" MODIFIED="1426711183990" TEXT="Push-based">
+<node CREATED="1415452188736" FOLDED="true" ID="ID_1768888654" MODIFIED="1428531165661" TEXT="Push-based">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415451657176" ID="ID_854097640" MODIFIED="1415451666389" TEXT="Struts"/>
 <node CREATED="1415451712200" ID="ID_1767449498" LINK="https://www.djangoproject.com/" MODIFIED="1418502158328">
@@ -492,7 +490,7 @@
   </head>
   <body>
     <p>
-      <b>Flask </b><img src="icons/flask.png" />
+      <b>Flask </b><img src="../icons/flask.png" />
     </p>
     <p>
       2010
@@ -514,7 +512,7 @@
   </head>
   <body>
     <p>
-      <b>tapestry</b>&#160;<img src="icons/tapestry.png" />
+      <b>tapestry</b>&#160;<img src="../icons/tapestry.png" />
     </p>
     <p>
       2000
@@ -537,7 +535,7 @@
   </head>
   <body>
     <p>
-      <b>Bootstrap&#160;</b><img src="icons/bootstrap.png" />
+      <b>Bootstrap&#160;</b><img src="../icons/bootstrap.png" />
     </p>
     <p>
       2010
@@ -555,7 +553,7 @@
   </head>
   <body>
     <p>
-      <b>AngularJS</b>&#160;<img src="icons/angularjs.png" />
+      <b>AngularJS</b>&#160;<img src="../icons/angularjs.png" />
     </p>
     <p>
       2000
@@ -575,7 +573,7 @@
   </head>
   <body>
     <p>
-      <b>GruntJS</b>&#160;<img src="icons/grunt.png" />
+      <b>GruntJS</b>&#160;<img src="../icons/grunt.png" />
     </p>
   </body>
 </html></richcontent>
@@ -587,11 +585,10 @@
   </head>
   <body>
     <p>
-      <b>Gulp</b><img src="icons/gulp.png" />
+      <b>Gulp</b><img src="../icons/gulp.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1424015395598" ID="ID_1765955690" LINK="http://brunch.io/" MODIFIED="1428160186835">
 <richcontent TYPE="NODE"><html>
@@ -600,14 +597,13 @@
   </head>
   <body>
     <p>
-      <b>Brunch</b><img src="icons/brunch.png" />
+      <b>Brunch</b><img src="../icons/brunch.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1425250048408" FOLDED="true" ID="ID_1705544803" MODIFIED="1425423601681" TEXT="PHP Frameworks">
+<node CREATED="1425250048408" ID="ID_1705544803" MODIFIED="1428531061668" TEXT="PHP Frameworks">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418065634208" ID="ID_1664443077" LINK="http://framework.zend.com/" MODIFIED="1418065879648">
 <richcontent TYPE="NODE"><html>
@@ -616,7 +612,7 @@
   </head>
   <body>
     <p>
-      <b>Zend Framework </b><img src="icons/zend_framework.png" />
+      <b>Zend Framework </b><img src="../icons/zend_framework.png" />
     </p>
     <p>
       BSD | PHP 5
@@ -703,7 +699,7 @@
   </head>
   <body>
     <p>
-      <b>PHP </b><img src="icons/php.png" />
+      <b>PHP </b><img src="../icons/php.png" />
     </p>
     <p>
       1995
@@ -720,7 +716,7 @@
   </head>
   <body>
     <p>
-      <b>phpMyAdmin </b><img src="icons/phpmyadmin.png" />
+      <b>phpMyAdmin </b><img src="../icons/phpmyadmin.png" />
     </p>
     <p>
       1998
@@ -739,7 +735,7 @@
   </head>
   <body>
     <p>
-      &#160;<img src="icons/apache.png" />
+      &#160;<img src="../icons/apache.png" />
     </p>
     <p>
       <b>Apache</b>
@@ -762,7 +758,7 @@
   </head>
   <body>
     <p>
-      <b>Hadoop </b><img src="icons/hadoop.png" />
+      <b>Hadoop </b><img src="../icons/hadoop.png" />
     </p>
     <p>
       2005
@@ -803,7 +799,7 @@
   </head>
   <body>
     <p>
-      <b>jQuery </b><img src="icons/jquery.png" />
+      <b>jQuery </b><img src="../icons/jquery.png" />
     </p>
     <p>
       2006
@@ -842,7 +838,7 @@
   </head>
   <body>
     <p>
-      <b>jsPHP</b>&#160;<img src="icons/jsphp.png" />
+      <b>jsPHP</b>&#160;<img src="../icons/jsphp.png" />
     </p>
     <p>
       2011
@@ -883,7 +879,7 @@
   </head>
   <body>
     <p>
-      <b>open-source</b>&#160;<img src="icons/open_source.png" />
+      <b>open-source</b>&#160;<img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -913,7 +909,7 @@
   </head>
   <body>
     <p>
-      <b>corporate</b>&#160;<img src="icons/corporate.png" />
+      <b>corporate</b>&#160;<img src="../icons/corporate.png" />
     </p>
   </body>
 </html></richcontent>
@@ -931,7 +927,7 @@
   </head>
   <body>
     <p>
-      <b>Bitnami</b>&#160;<img src="icons/bitnami.png" />
+      <b>Bitnami</b>&#160;<img src="../icons/bitnami.png" />
     </p>
     <p>
       <font size="2">2003 </font><font color="#fa0000" size="2">ES</font>
@@ -940,22 +936,34 @@
       <i><font color="#3296fa" size="2">Daniel Lopez Ridruejo</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414629343351" ID="ID_1748395363" LINK="http://www.smarty.net/" MODIFIED="1414629351817" POSITION="right" TEXT="Smary"/>
 <node CREATED="1414629111274" ID="ID_605168438" LINK="http://sphinxsearch.com/" MODIFIED="1414629152717" POSITION="right" TEXT="Sphinx"/>
-<node CREATED="1414628336999" ID="ID_1237658183" LINK="http://susy.oddbird.net/" MODIFIED="1414628422377" POSITION="right">
+<node CREATED="1414628336999" ID="ID_1237658183" LINK="http://susy.oddbird.net/" MODIFIED="1428531494869" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Susy <img src="icons/susy.png" />
+      Susy <img src="../icons/susy.png" />
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1428531577354" ID="ID_1561177232" LINK="https://github.com/ericam/susy/" MODIFIED="1428531675450">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      githab<img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1415405364893" ID="ID_1012579102" MODIFIED="1416525277507" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -981,7 +989,7 @@
   </head>
   <body>
     <p>
-      <b>Node.js </b><img src="icons/node_js.png" />
+      <b>Node.js </b><img src="../icons/node_js.png" />
     </p>
     <p>
       <font size="2">2009 </font>
@@ -990,10 +998,9 @@
       <font color="#3296fa" size="2"><i>Pyan Lienhart Dahl</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1426535692413" ID="ID_1312472638" MODIFIED="1426545112866" POSITION="right">
+<node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1428531171893" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1014,7 +1021,7 @@
   </head>
   <body>
     <p>
-      <b>Ajenti</b>&#160;<img src="icons/ajenti.png" />
+      <b>Ajenti</b>&#160;<img src="../icons/ajenti.png" />
     </p>
     <p>
       2013
@@ -1032,7 +1039,7 @@
 </node>
 <node CREATED="1415572280789" ID="ID_1927855053" MODIFIED="1415572283187" POSITION="left" TEXT="REST"/>
 <node CREATED="1415572302484" ID="ID_851434206" MODIFIED="1415572306306" POSITION="left" TEXT="HTTP"/>
-<node CREATED="1416525322551" FOLDED="true" ID="ID_902401437" MODIFIED="1422826100059" POSITION="left" TEXT="CRM">
+<node CREATED="1416525322551" FOLDED="true" ID="ID_902401437" MODIFIED="1428531155365" POSITION="left" TEXT="CRM">
 <node CREATED="1415129815615" ID="ID_1787727824" LINK="https://www.odoo.com/" MODIFIED="1415405358788" TEXT="Odoo"/>
 </node>
 <node CREATED="1417279527686" ID="ID_835750144" LINK="http://www.w3.org/" MODIFIED="1417279541453" POSITION="left" TEXT="W3.org"/>

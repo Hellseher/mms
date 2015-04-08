@@ -1074,7 +1074,7 @@
   </head>
   <body>
     <p>
-      ~HTML5 <img src="icons/html5.png" />
+      ~HTML5 <img src="../icons/html5.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1292,7 +1292,7 @@
   </head>
   <body>
     <p>
-      <b>dowload</b>&#160;<img src="icons/html5.png" />
+      <b>dowload</b>&#160;<img src="../icons/html5.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1306,7 +1306,7 @@
   </head>
   <body>
     <p>
-      <b>media=&quot;</b><i>value</i><b>&quot;</b>&#160;<img src="icons/html5.png" />
+      <b>media=&quot;</b><i>value</i><b>&quot;</b>&#160;<img src="../icons/html5.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1318,7 +1318,7 @@
   </head>
   <body>
     <p>
-      <b>rel=&quot;</b><i>value</i><b>&quot;</b>&#160;<img src="icons/html5.png" />
+      <b>rel=&quot;</b><i>value</i><b>&quot;</b>&#160;<img src="../icons/html5.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1374,7 +1374,7 @@
   </head>
   <body>
     <p>
-      <b>type=&quot;</b><i>media_type</i><b>&quot;</b>&#160;<img src="icons/html5.png" />
+      <b>type=&quot;</b><i>media_type</i><b>&quot;</b>&#160;<img src="../icons/html5.png" />
     </p>
   </body>
 </html></richcontent>

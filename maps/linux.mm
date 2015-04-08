@@ -10,7 +10,7 @@
   </head>
   <body>
     <p>
-      File System <img src="icons/fs.png" />
+      File System <img src="../icons/fs.png" />
     </p>
   </body>
 </html>
@@ -295,7 +295,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/file.png" />
+      <img src="../icons/file.png" />
       &#160;/etc/<b>fstab</b>
     </p>
     <p>
@@ -340,7 +340,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/file.png" />
+      <img src="../icons/file.png" />
       &#160;/etc/<b>hosts</b>
     </p>
   </body>
@@ -432,7 +432,7 @@
   </head>
   <body>
     <p>
-      /etc/<b>network</b>&#160;<img src="icons/debian.png" />
+      /etc/<b>network</b>&#160;<img src="../icons/debian.png" />
     </p>
   </body>
 </html></richcontent>
@@ -515,7 +515,7 @@
   </head>
   <body>
     <p>
-      /etc/<b>event.d</b>&#160;<img src="icons/ubuntu.png" />
+      /etc/<b>event.d</b>&#160;<img src="../icons/ubuntu.png" />
     </p>
   </body>
 </html></richcontent>
@@ -627,7 +627,7 @@
   </head>
   <body>
     <p>
-      /etc/<b>sysconfig </b><img src="icons/directory.png" />&#160;<img src="icons/redhat.png" />
+      /etc/<b>sysconfig </b><img src="../icons/directory.png" />&#160;<img src="../icons/redhat.png" />
     </p>
   </body>
 </html></richcontent>
@@ -696,7 +696,7 @@
   </head>
   <body>
     <p>
-      /etc/X11/<b>xorg.conf.d </b><img src="icons/redhat.png" />&#160;<img src="icons/fedora.png" />
+      /etc/X11/<b>xorg.conf.d </b><img src="../icons/redhat.png" />&#160;<img src="../icons/fedora.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1013,7 +1013,7 @@
   </head>
   <body>
     <p>
-      /<b>stand </b><img src="icons/hp_ux.png" />
+      /<b>stand </b><img src="../icons/hp_ux.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1211,7 +1211,7 @@
   </head>
   <body>
     <p>
-      /usr/lib/<b>boot</b>&#160;<img src="icons/aix.png" />
+      /usr/lib/<b>boot</b>&#160;<img src="../icons/aix.png" />
     </p>
   </body>
 </html></richcontent>
@@ -1237,7 +1237,7 @@
   </head>
   <body>
     <p>
-      /usr/<b>local</b>&#160;<img src="icons/directory.png" />
+      /usr/<b>local</b>&#160;<img src="../icons/directory.png" />
     </p>
     <p>
       <i><font color="#3296fa">for the not official </font></i>
@@ -1508,7 +1508,7 @@
   </head>
   <body>
     <p>
-      /var/log/<b>auth.log&#xa0; </b><img src="icons/debian.png"/>
+      /var/log/<b>auth.log&#xa0; </b><img src="../icons/debian.png"/>
     </p>
     <p>
       <i><font color="#3296fa">record for sudo logg</font></i>
@@ -1523,7 +1523,7 @@
   </head>
   <body>
     <p>
-      /var/log/<b>messages </b><img src="icons/fedora.png" />
+      /var/log/<b>messages </b><img src="../icons/fedora.png" />
     </p>
     <p>
       <i><font color="#3296fa">record of all logins(outs) </font></i>
@@ -1664,7 +1664,7 @@
   </head>
   <body>
     <p>
-      <b>git</b>&#160;<img src="icons/git.png" />
+      <b>git</b>&#160;<img src="../icons/git.png" />
     </p>
     <p>
       <font size="2">2005 </font>
@@ -1683,7 +1683,7 @@
   </head>
   <body>
     <p>
-      info <img src="icons/info.png" />
+      info <img src="../icons/info.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2398,7 +2398,7 @@
   </head>
   <body>
     <p>
-      kernel <img src="icons/linux.png"/>
+      kernel <img src="../icons/linux.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -2410,7 +2410,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/version_history.png" />
+      <img src="../icons/version_history.png" />
       &#160;<b>Version history</b>
     </p>
   </body>
@@ -2465,7 +2465,7 @@
   </head>
   <body>
     <p>
-      <b>Linux Foundation </b><img src="icons/linux_foundation.png" />
+      <b>Linux Foundation </b><img src="../icons/linux_foundation.png" />
     </p>
     <p>
       2000 <font color="#fa0000">US</font>
@@ -2484,7 +2484,7 @@
   </head>
   <body>
     <p>
-      <b>Tizen </b><img src="icons/tizen.png"/>
+      <b>Tizen </b><img src="../icons/tizen.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -2549,7 +2549,7 @@
   </head>
   <body>
     <p>
-      developers&#160; <img src="icons/people.png" />
+      developers&#160; <img src="../icons/people.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2681,7 +2681,7 @@
       Packages
     </p>
     <p>
-      Management <img src="icons/pm.png" />
+      Management <img src="../icons/pm.png" />
     </p>
   </body>
 </html></richcontent>
@@ -2693,9 +2693,9 @@
   </head>
   <body>
     <p>
-      Debian family <img src="icons/debian.png" />
+      Debian family <img src="../icons/debian.png" />
     </p>
-    <img src="icons/ubuntu.png" />
+    <img src="../icons/ubuntu.png" />
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2835,10 +2835,10 @@
   </head>
   <body>
     <p>
-      Red Hat family <img src="icons/redhat.png" />
+      Red Hat family <img src="../icons/redhat.png" />
     </p>
-    <img src="icons/aix.png" />
-    <img src="icons/fedora.png" />
+    <img src="../icons/aix.png" />
+    <img src="../icons/fedora.png" />
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -3090,7 +3090,7 @@
   </head>
   <body>
     <p>
-      Arch family <img src="icons/arch_linux.png" />
+      Arch family <img src="../icons/arch_linux.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3104,7 +3104,7 @@
   </head>
   <body>
     <p>
-      <b>Slackware family </b><img src="icons/slackware.png" />
+      <b>Slackware family </b><img src="../icons/slackware.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3116,10 +3116,10 @@
   </head>
   <body>
     <p>
-      <b>Gentoo Linux</b>&#160;<img src="icons/gentoo_linux.png" />
+      <b>Gentoo Linux</b>&#160;<img src="../icons/gentoo_linux.png" />
     </p>
     <p>
-      <b>FreeBSD</b>&#160;<img src="icons/freebsd.png" />
+      <b>FreeBSD</b>&#160;<img src="../icons/freebsd.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3137,7 +3137,7 @@
   </head>
   <body>
     <p>
-      <b>SUSE family</b>&#160;<img src="icons/suse.png" />
+      <b>SUSE family</b>&#160;<img src="../icons/suse.png" />
     </p>
   </body>
 </html></richcontent>

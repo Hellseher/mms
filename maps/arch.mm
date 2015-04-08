@@ -7,7 +7,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/architecture.png"/>
+      <img src="../icons/architecture.png"/>
       &#xa0;architecture
     </p>
   </body>

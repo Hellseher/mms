@@ -960,7 +960,7 @@
   </head>
   <body>
     <p>
-      people <img src="icons/people.png" />
+      people <img src="../icons/people.png" />
     </p>
   </body>
 </html></richcontent>

@@ -7,7 +7,7 @@
   </head>
   <body>
     <p>
-      Vim <img src="icons/vim.png" />
+      Vim <img src="../icons/vim.png" />
     </p>
   </body>
 </html></richcontent>
@@ -39,7 +39,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/edit.png" />
+      <img src="../icons/edit.png" />
       &#160;editing
     </p>
   </body>
@@ -495,7 +495,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/moving.png" />
+      <img src="../icons/moving.png" />
       &#160;moving
     </p>
   </body>
@@ -1068,7 +1068,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/searching.png" />
+      <img src="../icons/searching.png" />
       &#160;searching
     </p>
   </body>
@@ -1329,9 +1329,9 @@
 <node CREATED="1415490554006" ID="ID_780417682" MODIFIED="1415490555379" TEXT=":w"/>
 <node CREATED="1415490550662" ID="ID_841391485" MODIFIED="1415490553652" TEXT=":e"/>
 </node>
-<node CREATED="1417897778193" FOLDED="true" ID="ID_399308989" MODIFIED="1425163967159" POSITION="left" TEXT="Vim components">
+<node CREATED="1417897778193" FOLDED="true" ID="ID_399308989" MODIFIED="1428530582119" POSITION="left" TEXT="Vim components">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418568146591" FOLDED="true" ID="ID_281217438" MODIFIED="1425163848053" TEXT="tags">
+<node CREATED="1418568146591" FOLDED="true" ID="ID_281217438" MODIFIED="1428530545911" TEXT="tags">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418568150383" ID="ID_392760250" MODIFIED="1418568152956" TEXT=":ta"/>
 <node CREATED="1418568205375" ID="ID_1211950295" MODIFIED="1418568205375" TEXT=":tf"/>
@@ -1347,7 +1347,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/buffer.png" />
+      <img src="../icons/buffer.png" />
       &#160;buffers
     </p>
   </body>
@@ -1379,7 +1379,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/doc.png" />
+      <img src="../icons/doc.png" />
       &#160;folding
     </p>
   </body>
@@ -1406,7 +1406,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/tabs.png" />
+      <img src="../icons/tabs.png" />
       &#160;tabs
     </p>
   </body>
@@ -1426,7 +1426,7 @@
   </head>
   <body>
     <p>
-      <img src="icons/window.png" />
+      <img src="../icons/window.png" />
       &#160;windows
     </p>
   </body>
