@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1413572478005" ID="ID_1357050983" LINK="the_shell.mm" MODIFIED="1424291117555">
+<node CREATED="1413572478005" ID="ID_1357050983" LINK="the_shell.mm" MODIFIED="1428533573124">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -45,7 +45,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414189403764" ID="ID_1440761238" MODIFIED="1417989209644">
+<node CREATED="1414189403764" FOLDED="true" ID="ID_1440761238" MODIFIED="1428533573120">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -343,7 +343,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1415908621760" ID="ID_327412549" MODIFIED="1425164187122" POSITION="left" TEXT="Cookbook">
+<node CREATED="1415908621760" FOLDED="true" ID="ID_327412549" MODIFIED="1428533573120" POSITION="left" TEXT="Cookbook">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -400,8 +400,27 @@
     <p>
       <b>vt</b>&lt;char&gt;<b>r</b>&lt;char&gt;
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#3296fa">Search and replace in multiple buffers</font></i>
+    </p>
+    <p>
+      <b>:bufdo %s/pattern/replace/ge | update </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#3296fa">insert empty line </font></i>
+    </p>
+    <p>
+      <b><font color="#000000">dd2p</font></b>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415468461265" ID="ID_1487171734" MODIFIED="1415469034301" TEXT="del,cp,mv">
 <richcontent TYPE="NOTE"><html>
@@ -488,7 +507,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1413572840000" ID="ID_1651243310" MODIFIED="1425336582019" POSITION="right">
+<node CREATED="1413572840000" FOLDED="true" ID="ID_1651243310" MODIFIED="1428533573123" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -564,7 +583,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414191669409" ID="ID_867695876" MODIFIED="1425336732162" TEXT="line">
+<node CREATED="1414191669409" FOLDED="true" ID="ID_867695876" MODIFIED="1428533573121" TEXT="line">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -718,7 +737,7 @@
 <node CREATED="1416346412389" ID="ID_1446449964" MODIFIED="1416346413778" TEXT="gE"/>
 </node>
 </node>
-<node CREATED="1414625097034" ID="ID_1523100553" MODIFIED="1425336641554" TEXT="to char">
+<node CREATED="1414625097034" FOLDED="true" ID="ID_1523100553" MODIFIED="1428533573121" TEXT="to char">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414191398677" FOLDED="true" ID="ID_1946073076" MODIFIED="1417896605291" TEXT="f[char]">
 <node CREATED="1414625079002" MODIFIED="1414625084823" TEXT="F[char]"/>
@@ -768,7 +787,7 @@
 <node CREATED="1414452587976" MODIFIED="1414452589365" TEXT="-"/>
 <node CREATED="1414623749327" MODIFIED="1414623752556" TEXT="&lt;ENTER&gt;"/>
 </node>
-<node CREATED="1414624215160" ID="ID_1617238814" MODIFIED="1417913582331" TEXT="block">
+<node CREATED="1414624215160" FOLDED="true" ID="ID_1617238814" MODIFIED="1428533573122" TEXT="block">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414624343318" FOLDED="true" ID="ID_457944062" MODIFIED="1417913658372" TEXT="sentences">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -798,7 +817,7 @@
 <node CREATED="1416347034956" ID="ID_995569958" MODIFIED="1416347035881" TEXT="[]"/>
 <node CREATED="1416347036524" ID="ID_1984319881" MODIFIED="1416347038297" TEXT="]["/>
 </node>
-<node CREATED="1417913594740" ID="ID_75722333" MODIFIED="1417913597781" TEXT="folds">
+<node CREATED="1417913594740" FOLDED="true" ID="ID_75722333" MODIFIED="1428533573121" TEXT="folds">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417913598515" ID="ID_765642037" MODIFIED="1417913608256" TEXT="zj | zk"/>
 <node CREATED="1417913609107" ID="ID_1006671534" MODIFIED="1417913623104" TEXT="[z | ]z"/>
@@ -870,7 +889,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414191673680" ID="ID_760891984" MODIFIED="1417900234441">
+<node CREATED="1414191673680" FOLDED="true" ID="ID_760891984" MODIFIED="1428533573122">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -933,7 +952,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414191677648" ID="ID_48087805" MODIFIED="1417900352022">
+<node CREATED="1414191677648" FOLDED="true" ID="ID_48087805" MODIFIED="1428533573122">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1329,7 +1348,7 @@
 <node CREATED="1415490554006" ID="ID_780417682" MODIFIED="1415490555379" TEXT=":w"/>
 <node CREATED="1415490550662" ID="ID_841391485" MODIFIED="1415490553652" TEXT=":e"/>
 </node>
-<node CREATED="1417897778193" FOLDED="true" ID="ID_399308989" MODIFIED="1428530582119" POSITION="left" TEXT="Vim components">
+<node CREATED="1417897778193" FOLDED="true" ID="ID_399308989" MODIFIED="1428533573124" POSITION="left" TEXT="Vim components">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418568146591" FOLDED="true" ID="ID_281217438" MODIFIED="1428530545911" TEXT="tags">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1340,7 +1359,7 @@
 <node CREATED="1418568205374" ID="ID_175474868" MODIFIED="1418568205374" TEXT=":tp"/>
 <node CREATED="1418568155727" ID="ID_1085937237" MODIFIED="1418568158828" TEXT=":ts"/>
 </node>
-<node CREATED="1416084773486" FOLDED="true" ID="ID_1574417933" MODIFIED="1417898583441">
+<node CREATED="1416084773486" FOLDED="true" ID="ID_1574417933" MODIFIED="1428533573123">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1372,7 +1391,7 @@
 <node CREATED="1416438382544" ID="ID_1734783598" MODIFIED="1416438387996" TEXT=";bufdo"/>
 <node CREATED="1416351854177" ID="ID_344637746" MODIFIED="1416351859710" TEXT=":b#"/>
 </node>
-<node CREATED="1415990201871" ID="ID_1347769438" MODIFIED="1425163914081">
+<node CREATED="1415990201871" FOLDED="true" ID="ID_1347769438" MODIFIED="1428533573124">
 <richcontent TYPE="NODE"><html>
   <head>
     
