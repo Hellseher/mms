@@ -813,7 +813,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1428334387644" POSITION="right" TEXT="Built-in Types">
+<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1428539816513" POSITION="right" TEXT="Built-in Types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1418686567556" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1182,20 +1182,21 @@
 </node>
 <node CREATED="1398203924286" ID="198" MODIFIED="1398203924286" TEXT="L.count(char)"/>
 <node CREATED="1398203924285" ID="151" MODIFIED="1428094108121" TEXT="L.extend(L)"/>
-<node CREATED="1398203924285" ID="152" MODIFIED="1428100106538">
+<node CREATED="1398203924285" ID="152" MODIFIED="1428535662890">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      list.<b>index</b>(L)
+      list.<b>index</b>(x)
     </p>
     <p>
-      <i><font size="2" color="#3296fa">return index of x from L[list]</font></i>
+      <i><font color="#3296fa" size="2">return index of x from L[list]</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1398203924285" ID="153" MODIFIED="1428100010924">
 <richcontent TYPE="NODE"><html>
@@ -2012,7 +2013,7 @@
 <node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-x"/>
 <node CREATED="1418500534069" MODIFIED="1418500534069" TEXT="-3"/>
 </node>
-<node CREATED="1398203924278" ID="68" MODIFIED="1426709612272" POSITION="left">
+<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1428535589121" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3872,7 +3873,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398284883230" ID="ID_542604586" MODIFIED="1428529173531" TEXT="Therd party">
+<node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1428535587954" TEXT="Therd party">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398284924490" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1428529308514">
 <richcontent TYPE="NODE"><html>
@@ -4585,8 +4586,7 @@
       recursion
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1426201456825" POSITION="left" TEXT="frameworks">
