@@ -1,16 +1,17 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398554566267" ID="ID_1285395656" MODIFIED="1419712390123">
+<node CREATED="1398554566267" ID="ID_1285395656" MODIFIED="1428699741388">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: left">
-      The Shell
+      CLI
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="17"/>
 <node CREATED="1398811962534" FOLDED="true" ID="ID_962394651" MODIFIED="1417820183379" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -187,7 +188,7 @@
 </node>
 <node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1428530793830" POSITION="right" TEXT="cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1419816590079" TEXT="administration">
+<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1428698128588" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413754493491" ID="ID_704100240" MODIFIED="1413754825469">
 <richcontent TYPE="NODE"><html>
@@ -203,7 +204,22 @@
 </node>
 <node CREATED="1411240349365" ID="ID_1973370963" MODIFIED="1411240351155" TEXT="fuser"/>
 <node CREATED="1411078787454" ID="ID_1494225454" MODIFIED="1411078791532" TEXT="journalctl"/>
-<node CREATED="1409609443264" ID="ID_573915490" MODIFIED="1409609451531" TEXT="last"/>
+<node CREATED="1409609443264" ID="ID_573915490" MODIFIED="1428700035663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>last, lastb</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">list of last logged in users</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1407354168062" FOLDED="true" ID="ID_1924987046" MODIFIED="1417634374395">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -433,9 +449,9 @@
 </node>
 </node>
 <node CREATED="1414889599667" ID="ID_747544783" MODIFIED="1414889602512" TEXT="tmpwatch"/>
-<node CREATED="1399409772021" FOLDED="true" ID="ID_376573605" MODIFIED="1419712390113" TEXT="~processes">
+<node CREATED="1399409772021" ID="ID_376573605" MODIFIED="1428699759491" TEXT="~processes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1404942162217" FOLDED="true" ID="ID_462833045" MODIFIED="1412978165509">
+<node CREATED="1404942162217" ID="ID_462833045" MODIFIED="1428702525514">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -445,13 +461,14 @@
       <b>kill</b>&#160;[<i>options</i>] [<i>pids</i>]
     </p>
     <p>
-      <font color="#3296fa"><i>to terminate process IDs</i></font>
+      <font color="#3296fa" size="2"><i>to terminate process IDs</i></font>
     </p>
     <p>
-      <font color="#3296fa"><i>Albert Cahalan</i></font>
+      <font color="#3296fa" size="2"><i>Albert Cahalan</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1404942884604" ID="ID_588193485" MODIFIED="1404942889724" TEXT="-1"/>
 <node CREATED="1404942890444" ID="ID_1680743705" MODIFIED="1404942895226" TEXT="-15"/>
 <node CREATED="1404942895804" ID="ID_1013474503" MODIFIED="1404942899467" TEXT="-9"/>
@@ -471,7 +488,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1404511768702" FOLDED="true" ID="ID_257585083" MODIFIED="1412978006890">
+<node CREATED="1404511768702" ID="ID_257585083" MODIFIED="1428700308156">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -481,13 +498,14 @@
       <b>ps </b>[<i>options</i>]
     </p>
     <p>
-      <i><font color="#3296fa">snapshot of </font></i>
+      <i><font color="#3296fa" size="2">snapshot of </font></i>
     </p>
     <p>
-      <i><font color="#3296fa">the current processes</font></i>
+      <i><font color="#3296fa" size="2">the current processes</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1404511809932" ID="ID_875645077" MODIFIED="1412977503286">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -536,6 +554,17 @@
 </node>
 <node CREATED="1409247886265" ID="ID_750640036" MODIFIED="1409247887529" TEXT="-f"/>
 <node CREATED="1404942853020" ID="ID_1988144114" MODIFIED="1404942863500" TEXT="axjf"/>
+<node CREATED="1428700318752" ID="ID_1807040522" MODIFIED="1428700326784" TEXT="Process State Codes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1428700327085" ID="ID_1365225160" MODIFIED="1428700329067" TEXT="D"/>
+<node CREATED="1428700333839" ID="ID_752951243" MODIFIED="1428700335130" TEXT="R"/>
+<node CREATED="1428700336031" ID="ID_1986879386" MODIFIED="1428700336843" TEXT="S"/>
+<node CREATED="1428700337215" ID="ID_1329123017" MODIFIED="1428700337947" TEXT="T"/>
+<node CREATED="1428700338239" ID="ID_668133132" MODIFIED="1428700338971" TEXT="t"/>
+<node CREATED="1428700339311" ID="ID_1340828326" MODIFIED="1428700340042" TEXT="W"/>
+<node CREATED="1428700340783" ID="ID_1254954728" MODIFIED="1428700342363" TEXT="X"/>
+<node CREATED="1428700342815" ID="ID_1429873182" MODIFIED="1428700343627" TEXT="Z"/>
+</node>
 </node>
 <node CREATED="1404511771565" ID="ID_799241066" MODIFIED="1412978238371">
 <richcontent TYPE="NODE"><html>
@@ -654,7 +683,50 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1412980282262" ID="ID_1874624830" MODIFIED="1412980285043" TEXT="uptime"/>
+<node CREATED="1412980282262" ID="ID_1874624830" MODIFIED="1428699963410">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>uptime</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">running deauration time </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">Larry Greenfield</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1428699764182" ID="ID_338107393" MODIFIED="1428699819307">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>pidof</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">find the process ID </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">of running program</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1428699826567" ID="ID_1321322495" MODIFIED="1428699828915" TEXT="options">
+<node CREATED="1428699832119" ID="ID_723441208" MODIFIED="1428699834862" TEXT="-s"/>
+<node CREATED="1428699835479" ID="ID_1944915751" MODIFIED="1428699837875" TEXT="-c"/>
+<node CREATED="1428699838647" ID="ID_729358041" MODIFIED="1428699840275" TEXT="-x"/>
+<node CREATED="1428699840743" ID="ID_1503935941" MODIFIED="1428699843539" TEXT="-o"/>
+</node>
+</node>
 </node>
 <node CREATED="1413070684011" FOLDED="true" ID="ID_1179428748" MODIFIED="1419712390115" TEXT="~scheduling">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1070,7 +1142,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414088715073" ID="ID_1137713109" MODIFIED="1414088717693" TEXT="base64"/>
 </node>
-<node CREATED="1399409798059" FOLDED="true" ID="ID_1665666272" MODIFIED="1413487083736">
+<node CREATED="1399409798059" ID="ID_1665666272" MODIFIED="1428703277026">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1150,7 +1222,22 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1409005943263" ID="ID_1442344864" MODIFIED="1409005944734" TEXT="ldd"/>
+<node CREATED="1409005943263" ID="ID_1442344864" MODIFIED="1428703364590">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ldd</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">list dependencies</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1409005999503" ID="ID_191847280" MODIFIED="1409006011933" TEXT="readelf"/>
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
@@ -3735,8 +3822,7 @@
       -------------------------------------------------
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -4396,8 +4482,7 @@
       Many text editors and utilities such as&#160;<b>vi,&#160;sed,&#160;awk</b>,&#160;find&#160;and&#160;grep&#160;work extensively with regular expressions. Some of the popular computer languages that use regular expressions include&#160;<b>Perl,Python&#160;</b>and&#160;<b>Ruby</b>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1404510291943" FOLDED="true" ID="ID_518059675" MODIFIED="1416768582890" TEXT="anchors">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

@@ -154,8 +154,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1428617722493" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -266,8 +265,7 @@
       <font color="#3296fa"><i>R: May 1975</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1414193542771" ID="ID_1629993181" LINK="#ID_321065827" MODIFIED="1414193599362">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1813,8 +1811,7 @@
       <font color="#3296fa" size="2"><i>Richard Mathew Stallman</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401822295462" ID="ID_1726462411" LINK="https://www.gnu.org/software/grub/" MODIFIED="1410295213550" TEXT="GNU GRUB">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1898,8 +1895,7 @@
       <font color="#3296fa" size="2"><i>Linus Torvalds</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397937159400" FOLDED="true" ID="ID_667175312" LINK="https://www.archlinux.org/" MODIFIED="1428362477092" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -3788,8 +3784,7 @@
       <font size="3">(c) http://distrowatch.com/table.php?distribution=debian</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399323734602" FOLDED="true" ID="ID_811048541" MODIFIED="1422823009715">
 <richcontent TYPE="NODE"><html>
@@ -4001,8 +3996,7 @@
       <font size="2">[</font><font color="#3296fa" size="2">C-DAC</font><font size="2">]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1399489007264" ID="ID_556799678" MODIFIED="1411938598417">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4043,8 +4037,7 @@
       BOSS (Bharat Operating System Solutions) GNU/Linux is a Debian-based Linux distribution developed by C-DAC for enhancing the use of free and open source software in India. Made specifically for the Indian environment, it consists of a pleasing desktop environment coupled with support for several Indian languages (Bengali, Gujarati, Hindi, Malayalam, Punjabi, Tamil) and other packages that are most relevant for use in the government domain.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399488986208" FOLDED="true" ID="ID_381004921" MODIFIED="1422823009718">
 <richcontent TYPE="NODE"><html>
@@ -4119,8 +4112,7 @@
       2004 <font color="#fa0000">BR</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1408481509424" ID="ID_1689010875" MODIFIED="1411081092604" TEXT="About BRLix">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -14045,8 +14037,7 @@
       (c) http://distrowatch.com/table.php?distribution=kali
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399327046261" FOLDED="true" ID="ID_1379993526" MODIFIED="1422823009818" TEXT="architecture">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -14396,8 +14387,7 @@
       2012 <font color="#fa0000">PL</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1399327058869" ID="ID_1564679345" MODIFIED="1409093076520">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14607,8 +14597,7 @@
       <font color="#3296fa"><i>Steven Shiau</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#7d7d7d"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398707062277" ID="ID_488000944" MODIFIED="1402953055561">
@@ -14767,8 +14756,7 @@
       2012 <font color="#fa0000">IT</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#7d7d7d"/>
 <node CREATED="1398707062277" ID="ID_1774783387" MODIFIED="1416532121071">
 <richcontent TYPE="NODE"><html>
@@ -15202,8 +15190,7 @@
       2008 <font color="#fa0000">US </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#7d7d7d"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_510054678" ENDARROW="Default" ENDINCLINATION="612;0;" ID="Arrow_ID_652744898" SOURCE="ID_1070990169" STARTARROW="None" STARTINCLINATION="612;0;"/>
 <node CREATED="1399842851140" ID="ID_250329283" MODIFIED="1409690905916">
@@ -15374,8 +15361,7 @@
       Frugalware Linux is an independently developed general purpose desktop Linux distribution designed for intermediate users. It follows simple Slackware-like design concepts and includes the &quot;pacman&quot; package management utility from Arch Linux.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407708223466" FOLDED="true" ID="ID_767932974" MODIFIED="1422823009829">
 <richcontent TYPE="NODE"><html>
@@ -17262,7 +17248,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943651821" FOLDED="true" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1428540176851" STYLE="fork">
+<node CREATED="1397943651821" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1428693607771" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17430,7 +17416,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1428540175194" STYLE="fork">
+<node COLOR="#329632" CREATED="1399242959616" ID="ID_94660851" MODIFIED="1428693607800" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17444,7 +17430,7 @@
 </html></richcontent>
 <edge COLOR="#329632" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399324529813" FOLDED="true" ID="ID_1643490877" LINK="http://www.centos.org/" MODIFIED="1427069078378" STYLE="fork">
+<node CREATED="1399324529813" ID="ID_1643490877" LINK="http://www.centos.org/" MODIFIED="1428693607817" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17485,17 +17471,18 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402007594337" FOLDED="true" ID="ID_1252509489" MODIFIED="1422823009847">
+<node CREATED="1402007594337" FOLDED="true" ID="ID_1252509489" MODIFIED="1428693929086">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      About CentOS <img src="../icons/open_source.png" />
+      info <img src="../icons/open_source.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -17574,20 +17561,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1404234459415" ID="ID_86329421" LINK="http://www.centos.org/download/" MODIFIED="1413397854036">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      download <img src="../icons/download.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#329b32" CREATED="1398707032229" FOLDED="true" ID="ID_741400214" MODIFIED="1427069076666" STYLE="fork">
+<node COLOR="#329b32" CREATED="1398707032229" ID="ID_741400214" MODIFIED="1428693607825" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17675,7 +17649,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1408050616312" FOLDED="true" ID="ID_869883569" MODIFIED="1427069075915" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1408050616312" ID="ID_869883569" MODIFIED="1428693607847" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1403556119168" FOLDED="true" ID="ID_1436113743" LINK="http://www.digantel.org/" MODIFIED="1427069067242">
 <richcontent TYPE="NODE"><html>
@@ -17722,7 +17696,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1402615222620" FOLDED="true" ID="ID_1675235653" LINK="http://wiki.contribs.org/Main_Page" MODIFIED="1427069069162" STYLE="fork">
+<node CREATED="1402615222620" ID="ID_1675235653" LINK="http://wiki.contribs.org/Main_Page" MODIFIED="1428693881290" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17753,7 +17727,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407873576125" ID="ID_220086175" MODIFIED="1416105093290" TEXT="About SME Server">
+<node CREATED="1407873576125" ID="ID_220086175" MODIFIED="1428693933422" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -17767,9 +17741,75 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403198959401" ID="ID_1386231579" LINK="http://www.elastix.org/index.php/en/" MODIFIED="1403555936881" STYLE="fork" TEXT="Elastix"/>
-<node CREATED="1403133587974" ID="ID_1360235719" LINK="http://li.nux.ro/stella/" MODIFIED="1403555936881" STYLE="fork" TEXT="Stella"/>
-<node CREATED="1403555918770" FOLDED="true" ID="ID_1286547155" LINK="http://www.fixstars.com/en/technologies/linux/" MODIFIED="1422823009848">
+<node CREATED="1403198959401" ID="ID_1386231579" LINK="http://www.elastix.org/index.php/en/" MODIFIED="1428694357768" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Elastix </b><img src="../icons/elastix.png" />
+    </p>
+    <p>
+      <font size="2">2006 </font>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">PaloSanto Solutions</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1398707062277" ID="ID_915106017" MODIFIED="1428694119950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/version_history.png" />
+      <b>Version history</b>
+    </p>
+    <p style="line-height: 100%; margin-bottom: 0cm">
+      <i><font color="#3296fa">Specialist, Telephony</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1428694136089" ID="ID_830337129" MODIFIED="1428694152164" TEXT="info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Elastix is a Linux distribution that integrates the best tools available for Asterisk-based Private Branch Exchanges (PBX) into a single, easy-to-use interface. It also adds its own set of utilities and allows for the creation of third-party modules to make it an excellent software package available for open source telephony. Based on CentOS.&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1403133587974" ID="ID_1360235719" LINK="http://li.nux.ro/stella/" MODIFIED="1428694432275" STYLE="fork" TEXT="Stella">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1428694412699" ID="ID_1172585476" MODIFIED="1428694429276" TEXT="info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Stella is a desktop focused, Gnome2 based Centos 6 _remix_. Stella is not a fork. It is available as installable Live media and contains standard Centos software plus some multimedia and desktop additions.&#160;&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1403555918770" ID="ID_1286547155" LINK="http://www.fixstars.com/en/technologies/linux/" MODIFIED="1428693872912">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17781,16 +17821,54 @@
     <p>
       1999
     </p>
+    <p>
+      [ <font color="#3296fa">Terra soft Solutions &gt; </font>
+    </p>
+    <p>
+      <font color="#3296fa">&#160;&#160; Fixtars Solutions</font>&#160;]
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1398707062277" ID="ID_1996348873" MODIFIED="1428693888123">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/version_history.png" />
+      <b>Version history</b>
+    </p>
+    <p style="line-height: 100%; margin-bottom: 0cm">
+      <i><font color="#3296fa">Server</font></i>
+    </p>
   </body>
 </html></richcontent>
-<node CREATED="1411335317093" ID="ID_1656548602" MODIFIED="1411335347274" TEXT="About YDL">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1411335317093" ID="ID_1656548602" MODIFIED="1428693888130" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font face="Open Sans, Helvetica Neue, Helvetica, Arial, Hiragino Kaku Gothic ProN, &#x30d2;&#x30e9;&#x30ae;&#x30ce;&#x89d2;&#x30b4; ProN W3, Meiryo, &#x30e1;&#x30a4;&#x30ea;&#x30aa;, sans-serif" color="rgb(84, 84, 84)" size="14px"><span content="text/html; charset=utf-8" http-equiv="content-type" style="line-height: normal; font-family: Open Sans, Helvetica Neue, Helvetica, Arial, Hiragino Kaku Gothic ProN, &#x30d2;&#x30e9;&#x30ae;&#x30ce;&#x89d2;&#x30b4; ProN W3, Meiryo, &#x30e1;&#x30a4;&#x30ea;&#x30aa;, sans-serif; letter-spacing: normal; color: rgb(84, 84, 84); text-transform: none; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); float: none; word-spacing: 0px; display: inline !important; text-align: start; font-variant: normal; text-indent: 0px; font-weight: normal; font-style: normal">An open source, Linux operating system for home, office, server, and cluster users. Built upon the RHEL/CentOS core, Fixstars has since the spring of 1999 developed and maintained YDL for the Power architecture family of CPUs. This focus and dedication has lead to the world's leading Linux for the Power architecture.</span></font>
+      <font color="rgb(84, 84, 84)" face="Open Sans, Helvetica Neue, Helvetica, Arial, Hiragino Kaku Gothic ProN, &#x30d2;&#x30e9;&#x30ae;&#x30ce;&#x89d2;&#x30b4; ProN W3, Meiryo, &#x30e1;&#x30a4;&#x30ea;&#x30aa;, sans-serif" size="14px">An open source, Linux operating system for home, office, server, and cluster users. Built upon the RHEL/CentOS core, Fixstars has since the spring of 1999 developed and maintained YDL for the Power architecture family of CPUs. This focus and dedication has lead to the world's leading Linux for the Power architecture.</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1404234459415" ID="ID_86329421" LINK="http://www.fixstars.com/en/technologies/linux/downloads/" MODIFIED="1428693916944">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      download <img src="../icons/download.png" />
     </p>
   </body>
 </html></richcontent>
@@ -17828,7 +17906,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403555991297" FOLDED="true" ID="ID_924922690" LINK="http://www.asterisk.org/" MODIFIED="1427069074770">
+<node CREATED="1403555991297" FOLDED="true" ID="ID_924922690" LINK="http://www.asterisk.org/" MODIFIED="1428694457714">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21206,8 +21284,7 @@
       2000<font color="#fa0000">&#160;JP</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399323734602" FOLDED="true" ID="ID_1520344007" MODIFIED="1422823009872">
 <richcontent TYPE="NODE"><html>
@@ -21696,8 +21773,7 @@
       (c) http://distrowatch.com/table.php?distribution=slackware
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399485270857" FOLDED="true" ID="ID_1150814962" MODIFIED="1422823009876">
 <richcontent TYPE="NODE"><html>
@@ -22887,8 +22963,7 @@
       Whoppix is a stand-alone penetration-testing live CD based on KNOPPIX. With the latest tools and exploits, it is a must for every penetration tester and security auditor. Whoppix includes several exploit archives, such as Securityfocus, Packetstorm, SecurityForest and Milw0rm, as well as a wide variety of updated security tools. The new custom kernel also allows for better WIFI support. Starting with version 3.0, Whoppix was renamed to WHAX and its base changed from KNOPPIX to the more modular SLAX live CD.&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1410903953373" ID="ID_1579199514" MODIFIED="1428617715758">
 <richcontent TYPE="NODE"><html>
@@ -22913,8 +22988,7 @@
       A distribution like no other! It's primary goal is to provide the best home or dorm-room desktop environment possible. &quot;EvilE&quot; is not a server distribution and not a corporate workstation platform -- it's simply the most fun and useful tool you can install on your PC! Now you can install Linux and be up and running, online, ripping MP3s, burning CD's, watching DVD's and TV, editing video, and 3D models in minutes. No longer will you have to spend a week compiling downloaded programs to have a usable environment and NEVER will you have to boot into the outdated, unstable, piece of dog shit called MS Windows (especialy since EvilE blows out your Windows partion during the install -- for the good of mankind of course).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1412963942904" ID="ID_630820054" MODIFIED="1412963948966" TEXT="KateOS"/>
 </node>
