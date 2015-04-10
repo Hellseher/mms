@@ -13,8 +13,7 @@
       File System <img src="../icons/fs.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401737091376" ID="ID_894468200" LINK="http://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.html" MODIFIED="1402185936172" TEXT="Filesystem Hierarchy Standard">
 <font NAME="SansSerif" SIZE="12"/>
@@ -1657,7 +1656,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428269817389" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428706730275" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1673,8 +1672,7 @@
       <i><font color="#3296fa" size="2">Linus Torvalds</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
@@ -1726,9 +1724,9 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417380937987" ID="ID_1205914089" MODIFIED="1428069307795" TEXT="commands">
+<node CREATED="1417380937987" ID="ID_1205914089" MODIFIED="1428706733606" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417380923635" ID="ID_1689171388" MODIFIED="1428193829134">
+<node CREATED="1417380923635" ID="ID_1689171388" MODIFIED="1428707811501">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1751,10 +1749,11 @@
       This does&#160;not&#160;add new files to your repository. Instead, it brings new files to Git&#8217;s attention. After you add files, they&#8217;re included in Git&#8217;s &#8220;snapshots&#8221; of the repository.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1428193838184" ID="ID_601178658" MODIFIED="1428193852838" TEXT="git bisect"/>
-<node CREATED="1417721538316" FOLDED="true" ID="ID_1526409165" MODIFIED="1428269819431">
+<node CREATED="1417721538316" FOLDED="true" ID="ID_1526409165" MODIFIED="1428707800835">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1767,9 +1766,12 @@
       <i><font size="2" color="#3296fa">list, create, or delete branches</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<node CREATED="1428706753096" ID="ID_211242342" MODIFIED="1428706762297" TEXT="options">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428259115245" ID="ID_1211446334" MODIFIED="1428259118458" TEXT="--contains"/>
+<node CREATED="1428259110717" ID="ID_523201236" MODIFIED="1428259114650" TEXT="--list"/>
+<node CREATED="1428259118989" ID="ID_461714238" MODIFIED="1428259131082" TEXT="--track"/>
 <node CREATED="1428266038993" ID="ID_1462198555" MODIFIED="1428266080501">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1783,39 +1785,29 @@
       <i><font size="2" color="#3296fa">list all branches</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1428259110717" ID="ID_523201236" MODIFIED="1428259114650" TEXT="--list"/>
-<node CREATED="1428259118989" ID="ID_461714238" MODIFIED="1428259131082" TEXT="--track"/>
-<node CREATED="1428259137756" ID="ID_1721158596" MODIFIED="1428259139036" TEXT="-d"/>
-<node CREATED="1428259139676" ID="ID_1949136299" MODIFIED="1428259141578" TEXT="-D"/>
-<node CREATED="1428259131613" ID="ID_726817303" MODIFIED="1428259133643" TEXT="-m"/>
-<node CREATED="1428259135597" ID="ID_1392041021" MODIFIED="1428259137338" TEXT="-M"/>
-<node CREATED="1428259142012" ID="ID_811553938" MODIFIED="1428259143610" TEXT="-r"/>
-</node>
-<node CREATED="1417391947642" FOLDED="true" ID="ID_248828904" MODIFIED="1417730118502" TEXT="git cat-file">
-<node CREATED="1417391953434" ID="ID_627809715" MODIFIED="1417391955367" TEXT="-p"/>
-<node CREATED="1417391955642" ID="ID_1278539732" MODIFIED="1417391956615" TEXT="-t"/>
-</node>
-<node CREATED="1428263787683" ID="ID_1972453631" MODIFIED="1428263833326">
+<node CREATED="1428259137756" ID="ID_1721158596" MODIFIED="1428706787179">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      git <b>fetch</b>
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">download objects and refs </font></i>
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">from another repository</font></i>
+      -d, --delete
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node CREATED="1428259139676" ID="ID_1949136299" MODIFIED="1428259141578" TEXT="-D"/>
+<node CREATED="1428259131613" ID="ID_726817303" MODIFIED="1428706839681" TEXT="-m, --move"/>
+<node CREATED="1428259135597" ID="ID_1392041021" MODIFIED="1428259137338" TEXT="-M"/>
+<node CREATED="1428259142012" ID="ID_811553938" MODIFIED="1428259143610" TEXT="-r"/>
+</node>
+</node>
+<node CREATED="1417391947642" FOLDED="true" ID="ID_248828904" MODIFIED="1417730118502" TEXT="git cat-file">
+<node CREATED="1417391953434" ID="ID_627809715" MODIFIED="1417391955367" TEXT="-p"/>
+<node CREATED="1417391955642" ID="ID_1278539732" MODIFIED="1417391956615" TEXT="-t"/>
 </node>
 <node CREATED="1417383037458" FOLDED="true" ID="ID_1373221328" MODIFIED="1428264903100">
 <richcontent TYPE="NODE"><html>
@@ -1833,8 +1825,7 @@
       <i><font size="2" color="#3296fa">to the working tree</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428262977265" ID="ID_675873263" MODIFIED="1428262995806" TEXT="-b|-B &lt;new_branch&gt;"/>
 <node CREATED="1428263030672" ID="ID_306343692" MODIFIED="1428263036173" TEXT="-q, --quit"/>
 <node CREATED="1428263036576" ID="ID_1143275269" MODIFIED="1428263041197" TEXT="-f, --force"/>
@@ -1942,10 +1933,28 @@
 <node CREATED="1417125428216" MODIFIED="1417125428216" TEXT="--includes            respect include directives on lookup"/>
 </node>
 </node>
+<node CREATED="1428263787683" ID="ID_1972453631" MODIFIED="1428263833326">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git <b>fetch</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">download objects and refs </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">from another repository</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1417721462717" ID="ID_1511736267" MODIFIED="1417721464842" TEXT="git help"/>
 <node CREATED="1417391501873" ID="ID_1533831869" MODIFIED="1417391503822" TEXT="git hist"/>
 <node CREATED="1417380915379" ID="ID_576443732" MODIFIED="1417380922096" TEXT="git init"/>
-<node CREATED="1417390725277" FOLDED="true" ID="ID_368636394" MODIFIED="1428273858874">
+<node CREATED="1417390725277" FOLDED="true" ID="ID_368636394" MODIFIED="1428708794995">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1958,8 +1967,7 @@
       <i><font size="2" color="#3296fa">show commit log</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1417391045736" ID="ID_77066734" MODIFIED="1417391047653" TEXT="--all"/>
 <node CREATED="1417391042183" ID="ID_394695944" MODIFIED="1417391045413" TEXT="--author"/>
 <node CREATED="1417391409123" FOLDED="true" ID="ID_1668125113" MODIFIED="1428270020948" TEXT="--date=">
@@ -2055,7 +2063,7 @@
 <node CREATED="1417391187302" ID="ID_1628365603" MODIFIED="1417391190115" TEXT="--graph"/>
 </node>
 </node>
-<node CREATED="1417721579371" FOLDED="true" ID="ID_892756380" MODIFIED="1428265336627">
+<node CREATED="1417721579371" FOLDED="true" ID="ID_892756380" MODIFIED="1428707811441">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2071,8 +2079,7 @@
       <i><font size="2" color="#3296fa">histories together</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2088,8 +2095,7 @@
       <b>$: git merge</b>&#160;<b>--ff-only</b>&#160;v1.2.3
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428265203630" ID="ID_1994109868" MODIFIED="1428265219675" TEXT="--[no-]rerer-autoupdate"/>
 <node CREATED="1428265224061" ID="ID_984703909" MODIFIED="1428265227515" TEXT="--abort"/>
 <node CREATED="1428264993345" ID="ID_392328077" MODIFIED="1428265000783" TEXT="--commit, --no-commit"/>
@@ -2112,7 +2118,7 @@
 <node CREATED="1428265232989" ID="ID_20131022" MODIFIED="1428265238715" TEXT="&lt;commit&gt;..."/>
 </node>
 <node CREATED="1428273861703" ID="ID_379921157" MODIFIED="1428273866228" TEXT="git mergetool"/>
-<node CREATED="1428236489358" ID="ID_1711445556" MODIFIED="1428265306893">
+<node CREATED="1428236489358" ID="ID_1711445556" MODIFIED="1428707811464">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2128,8 +2134,7 @@
       <i><font color="#3296fa">with associated objects</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2139,27 +2144,24 @@
       <b>$: git push </b>origin master
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1417388502895" FOLDED="true" ID="ID_1229923978" MODIFIED="1419802168061" TEXT="git reset">
-<node CREATED="1417730575293" ID="ID_1544742535" MODIFIED="1417730579290" TEXT="--hard"/>
-<node CREATED="1417730579596" ID="ID_749470381" MODIFIED="1417730581881" TEXT="--all"/>
+</html></richcontent>
 </node>
 <node CREATED="1428274227537" ID="ID_474780902" MODIFIED="1428274230703" TEXT="git reflog"/>
-<node CREATED="1417730126628" ID="ID_482397972" MODIFIED="1417730129985" TEXT="git revert"/>
-<node CREATED="1417381484810" ID="ID_273883034" MODIFIED="1417381487192" TEXT="git status"/>
-<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1428265310910">
+<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1428708837616">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      git <b>remote</b>
+      git <b>remote </b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">manage set of tracked repos</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2172,8 +2174,7 @@
       <b>git remote set-url </b>origin&#160;git@github.com:&lt;Username&gt;/&lt;Project&gt;.git
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428194356495" ID="ID_1609746641" MODIFIED="1428257681953" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428194370130" ID="ID_1206631312" MODIFIED="1428257819859" TEXT="add">
@@ -2200,6 +2201,12 @@
 </node>
 <node CREATED="1428257450479" ID="ID_1873879215" MODIFIED="1428257461925" TEXT="-v, --verbose"/>
 </node>
+<node CREATED="1417388502895" FOLDED="true" ID="ID_1229923978" MODIFIED="1419802168061" TEXT="git reset">
+<node CREATED="1417730575293" ID="ID_1544742535" MODIFIED="1417730579290" TEXT="--hard"/>
+<node CREATED="1417730579596" ID="ID_749470381" MODIFIED="1417730581881" TEXT="--all"/>
+</node>
+<node CREATED="1417730126628" ID="ID_482397972" MODIFIED="1417730129985" TEXT="git revert"/>
+<node CREATED="1417381484810" ID="ID_273883034" MODIFIED="1417381487192" TEXT="git status"/>
 <node CREATED="1417478775855" FOLDED="true" ID="ID_319682408" MODIFIED="1419802168062" TEXT="git tag">
 <node CREATED="1417479213432" ID="ID_1402911621" MODIFIED="1417479222693" TEXT="-d, --delete"/>
 </node>
@@ -2671,7 +2678,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417377619382" ID="ID_1310986501" MODIFIED="1417377623267" TEXT="Linux console"/>
 </node>
-<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1428069297295" POSITION="right">
+<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1428706728541" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2686,7 +2693,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1411340040068">
+<node CREATED="1402074586132" ID="ID_1348669715" MODIFIED="1428693466801">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2842,7 +2849,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399587537547" FOLDED="true" ID="ID_1928207897" LINK="http://www.rpm.org/" MODIFIED="1425832893999">
+<node CREATED="1399587537547" ID="ID_1928207897" LINK="http://www.rpm.org/" MODIFIED="1428703748618">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2877,11 +2884,29 @@
       <b># rmp -ivh [pathe_to_package]</b>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1411339590831" ID="ID_1822535163" MODIFIED="1421101653565" TEXT="rpm">
+</html>
+</richcontent>
+<node CREATED="1411339590831" ID="ID_1822535163" MODIFIED="1428703804948" TEXT="rpm">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i><font color="#3296fa">How do I find what dependencies a rpm file has?</font></i>
+    </p>
+    <p>
+      <b>rpm -qpR </b>&lt;package-name&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411339598750" ID="ID_1698180118" MODIFIED="1411339600107" TEXT="-q"/>
-<node CREATED="1421101655882" ID="ID_385079738" MODIFIED="1421443392887" TEXT="--rebuilddb">
+<node CREATED="1428703676925" ID="ID_1015358143" MODIFIED="1428703678392" TEXT="-p"/>
+<node CREATED="1428703991054" ID="ID_252009832" MODIFIED="1428703992714" TEXT="-l"/>
+<node CREATED="1428704158085" ID="ID_683360067" MODIFIED="1428704160071" TEXT="-i"/>
+<node CREATED="1421101655882" ID="ID_385079738" MODIFIED="1428703748615" TEXT="--rebuilddb">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2897,14 +2922,12 @@
       <b>~$: rpm --rebuilddb</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1406935338678" ID="ID_599767118" MODIFIED="1406935344998" TEXT="zypper">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1407881218416" ID="ID_626340454" MODIFIED="1425832896960">
+<node CREATED="1407881218416" ID="ID_626340454" LINK="http://yum.baseurl.org/" MODIFIED="1428693424453">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2914,13 +2937,17 @@
       <b>yum</b>&#160;[<i>options</i>] [<i>command</i>] [<i>package...</i>]
     </p>
     <p>
-      Yellodog Updater Modifier
+      <b><font size="2">Y</font></b><font size="2">ellodog <b>U</b>pdater <b>M</b>odifier </font>
     </p>
     <p>
-      <font color="#3296fa"><i>Seth Vidal</i></font>
+      <font size="2">Python </font>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Seth Vidal</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411232688289" FOLDED="true" ID="ID_144208700" MODIFIED="1427664322269" TEXT="options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -3053,6 +3080,19 @@
 </html></richcontent>
 </node>
 <node CREATED="1417299454031" ID="ID_307365668" MODIFIED="1417299457723" TEXT="groupinstall"/>
+<node CREATED="1428693186566" ID="ID_1708330527" MODIFIED="1428693219626">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>autoremove</b>&#160;[pack1] [...]
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1411232509316" FOLDED="true" ID="ID_1813643393" MODIFIED="1411233129435">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3080,8 +3120,68 @@
 <node CREATED="1418672694911" ID="ID_1092134163" MODIFIED="1418672697259" TEXT="-y"/>
 </node>
 <node CREATED="1410700998022" ID="ID_357052347" MODIFIED="1410701090703" TEXT="yum-config-manager"/>
+<node CREATED="1428695327516" ID="ID_562959178" LINK="https://github.com/rpm-software-management/yum" MODIFIED="1428695360990">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1411582484444" ID="ID_1991972247" MODIFIED="1411582490745" TEXT="dnf"/>
+</node>
+<node CREATED="1428694549561" ID="ID_1096917069" MODIFIED="1428694695300">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>PackageKit</b>&#160;<img src="../icons/packagekit.png" />
+    </p>
+    <p>
+      <i><font color="#3296fa">Richard Hughes</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1428693529976" ID="ID_272470735" LINK="http://www.yumex.dk/" MODIFIED="1428695475739" TEXT="yumex">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1411582484444" ID="ID_1991972247" LINK="http://dnf.baseurl.org/" MODIFIED="1428698055542">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>DNF </b>
+    </p>
+    <p>
+      <font size="2">Python</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1428695049057" ID="ID_581838112" LINK="https://github.com/rpm-software-management/dnf" MODIFIED="1428695090616">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1409695069433" FOLDED="true" ID="ID_854089042" MODIFIED="1419802168066">
 <richcontent TYPE="NODE"><html>
@@ -3130,7 +3230,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1411339708508" FOLDED="true" ID="ID_1664887593" MODIFIED="1411770423474">
+<node CREATED="1411339708508" ID="ID_1664887593" MODIFIED="1428695605690">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3141,7 +3241,51 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411339740892" ID="ID_1024587079" MODIFIED="1411339743689" TEXT="yast"/>
+<node CREATED="1411339740892" ID="ID_1024587079" LINK="https://en.opensuse.org/Portal:YaST" MODIFIED="1428697785172">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>YaST </b><img src="../icons/yast.png" />
+    </p>
+    <p>
+      1996
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1428695608729" ID="ID_1666908120" MODIFIED="1428697900914">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Zypper</b>
+    </p>
+    <p>
+      2005
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1428695049057" ID="ID_1783995591" LINK="https://github.com/openSUSE/zypper" MODIFIED="1428695630587">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 </node>
 </node>

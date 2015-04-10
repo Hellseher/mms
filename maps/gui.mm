@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1428529351731" STYLE="fork" TEXT="GUI">
+<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1428693688623" STYLE="fork" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -13,7 +13,7 @@
 </html>
 </richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399812553231" FOLDED="true" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1428529711436" POSITION="right">
+<node CREATED="1399812553231" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1428693695475" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -410,7 +410,7 @@
 <node CREATED="1403351808572" ID="ID_149423730" MODIFIED="1403351808572" TEXT="XBMC"/>
 <node CREATED="1411937807687" ID="ID_1814997764" LINK="http://www.sugarlabs.org/" MODIFIED="1411937819822" TEXT="Sugar"/>
 </node>
-<node CREATED="1417296355983" FOLDED="true" ID="ID_759953660" MODIFIED="1428529581255" POSITION="left" TEXT="Desktop Environment">
+<node CREATED="1417296355983" ID="ID_759953660" MODIFIED="1428693692097" POSITION="left" TEXT="Desktop Environment">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397937262168" ID="ID_94654175" LINK="http://lxde.org/" MODIFIED="1417299830751" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -621,8 +621,7 @@
       http://en.wikipedia.org/wiki/Desktop_environment
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399312026486" ID="ID_1903506174" LINK="http://www.fltk.org/index.php" MODIFIED="1399312133143">
 <richcontent TYPE="NODE"><html>
