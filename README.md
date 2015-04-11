@@ -7,6 +7,7 @@ It could be helpfully for beginners to start exploring the world of IT.
 ![IT](./IT.png)
 
 ### Get it
+To down load maps:
 
 __By SSH__  
 
@@ -14,7 +15,7 @@ __By SSH__
 
 __By HTTP__  
 
-    $: git clone http://jsphp.co/javascript/php/page/home  
+    $: git clone https://github.com/Hellseher/IT-mm  
 
 #### Software
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)![FreeMind](http://a.fsdn.com/allura/p/freemind/icon) 
