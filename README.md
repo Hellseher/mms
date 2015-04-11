@@ -6,5 +6,15 @@ It could be helpfully for beginners to start exploring the world of IT.
 
 ![IT](./IT.png)
 
-### Software
+### Get it
+
+__By SSH__  
+
+    $: git clone git@github:Hellseher/IT-mm  
+
+__By HTTP__  
+
+    $: git clone http://jsphp.co/javascript/php/page/home  
+
+#### Software
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)![FreeMind](http://a.fsdn.com/allura/p/freemind/icon) 
