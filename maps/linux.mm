@@ -1656,7 +1656,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428706730275" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428709868430" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1673,6 +1673,26 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git checkout master
+    </p>
+    <p>
+      git pull origin master
+    </p>
+    <p>
+      git merge test
+    </p>
+    <p>
+      git push origin master
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
@@ -1751,9 +1771,13 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1428709102415" ID="ID_439274423" MODIFIED="1428709105823" TEXT="options">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1428709106087" ID="ID_1767311823" MODIFIED="1428709108139" TEXT="-A"/>
+</node>
 </node>
 <node CREATED="1428193838184" ID="ID_601178658" MODIFIED="1428193852838" TEXT="git bisect"/>
-<node CREATED="1417721538316" FOLDED="true" ID="ID_1526409165" MODIFIED="1428707800835">
+<node CREATED="1417721538316" ID="ID_1526409165" MODIFIED="1428711503230">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2147,7 +2171,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1428274227537" ID="ID_474780902" MODIFIED="1428274230703" TEXT="git reflog"/>
-<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1428708837616">
+<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1428709098353">
 <richcontent TYPE="NODE"><html>
   <head>
     

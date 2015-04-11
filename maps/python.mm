@@ -813,7 +813,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1428539816513" POSITION="right" TEXT="Built-in Types">
+<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1428711621883" POSITION="right" TEXT="Built-in Types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1418686567556" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1195,8 +1195,7 @@
       <i><font color="#3296fa" size="2">return index of x from L[list]</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398203924285" ID="153" MODIFIED="1428100010924">
 <richcontent TYPE="NODE"><html>
