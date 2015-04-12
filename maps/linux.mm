@@ -1656,7 +1656,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428709868430" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1428711991733" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1769,8 +1769,7 @@
       This does&#160;not&#160;add new files to your repository. Instead, it brings new files to Git&#8217;s attention. After you add files, they&#8217;re included in Git&#8217;s &#8220;snapshots&#8221; of the repository.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428709102415" ID="ID_439274423" MODIFIED="1428709105823" TEXT="options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428709106087" ID="ID_1767311823" MODIFIED="1428709108139" TEXT="-A"/>
@@ -2184,8 +2183,7 @@
       <i><font size="2" color="#3296fa">manage set of tracked repos</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2908,8 +2906,7 @@
       <b># rmp -ivh [pathe_to_package]</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1411339590831" ID="ID_1822535163" MODIFIED="1428703804948" TEXT="rpm">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2923,8 +2920,7 @@
       <b>rpm -qpR </b>&lt;package-name&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411339598750" ID="ID_1698180118" MODIFIED="1411339600107" TEXT="-q"/>
 <node CREATED="1428703676925" ID="ID_1015358143" MODIFIED="1428703678392" TEXT="-p"/>
@@ -2946,8 +2942,7 @@
       <b>~$: rpm --rebuilddb</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2970,8 +2965,7 @@
       <font color="#3296fa" size="2"><i>Seth Vidal</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411232688289" FOLDED="true" ID="ID_144208700" MODIFIED="1427664322269" TEXT="options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -3114,8 +3108,7 @@
       <b>autoremove</b>&#160;[pack1] [...]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1411232509316" FOLDED="true" ID="ID_1813643393" MODIFIED="1411233129435">
 <richcontent TYPE="NODE"><html>
@@ -3154,8 +3147,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1428694549561" ID="ID_1096917069" MODIFIED="1428694695300">
@@ -3171,8 +3163,7 @@
       <i><font color="#3296fa">Richard Hughes</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1428693529976" ID="ID_272470735" LINK="http://www.yumex.dk/" MODIFIED="1428695475739" TEXT="yumex">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -3190,8 +3181,7 @@
       <font size="2">Python</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428695049057" ID="ID_581838112" LINK="https://github.com/rpm-software-management/dnf" MODIFIED="1428695090616">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3202,8 +3192,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -3278,8 +3267,7 @@
       1996
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1428695608729" ID="ID_1666908120" MODIFIED="1428697900914">
 <richcontent TYPE="NODE"><html>
@@ -3294,8 +3282,7 @@
       2005
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428695049057" ID="ID_1783995591" LINK="https://github.com/openSUSE/zypper" MODIFIED="1428695630587">
 <richcontent TYPE="NODE"><html>
