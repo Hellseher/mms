@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1408468581612" ID="ID_879480445" MODIFIED="1414183902101" STYLE="fork" TEXT="Text Editors">
+<node CREATED="1408468581612" ID="ID_879480445" MODIFIED="1429311603450" STYLE="fork" TEXT="Text Editors">
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node CREATED="1408468596731" ID="ID_825102845" LINK="http://www.sublimetext.com/" MODIFIED="1415905096793" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -23,7 +23,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408468657817" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1414183902096" POSITION="right">
+<node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1429311603445" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -45,7 +45,7 @@
 </html></richcontent>
 <node CREATED="1414183396275" ID="ID_568030618" LINK="http://www.xemacs.org/" MODIFIED="1414183902096" TEXT="XEmacs"/>
 </node>
-<node CREATED="1412961654829" ID="ID_215248594" MODIFIED="1414183902097" POSITION="right">
+<node CREATED="1412961654829" FOLDED="true" ID="ID_215248594" MODIFIED="1429311603446" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -62,7 +62,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1408468625145" ID="ID_1133176202" LINK="http://www.vim.org/" MODIFIED="1416080105860">
+<node CREATED="1408468625145" FOLDED="true" ID="ID_1133176202" LINK="http://www.vim.org/" MODIFIED="1429311603446">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -113,7 +113,7 @@
 <node CREATED="1412961670060" ID="ID_1149259946" MODIFIED="1414183902099" TEXT="vile"/>
 <node CREATED="1412965719950" ID="ID_341600772" MODIFIED="1414183902099" TEXT="BusyBox"/>
 </node>
-<node CREATED="1416424626802" ID="ID_1650094155" LINK="http://lighttable.com/" MODIFIED="1416424798262" POSITION="right">
+<node CREATED="1416424626802" FOLDED="true" ID="ID_1650094155" LINK="http://lighttable.com/" MODIFIED="1429311603447" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -170,7 +170,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1416428448424" ID="ID_1749732945" MODIFIED="1416428456793" POSITION="right" TEXT="Web">
+<node CREATED="1416428448424" FOLDED="true" ID="ID_1749732945" MODIFIED="1429311603448" POSITION="right" TEXT="Web">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416428104494" ID="ID_268914109" LINK="http://brackets.io/" MODIFIED="1416428226993">
 <richcontent TYPE="NODE"><html>
@@ -277,9 +277,9 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1428530085878" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1429311603448" POSITION="left" TEXT="IDE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1408468706000" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1415905082524">
+<node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1429311603448">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -379,7 +379,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906274404" ID="ID_516240618" MODIFIED="1428530395982" POSITION="left">
+<node CREATED="1415906274404" FOLDED="true" ID="ID_516240618" MODIFIED="1429311603450" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -412,7 +412,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906322163" ID="ID_1374604496" MODIFIED="1415906325717" TEXT="IDE">
+<node CREATED="1415906322163" FOLDED="true" ID="ID_1374604496" MODIFIED="1429311603449" TEXT="IDE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415906172005" ID="ID_539518007" LINK="http://www.visualstudio.com/" MODIFIED="1415906255668">
 <richcontent TYPE="NODE"><html>
@@ -433,7 +433,7 @@
 <node CREATED="1415906346131" ID="ID_319742038" LINK="http://akelpad.sourceforge.net/en/index.php" MODIFIED="1415906356811" TEXT="AkelPad"/>
 <node CREATED="1415906373746" ID="ID_24243567" LINK="http://www.ultraedit.de/" MODIFIED="1415906397718" TEXT="UltraEdit"/>
 <node CREATED="1415906025176" ID="ID_1148968239" LINK="http://www.pspad.com/" MODIFIED="1415906035179" TEXT="PSPad"/>
-<node CREATED="1415906430914" ID="ID_1586698955" LINK="http://www.topstyle4.com/" MODIFIED="1415906672486">
+<node CREATED="1415906430914" FOLDED="true" ID="ID_1586698955" LINK="http://www.topstyle4.com/" MODIFIED="1429311603449">
 <richcontent TYPE="NODE"><html>
   <head>
     
