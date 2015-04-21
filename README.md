@@ -1,20 +1,15 @@
 # IT-mm
 
 
-This repo contains mind maps (mm) of my IT studding.  
+This repo contains mind maps (mm) of my IT-CS studding.  
 It could be helpfully for beginners to start exploring the world of IT.  
 
 ![IT](./IT.png)
 
 ### Get it
-To down load maps:
-
-__By SSH__  
+To download maps:
 
     $: git clone git@github:Hellseher/IT-mm  
-
-__By HTTP__  
-
     $: git clone https://github.com/Hellseher/IT-mm  
 
 #### Software
