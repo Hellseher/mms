@@ -813,7 +813,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1429311095155" POSITION="right" TEXT="Built-in Types">
+<node CREATED="1398203924282" ID="24" MODIFIED="1429395280041" POSITION="right" TEXT="Built-in Types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1429311095151" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -828,7 +828,7 @@
 <node CREATED="1398203924282" ID="175" MODIFIED="1398203924282" TEXT="Complex"/>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="28" MODIFIED="1429311095152" TEXT="strings">
+<node CREATED="1398203924282" ID="28" MODIFIED="1429445652152" TEXT="strings">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398549132682" ID="ID_392673022" MODIFIED="1398549174447">
 <richcontent TYPE="NODE"><html>
@@ -974,9 +974,26 @@
 </node>
 </node>
 </node>
-<node CREATED="1418686370533" FOLDED="true" ID="ID_1060963041" MODIFIED="1429311095152" TEXT="Sting Methods">
+<node CREATED="1418686370533" ID="ID_1060963041" MODIFIED="1429445655496" TEXT="Sting Methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398550961772" ID="ID_653126829" MODIFIED="1398550968842" TEXT="S.capitalize()"/>
+<node CREATED="1398550961772" ID="ID_653126829" MODIFIED="1429446040449">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      str.<b>capitalize</b>()
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">returns string with all </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">the first char capitalized</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1398550969308" ID="ID_1012352442" MODIFIED="1398550980218" TEXT="S.center(width)"/>
 <node CREATED="1398550982124" ID="ID_427488776" MODIFIED="1398550997146" TEXT="S.count(sub [, start [, end]])"/>
 <node CREATED="1398550998347" ID="ID_1715569363" MODIFIED="1398551016441" TEXT="S.encode([encoding [, errors]])"/>
@@ -991,7 +1008,17 @@
 <node CREATED="1398551166408" ID="ID_583399047" MODIFIED="1398551170822" TEXT="S.istitle()"/>
 <node CREATED="1398551172040" ID="ID_1321179337" MODIFIED="1398551179127" TEXT="S.isupper()"/>
 <node CREATED="1398551132441" ID="ID_166218417" MODIFIED="1418077766069" TEXT="str.isalpha()"/>
-<node CREATED="1398551180408" ID="ID_269194609" MODIFIED="1418686389722" TEXT="str.join(seq)">
+<node CREATED="1398551180408" ID="ID_269194609" MODIFIED="1429481717503">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      str.<b>join</b>(<i>iterable</i>)
+    </p>
+  </body>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1006,7 +1033,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1418077560379" ID="ID_938658471" MODIFIED="1418077631974" TEXT="str.split([sep[,maxsplit]]))"/>
 <node CREATED="1418078179410" ID="ID_1815362689" MODIFIED="1418686389735" TEXT="str.lower()">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1022,9 +1048,39 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1418077560379" ID="ID_938658471" MODIFIED="1429445790733">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      str.<b>split</b>([sep[,maxsplit]]))
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">return a list of the words in the string</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1429445828999" ID="ID_532805867" MODIFIED="1429445886694">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      str.<b>splitlines</b>([keepends])
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">returns the list of the lines in the string</font></i>
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1429311095154">
+</node>
+<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1429445650576">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1131,9 +1187,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="38" MODIFIED="1429311095153" TEXT="lists">
+<node CREATED="1398203924283" ID="38" MODIFIED="1429395306378" TEXT="lists">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398541205154" ID="ID_1714088058" MODIFIED="1398541247380">
+<node CREATED="1398541205154" ID="ID_1714088058" MODIFIED="1429395374600">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1144,6 +1200,19 @@
     </p>
     <p>
       <font color="#3296fa"><i>define a list</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#3296fa"><i>create a L[ist] of 10 numbers</i></font>
+    </p>
+    <p>
+      <b>L = [x for x in range(10)]</b>
     </p>
   </body>
 </html></richcontent>
@@ -1163,7 +1232,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1418686426708" FOLDED="true" ID="ID_1861484188" MODIFIED="1429311095153" TEXT="List Methods">
+<node CREATED="1418686426708" ID="ID_1861484188" MODIFIED="1429395382864" TEXT="List Methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924285" ID="149" MODIFIED="1418152891224">
 <richcontent TYPE="NODE"><html>
@@ -1242,7 +1311,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398545988606" FOLDED="true" ID="ID_1248159037" MODIFIED="1429311095153" TEXT="slicing">
+<node CREATED="1398545988606" FOLDED="true" ID="ID_1248159037" MODIFIED="1429395422138" TEXT="slicing">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398546027133" ID="ID_407582172" MODIFIED="1398547317863" TEXT="L[start:end:stride]">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1475,6 +1544,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
+<node CREATED="1429395296312" ID="ID_44025625" MODIFIED="1429395302084" TEXT="map()"/>
 </node>
 <node CREATED="1398203924284" FOLDED="true" ID="44" MODIFIED="1429311095155" TEXT="files">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1736,7 +1806,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1418499524923" FOLDED="true" ID="ID_1239482713" LINK="https://pypi.python.org/pypi/setuptools/1.1.6" MODIFIED="1429311095158" TEXT="pip">
+<node CREATED="1418499524923" ID="ID_1239482713" LINK="https://pypi.python.org/pypi/setuptools/1.1.6" MODIFIED="1429569573529" TEXT="pip">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418499604257" ID="ID_1376661187" MODIFIED="1418499604257" TEXT="bundle                      DEPRECATED. Create pybundles."/>
 <node CREATED="1418499604252" ID="ID_1647704289" MODIFIED="1418499658792">
@@ -4588,9 +4658,9 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1429311095188" POSITION="left" TEXT="frameworks">
+<node CREATED="1418504494639" ID="ID_1136939860" MODIFIED="1429566928816" POSITION="left" TEXT="frameworks">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418504502447" FOLDED="true" ID="ID_306703348" LINK="https://www.djangoproject.com/" MODIFIED="1429311095188">
+<node CREATED="1418504502447" ID="ID_306703348" LINK="https://www.djangoproject.com/" MODIFIED="1429636671228">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4598,15 +4668,11 @@
   <body>
     <p>
       <img src="../icons/django.png" />
-      
-    </p>
-    <p>
-      2005
     </p>
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418504506207" FOLDED="true" ID="ID_1071395094" MODIFIED="1429311095187" TEXT="modules">
+<node CREATED="1418504506207" FOLDED="true" ID="ID_1071395094" MODIFIED="1429567220752" TEXT="modules">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418510530944" ID="ID_765506439" MODIFIED="1418510544895" TEXT="URLconf">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4666,8 +4732,43 @@
 </node>
 </node>
 </node>
-<node CREATED="1418686665617" ID="ID_755020045" MODIFIED="1418686669266" TEXT="Flask">
+<node CREATED="1418686665617" ID="ID_755020045" MODIFIED="1429566966685">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flask <img src="../icons/flask.png" />
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1429566932759" ID="ID_1165894539" LINK="http://kivy.org/#home" MODIFIED="1429567079228">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>kivy</b>&#160;<img src="../icons/kivy.png" />
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1429569220441" ID="ID_1289149341" LINK="https://github.com/kivy/kivy" MODIFIED="1429569254786">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1415576757294" FOLDED="true" ID="ID_442340966" MODIFIED="1429311095188" POSITION="right" TEXT="cookbook">

@@ -185,7 +185,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" FOLDED="true" ID="ID_82536923" MODIFIED="1429311610827" POSITION="right" TEXT="cmd">
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1429451355697" POSITION="right" TEXT="cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1429311610810" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2431,7 +2431,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1429311610821">
+<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1429451363744">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2708,7 +2708,7 @@
 <node CREATED="1407709232276" ID="ID_1373556215" MODIFIED="1407709233474" TEXT="1"/>
 <node CREATED="1407709234164" ID="ID_1466852519" MODIFIED="1407709234914" TEXT="2"/>
 </node>
-<node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1429311610821">
+<node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1429452253389">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2758,35 +2758,9 @@
       <b>~$: </b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1409871011616" ID="ID_1519981254" MODIFIED="1411331194696">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-A</b>&#160;<i>num, </i><b>--ater-context</b>=<i>num</i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409247795930" ID="ID_1975238134" MODIFIED="1411331115353">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-C</b>[<i>num</i>], <b>--context</b>[=<i>num</i>], -<i>num </i>
-    </p>
-    <p>
-      <font color="#3296fa"><i>print num lines of leading and trailing context</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1411232080474" ID="ID_915969184" MODIFIED="1411232085879" TEXT="-E"/>
 <node CREATED="1409247793914" ID="ID_1355210260" MODIFIED="1411331267849">
 <richcontent TYPE="NODE"><html>
@@ -2854,7 +2828,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413927696536" FOLDED="true" ID="ID_1157573713" MODIFIED="1429311610821" TEXT="General output control">
+<node CREATED="1413927696536" FOLDED="true" ID="ID_1157573713" MODIFIED="1429452246102" TEXT="General output control">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413495648028" ID="ID_1404376418" MODIFIED="1413495662553" TEXT="-L, --files-without-match"/>
 <node CREATED="1404512058394" ID="ID_69889978" MODIFIED="1409000588752">
@@ -2881,7 +2855,7 @@
 <node CREATED="1413927724247" ID="ID_337026835" MODIFIED="1413927736730" TEXT="Generic program information">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1413927737175" FOLDED="true" ID="ID_1227457549" MODIFIED="1429311610821" TEXT="Matcher selection">
+<node CREATED="1413927737175" FOLDED="true" ID="ID_1227457549" MODIFIED="1429452251446" TEXT="Matcher selection">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416668157805" ID="ID_564817950" MODIFIED="1416668264702">
 <richcontent TYPE="NODE"><html>
@@ -2907,6 +2881,33 @@
 </node>
 <node CREATED="1413927779447" ID="ID_1130784713" MODIFIED="1413927787541" TEXT="Context line control">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1409871011616" ID="ID_1519981254" MODIFIED="1429452189441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-A</b>&#160;NUM<i>, </i><b>--ater-context</b>=NUM
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409247795930" ID="ID_1975238134" MODIFIED="1411331115353">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-C</b>[<i>num</i>], <b>--context</b>[=<i>num</i>], -<i>num </i>
+    </p>
+    <p>
+      <font color="#3296fa"><i>print num lines of leading and trailing context</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1413927793142" ID="ID_341083537" MODIFIED="1413927800360" TEXT="File and Directory Selection">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

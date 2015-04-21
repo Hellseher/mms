@@ -157,7 +157,7 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" FOLDED="true" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1429355991284" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1429372311619" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -491,7 +491,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1429355991284" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1429372313572" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1792,7 +1792,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1402147300675" FOLDED="true" ID="ID_1026292484" MODIFIED="1429355991276" STYLE="fork">
+<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1429372315182" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1894,7 +1894,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936504333" FOLDED="true" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1429355991275" STYLE="fork">
+<node CREATED="1397936504333" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1429372316294" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3527,7 +3527,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1429355991213" STYLE="fork">
+<node CREATED="1397936526301" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1429372320835" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3979,7 +3979,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398707032229" FOLDED="true" ID="ID_630368414" MODIFIED="1429355991195" STYLE="fork">
+<node COLOR="#329632" CREATED="1398707032229" ID="ID_630368414" MODIFIED="1429372323417" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5001,7 +5001,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943315007" FOLDED="true" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1429355991182" STYLE="fork">
+<node CREATED="1397943315007" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1429372326471" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5598,7 +5598,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398706233853" FOLDED="true" ID="ID_410876810" MODIFIED="1429355991178" STYLE="fork">
+<node COLOR="#329632" CREATED="1398706233853" ID="ID_410876810" MODIFIED="1429372331387" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6426,7 +6426,7 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1403553625426" FOLDED="true" ID="ID_1224691312" MODIFIED="1429355991170" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1403553625426" ID="ID_1224691312" MODIFIED="1429372341797" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1410825539138" FOLDED="true" ID="ID_1651318148" LINK="http://www.apodio.org/" MODIFIED="1429355991159">
 <richcontent TYPE="NODE"><html>
@@ -7199,6 +7199,36 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1429372344728" ID="ID_1456148062" LINK="http://www.bellaos.org/" MODIFIED="1429372496667">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Bella OS </b><img src="../icons/bella_os.png" />
+    </p>
+    <p>
+      2015 <font color="#fa0000">US</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1429372450004" ID="ID_1675359354" MODIFIED="1429372476254" TEXT="info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Bella OS is a beginner-friendly Linux distribution based on Xubuntu's latest LTS (long-term support) release and featuring a customised Xfce desktop. The project's primary goal is to provide a curated suite of high-quality web, office and entertainment applications on top of a desktop that combines some of the best features from several popular operating systems.&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 <node CREATED="1403217808964" FOLDED="true" ID="ID_1690794060" LINK="https://www.ultimateeditionoz.com/" MODIFIED="1429355991165" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -26904,7 +26934,7 @@
 <node CREATED="1415571911707" ID="ID_440903599" MODIFIED="1415571913433" TEXT="Google Compute"/>
 <node CREATED="1415651773634" ID="ID_495120759" LINK="https://cloudstack.apache.org/" MODIFIED="1415651783496" TEXT="CloudStack"/>
 </node>
-<node CREATED="1399826643180" FOLDED="true" ID="ID_1064629402" MODIFIED="1429355991287" POSITION="left" TEXT="Embedded Systems">
+<node CREATED="1399826643180" FOLDED="true" ID="ID_1064629402" MODIFIED="1429356004079" POSITION="left" TEXT="Embedded Systems">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399826651403" ID="ID_707673820" MODIFIED="1399826661595" TEXT="Hildon"/>
 <node CREATED="1401908928093" ID="ID_1783750185" MODIFIED="1401908971738">

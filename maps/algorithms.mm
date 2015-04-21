@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1404852391255" ID="ID_1634193856" MODIFIED="1404852418347">
+<node CREATED="1404852391255" ID="ID_1634193856" MODIFIED="1429391136090">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -153,8 +153,7 @@
       24&#160;&#160;<b>end function</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -234,6 +233,22 @@
 </node>
 <node CREATED="1417126255809" ID="ID_300129441" MODIFIED="1417126284686" TEXT="passprase"/>
 <node CREATED="1417126288720" ID="ID_12262181" MODIFIED="1417126293405" TEXT="indentification"/>
+</node>
+<node CREATED="1429391137482" ID="ID_1548623912" MODIFIED="1429391159496" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ginderburg algorithm
+    </p>
+    <p>
+      1778
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
