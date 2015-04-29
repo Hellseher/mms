@@ -277,7 +277,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1429311603448" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" ID="ID_1347439886" MODIFIED="1429658490134" POSITION="left" TEXT="IDE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1429311603448">
 <richcontent TYPE="NODE"><html>
@@ -347,6 +347,19 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1429658494173" ID="ID_843435950" LINK="http://www.codeblocks.org/" MODIFIED="1429658763702">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Code::Blocks <img src="../icons/code_blocks.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1415905181222" ID="ID_251384017" LINK="http://macromates.com/" MODIFIED="1415905421883" POSITION="right">

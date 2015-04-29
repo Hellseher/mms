@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1429564528322" STYLE="fork" TEXT="GUI">
+<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1430328009146" STYLE="fork" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10,7 +10,8 @@
       http://en.wikipedia.org/wiki/Desktop_environment
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812553231" FOLDED="true" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1429310718357" POSITION="right">
 <richcontent TYPE="NODE"><html>

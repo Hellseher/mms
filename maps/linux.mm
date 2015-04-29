@@ -3,7 +3,7 @@
 <node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1429310592962" TEXT="Linux">
 <icon BUILTIN="penguin"/>
 <node CREATED="1413589261730" ID="ID_378105576" LINK="https://www.suse.com/support/security/" MODIFIED="1413589308589" POSITION="right" TEXT="AppArmor"/>
-<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1429310592952" POSITION="right">
+<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1430340751997" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -99,7 +99,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" FOLDED="true" ID="ID_256627718" MODIFIED="1429310553169">
+<node CREATED="1398556187398" FOLDED="true" ID="ID_256627718" MODIFIED="1430340751190">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -271,7 +271,7 @@
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
 </node>
-<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1429310518804">
+<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1430340627479">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -300,8 +300,7 @@
       <i><font color="#3296fa">filesystems info</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -326,8 +325,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408142514443" ID="ID_20976320" MODIFIED="1408142520602" TEXT="/etc/group"/>
 <node CREATED="1398556351443" ID="ID_1633707033" MODIFIED="1429310475045">
@@ -340,8 +338,7 @@
       /etc/<b>hosts</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398556356771" FOLDED="true" ID="ID_1974490391" MODIFIED="1429310508832">
 <richcontent TYPE="NODE"><html>
@@ -486,6 +483,8 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1429657274880" ID="ID_252851786" MODIFIED="1429657282406" TEXT="/etc/lsb-release"/>
+<node CREATED="1429657274880" ID="ID_1219204339" MODIFIED="1429657315723" TEXT="/etc/lsb-release.d"/>
 <node CREATED="1416668505142" FOLDED="true" ID="ID_1333601851" MODIFIED="1429310510377">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -627,8 +626,7 @@
       /etc/<b>sysconfig </b><img src="../icons/redhat.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1410817653168" ID="ID_270360703" MODIFIED="1411077958087">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -811,7 +809,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1429310438801">
+<node CREATED="1398559185925" ID="ID_278437396" MODIFIED="1430340630675">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -851,6 +849,39 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1430340640834" ID="ID_1163927427" MODIFIED="1430340743196">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/<b>cmdline </b>
+    </p>
+    <p>
+      <font size="2" color="#3296fa"><i>shows the parameters </i></font>
+    </p>
+    <p>
+      <font size="2" color="#3296fa"><i>passed to the kernel </i></font>
+    </p>
+    <p>
+      <font size="2" color="#3296fa"><i>at the time it is started</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ro root=/dev/VolGroup00/LogVol00 rhgb quiet 3
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1408141480355" ID="ID_351462044" MODIFIED="1408141487426" TEXT="/proc/interrupts"/>
 <node CREATED="1408141487827" ID="ID_199816144" MODIFIED="1408141518497" TEXT="/proc/meminfo"/>
@@ -1014,8 +1045,7 @@
       /<b>stand </b>(hp-ux)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1413484394230" ID="ID_1374251777" MODIFIED="1413484402323" TEXT="/statnd/vmunix"/>
 </node>
 <node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1429310592950" TEXT="/sys">
@@ -1244,8 +1274,7 @@
       <i><font color="#3296fa">distribution software</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1656,7 +1685,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1429310592955" POSITION="right">
+<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1430340621807" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1691,7 +1720,8 @@
       git push origin master
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
@@ -2693,7 +2723,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417377619382" ID="ID_1310986501" MODIFIED="1417377623267" TEXT="Linux console"/>
 </node>
-<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1429310589391" POSITION="right">
+<node CREATED="1402074564850" ID="ID_308820005" MODIFIED="1430340754234" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3189,7 +3219,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1409695069433" FOLDED="true" ID="ID_854089042" MODIFIED="1429310592962">
+<node CREATED="1409695069433" ID="ID_854089042" MODIFIED="1430340756172">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3215,7 +3245,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411229036485" FOLDED="true" ID="ID_646852149" MODIFIED="1429310592962">
+<node CREATED="1411229036485" ID="ID_646852149" MODIFIED="1430341085593">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3225,10 +3255,11 @@
       <b>Gentoo Linux</b>&#160;<img src="../icons/gentoo_linux.png" />
     </p>
     <p>
-      <b>FreeBSD</b>&#160;<img src="../icons/freebsd.png" />
+      <img src="../icons/freebsd.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1411229071611" ID="ID_1973531558" LINK="http://wiki.gentoo.org/wiki/Project:Portage" MODIFIED="1411229128899" TEXT="Portage">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>

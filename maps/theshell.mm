@@ -2758,8 +2758,7 @@
       <b>~$: </b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411232080474" ID="ID_915969184" MODIFIED="1411232085879" TEXT="-E"/>
 <node CREATED="1409247793914" ID="ID_1355210260" MODIFIED="1411331267849">
@@ -3654,19 +3653,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1429311610826">
+<node CREATED="1408402182454" ID="ID_493014581" MODIFIED="1429654659148">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      User Environment <img src="../icons/user.png"/>
+      User Environment <img src="../icons/people.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414888493253" FOLDED="true" ID="ID_1388367841" MODIFIED="1429311610825" TEXT="Attributes">
+<node CREATED="1414888493253" ID="ID_1388367841" MODIFIED="1429654643937" TEXT="Attributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399409984240" FOLDED="true" ID="ID_1769432899" MODIFIED="1429311610825">
 <richcontent TYPE="NODE"><html>
@@ -3912,7 +3912,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414888430950" FOLDED="true" ID="ID_1968492847" MODIFIED="1429311610826" TEXT="Group maintain">
+<node CREATED="1414888430950" ID="ID_1968492847" MODIFIED="1429654651201" TEXT="Group maintain">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408403265167" ID="ID_1602028040" MODIFIED="1408487018996">
 <richcontent TYPE="NODE"><html>
@@ -4026,7 +4026,7 @@
 </node>
 <node CREATED="1414448588211" ID="ID_284261171" MODIFIED="1414448590208" TEXT="stty"/>
 <node CREATED="1414448666882" ID="ID_145172190" MODIFIED="1414448668783" TEXT="term"/>
-<node CREATED="1414888711057" FOLDED="true" ID="ID_570841120" MODIFIED="1429311610826" TEXT="Users maintain">
+<node CREATED="1414888711057" ID="ID_570841120" MODIFIED="1429654665047" TEXT="Users maintain">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408402286294" ID="ID_1569716893" MODIFIED="1408402289188" TEXT="useradd"/>
 <node CREATED="1408402301605" ID="ID_1790531500" MODIFIED="1408402303636" TEXT="userdel"/>

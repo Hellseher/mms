@@ -976,24 +976,6 @@
 </node>
 <node CREATED="1418686370533" ID="ID_1060963041" MODIFIED="1429445655496" TEXT="Sting Methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398550961772" ID="ID_653126829" MODIFIED="1429446040449">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      str.<b>capitalize</b>()
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">returns string with all </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">the first char capitalized</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1398550969308" ID="ID_1012352442" MODIFIED="1398550980218" TEXT="S.center(width)"/>
 <node CREATED="1398550982124" ID="ID_427488776" MODIFIED="1398550997146" TEXT="S.count(sub [, start [, end]])"/>
 <node CREATED="1398550998347" ID="ID_1715569363" MODIFIED="1398551016441" TEXT="S.encode([encoding [, errors]])"/>
@@ -1007,6 +989,21 @@
 <node CREATED="1398551159417" ID="ID_945542326" MODIFIED="1398551164216" TEXT="S.isspace()"/>
 <node CREATED="1398551166408" ID="ID_583399047" MODIFIED="1398551170822" TEXT="S.istitle()"/>
 <node CREATED="1398551172040" ID="ID_1321179337" MODIFIED="1398551179127" TEXT="S.isupper()"/>
+<node CREATED="1398550961772" ID="ID_653126829" MODIFIED="1430159516814">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      str.<b>capitalize</b>()
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">returns capitalized the first chars</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1398551132441" ID="ID_166218417" MODIFIED="1418077766069" TEXT="str.isalpha()"/>
 <node CREATED="1398551180408" ID="ID_269194609" MODIFIED="1429481717503">
 <richcontent TYPE="NODE"><html>
@@ -1074,6 +1071,21 @@
     </p>
     <p>
       <i><font size="2" color="#3296fa">returns the list of the lines in the string</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1430159292011" ID="ID_889461698" MODIFIED="1430159387936">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      str.<b>zfill</b>(<i>s, width</i>)
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">pad with zeros to the left of str</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -2082,7 +2094,7 @@
 <node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-x"/>
 <node CREATED="1418500534069" MODIFIED="1418500534069" TEXT="-3"/>
 </node>
-<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1429311095184" POSITION="left">
+<node CREATED="1398203924278" ID="68" MODIFIED="1429659408403" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2097,7 +2109,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1429311095183" TEXT="standart">
+<node CREATED="1398203924279" ID="69" MODIFIED="1430260867729" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416682044057" FOLDED="true" ID="ID_614858224" LINK="https://docs.python.org/2/library/base64.html" MODIFIED="1429311095161" TEXT="base64">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2969,7 +2981,7 @@
 <node CREATED="1407790320386" ID="ID_1148806102" LINK="https://docs.python.org/2/library/pwd.html" MODIFIED="1407790814852" TEXT="pwd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398452052608" FOLDED="true" ID="ID_1403160551" LINK="https://docs.python.org/2/library/random.html" MODIFIED="1429311095172" TEXT="random">
+<node CREATED="1398452052608" ID="ID_1403160551" LINK="https://docs.python.org/2/library/random.html" MODIFIED="1430260867731" TEXT="random">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415575799774" ID="ID_1882971965" MODIFIED="1415575824540">
 <richcontent TYPE="NODE"><html>
@@ -3942,9 +3954,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1429311095184" TEXT="Therd party">
+<node CREATED="1398284883230" ID="ID_542604586" MODIFIED="1429659410270" TEXT="Therd party">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398284924490" FOLDED="true" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1429311095184">
+<node CREATED="1398284924490" FOLDED="true" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1429659620840">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4080,14 +4092,14 @@
 </node>
 </node>
 <node CREATED="1415131557985" ID="ID_1275945333" MODIFIED="1415131560430" TEXT="sklearn"/>
-<node CREATED="1398455094655" ID="ID_1306950680" LINK="http://www.pygtk.org/" MODIFIED="1398455138807">
+<node CREATED="1398455094655" ID="ID_1306950680" LINK="http://www.pygtk.org/" MODIFIED="1429659420411">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>PyGTK</b>
+      <b>PyGtk</b>
     </p>
     <p>
       <i><font color="#3296fa">create APP for GUI</font></i>
@@ -4766,8 +4778,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

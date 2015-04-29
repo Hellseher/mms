@@ -54,7 +54,7 @@
 </node>
 <node CREATED="1420241736096" ID="ID_487791167" MODIFIED="1429447410746" POSITION="right" TEXT="Families ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417279334489" FOLDED="true" ID="ID_693855860" MODIFIED="1429311483943" TEXT="Markup language">
+<node CREATED="1417279334489" FOLDED="true" ID="ID_693855860" MODIFIED="1430161627199" TEXT="Markup language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417279352665" FOLDED="true" ID="ID_575866232" MODIFIED="1429311483943" TEXT="HTML">
 <node CREATED="1417279619380" ID="ID_1210723804" LINK="http://haml.info/" MODIFIED="1417279673287" TEXT="Haml"/>
@@ -80,7 +80,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1429447420824" TEXT="Compiled">
+<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1430161640284" TEXT="Compiled">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414972454263" ID="ID_255010547" LINK="http://www.rust-lang.org/" MODIFIED="1414972547910">
 <richcontent TYPE="NODE"><html>
@@ -301,7 +301,7 @@
 <node CREATED="1414223172630" ID="ID_457272363" MODIFIED="1414223173939" TEXT="&lt;"/>
 </node>
 <node CREATED="1414222734464" ID="ID_97565479" MODIFIED="1414222738970" TEXT="ALGOL"/>
-<node CREATED="1399824683722" ID="ID_530058893" MODIFIED="1429447422586">
+<node CREATED="1399824683722" FOLDED="true" ID="ID_530058893" MODIFIED="1430341409307">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -319,7 +319,7 @@
   </body>
 </html></richcontent>
 <node CREATED="1402147646769" ID="ID_973523044" MODIFIED="1402147648223" TEXT="Richard Gabriel"/>
-<node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1429447435033" STYLE="fork" TEXT="LiSP-dialects">
+<node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1430241908920" STYLE="fork" TEXT="LiSP-dialects">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416424910382" ID="ID_67820810" LINK="http://clojure.org/" MODIFIED="1416425415178">
@@ -400,8 +400,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1424819969970" ID="ID_429146574" LINK="http://www.schemers.org/" MODIFIED="1426978581600">
@@ -439,7 +438,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399831192876" FOLDED="true" ID="ID_1602035379" LINK="http://golang.org/" MODIFIED="1429311483947">
+<node CREATED="1399831192876" FOLDED="true" ID="ID_1602035379" LINK="http://golang.org/" MODIFIED="1430161641596">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -459,7 +458,7 @@
 <node CREATED="1399916305106" ID="ID_905758910" MODIFIED="1414223039611" TEXT="&lt;">
 <linktarget COLOR="#969696" DESTINATION="ID_905758910" ENDARROW="Default" ENDINCLINATION="395;-59;" ID="Arrow_ID_1508489523" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="83;-50;"/>
 </node>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_1620091193" MODIFIED="1429311483947">
+<node CREATED="1402184349896" ID="ID_1620091193" MODIFIED="1430161529759">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -524,14 +523,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414790036395" FOLDED="true" ID="ID_1657687706" LINK="http://www.erlang.org/" MODIFIED="1429311483948">
+<node CREATED="1414790036395" ID="ID_1657687706" LINK="http://www.erlang.org/" MODIFIED="1430161654165">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Erlang </b>
+      <b>Erlang </b><img src="../icons/erlang.png" />
     </p>
     <p>
       1986
@@ -543,7 +542,18 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="264;0;"/>
 </node>
 <node CREATED="1414790090282" ID="ID_1546611264" MODIFIED="1414790091031" TEXT="&gt;"/>
-<node CREATED="1421534717827" FOLDED="true" ID="ID_152636690" MODIFIED="1429311483948" TEXT="developers">
+<node CREATED="1421534717827" ID="ID_152636690" MODIFIED="1430161550656">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/people.png" />
+      &#160;people
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421534732303" MODIFIED="1421534732303">
 <richcontent TYPE="NODE"><html>
@@ -560,9 +570,38 @@
 <node CREATED="1421534741889" ID="ID_769921838" MODIFIED="1421534750303" TEXT="Robert Virding"/>
 <node CREATED="1421534752307" MODIFIED="1421534752307" TEXT="Mike Williams"/>
 </node>
+<node CREATED="1430161563976" ID="ID_1151703291" LINK="https://github.com/erlang/otp" MODIFIED="1430161588893">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node COLOR="#329632" CREATED="1430161658503" ID="ID_333067980" MODIFIED="1430161677872" STYLE="fork" TEXT="Erlang-dialects">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1430161680663" ID="ID_580330390" MODIFIED="1430341437333">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>elixir</b>&#160;<img src="../icons/elixir.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1416423396294" FOLDED="true" ID="ID_1627802312" MODIFIED="1429311483951">
+</node>
+</node>
+<node CREATED="1416423396294" FOLDED="true" ID="ID_1627802312" MODIFIED="1430161638893">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -858,7 +897,7 @@
 <node CREATED="1418257629816" ID="ID_1887383149" MODIFIED="1418257630693" TEXT="&lt;"/>
 </node>
 </node>
-<node CREATED="1421534565960" FOLDED="true" ID="ID_889872299" MODIFIED="1429311483952" TEXT="Style languages">
+<node CREATED="1421534565960" FOLDED="true" ID="ID_889872299" MODIFIED="1430161632693" TEXT="Style languages">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421534575333" ID="ID_1803572317" MODIFIED="1421534576738" TEXT="CSS"/>
 <node CREATED="1421534940671" ID="ID_1372240228" MODIFIED="1421534945116" TEXT="DSSSL"/>
@@ -1067,7 +1106,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1417986585330" FOLDED="true" ID="ID_370572784" MODIFIED="1429311483956" POSITION="right" TEXT="Components">
+<node CREATED="1417986585330" ID="ID_370572784" MODIFIED="1430161371979" POSITION="right" TEXT="Components">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417986592068" FOLDED="true" ID="ID_1569326826" MODIFIED="1429311483955" TEXT="Comments">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1132,7 +1171,7 @@
 <node CREATED="1423093763484" ID="ID_415798276" MODIFIED="1423093775258" TEXT="$[var_name]"/>
 <node CREATED="1423093781005" ID="ID_1432785671" MODIFIED="1423093784473" TEXT="[var_name]"/>
 </node>
-<node CREATED="1424899474294" FOLDED="true" ID="ID_1267059046" MODIFIED="1429311483955" TEXT="Modulo">
+<node CREATED="1424899474294" ID="ID_1267059046" MODIFIED="1430161371980" TEXT="Modulo">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1164,7 +1203,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1424899668725" ID="ID_27694921" MODIFIED="1424899670995" TEXT="Oberon"/>
 </node>
-<node CREATED="1424899494553" FOLDED="true" ID="ID_39310485" MODIFIED="1429311483955" TEXT="rem">
+<node CREATED="1424899494553" ID="ID_39310485" MODIFIED="1430161371981" TEXT="rem">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1424899609767" ID="ID_448000918" MODIFIED="1424899612836" TEXT="Common Lisp"/>
 <node CREATED="1424899619094" ID="ID_1816880202" MODIFIED="1424899622501" TEXT="Erlang"/>
