@@ -2,7 +2,6 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1429310592962" TEXT="Linux">
 <icon BUILTIN="penguin"/>
-<node CREATED="1413589261730" ID="ID_378105576" LINK="https://www.suse.com/support/security/" MODIFIED="1413589308589" POSITION="right" TEXT="AppArmor"/>
 <node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1430340751997" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2350,11 +2349,18 @@
 <node CREATED="1417381452042" ID="ID_1532674825" LINK="http://githowto.com/" MODIFIED="1417381468659" TEXT="githowto.com"/>
 </node>
 </node>
-<node CREATED="1408909548580" ID="ID_129135400" LINK="GUI.mm" MODIFIED="1409694759051" POSITION="right" TEXT="GUI">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1411250327829" ID="ID_1286469945" LINK="https://geti2p.net/en/" MODIFIED="1411250341660" POSITION="right" TEXT="I2P"/>
-<node CREATED="1398557051048" FOLDED="true" ID="ID_228093404" MODIFIED="1429310592956" POSITION="right" TEXT="info">
+<node CREATED="1398557051048" FOLDED="true" ID="ID_228093404" MODIFIED="1430341241086" POSITION="right" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/info.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1400101268215" FOLDED="true" ID="ID_340137625" MODIFIED="1429310592955" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2449,7 +2455,7 @@
 </node>
 <node CREATED="1402182581205" ID="ID_1976575458" LINK="http://openbuildservice.org/" MODIFIED="1402182598958" TEXT="Open Build Service"/>
 </node>
-<node CREATED="1399916952894" FOLDED="true" ID="ID_871920423" LINK="https://www.kernel.org/" MODIFIED="1429310592956" POSITION="right">
+<node CREATED="1399916952894" FOLDED="true" ID="ID_871920423" LINK="https://www.kernel.org/" MODIFIED="1430341175441" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2461,7 +2467,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398707062277" FOLDED="true" ID="ID_186119687" MODIFIED="1429310567151">
+<node CREATED="1398707062277" ID="ID_186119687" MODIFIED="1430341158745">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2501,8 +2507,9 @@
 </html></richcontent>
 </node>
 <node CREATED="1414373999654" ID="ID_125324044" MODIFIED="1414374002260" TEXT="3.17"/>
+<node CREATED="1430341162969" ID="ID_1544590882" MODIFIED="1430341166052" TEXT="4.0"/>
 </node>
-<node CREATED="1414373984502" FOLDED="true" ID="ID_1869145053" MODIFIED="1429310568471" TEXT="Info">
+<node CREATED="1414373984502" FOLDED="true" ID="ID_1869145053" MODIFIED="1430341156726" TEXT="Info">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402957838615" ID="ID_1915054606" MODIFIED="1402957840117" TEXT="initrd"/>
 <node CREATED="1402957850838" ID="ID_1637089548" MODIFIED="1402957852117" TEXT="initramfs"/>
@@ -2556,7 +2563,18 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1429310575343" POSITION="right" TEXT="Linux Sertifications">
+<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1430341146790" POSITION="right" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Sertifications
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413223438094" ID="ID_639439735" LINK="http://www.lpi.org/" MODIFIED="1413223448872" TEXT="Linux Professional Institute "/>
 <node CREATED="1413223472159" FOLDED="true" ID="ID_651359471" LINK="http://training.linuxfoundation.org/certification" MODIFIED="1429310592957" TEXT="Linux Foundation">
@@ -2723,22 +2741,20 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417377619382" ID="ID_1310986501" MODIFIED="1417377623267" TEXT="Linux console"/>
 </node>
-<node CREATED="1402074564850" ID="ID_308820005" MODIFIED="1430340754234" POSITION="right">
+<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1430341792214" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Packages
-    </p>
-    <p>
-      Management <img src="../icons/pm.png" />
+      <img src="../icons/package_management.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1429310578616">
+<node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1430341121990">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2880,7 +2896,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1429310586135">
+<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1430341121991">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3219,7 +3235,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1409695069433" ID="ID_854089042" MODIFIED="1430340756172">
+<node CREATED="1409695069433" ID="ID_854089042" MODIFIED="1430341121991">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3231,9 +3247,9 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1416946452903" ID="ID_1660435815" MODIFIED="1416946457475" TEXT="pacman"/>
+<node CREATED="1416946452903" ID="ID_1660435815" MODIFIED="1430341121991" TEXT="pacman"/>
 </node>
-<node CREATED="1410019498962" ID="ID_608826311" MODIFIED="1411229724576">
+<node CREATED="1410019498962" ID="ID_608826311" MODIFIED="1430341121991">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3245,7 +3261,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411229036485" ID="ID_646852149" MODIFIED="1430341085593">
+<node CREATED="1411229036485" ID="ID_646852149" MODIFIED="1430341121991">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3260,14 +3276,14 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1411229071611" ID="ID_1973531558" LINK="http://wiki.gentoo.org/wiki/Project:Portage" MODIFIED="1411229128899" TEXT="Portage">
+<node CREATED="1411229071611" ID="ID_1973531558" LINK="http://wiki.gentoo.org/wiki/Project:Portage" MODIFIED="1430341121991" TEXT="Portage">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1411229235288" ID="ID_1939846601" MODIFIED="1411229239802" TEXT="emerge">
+<node CREATED="1411229235288" ID="ID_1939846601" MODIFIED="1430341121991" TEXT="emerge">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1411339708508" FOLDED="true" ID="ID_1664887593" MODIFIED="1429310587712">
+<node CREATED="1411339708508" FOLDED="true" ID="ID_1664887593" MODIFIED="1430341121991">
 <richcontent TYPE="NODE"><html>
   <head>
     

@@ -2708,7 +2708,7 @@
 <node CREATED="1407709232276" ID="ID_1373556215" MODIFIED="1407709233474" TEXT="1"/>
 <node CREATED="1407709234164" ID="ID_1466852519" MODIFIED="1407709234914" TEXT="2"/>
 </node>
-<node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1429452253389">
+<node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1430347753562">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2758,7 +2758,8 @@
       <b>~$: </b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411232080474" ID="ID_915969184" MODIFIED="1411232085879" TEXT="-E"/>
 <node CREATED="1409247793914" ID="ID_1355210260" MODIFIED="1411331267849">
@@ -3663,8 +3664,7 @@
       User Environment <img src="../icons/people.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414888493253" ID="ID_1388367841" MODIFIED="1429654643937" TEXT="Attributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

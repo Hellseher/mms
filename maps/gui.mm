@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1430328009146" STYLE="fork" TEXT="GUI">
+<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1430347752964" STYLE="fork" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -605,7 +605,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1417296420878" ID="ID_171099615" MODIFIED="1429565978802" POSITION="left" TEXT="GUI">
+<node CREATED="1417296420878" FOLDED="true" ID="ID_171099615" MODIFIED="1430348738678" POSITION="left" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
