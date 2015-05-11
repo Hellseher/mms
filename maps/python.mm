@@ -1227,8 +1227,7 @@
       <b>L = [x for x in range(10)]</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398544850704" ID="ID_803179277" LINK="https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions" MODIFIED="1399239221928">
 <richcontent TYPE="NODE"><html>
@@ -1577,7 +1576,7 @@
 <node CREATED="1404166468680" ID="ID_1527254474" MODIFIED="1404166473178" TEXT="__enter__()"/>
 <node CREATED="1404166474280" ID="ID_379208573" MODIFIED="1404166478698" TEXT="__exit__()"/>
 <node CREATED="1398203924287" ID="161" MODIFIED="1404166109647" TEXT="F.close()"/>
-<node CREATED="1398203924287" ID="159" MODIFIED="1430499705488" TEXT="F.open(&quot;file_name&quot;, &quot;mode&quot;)">
+<node CREATED="1398203924287" ID="159" MODIFIED="1431036604160" TEXT="F.open(&quot;file_name&quot;, &quot;mode&quot;)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1628,8 +1627,7 @@
       <img src="../icons/info.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399758119424" ID="ID_132038922" LINK="https://www.python.org/" MODIFIED="1430435355820" TEXT="https://www.python.org/"/>
 <node CREATED="1403561508824" ID="ID_1392966636" LINK="http://briansimulator.org/" MODIFIED="1430435355821" TEXT="http://briansimulator.org/">
@@ -2226,8 +2224,7 @@
       <font color="#3296fa">import</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924279" ID="69" MODIFIED="1430434974713" STYLE="bubble" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2458,8 +2455,7 @@
       <i><font size="2" color="#3296fa">rational number arithmetics</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1400273930084" ID="ID_1276467750" LINK="https://docs.python.org/2/library/glob.html#module-glob" MODIFIED="1400273933995" TEXT="glob">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4105,8 +4101,7 @@
       <font color="#3296fa" size="2"><i>functions</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1430499480270" TEXT="3d party">
@@ -4361,8 +4356,7 @@
       <i><font color="#3296fa">modulo</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1430434912429" ID="ID_464112880" MODIFIED="1430434915881" TEXT="a // b"/>
 </node>

@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1429310592962" TEXT="Linux">
 <icon BUILTIN="penguin"/>
-<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1430340751997" POSITION="right">
+<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1431284949449" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -98,7 +98,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" FOLDED="true" ID="ID_256627718" MODIFIED="1430340751190">
+<node CREATED="1398556187398" FOLDED="true" ID="ID_256627718" MODIFIED="1431284948324">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -270,7 +270,7 @@
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
 </node>
-<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1430340627479">
+<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1431284946789">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -615,7 +615,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1409613309086" ID="ID_1201506011" MODIFIED="1409613316189" TEXT="/etc/sudoers.d"/>
-<node CREATED="1410817423845" FOLDED="true" ID="ID_242003971" LINK="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/Reference_Guide/ch-sysconfig.html" MODIFIED="1429310592949">
+<node CREATED="1410817423845" ID="ID_242003971" LINK="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/Reference_Guide/ch-sysconfig.html" MODIFIED="1431283911531">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -637,6 +637,19 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1431283918607" ID="ID_238630849" MODIFIED="1431283939662">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/sysconfig/<b>desktop</b>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1413494764953" ID="ID_347856310" MODIFIED="1413494779254" TEXT="/etc/sysconfig/network-scripts"/>
 <node CREATED="1413494779977" ID="ID_1989679305" MODIFIED="1413494789111" TEXT="/etc/sysconfig/console"/>
@@ -673,7 +686,7 @@
 <node CREATED="1413488093998" FOLDED="true" ID="ID_954642326" MODIFIED="1429310592949" TEXT="/etc/udev">
 <node CREATED="1413488102094" ID="ID_648763785" MODIFIED="1413488114939" TEXT="/etc/udev/udev.conf"/>
 </node>
-<node CREATED="1407105147589" FOLDED="true" ID="ID_459013448" MODIFIED="1429310592950">
+<node CREATED="1407105147589" FOLDED="true" ID="ID_459013448" MODIFIED="1431283904792">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -808,7 +821,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" ID="ID_278437396" MODIFIED="1430340630675">
+<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1431283880658">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -868,8 +881,7 @@
       <font size="2" color="#3296fa"><i>at the time it is started</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -879,8 +891,7 @@
       ro root=/dev/VolGroup00/LogVol00 rhgb quiet 3
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408141480355" ID="ID_351462044" MODIFIED="1408141487426" TEXT="/proc/interrupts"/>
 <node CREATED="1408141487827" ID="ID_199816144" MODIFIED="1408141518497" TEXT="/proc/meminfo"/>
@@ -1719,8 +1730,7 @@
       git push origin master
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
@@ -2359,8 +2369,7 @@
       <img src="../icons/info.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1400101268215" FOLDED="true" ID="ID_340137625" MODIFIED="1429310592955" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2573,8 +2582,7 @@
       Sertifications
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413223438094" ID="ID_639439735" LINK="http://www.lpi.org/" MODIFIED="1413223448872" TEXT="Linux Professional Institute "/>
 <node CREATED="1413223472159" FOLDED="true" ID="ID_651359471" LINK="http://training.linuxfoundation.org/certification" MODIFIED="1429310592957" TEXT="Linux Foundation">
@@ -2751,8 +2759,7 @@
       <img src="../icons/package_management.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1430341121990">
 <richcontent TYPE="NODE"><html>
@@ -3274,8 +3281,7 @@
       <img src="../icons/freebsd.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1411229071611" ID="ID_1973531558" LINK="http://wiki.gentoo.org/wiki/Project:Portage" MODIFIED="1430341121991" TEXT="Portage">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
