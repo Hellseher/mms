@@ -6,7 +6,7 @@ It could be helpfully for beginners to start exploring the world of IT.
 
 ![IT](./IT.png)
 
-### Get it
+#### Get it
 Download maps command line way:
 
     $: git clone https://github.com/Hellseher/IT-mm  
