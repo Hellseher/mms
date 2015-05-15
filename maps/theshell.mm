@@ -2708,7 +2708,7 @@
 <node CREATED="1407709232276" ID="ID_1373556215" MODIFIED="1407709233474" TEXT="1"/>
 <node CREATED="1407709234164" ID="ID_1466852519" MODIFIED="1407709234914" TEXT="2"/>
 </node>
-<node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1431036604423">
+<node CREATED="1399410585542" ID="ID_719512608" MODIFIED="1431728180908">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2747,15 +2747,6 @@
     </p>
     <p>
       <b>$ grep -c /bin/bash /etc/passwd </b>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <i><font color="#3296fa">show characters before and after matc</font>h</i>
-    </p>
-    <p>
-      <b>~$: </b>
     </p>
   </body>
 </html>
@@ -2855,7 +2846,7 @@
 <node CREATED="1413927724247" ID="ID_337026835" MODIFIED="1413927736730" TEXT="Generic program information">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1413927737175" FOLDED="true" ID="ID_1227457549" MODIFIED="1429452251446" TEXT="Matcher selection">
+<node CREATED="1413927737175" FOLDED="true" ID="ID_1227457549" MODIFIED="1431728175004" TEXT="Matcher selection">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416668157805" ID="ID_564817950" MODIFIED="1416668264702">
 <richcontent TYPE="NODE"><html>
@@ -3096,7 +3087,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1399409778492" FOLDED="true" ID="ID_1285144250" MODIFIED="1429311610823">
+<node CREATED="1399409778492" ID="ID_1285144250" MODIFIED="1431727971185">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3367,7 +3358,7 @@
 <node CREATED="1408401088861" ID="ID_1157641945" MODIFIED="1408401090763" TEXT="-l"/>
 <node CREATED="1411331819454" ID="ID_1629526281" MODIFIED="1411331825611" TEXT="-c, --bytes"/>
 </node>
-<node CREATED="1415051241549" ID="ID_1954853667" MODIFIED="1415052414290">
+<node CREATED="1415051241549" ID="ID_1954853667" MODIFIED="1431728136275">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3390,13 +3381,14 @@
       <font color="#3296fa"><i>rename files \ directories to UPPER or lower cases </i></font>
     </p>
     <p>
-      <b># for x in *; do mv $x `echo $x | tr '[a-z]' '[A-Z]'`; done</b>
+      <b>$ for </b>x in *; <b>do mv </b>$x `<b>echo </b>$x |<b>&#160;tr </b>'[a-z]' '[A-Z]'`; <b>done</b>
     </p>
     <p>
       &#160;&#160;&#160;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1414624707344" ID="ID_1219708059" MODIFIED="1415051345081">
 <richcontent TYPE="NODE"><html>
@@ -3416,7 +3408,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#006699" CREATED="1413572388118" FOLDED="true" ID="ID_1349411063" MODIFIED="1429311610823" STYLE="fork" TEXT="~Text editors">
+<node COLOR="#006699" CREATED="1413572388118" ID="ID_1349411063" MODIFIED="1431727971189" STYLE="fork" TEXT="~Text editors">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1399667523034" ID="ID_363160278" MODIFIED="1409418410899">
 <richcontent TYPE="NODE"><html>
@@ -3445,7 +3437,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413572485797" FOLDED="true" ID="ID_1848824782" MODIFIED="1429311610823">
+<node CREATED="1413572485797" ID="ID_1848824782" MODIFIED="1431728082716">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3456,6 +3448,20 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i><font color="#3296fa">word frequencies</font></i>
+    </p>
+    <p>
+      $ <b>awk</b>&#160;'{<b>for</b>&#160;(i = 1; i &lt;= NF; i++) {<b>print</b>&#160; tolower($i);}}' file.txt | <b>sort</b>&#160;| <b>uniq</b>&#160;-c | <b>sort</b>&#160; -rm
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1413572587572" FOLDED="true" ID="ID_1766920815" MODIFIED="1429311610823" TEXT="Built-it Variables">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413572509589" ID="ID_581393427" MODIFIED="1413572517025" TEXT="NR"/>
