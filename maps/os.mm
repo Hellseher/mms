@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1431283858461" TEXT="OS">
+<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1431559298244" TEXT="OS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -156,7 +156,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" FOLDED="true" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1431283858460" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1431559301902" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -490,7 +490,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1431283858460" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1431559319493" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1123,7 +1123,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -1286,7 +1286,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -1791,7 +1791,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1402147300675" FOLDED="true" ID="ID_1026292484" MODIFIED="1431283858459" STYLE="fork">
+<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1431559321798" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1893,7 +1893,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936504333" FOLDED="true" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1431283858458" STYLE="fork">
+<node CREATED="1397936504333" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1431559323525" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3007,7 +3007,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -3553,7 +3553,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1431283858451" STYLE="fork">
+<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1431723096426" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3954,7 +3954,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -4005,7 +4005,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398707032229" FOLDED="true" ID="ID_630368414" MODIFIED="1431283858450" STYLE="fork">
+<node COLOR="#329632" CREATED="1398707032229" ID="ID_630368414" MODIFIED="1431559334187" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4117,7 +4117,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -5026,7 +5026,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943315007" FOLDED="true" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1431173745277" STYLE="fork">
+<node CREATED="1397943315007" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1431559336407" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5559,7 +5559,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png" />
+      <img src="../icons/package_management.png" />
       PM
     </p>
   </body>
@@ -5623,7 +5623,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398706233853" FOLDED="true" ID="ID_410876810" MODIFIED="1431172567514" STYLE="fork">
+<node COLOR="#329632" CREATED="1398706233853" ID="ID_410876810" MODIFIED="1431559339231" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5900,7 +5900,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -6497,7 +6497,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1403553625426" FOLDED="true" ID="ID_1224691312" MODIFIED="1431172475580" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1403553625426" ID="ID_1224691312" MODIFIED="1431723064998" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1410825539138" FOLDED="true" ID="ID_1651318148" LINK="http://www.apodio.org/" MODIFIED="1429657186852">
 <richcontent TYPE="NODE"><html>
@@ -7764,7 +7764,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1402684666914" FOLDED="true" ID="ID_1748666183" LINK="http://www.zentyal.org/" MODIFIED="1429657186875" STYLE="fork">
+<node CREATED="1402684666914" ID="ID_1748666183" LINK="http://www.zentyal.org/" MODIFIED="1431723065009" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7798,14 +7798,25 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402007594337" FOLDED="true" ID="ID_1627661060" MODIFIED="1429657186875" TEXT="About Zentyal">
+<node CREATED="1402007594337" FOLDED="true" ID="ID_1627661060" MODIFIED="1431723090461">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info <img src="../icons/info.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Zentyal (formerly eBox Platform) is a unified network server that offers easy and efficient computer network administration for small and medium-size businesses. It can act as a gateway, an infrastructure manager, a unified threat manager, an office server, a unified communication server or a combination of them. These functionalities are tightly integrated, automating most tasks, avoiding mistakes and saving time for system administrators. Zentyal is released under the GNU General Public License (GPL) and runs on top of Ubuntu.&#xa0;
+      Zentyal (formerly eBox Platform) is a unified network server that offers easy and efficient computer network administration for small and medium-size businesses. It can act as a gateway, an infrastructure manager, a unified threat manager, an office server, a unified communication server or a combination of them. These functionalities are tightly integrated, automating most tasks, avoiding mistakes and saving time for system administrators. Zentyal is released under the GNU General Public License (GPL) and runs on top of Ubuntu.&#160;
     </p>
     <p>
       
@@ -7814,7 +7825,8 @@
       (c) http://distrowatch.com/table.php?distribution=zentyal
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399323734602" FOLDED="true" ID="ID_895502726" MODIFIED="1429657186874">
 <richcontent TYPE="NODE"><html>
@@ -8193,7 +8205,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png" />
+      <img src="../icons/package_management.png" />
       PM
     </p>
   </body>
@@ -9532,7 +9544,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -13996,7 +14008,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -15078,7 +15090,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png" />
+      <img src="../icons/package_management.png" />
       PM
     </p>
   </body>
@@ -15320,7 +15332,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -15498,7 +15510,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -16936,7 +16948,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943651821" FOLDED="true" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1431283858456" STYLE="fork">
+<node CREATED="1397943651821" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1431723875849" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17068,7 +17080,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -17104,7 +17116,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1431283858456" STYLE="fork">
+<node COLOR="#329632" CREATED="1399242959616" ID="ID_94660851" MODIFIED="1431723876987" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17716,7 +17728,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397937148360" FOLDED="true" ID="ID_429530788" LINK="https://fedoraproject.org/" MODIFIED="1431283858455" STYLE="fork">
+<node CREATED="1397937148360" ID="ID_429530788" LINK="https://fedoraproject.org/" MODIFIED="1431723879527" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18139,7 +18151,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -18188,7 +18200,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399318586473" FOLDED="true" ID="ID_738912851" MODIFIED="1429355991239" STYLE="fork">
+<node COLOR="#329632" CREATED="1399318586473" ID="ID_738912851" MODIFIED="1431723880811" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18489,7 +18501,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -18512,7 +18524,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1830095306" MODIFIED="1429355991234" STYLE="fork" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" ID="ID_1830095306" MODIFIED="1431723882882" STYLE="fork" TEXT="~ discontinued">
 <edge COLOR="#7d7d7d" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411320433354" ID="ID_592611696" MODIFIED="1413585227260" TEXT="ADIOS Linux Boot CD">
 <richcontent TYPE="NOTE"><html>
@@ -18642,6 +18654,33 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1431723889946" ID="ID_462044147" MODIFIED="1431723980843">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>K12Linux</b>&#160;<img src="../icons/k12linux.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1431723985914" ID="ID_861409689" MODIFIED="1431724009607" TEXT="info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      K12Linux is Linux Terminal Server Project (LTSP.org) integrated with Fedora, in a convenient Live USB or DVD media installer. Since 1999, LTSP has empowered many schools and businesses with Linux-based terminal servers and thin clients, allowing low-cost clients or recycled computers to become powerful Linux desktop machines. K12Linux allows easy deployment of a Linux terminal server, capable of serving entire networks of netboot diskless clients. Clients login to the central terminal server, where they can use any Linux desktop environment and most desktop applications. Significant long-term cost savings are made possible by central management of software and accounts.&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 <node CREATED="1411688380696" ID="ID_674619758" LINK="http://emergencycd2.sourceforge.net/" MODIFIED="1411688395598" TEXT="Cool LInux CD"/>
 <node CREATED="1409334771256" ID="ID_1255762916" MODIFIED="1429308894527">
@@ -18852,7 +18891,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -19192,7 +19231,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -19756,7 +19795,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -20522,7 +20561,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -22555,7 +22594,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -22853,7 +22892,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1399849354345" FOLDED="true" ID="ID_578100384" MODIFIED="1429355991275">
+<node COLOR="#006699" CREATED="1399849354345" FOLDED="true" ID="ID_578100384" MODIFIED="1431723873953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23216,7 +23255,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -23442,7 +23481,7 @@
 <node CREATED="1410294006374" ID="ID_1267351061" MODIFIED="1410294011237" TEXT="lightweit"/>
 </node>
 </node>
-<node CREATED="1411248569586" FOLDED="true" ID="ID_973624130" LINK="http://www.engardelinux.org/" MODIFIED="1431174126203">
+<node CREATED="1411248569586" FOLDED="true" ID="ID_973624130" LINK="http://www.engardelinux.org/" MODIFIED="1431559326028">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23817,14 +23856,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1399808438207" FOLDED="true" ID="ID_65490118" LINK="http://www.ltsp.org/" MODIFIED="1429355991266" STYLE="fork">
+<node CREATED="1399808438207" ID="ID_65490118" LINK="http://www.ltsp.org/" MODIFIED="1431723684883" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>LTSP&#xa0; </b>
+      <b>LTSP </b><img src="../icons/ltsp.png" />
     </p>
     <p>
       1999 <font color="#fa0000">AA </font>
@@ -23833,22 +23872,17 @@
       Linux Terminal Server Project
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1399808517916" ID="ID_1970808908" MODIFIED="1401831707410" TEXT="architecture">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1399808530524" ID="ID_890522583" MODIFIED="1399850694885" TEXT="DE/WM">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1399808535612" ID="ID_1825460125" MODIFIED="1399820621751">
+</html>
+</richcontent>
+<node CREATED="1399808535612" ID="ID_1825460125" MODIFIED="1431723742214">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="../icons/version_history.png"/>
-      <b>Version history</b>
+      <img src="../icons/version_history.png" />
+      &#160;<b>Version history</b>
     </p>
     <p>
       <i><font color="#3296fa">Desktop, Live Medium </font></i>
@@ -23863,20 +23897,25 @@
       <i><font color="#3296fa">Security</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1404234459415" ID="ID_56463303" LINK="http://software.opensuse.org/131/en" MODIFIED="1407450124792">
+<node CREATED="1404234459415" ID="ID_56463303" LINK="http://www.ltsp.org/download/" MODIFIED="1431723724694">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      download OpenSuse <img src="../icons/download.png"/>
+      download <img src="../icons/download.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1431723728991" ID="ID_911740718" MODIFIED="1431723771345" TEXT="info">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -24022,7 +24061,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -24089,6 +24128,36 @@
 <node CREATED="1403351776356" ID="ID_1354151278" MODIFIED="1403351776356" TEXT="i386"/>
 <node CREATED="1403351776367" ID="ID_426960171" MODIFIED="1403351776367" TEXT="x86_64"/>
 </node>
+</node>
+</node>
+<node CREATED="1431723428902" ID="ID_1234628305" LINK="http://www.voidlinux.eu/" MODIFIED="1431723557792">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Void</b>&#160;<img src="../icons/void_linux.png" />
+    </p>
+    <p>
+      2015 <font color="#fa0000">ES</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1431723500562" ID="ID_1582308688" MODIFIED="1431723541268" TEXT="info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Void is a general purpose operating system, based on the monolithic Linux&#174; kernel. Its package system allows you to quickly install, update and remove software; software is provided in binary packages or can be built directly from sources with the help of the XBPS source packages collection.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1408396827976" FOLDED="true" ID="ID_901329039" LINK="http://www.openmamba.org/" MODIFIED="1429355991268">
@@ -24226,7 +24295,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -24731,7 +24800,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -25061,7 +25130,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
@@ -25329,14 +25398,14 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403217054185" FOLDED="true" ID="ID_433763684" LINK="http://www.sophos.com/en-us/products/unified-threat-management.aspx" MODIFIED="1429355991274">
+<node CREATED="1403217054185" FOLDED="true" ID="ID_433763684" LINK="http://www.sophos.com/en-us/products/unified-threat-management.aspx" MODIFIED="1431723399841">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Unified Threat Management </b><img src="../icons/utm.png" />
+      <b>Unified Threat Management </b><img src="../icons/sophos_utm.png" />
     </p>
     <p>
       2001<font color="#fa0000">DE</font>
@@ -25345,7 +25414,8 @@
       [<font color="#3296fa">Sophos</font>]
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1408399664774" ID="ID_1794806071" MODIFIED="1408399680182" TEXT="About Sophos UTM">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -28892,7 +28962,7 @@
   </head>
   <body>
     <p>
-      <img src="../icons/pm.png"/>
+      <img src="../icons/package_management.png"/>
       &#xa0;PM
     </p>
   </body>
