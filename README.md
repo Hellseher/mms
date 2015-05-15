@@ -9,7 +9,6 @@ It could be helpfully for beginners to start exploring the world of IT.
 ### Get it
 Download maps command line way:
 
-    $: git clone git@github:Hellseher/IT-mm  
     $: git clone https://github.com/Hellseher/IT-mm  
 
 Or just click Download ZIP on right hand side, and unpack it.
