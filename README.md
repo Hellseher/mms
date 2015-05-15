@@ -11,7 +11,7 @@ Download maps command line way:
 
     $: git clone https://github.com/Hellseher/IT-mm  
 
-Or just click *Download ZIP* on right hand side, and unpack it.
+Or just click __Download ZIP__ on right hand side, and unpack it.
 
 #### Software
 For the best compatibility install or  
