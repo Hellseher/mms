@@ -15,5 +15,6 @@ Download maps command line way:
 Or just click Download ZIP on right hand side, and unpack it.
 
 #### Software
-For a best compatibility install of compile version 1.0.1 of FreeMind
+For the best compatibility install or  
+compile FreeMind of version 1.0.1 of or higher. 
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)![FreeMind](http://a.fsdn.com/allura/p/freemind/icon) 
