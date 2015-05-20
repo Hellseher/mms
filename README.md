@@ -1,5 +1,5 @@
 # IT-mm
-
+_FreeMind ready maps_
 
 This repository contains mind maps (mm) of my IT-CS (Information Technology -  
 Computer Science) self education. It could be helpfully for beginners  
