@@ -13,18 +13,18 @@ Every mm includes credits, links and references.
 
 ![IT](./IT.png)
 
-### How to start ###
+## How to start ##
 To obtain IT-mm you have to download and unpack them, easy isn't it :)?
 
-## Using Git ##
+### Using Git ###
 This command downloads the whole project in your __$: pwd__ under the name "IT-mm".
 
     $: git clone https://github.com/Hellseher/IT-mm  
 
-## Using browser ##
+### Using browser ###
 Click __Download ZIP__ on right hand side of the screen.
 
-### Software ###
+## Software ##
 For the best compatibility install or  
 compile FreeMind of version 1.0.1 of or higher. 
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
