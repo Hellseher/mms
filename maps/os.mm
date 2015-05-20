@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1431559298244" TEXT="OS">
+<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1431725123294" TEXT="OS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -154,7 +154,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1431559301902" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -7808,8 +7809,7 @@
       info <img src="../icons/info.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -7825,8 +7825,7 @@
       (c) http://distrowatch.com/table.php?distribution=zentyal
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399323734602" FOLDED="true" ID="ID_895502726" MODIFIED="1429657186874">
 <richcontent TYPE="NODE"><html>
@@ -16948,7 +16947,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943651821" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1431723875849" STYLE="fork">
+<node CREATED="1397943651821" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1431774174813" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17116,7 +17115,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#329632" CREATED="1399242959616" ID="ID_94660851" MODIFIED="1431723876987" STYLE="fork">
+<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1431727940705" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18524,7 +18523,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" ID="ID_1830095306" MODIFIED="1431723882882" STYLE="fork" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_1830095306" MODIFIED="1431725425808" STYLE="fork" TEXT="~ discontinued">
 <edge COLOR="#7d7d7d" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411320433354" ID="ID_592611696" MODIFIED="1413585227260" TEXT="ADIOS Linux Boot CD">
 <richcontent TYPE="NOTE"><html>
@@ -18665,8 +18664,7 @@
       <b>K12Linux</b>&#160;<img src="../icons/k12linux.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1431723985914" ID="ID_861409689" MODIFIED="1431724009607" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -18677,8 +18675,7 @@
       K12Linux is Linux Terminal Server Project (LTSP.org) integrated with Fedora, in a convenient Live USB or DVD media installer. Since 1999, LTSP has empowered many schools and businesses with Linux-based terminal servers and thin clients, allowing low-cost clients or recycled computers to become powerful Linux desktop machines. K12Linux allows easy deployment of a Linux terminal server, capable of serving entire networks of netboot diskless clients. Clients login to the central terminal server, where they can use any Linux desktop environment and most desktop applications. Significant long-term cost savings are made possible by central management of software and accounts.&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -18754,7 +18751,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1403551356484" FOLDED="true" ID="ID_1943940477" MODIFIED="1429355991238" STYLE="fork">
+<node COLOR="#006699" CREATED="1403551356484" FOLDED="true" ID="ID_1943940477" MODIFIED="1431725427841" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18794,7 +18791,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403217454503" FOLDED="true" ID="ID_1724703132" LINK="http://www.ekaaty.org/en/" MODIFIED="1429355991235" STYLE="fork">
+<node CREATED="1403217454503" ID="ID_1724703132" LINK="http://www.ekaaty.org/en/" MODIFIED="1431725123275" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18825,7 +18822,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1408395894910" FOLDED="true" ID="ID_648858649" MODIFIED="1429355991235" TEXT="About Ekaaty Linux">
+<node CREATED="1408395894910" ID="ID_648858649" MODIFIED="1431725123280" TEXT="About Ekaaty Linux">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -23481,7 +23478,7 @@
 <node CREATED="1410294006374" ID="ID_1267351061" MODIFIED="1410294011237" TEXT="lightweit"/>
 </node>
 </node>
-<node CREATED="1411248569586" FOLDED="true" ID="ID_973624130" LINK="http://www.engardelinux.org/" MODIFIED="1431559326028">
+<node CREATED="1411248569586" FOLDED="true" ID="ID_973624130" LINK="http://www.engardelinux.org/" MODIFIED="1431774174813">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23872,8 +23869,7 @@
       Linux Terminal Server Project
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1399808535612" ID="ID_1825460125" MODIFIED="1431723742214">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -23897,8 +23893,7 @@
       <i><font color="#3296fa">Security</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1404234459415" ID="ID_56463303" LINK="http://www.ltsp.org/download/" MODIFIED="1431723724694">
@@ -23911,8 +23906,7 @@
       download <img src="../icons/download.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1431723728991" ID="ID_911740718" MODIFIED="1431723771345" TEXT="info">
@@ -24143,8 +24137,7 @@
       2015 <font color="#fa0000">ES</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1431723500562" ID="ID_1582308688" MODIFIED="1431723541268" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -24155,8 +24148,7 @@
       Void is a general purpose operating system, based on the monolithic Linux&#174; kernel. Its package system allows you to quickly install, update and remove software; software is provided in binary packages or can be built directly from sources with the help of the XBPS source packages collection.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -25414,8 +25406,7 @@
       [<font color="#3296fa">Sophos</font>]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1408399664774" ID="ID_1794806071" MODIFIED="1408399680182" TEXT="About Sophos UTM">
 <richcontent TYPE="NOTE"><html>
   <head>

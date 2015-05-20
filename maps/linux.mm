@@ -648,8 +648,7 @@
       /etc/sysconfig/<b>desktop</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1413494764953" ID="ID_347856310" MODIFIED="1413494779254" TEXT="/etc/sysconfig/network-scripts"/>
 <node CREATED="1413494779977" ID="ID_1989679305" MODIFIED="1413494789111" TEXT="/etc/sysconfig/console"/>
@@ -1695,7 +1694,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1430340621807" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1431731912639" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1782,7 +1781,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417380937987" FOLDED="true" ID="ID_1205914089" MODIFIED="1429310387507" TEXT="commands">
+<node CREATED="1417380937987" ID="ID_1205914089" MODIFIED="1431731918755" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417380923635" FOLDED="true" ID="ID_1689171388" MODIFIED="1429310592952">
 <richcontent TYPE="NODE"><html>
@@ -1926,8 +1925,9 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417380929842" FOLDED="true" ID="ID_367576045" MODIFIED="1429310592953" TEXT="git commit">
+<node CREATED="1417380929842" ID="ID_367576045" MODIFIED="1431731929907" TEXT="git commit">
 <node CREATED="1417389073781" ID="ID_388133774" MODIFIED="1417389075075" TEXT="-m"/>
+<node CREATED="1431731932401" ID="ID_55715471" MODIFIED="1431731937022" TEXT="--amend"/>
 </node>
 <node CREATED="1417125422286" FOLDED="true" ID="ID_1936443195" MODIFIED="1429310380026">
 <richcontent TYPE="NODE"><html>

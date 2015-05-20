@@ -13,12 +13,16 @@ Every mm includes credits, links and references.
 
 ![IT](./IT.png)
 
-#### Get it
-Download maps command line way:
+#### Get them ####
+To obtain mm you have to download them, easy :).
+
+__using git__
 
     $: git clone https://github.com/Hellseher/IT-mm  
 
-Or just click __Download ZIP__ on right hand side, and unpack it.
+__using browser__
+
+Click __Download ZIP__ on right hand side of the screen.
 
 #### Software
 For the best compatibility install or  

@@ -992,8 +992,7 @@
       ['s', 'h', 'r', 'u', 'b', 'b', 'e', 'r', 'y']
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1418686370533" FOLDED="true" ID="ID_1060963041" MODIFIED="1431552417663" TEXT="methods">
@@ -1056,8 +1055,7 @@
       <b>&quot;&quot;.join(str(x) for x in list)</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1418078179410" ID="ID_1815362689" MODIFIED="1431551736095" TEXT="str.lower()">
 <richcontent TYPE="NOTE"><html>
@@ -1287,8 +1285,7 @@
       G = (sum(row) for row in M)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1418686426708" FOLDED="true" ID="ID_1861484188" MODIFIED="1431383842366" TEXT="List Methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2256,7 +2253,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1431558986664" POSITION="left" STYLE="bubble">
+<node CREATED="1398203924278" ID="68" MODIFIED="1431777334615" POSITION="left" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2271,7 +2268,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1431546715950" STYLE="bubble" TEXT="standart">
+<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1431810073675" STYLE="bubble" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416682044057" FOLDED="true" ID="ID_614858224" LINK="https://docs.python.org/2/library/base64.html" MODIFIED="1429311095161" TEXT="base64">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2458,6 +2455,21 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1430435045483" ID="ID_747578387" MODIFIED="1430435117776">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>fractions</b>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">rational number arithmetics</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1417817614512" FOLDED="true" ID="ID_1800256508" LINK="https://docs.python.org/2/library/getopt.html" MODIFIED="1429311095162">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2487,21 +2499,6 @@
 <node CREATED="1417817803207" ID="ID_1386506532" MODIFIED="1417817803207" TEXT="os"/>
 <node CREATED="1417817803208" ID="ID_421856908" MODIFIED="1417817803208" TEXT="short_has_arg"/>
 </node>
-<node CREATED="1430435045483" ID="ID_747578387" MODIFIED="1430435117776">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>fractions</b>
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">rational number arithmetics</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1400273930084" ID="ID_1276467750" LINK="https://docs.python.org/2/library/glob.html#module-glob" MODIFIED="1400273933995" TEXT="glob">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -2528,6 +2525,24 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398542815682" ID="ID_1774791037" MODIFIED="1398542824858" TEXT="keyword.kwlist"/>
 <node CREATED="1398542874098" ID="ID_205517801" MODIFIED="1398542896609" TEXT="keyword.iskeyword(s)"/>
+</node>
+<node CREATED="1430435210777" ID="ID_1098620541" MODIFIED="1430435281973">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>math</b>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>mathematical </i></font>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>functions</i></font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
 <node CREATED="1398203924279" FOLDED="true" ID="71" LINK="https://docs.python.org/2/library/os.html" MODIFIED="1429311095171" TEXT="os">
 <richcontent TYPE="NOTE"><html>
@@ -4130,23 +4145,21 @@
 <node CREATED="1417822546948" ID="ID_1588958516" MODIFIED="1417822550626" TEXT="commands.*"/>
 </node>
 </node>
-<node CREATED="1430435210777" ID="ID_1098620541" MODIFIED="1430435281973">
+<node CREATED="1431777490534" ID="ID_112309890" LINK="https://docs.python.org/3.1/library/itertools.html" MODIFIED="1431777568808">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>math</b>
+      <b>itertools </b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>mathematical </i></font>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>functions</i></font>
+      <i><font size="2" color="#3296fa">iterators building blocks</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1431558986661" TEXT="3d party">
@@ -4190,8 +4203,7 @@
       <font color="#3296fa" size="2"><i>2D plotting</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398285089113" ID="ID_68086609" LINK="http://www.sympy.org/en/index.html" MODIFIED="1421173242867">
 <richcontent TYPE="NODE"><html>
@@ -4310,9 +4322,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1398000845975" FOLDED="true" ID="ID_1395125167" MODIFIED="1430435374923" POSITION="left" STYLE="bubble" TEXT="operators">
+<node CREATED="1398000845975" ID="ID_1395125167" MODIFIED="1431810075685" POSITION="left" STYLE="bubble" TEXT="operators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398001302798" FOLDED="true" ID="ID_1544869825" MODIFIED="1431558986667" TEXT="arithmetic">
+<node CREATED="1398001302798" ID="ID_1544869825" MODIFIED="1431810078002" TEXT="arithmetic">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398001738934" ID="ID_142280248" MODIFIED="1398001899575">
 <richcontent TYPE="NODE"><html>
@@ -4404,7 +4416,22 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1430434912429" ID="ID_464112880" MODIFIED="1430434915881" TEXT="a // b"/>
+<node CREATED="1430434912429" ID="ID_464112880" MODIFIED="1431810106963">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      a // b
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">floor value</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1398001509319" FOLDED="true" ID="ID_348424960" MODIFIED="1430434900547" TEXT="comparison">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
