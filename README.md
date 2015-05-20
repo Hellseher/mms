@@ -14,13 +14,14 @@ Every mm includes credits, links and references.
 ![IT](./IT.png)
 
 #### Get them ####
-To obtain mm you have to download them, easy :).
+To obtain IT-mm you have to download and unpack them, easy :).
 
-__using git__
+__Using Git__
+This download in your __$: pwd__ under the name "IT-mm".
 
     $: git clone https://github.com/Hellseher/IT-mm  
 
-__using browser__
+__Using browser__
 
 Click __Download ZIP__ on right hand side of the screen.
 
