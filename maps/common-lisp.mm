@@ -1,7 +1,19 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1425431500545" ID="ID_359838384" MODIFIED="1426031411845" TEXT="Common Lisp">
-<node CREATED="1425431786776" ID="ID_452894605" MODIFIED="1425431788918" POSITION="right" TEXT="SLIME">
+<node CREATED="1425431500545" ID="ID_359838384" MODIFIED="1432333729875">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Common Lisp <img src="../icons/commonlisp.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1425431786776" FOLDED="true" ID="ID_452894605" MODIFIED="1432333690181" POSITION="right" TEXT="SLIME">
 <node CREATED="1426114258628" ID="ID_1406850370" MODIFIED="1426114267185" TEXT="C-c C-l"/>
 <node CREATED="1426114510433" ID="ID_1581776675" MODIFIED="1426114518061" TEXT="C-c C-k"/>
 <node CREATED="1426114731837" ID="ID_973310573" MODIFIED="1426114737156" TEXT="M-p"/>
@@ -11,7 +23,7 @@
 <node CREATED="1425431542380" ID="ID_1987433762" MODIFIED="1425431547625" TEXT="Clozure CL"/>
 <node CREATED="1425431548812" ID="ID_1156439344" MODIFIED="1425431551498" TEXT="CLISP"/>
 </node>
-<node CREATED="1426116259141" ID="ID_1727891250" MODIFIED="1427671070414" POSITION="right" TEXT="Functions">
+<node CREATED="1426116259141" FOLDED="true" ID="ID_1727891250" MODIFIED="1432333688054" POSITION="right" TEXT="Functions">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1426031433420" ID="ID_220087069" MODIFIED="1426116254232">
 <richcontent TYPE="NODE"><html>
@@ -87,8 +99,7 @@
       <i><font color="#3296fa">return integer square root</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1427641245091" ID="ID_1854856523" MODIFIED="1427641255744" TEXT="(sqrt integer)"/>
 <node CREATED="1427241039068" ID="ID_1763404433" MODIFIED="1427313844738" TEXT="(floor number &amp;optional divisor)"/>
@@ -112,8 +123,7 @@
       (<b>list-length </b>list)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1427645585390" ID="ID_767894840" MODIFIED="1427645598892">
 <richcontent TYPE="NODE"><html>
@@ -125,8 +135,7 @@
       (<b>list</b>&#160;&amp;rest args)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1427645628334" ID="ID_185678196" MODIFIED="1427645633755" TEXT="(nth n list)"/>
 <node CREATED="1427645877946" ID="ID_525448212" MODIFIED="1427645892920" TEXT="&apos;(a b c d ... n)"/>
@@ -174,7 +183,7 @@
 <node CREATED="1427671619343" ID="ID_1473811090" MODIFIED="1427671620765" TEXT="throw"/>
 <node CREATED="1427671621023" ID="ID_1241141885" MODIFIED="1427671625069" TEXT="uniwind-protect"/>
 </node>
-<node CREATED="1426115536944" ID="ID_1900955535" MODIFIED="1427671081934" POSITION="right" TEXT="Macros">
+<node CREATED="1426115536944" FOLDED="true" ID="ID_1900955535" MODIFIED="1432333739485" POSITION="right" TEXT="Macros">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1426115541520" ID="ID_653657594" MODIFIED="1426115546174" TEXT="(dolist"/>
 <node CREATED="1426115184230" ID="ID_1709050356" MODIFIED="1426115191331" TEXT="(defvar "/>
@@ -196,7 +205,7 @@
 <node CREATED="1426284016237" ID="ID_1845423581" MODIFIED="1426284021642" TEXT="QuuickLisp"/>
 <node CREATED="1426284022125" ID="ID_815784517" LINK="https://common-lisp.net/project/asdf/" MODIFIED="1426284035380" TEXT="ASDF"/>
 </node>
-<node CREATED="1427669231398" ID="ID_1929609924" MODIFIED="1427669237476" POSITION="right" TEXT="Black Box">
+<node CREATED="1427669231398" FOLDED="true" ID="ID_1929609924" MODIFIED="1432333691533" POSITION="right" TEXT="Black Box">
 <node CREATED="1427669238342" ID="ID_405275594" MODIFIED="1427669241827" TEXT="reader"/>
 <node CREATED="1427669242118" ID="ID_907383226" MODIFIED="1427669245716" TEXT="evaluator"/>
 <node CREATED="1427669260646" ID="ID_861544664" MODIFIED="1427669265571" TEXT="s-expressions">

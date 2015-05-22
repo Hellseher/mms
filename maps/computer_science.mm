@@ -1,20 +1,38 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1404852391255" ID="ID_1634193856" MODIFIED="1431806357761">
+<node CREATED="1426031394259" ID="ID_322066631" MODIFIED="1432324722585">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <font size="4"><b>Algorithms</b></font>
+    <p style="text-align: center">
+      Computer
+    </p>
+    <p style="text-align: center">
+      Science
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1404854028798" ID="ID_737623582" MODIFIED="1431806772203" POSITION="right" TEXT="Bellman-Ford Al.">
+</html>
+</richcontent>
+<node CREATED="1426113754316" ID="ID_284900263" MODIFIED="1432320238403" POSITION="right" TEXT="Programming Language">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427668933883" ID="ID_822457051" MODIFIED="1427668937160" TEXT="Syntax"/>
+<node CREATED="1427668937579" ID="ID_1392622525" MODIFIED="1427668942793" TEXT="Semantics"/>
+<node CREATED="1427669097528" ID="ID_1617588469" MODIFIED="1427669102390" TEXT="Lagnuage Processor"/>
+<node CREATED="1427669165879" ID="ID_1625309555" MODIFIED="1427669171236" TEXT="Language Implementer"/>
+<node CREATED="1432320216819" ID="ID_1023128739" MODIFIED="1432320220384" TEXT="Compiler"/>
+<node CREATED="1432320220898" ID="ID_952313226" MODIFIED="1432320226000" TEXT="interpreter"/>
+<node CREATED="1426113734749" ID="ID_412133230" MODIFIED="1426113737738" TEXT="debugger"/>
+</node>
+<node CREATED="1427669121096" ID="ID_1803397919" MODIFIED="1427669129798" POSITION="right" TEXT="abstract-syntax-tree"/>
+<node CREATED="1427669149560" ID="ID_1429196447" MODIFIED="1427669152165" POSITION="right" TEXT="token"/>
+<node CREATED="1426113762380" ID="ID_1618004062" MODIFIED="1432324810078" POSITION="right" TEXT="Algorithm">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1404854028798" ID="ID_737623582" MODIFIED="1431806772203" TEXT="Bellman-Ford Al.">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398892689763" ID="ID_142731184" MODIFIED="1421022583380" POSITION="right" TEXT="Sorting">
+<node CREATED="1398892689763" FOLDED="true" ID="ID_142731184" MODIFIED="1432324781302" TEXT="Sorting">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398892697695" ID="ID_753186223" MODIFIED="1398892703229" TEXT="Bubble sort"/>
 <node CREATED="1398892703871" ID="ID_588123095" MODIFIED="1398892708173" TEXT="Insertion sort"/>
@@ -30,8 +48,8 @@
 </node>
 <node CREATED="1398894948415" ID="ID_686913129" MODIFIED="1398894952558" TEXT="Gnome sort"/>
 </node>
-<node CREATED="1415905006460" ID="ID_138697621" MODIFIED="1415905012024" POSITION="left" TEXT="2d bin problem"/>
-<node CREATED="1417126224449" ID="ID_1542645377" MODIFIED="1421022579444" POSITION="left" TEXT="Criptography">
+<node CREATED="1415905006460" ID="ID_138697621" MODIFIED="1415905012024" TEXT="2d bin problem"/>
+<node CREATED="1417126224449" FOLDED="true" ID="ID_1542645377" MODIFIED="1432324780006" TEXT="Criptography">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411669362733" ID="ID_92854863" MODIFIED="1416956192190" TEXT="Ciphers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -88,7 +106,7 @@
 <node CREATED="1417126255809" ID="ID_300129441" MODIFIED="1417126284686" TEXT="passprase"/>
 <node CREATED="1417126288720" ID="ID_12262181" MODIFIED="1417126293405" TEXT="indentification"/>
 </node>
-<node CREATED="1429391137482" ID="ID_1548623912" MODIFIED="1429391159496" POSITION="left">
+<node CREATED="1429391137482" ID="ID_1548623912" MODIFIED="1429391159496">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -103,7 +121,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1431806368213" ID="ID_1483637273" MODIFIED="1431806377700" POSITION="right" TEXT="Greedy Algorithms">
+<node CREATED="1431806368213" FOLDED="true" ID="ID_1483637273" MODIFIED="1432324783117" TEXT="Greedy Algorithms">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1404852423515" ID="ID_1008369406" MODIFIED="1431806450064" TEXT="Dijkstra&apos;s Al.">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -113,7 +131,7 @@
 <node CREATED="1404852984054" ID="ID_1972149239" MODIFIED="1404852988004" TEXT="IS-IS"/>
 <node CREATED="1404854051117" ID="ID_263521273" MODIFIED="1404854059627" TEXT="link-state routing protocols"/>
 </node>
-<node CREATED="1404853326387" ID="ID_1044331886" MODIFIED="1404853829863" TEXT="pseudocode">
+<node CREATED="1404853326387" ID="ID_1044331886" MODIFIED="1432324762865" TEXT="pseudocode">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -141,34 +159,34 @@
       Dijkstra(G,w,s)
     </p>
     <p>
-      1&#xa0;&#xa0;&#xa0;&#xa0;Initialize-Single_Source(G,s)
+      1&#160;&#160;&#160;&#160;Initialize-Single_Source(G,s)
     </p>
     <p>
-      2&#xa0;&#xa0;&#xa0;&#xa0;S &lt;-- 0
+      2&#160;&#160;&#160;&#160;S &lt;-- 0
     </p>
     <p>
-      3&#xa0;&#xa0;&#xa0;&#xa0;Q &lt;-- V[G]
+      3&#160;&#160;&#160;&#160;Q &lt;-- V[G]
     </p>
     <p>
-      4&#xa0;&#xa0;&#xa0; <b>while</b>&#xa0;Q <b>not equal</b>&#xa0;0
+      4&#160;&#160;&#160; <b>while</b>&#160;Q <b>not equal</b>&#160;0
     </p>
     <p>
-      5&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <b>do</b>&#xa0;u &lt;-- Extract-Min(Q)
+      5&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b>do</b>&#160;u &lt;-- Extract-Min(Q)
     </p>
     <p>
-      6&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;S &lt;-- S U {u}
+      6&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;S &lt;-- S U {u}
     </p>
     <p>
-      7&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <b>for</b>&#xa0; each vertex u <font size="2"><b>&#x415; </b></font>Adj[u]
+      7&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <b>for</b>&#160; each vertex u <font size="2"><b>&#1045; </b></font>Adj[u]
     </p>
     <p>
-      8&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;do Relax(u,v,w)
+      8&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;do Relax(u,v,w)
     </p>
-    &#xa0;&#x2260;
+    &#160;&#8800;
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1404853832704" ID="ID_1244651740" MODIFIED="1421443393730" TEXT="">
+<node CREATED="1404853832704" ID="ID_1244651740" MODIFIED="1432324762886" TEXT="">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -253,5 +271,17 @@
 </node>
 <node CREATED="1431806431923" ID="ID_376582760" MODIFIED="1431806453776" TEXT="Chvatal&apos;s Al."/>
 </node>
+<node CREATED="1428190550543" ID="ID_1130352623" MODIFIED="1428190554693" TEXT="recursion"/>
+</node>
+<node CREATED="1426118559553" ID="ID_469664339" MODIFIED="1426118711202" POSITION="right" TEXT="Anonimus function">
+<node CREATED="1426118718702" ID="ID_376969200" MODIFIED="1426118731035" TEXT="&#xd835;&#xdecc; calculs"/>
+</node>
+<node CREATED="1429659340335" ID="ID_1644191666" MODIFIED="1429659351899" POSITION="left" TEXT="wedget"/>
+<node CREATED="1431777962991" ID="ID_762507685" MODIFIED="1431777966364" POSITION="left" TEXT="pointer"/>
+<node CREATED="1431777967263" ID="ID_1043918633" MODIFIED="1431777970684" POSITION="left" TEXT="hash table"/>
+<node CREATED="1431793004628" ID="ID_97922409" MODIFIED="1431793011168" POSITION="left" TEXT="Dynamic Programming"/>
+<node CREATED="1432320177075" ID="ID_307336597" MODIFIED="1432320181153" POSITION="left" TEXT="deployment"/>
+<node CREATED="1432320195923" ID="ID_1031730844" MODIFIED="1432320200513" POSITION="left" TEXT="compiler"/>
+<node CREATED="1432320200947" ID="ID_459018568" MODIFIED="1432320202656" POSITION="left" TEXT="parser"/>
 </node>
 </map>

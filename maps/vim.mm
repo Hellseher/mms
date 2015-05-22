@@ -32,7 +32,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1414189370564" ID="ID_1157969591" MODIFIED="1429457138966" POSITION="right">
+<node CREATED="1414189370564" FOLDED="true" ID="ID_1157969591" MODIFIED="1432333489926" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -343,7 +343,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1415908621760" FOLDED="true" ID="ID_327412549" MODIFIED="1429310899848" POSITION="left" TEXT="Cookbook">
+<node CREATED="1432333490758" ID="ID_934295670" MODIFIED="1432333498646" POSITION="right" TEXT="VimL">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1415908621760" FOLDED="true" ID="ID_327412549" MODIFIED="1432333508758" POSITION="left" TEXT="Cookbook">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -506,7 +509,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1413572840000" ID="ID_1651243310" MODIFIED="1429457141387" POSITION="right">
+<node CREATED="1413572840000" FOLDED="true" ID="ID_1651243310" MODIFIED="1432333484697" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -999,8 +1002,7 @@
       <i><font color="#3296fa">half page down</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414622107433" ID="ID_99149331" MODIFIED="1429457234060">
 <richcontent TYPE="NODE"><html>
@@ -1015,8 +1017,7 @@
       <i><font color="#3296fa">page down</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1429457217151" ID="ID_93372057" MODIFIED="1429457220971" TEXT="C-e"/>
 <node CREATED="1429457221631" ID="ID_663842174" MODIFIED="1429457224699" TEXT="C-y"/>
@@ -1033,8 +1034,7 @@
       <i><font color="#3296fa">page up</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414622119112" ID="ID_1960619309" MODIFIED="1429457253068">
 <richcontent TYPE="NODE"><html>
@@ -1049,8 +1049,7 @@
       <i><font color="#3296fa">half page u</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1082,8 +1081,7 @@
       <i><font color="#3296fa">BOF</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1414624761952" FOLDED="true" ID="ID_1749194636" MODIFIED="1429310899851" POSITION="right">
@@ -1199,11 +1197,26 @@
 <node CREATED="1416082045752" ID="ID_556194647" MODIFIED="1416082052646" TEXT="a&apos;, i&apos;"/>
 <node CREATED="1416082079240" ID="ID_287546568" MODIFIED="1416082083301" TEXT="at, it"/>
 </node>
-<node CREATED="1415908654847" FOLDED="true" ID="ID_285550128" MODIFIED="1429310899851" POSITION="left" TEXT="info">
+<node CREATED="1415908654847" ID="ID_285550128" MODIFIED="1432333530578" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info <img src="../icons/info.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415908660415" FOLDED="true" ID="ID_1991821007" MODIFIED="1429310899851" TEXT="video">
+<node CREATED="1415908660415" ID="ID_1991821007" MODIFIED="1432333531849" TEXT="video">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415908679231" ID="ID_1751120094" LINK="https://www.youtube.com/watch?v=JJ8sJXUp2g4" MODIFIED="1415908687255" TEXT="&#x41a;&#x43e;&#x440;&#x43e;&#x442;&#x43a;&#x43e; &#x43e; Vim"/>
+</node>
+<node CREATED="1432333538341" ID="ID_708309946" MODIFIED="1432333550741" TEXT="tutorials">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1432333555877" ID="ID_1895522897" LINK="https://danielmiessler.com/study/vim/" MODIFIED="1432333562907" TEXT="A vim Tutorial and Primer"/>
 </node>
 </node>
 <node CREATED="1414451665345" FOLDED="true" ID="ID_278988019" MODIFIED="1429310899852" POSITION="right" TEXT="&lt;CTRL&gt;">

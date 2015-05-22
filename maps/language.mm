@@ -52,7 +52,7 @@
 <node CREATED="1399851555466" ID="ID_1584953736" MODIFIED="1399851558280" TEXT="Win32s"/>
 <node CREATED="1399851560058" ID="ID_415377549" MODIFIED="1399851564057" TEXT="Win64"/>
 </node>
-<node CREATED="1420241736096" ID="ID_487791167" MODIFIED="1429447410746" POSITION="right" TEXT="Families ">
+<node CREATED="1420241736096" ID="ID_487791167" MODIFIED="1432328028508" POSITION="right" TEXT="Families ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417279334489" FOLDED="true" ID="ID_693855860" MODIFIED="1430161627199" TEXT="Markup language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -80,7 +80,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1430161640284" TEXT="Compiled">
+<node CREATED="1416423580002" FOLDED="true" ID="ID_1728030669" MODIFIED="1432327784920" TEXT="Compiled">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414972454263" ID="ID_255010547" LINK="http://www.rust-lang.org/" MODIFIED="1414972547910">
 <richcontent TYPE="NODE"><html>
@@ -595,13 +595,12 @@
       <b>elixir</b>&#160;<img src="../icons/elixir.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1416423396294" FOLDED="true" ID="ID_1627802312" MODIFIED="1430161638893">
+<node CREATED="1416423396294" ID="ID_1627802312" MODIFIED="1432327801982">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -664,7 +663,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="657;0;" ID="Arrow_ID_814538951" STARTARROW="None" STARTINCLINATION="657;0;"/>
 </node>
 </node>
-<node CREATED="1399824637546" FOLDED="true" ID="ID_1685394417" LINK="http://php.net/" MODIFIED="1429311483949">
+<node CREATED="1399824637546" FOLDED="true" ID="ID_1685394417" LINK="http://php.net/" MODIFIED="1432327855969">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -677,10 +676,11 @@
       1995
     </p>
     <p>
-      <font color="#3296fa"><i>Rasmus Lerdorf</i></font>
+      <font color="#3296fa" size="2"><i>Rasmus Lerdorf</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1414223115416" ID="ID_297107521" MODIFIED="1414223324612" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="548;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="212;0;"/>
@@ -706,7 +706,24 @@
 <node CREATED="1414629479957" ID="ID_1946059570" MODIFIED="1414629482578" TEXT="5.4"/>
 </node>
 </node>
-<node CREATED="1416423430293" FOLDED="true" ID="ID_1932605362" MODIFIED="1429311483949" TEXT="JavaScript">
+<node CREATED="1416423430293" FOLDED="true" ID="ID_1932605362" MODIFIED="1432328082614">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>JavaScript</b>
+    </p>
+    <p>
+      1995
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">Brendan Eich</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1418257326877" ID="ID_549111796" MODIFIED="1418257328042" TEXT="&gt;"/>
 <node CREATED="1418257328461" ID="ID_1796491976" MODIFIED="1418257415021" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="347;0;"/>
@@ -715,7 +732,22 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" SOURCE="ID_524077208" STARTARROW="None" STARTINCLINATION="1282;0;"/>
 </node>
 </node>
-<node CREATED="1414790136105" FOLDED="true" ID="ID_1098741507" MODIFIED="1429311483949" TEXT="Smalltalk">
+<node CREATED="1432328112280" ID="ID_1477545368" LINK="http://www.selflanguage.org/" MODIFIED="1432328131198" TEXT="Self">
+<node CREATED="1432328158168" ID="ID_1930193664" LINK="https://github.com/russellallen/self" MODIFIED="1432328184468">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1414790136105" FOLDED="true" ID="ID_1098741507" MODIFIED="1432328135674" TEXT="Smalltalk">
 <node CREATED="1414790141834" ID="ID_437105609" MODIFIED="1414790143015" TEXT="&lt;"/>
 <node CREATED="1414790143353" ID="ID_1168675224" MODIFIED="1414790176730" TEXT="&gt;">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" STARTARROW="None" STARTINCLINATION="82;0;"/>
@@ -890,7 +922,7 @@
 <node CREATED="1418257601657" ID="ID_447086136" MODIFIED="1418257605174" TEXT="gawk"/>
 </node>
 </node>
-<node CREATED="1418257621736" FOLDED="true" ID="ID_1477173416" MODIFIED="1429311483951" TEXT="Bourne shell">
+<node CREATED="1418257621736" FOLDED="true" ID="ID_1477173416" MODIFIED="1432327875054" TEXT="Bourne shell">
 <node CREATED="1418257628632" ID="ID_1402657594" MODIFIED="1418257638217" TEXT="&gt;">
 <arrowlink DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="160;0;" ID="Arrow_ID_1987053486" STARTARROW="None" STARTINCLINATION="160;0;"/>
 </node>
@@ -1106,7 +1138,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1417986585330" ID="ID_370572784" MODIFIED="1430161371979" POSITION="right" TEXT="Components">
+<node CREATED="1417986585330" FOLDED="true" ID="ID_370572784" MODIFIED="1432327790448" POSITION="right" TEXT="Components">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417986592068" FOLDED="true" ID="ID_1569326826" MODIFIED="1429311483955" TEXT="Comments">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

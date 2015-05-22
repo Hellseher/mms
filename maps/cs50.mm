@@ -1,6 +1,6 @@
-<map version="0.9.0">
+<map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398369675809" ID="ID_1671031422" MODIFIED="1398369802562">
+<node CREATED="1398369675809" ID="ID_1671031422" MODIFIED="1432326593686">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -330,7 +330,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398370264733" ID="ID_1559573624" MODIFIED="1401747795470" POSITION="right">
+<node CREATED="1398370264733" FOLDED="true" ID="ID_1559573624" MODIFIED="1432326624634" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -340,7 +340,7 @@
       <b>Week Three</b>
     </p>
     <p>
-      <font color="#3296fa"><i>26.03.2014&#160;- 30.04.2014</i></font>
+      <font color="#3296fa"><i>26.03.2014&#xa0;- 30.04.2014</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -470,7 +470,7 @@
 <node CREATED="1398374540733" ID="ID_305896913" MODIFIED="1398374542811" TEXT="Shorts"/>
 <node CREATED="1398374543709" ID="ID_933640092" MODIFIED="1398374552699" TEXT="Problem Set"/>
 </node>
-<node CREATED="1398374450654" ID="ID_49010559" MODIFIED="1398891591425" POSITION="right">
+<node CREATED="1398374450654" FOLDED="true" ID="ID_49010559" MODIFIED="1432326611186" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     

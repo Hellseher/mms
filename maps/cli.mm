@@ -1,18 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398554566267" ID="ID_1285395656" MODIFIED="1429311610828">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: left">
-      CLI
-    </p>
-  </body>
-</html></richcontent>
+<node CREATED="1398554566267" ID="ID_1285395656" MODIFIED="1432327183546" TEXT="cli">
 <font NAME="SansSerif" SIZE="17"/>
-<node CREATED="1398811962534" FOLDED="true" ID="ID_962394651" MODIFIED="1429311610805" POSITION="left">
+<node CREATED="1398811962534" FOLDED="true" ID="ID_962394651" MODIFIED="1432327210985" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -59,7 +49,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1404511082545" FOLDED="true" ID="ID_1023581222" MODIFIED="1429311610805">
+<node CREATED="1404511082545" FOLDED="true" ID="ID_1023581222" MODIFIED="1432327210064">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -84,13 +74,13 @@
 <node CREATED="1408998275843" ID="ID_1735880019" MODIFIED="1408998283066" TEXT="[0-9]"/>
 </node>
 </node>
-<node CREATED="1398812935111" FOLDED="true" ID="ID_167817289" MODIFIED="1429311610806" POSITION="left" TEXT="Input/Output">
+<node CREATED="1398812935111" FOLDED="true" ID="ID_167817289" MODIFIED="1432327190705" POSITION="left" TEXT="Input/Output">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398813224117" FOLDED="true" ID="ID_658129053" MODIFIED="1429311610805" TEXT="Pipes">
+<node CREATED="1398813224117" FOLDED="true" ID="ID_658129053" MODIFIED="1432326914397" TEXT="Pipes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398812950519" ID="ID_599263536" MODIFIED="1398812954197" TEXT="|"/>
 </node>
-<node CREATED="1404076322746" FOLDED="true" ID="ID_1850939342" MODIFIED="1429311610806" TEXT="streems">
+<node CREATED="1404076322746" FOLDED="true" ID="ID_1850939342" MODIFIED="1432326915277" TEXT="streems">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398813132565" FOLDED="true" ID="ID_1839263320" MODIFIED="1429311610806">
 <richcontent TYPE="NODE"><html>
@@ -185,7 +175,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1429451355697" POSITION="right" TEXT="cmd">
+<node CREATED="1398813187301" FOLDED="true" ID="ID_82536923" MODIFIED="1432327163921" POSITION="right" TEXT="cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1429311610810" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -790,7 +780,7 @@
 <node CREATED="1413156013925" ID="ID_1358842604" MODIFIED="1413156017121" TEXT="crontab"/>
 </node>
 </node>
-<node CREATED="1408224078123" FOLDED="true" ID="ID_1050149184" MODIFIED="1429311610811">
+<node CREATED="1408224078123" FOLDED="true" ID="ID_1050149184" MODIFIED="1432246066418">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2008,7 +1998,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1413926012533" FOLDED="true" ID="ID_1530535914" MODIFIED="1429311610817">
+<node CREATED="1413926012533" FOLDED="true" ID="ID_1530535914" MODIFIED="1432246073370">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2025,12 +2015,12 @@
 </node>
 <node CREATED="1413926037282" ID="ID_136472826" MODIFIED="1413926045902" TEXT="exiftool"/>
 </node>
-<node CREATED="1416668031026" FOLDED="true" ID="ID_24323361" MODIFIED="1429311610817" TEXT="Audio">
+<node CREATED="1416668031026" FOLDED="true" ID="ID_24323361" MODIFIED="1432246075866" TEXT="Audio">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416668037247" ID="ID_1707022181" MODIFIED="1416668040268" TEXT="pacmd"/>
 <node CREATED="1416668336714" ID="ID_1729445529" MODIFIED="1416668344824" TEXT="arecord, aplay"/>
 </node>
-<node CREATED="1399409789401" ID="ID_833760425" MODIFIED="1431730852398">
+<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1432326965973">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2431,7 +2421,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1429451363744">
+<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1432326964357">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2443,7 +2433,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399410573215" FOLDED="true" ID="ID_1329724197" MODIFIED="1429311610820">
+<node CREATED="1399410573215" ID="ID_1329724197" MODIFIED="1432246088946">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2505,7 +2495,7 @@
 <node CREATED="1406586632479" ID="ID_1946803425" MODIFIED="1406586645502" TEXT="-perm">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1421189795446" ID="ID_766688295" MODIFIED="1427995363746" TEXT="CookBook">
+<node CREATED="1421189795446" ID="ID_766688295" MODIFIED="1432246088965" TEXT="CookBook">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2708,7 +2698,7 @@
 <node CREATED="1407709232276" ID="ID_1373556215" MODIFIED="1407709233474" TEXT="1"/>
 <node CREATED="1407709234164" ID="ID_1466852519" MODIFIED="1407709234914" TEXT="2"/>
 </node>
-<node CREATED="1399410585542" ID="ID_719512608" MODIFIED="1431728180908">
+<node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1432326962501">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2718,13 +2708,13 @@
       <b>grep </b>[<i>options</i>] <i>patern</i>&#160;[<i>files</i>]
     </p>
     <p>
-      <font color="#3296fa"><i>search file for given pattern </i></font>
+      <font color="#3296fa" size="2"><i>search file for given pattern </i></font>
     </p>
     <p>
-      <font color="#3296fa"><i>can be used with </i></font>
+      <font color="#3296fa" size="2"><i>can be used with </i></font>
     </p>
     <p>
-      <font color="#3296fa"><i>regular expressions</i></font>
+      <font color="#3296fa" size="2"><i>regular expressions</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -2749,8 +2739,7 @@
       <b>$ grep -c /bin/bash /etc/passwd </b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411232080474" ID="ID_915969184" MODIFIED="1411232085879" TEXT="-E"/>
 <node CREATED="1409247793914" ID="ID_1355210260" MODIFIED="1411331267849">
@@ -2819,7 +2808,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413927696536" FOLDED="true" ID="ID_1157573713" MODIFIED="1429452246102" TEXT="General output control">
+<node CREATED="1413927696536" ID="ID_1157573713" MODIFIED="1432245989261" TEXT="General output control">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413495648028" ID="ID_1404376418" MODIFIED="1413495662553" TEXT="-L, --files-without-match"/>
 <node CREATED="1404512058394" ID="ID_69889978" MODIFIED="1409000588752">
@@ -2846,7 +2835,7 @@
 <node CREATED="1413927724247" ID="ID_337026835" MODIFIED="1413927736730" TEXT="Generic program information">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1413927737175" FOLDED="true" ID="ID_1227457549" MODIFIED="1431728175004" TEXT="Matcher selection">
+<node CREATED="1413927737175" ID="ID_1227457549" MODIFIED="1432245991485" TEXT="Matcher selection">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416668157805" ID="ID_564817950" MODIFIED="1416668264702">
 <richcontent TYPE="NODE"><html>
@@ -3087,7 +3076,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1399409778492" ID="ID_1285144250" MODIFIED="1431727971185">
+<node CREATED="1399409778492" FOLDED="true" ID="ID_1285144250" MODIFIED="1432326972780">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3387,8 +3376,7 @@
       &#160;&#160;&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414624707344" ID="ID_1219708059" MODIFIED="1415051345081">
 <richcontent TYPE="NODE"><html>
@@ -3425,14 +3413,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415908608188" ID="ID_1799866226" LINK="vim.mm" MODIFIED="1415908608198">
+<node CREATED="1415908608188" ID="ID_1799866226" LINK="vim.mm" MODIFIED="1432246042741">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      vi/vim <img src="../icons/vim.png" />
+      <b>vi/vim</b>&#160;<img src="../icons/vim.png" />
     </p>
   </body>
 </html></richcontent>
@@ -3460,8 +3448,7 @@
       $ <b>awk</b>&#160;'{<b>for</b>&#160;(i = 1; i &lt;= NF; i++) {<b>print</b>&#160; tolower($i);}}' file.txt | <b>sort</b>&#160;| <b>uniq</b>&#160;-c | <b>sort</b>&#160; -rm
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1413572587572" FOLDED="true" ID="ID_1766920815" MODIFIED="1429311610823" TEXT="Built-it Variables">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413572509589" ID="ID_581393427" MODIFIED="1413572517025" TEXT="NR"/>
@@ -3660,7 +3647,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408402182454" ID="ID_493014581" MODIFIED="1429654659148">
+<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1432326975636">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4128,7 +4115,18 @@
 <node CREATED="1419712400097" ID="ID_1099234797" MODIFIED="1419712401355" TEXT="xev"/>
 </node>
 </node>
-<node CREATED="1400174804803" FOLDED="true" ID="ID_1363757303" MODIFIED="1429311610827" POSITION="right" TEXT="info">
+<node CREATED="1400174804803" ID="ID_1363757303" MODIFIED="1432326957102" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info <img src="../icons/info.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1400174812466" ID="ID_229328583" LINK="http://www.gnu.org/software/bash/manual/bashref.html" MODIFIED="1400174819533" TEXT="BASH man"/>
 <node CREATED="1403889553505" ID="ID_184241840" MODIFIED="1412888411796" TEXT="Programs developers">
@@ -4606,21 +4604,157 @@
 <node CREATED="1416766808600" ID="ID_1694756229" MODIFIED="1416766820517" TEXT="\. \* \\"/>
 </node>
 </node>
-<node CREATED="1408575895500" FOLDED="true" ID="ID_1175515882" MODIFIED="1429311610828" POSITION="left" TEXT="Keyboard Shortcuts">
+<node CREATED="1417046137836" FOLDED="true" ID="ID_1534082994" MODIFIED="1432327571355" POSITION="right" TEXT="shells">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1408575908732" ID="ID_1667471109" MODIFIED="1408575913626" TEXT="CTRL+L"/>
-<node CREATED="1408575914108" ID="ID_148322890" MODIFIED="1408575920201" TEXT="CTRL+D"/>
-<node CREATED="1408575920700" ID="ID_1489858575" MODIFIED="1408575935210" TEXT="CTRL+Z"/>
-<node CREATED="1408575937420" ID="ID_220927337" MODIFIED="1408575942394" TEXT="CTRL+C"/>
-<node CREATED="1408575943164" ID="ID_1720428520" MODIFIED="1408575951898" TEXT="CTRL+H"/>
-<node CREATED="1408575952844" ID="ID_1792226653" MODIFIED="1408575961498" TEXT="CTRL+A"/>
-<node CREATED="1408576003835" ID="ID_205352986" MODIFIED="1408576011257" TEXT="CTRL+W"/>
-<node CREATED="1408576015227" ID="ID_499487008" MODIFIED="1408576019145" TEXT="CTRL+U"/>
-<node CREATED="1408576025147" ID="ID_1326064751" MODIFIED="1408576027065" TEXT="Tab"/>
+<node CREATED="1417046144572" ID="ID_505739029" LINK="https://mosh.mit.edu/" MODIFIED="1432327317088">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Mosh</b>
+    </p>
+    <p>
+      2012
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1417046137836" FOLDED="true" ID="ID_1534082994" MODIFIED="1429311610828" POSITION="right" TEXT="shells">
+<node CREATED="1411342451984" ID="ID_347109060" MODIFIED="1411342453485" TEXT="cron"/>
+<node CREATED="1417377619382" ID="ID_1310986501" MODIFIED="1417377623267" TEXT="Linux console"/>
+<node CREATED="1432327445795" FOLDED="true" ID="ID_1947953279" MODIFIED="1432327558347" TEXT="Unix-like">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417046144572" ID="ID_505739029" LINK="https://mosh.mit.edu/" MODIFIED="1417046168389" TEXT="Mosh"/>
+<node CREATED="1409694901066" ID="ID_1165725609" MODIFIED="1432327347169">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>bash</b>
+    </p>
+    <p>
+      1987
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Brian Fox</font></i>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">GNU</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411342486447" ID="ID_1557968989" MODIFIED="1411770639757">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ksh</b>
+    </p>
+    <p>
+      1982
+    </p>
+    <p>
+      David Korn
+    </p>
+    <p>
+      [AT&amp;T]
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1414970245433" ID="ID_1478627730" MODIFIED="1414970247302" TEXT="zsh"/>
+<node CREATED="1411342587966" ID="ID_275848496" MODIFIED="1411770530686">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>csh</b>
+    </p>
+    <p>
+      1978
+    </p>
+    <p>
+      Bill Joy
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411342484223" ID="ID_1336569953" MODIFIED="1414627548644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>sh</b>
+    </p>
+    <p>
+      1977
+    </p>
+    <p>
+      <i><font color="#3296fa">Steve Bourne</font></i>
+    </p>
+    <p>
+      [ <font color="#3296fa">AT&amp;T</font>&#160;]
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411342597853" ID="ID_330091027" MODIFIED="1411770590094">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>tcsh</b>
+    </p>
+    <p>
+      1970
+    </p>
+    <p>
+      Ken Greer
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1432327527905" ID="ID_1313524877" MODIFIED="1432327531794" TEXT="windows">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1432327538257" ID="ID_88014871" MODIFIED="1432327540255" TEXT="cmd.exe"/>
+</node>
+</node>
+<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1432327306303" POSITION="right" TEXT="GUI terminals">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417378969784" MODIFIED="1417378969784" TEXT="aterm"/>
+<node CREATED="1417378969785" MODIFIED="1417378969785" TEXT="eterm"/>
+<node CREATED="1417378969786" MODIFIED="1417378969786" TEXT="gnome"/>
+<node CREATED="1417378969786" MODIFIED="1417378969786" TEXT="guake"/>
+<node CREATED="1417378969787" MODIFIED="1417378969787" TEXT="konsole"/>
+<node CREATED="1417378969787" MODIFIED="1417378969787" TEXT="Kuake"/>
+<node CREATED="1417378969788" MODIFIED="1417378969788" TEXT="mrxvt"/>
+<node CREATED="1417378969788" ID="ID_281231788" LINK="http://software.schmorp.de/pkg/rxvt-unicode.html" MODIFIED="1419374174819" TEXT="rxvt"/>
+<node CREATED="1417378969789" ID="ID_647709737" MODIFIED="1417378969789" TEXT="xfce4"/>
+<node CREATED="1417378969789" ID="ID_1020879587" MODIFIED="1417378969789" TEXT="Terminator"/>
+<node CREATED="1417378969790" MODIFIED="1417378969790" TEXT="Terminology"/>
+<node CREATED="1417378969790" MODIFIED="1417378969790" TEXT="tilda"/>
+<node CREATED="1417378969791" MODIFIED="1417378969791" TEXT="wterm"/>
+<node CREATED="1417378969791" MODIFIED="1417378969791" TEXT="xterm"/>
+<node CREATED="1417378969791" MODIFIED="1417378969791" TEXT="Yakuake"/>
+</node>
+<node CREATED="1429564473616" FOLDED="true" ID="ID_816169975" MODIFIED="1432327572483" POSITION="right" TEXT="multiplexors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1419284365260" ID="ID_1126825751" MODIFIED="1419284368838" TEXT="GNU Screen"/>
+<node CREATED="1419374118221" ID="ID_626125264" MODIFIED="1419374120218" TEXT="tty"/>
+<node CREATED="1417046267322" ID="ID_7768614" LINK="https://www.gnu.org/software/screen/" MODIFIED="1417046279229" TEXT="GNU Screen"/>
 <node CREATED="1417046221370" ID="ID_1387677672" LINK="http://tmux.sourceforge.net/" MODIFIED="1417046337610">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4639,10 +4773,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417046267322" ID="ID_7768614" LINK="https://www.gnu.org/software/screen/" MODIFIED="1417046279229" TEXT="GNU Screen"/>
-</node>
-<node CREATED="1417820185513" FOLDED="true" ID="ID_1305183277" MODIFIED="1429311610828" POSITION="right" TEXT="tezarus">
-<node CREATED="1417820190168" ID="ID_1839421538" MODIFIED="1417820196198" TEXT="shell variables"/>
 </node>
 </node>
 </map>

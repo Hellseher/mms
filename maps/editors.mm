@@ -1,8 +1,9 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1408468581612" ID="ID_879480445" MODIFIED="1429311603450" STYLE="fork" TEXT="Text Editors">
+<node CREATED="1408468581612" ID="ID_879480445" MODIFIED="1432323997048" STYLE="fork" TEXT="Text Editors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
-<node CREATED="1408468596731" ID="ID_825102845" LINK="http://www.sublimetext.com/" MODIFIED="1415905096793" POSITION="right">
+<node CREATED="1408468596731" ID="ID_825102845" LINK="http://www.sublimetext.com/" MODIFIED="1432323413541" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12,38 +13,73 @@
       <b>Sublim Text</b>&#160;<img src="../icons/sublime_text.png" />
     </p>
     <p>
-      Python
-    </p>
-    <p>
       2008
     </p>
     <p>
-      <font color="#3296fa"><i>Jon Skinner</i></font>
+      <font color="#3296fa" size="2"><i>Jon Skinner </i></font>
+    </p>
+    <p>
+      <font size="2">Python, C++</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1429311603445" POSITION="right">
+<node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1432323448830" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Emacs</b>&#xa0;<img src="../icons/emacs.png"/>
+      <b>GNU Emacs</b>&#160;<img src="../icons/emacs.png" />
     </p>
     <p>
       1970 <font color="#fa0000">US</font>
     </p>
     <p>
-      <font color="#3296fa"><i>Richard Stallman </i></font>
+      <font color="#3296fa" size="2"><i>Richard Stallman </i></font>
     </p>
     <p>
-      <font color="#3296fa"><i>Guy L. Steele</i></font>
+      <font color="#3296fa" size="2"><i>Guy L. Steele</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1414183396275" ID="ID_568030618" LINK="http://www.xemacs.org/" MODIFIED="1414183902096" TEXT="XEmacs"/>
+</node>
+<node CREATED="1432323508191" ID="ID_892682292" MODIFIED="1432323674937" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Yi </b><img src="../icons/yi.png" />
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Jean-Philippe Bernardy</font></i>
+    </p>
+    <p>
+      <font size="2">GPL | Haskell</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1432323678492" ID="ID_799225003" LINK="https://github.com/yi-editor/yi" MODIFIED="1432323705331">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1412961654829" FOLDED="true" ID="ID_215248594" MODIFIED="1429311603446" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -195,44 +231,56 @@
 <node CREATED="1416428917537" ID="ID_1282392932" LINK="http://www.uvviewsoft.com/synwrite/" MODIFIED="1416428926403" POSITION="right" TEXT="SunWriter"/>
 <node CREATED="1416428946817" ID="ID_968569854" LINK="http://www.geany.org/" MODIFIED="1416428959588" POSITION="right" TEXT="Geany"/>
 <node CREATED="1409007940818" ID="ID_543821052" LINK="https://atom.io/" MODIFIED="1414183902099" POSITION="right" TEXT="Atom "/>
-<node CREATED="1409006541323" ID="ID_843678708" LINK="http://www.nano-editor.org/" MODIFIED="1415905108137" POSITION="left">
+<node CREATED="1409006541323" ID="ID_843678708" LINK="http://www.nano-editor.org/" MODIFIED="1432324652937" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>nano</b>
-    </p>
-    <p>
-      C
+      <b>GNU nano</b>
     </p>
     <p>
       1999
     </p>
     <p>
-      <font color="#3296fa"><i>Chris Allegretta</i></font>
+      <font color="#3296fa"><i>Chris Allegretta </i></font>
+    </p>
+    <p>
+      GNU | C
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1409006545371" ID="ID_1190820197" LINK="https://wiki.gnome.org/Apps/Gedit" MODIFIED="1414183902100" POSITION="left">
+<node CREATED="1409006545371" ID="ID_1190820197" LINK="https://wiki.gnome.org/Apps/Gedit" MODIFIED="1432324042150" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Gedit</b>&#xa0;<img src="../icons/gedit.png"/>
-    </p>
-    <p>
-      Write in C, Python
+      <b>Gedit</b>&#160;<img src="../icons/gedit.png" />
     </p>
     <p>
       1999
     </p>
+    <p>
+      <font size="2">GPL | C, Python</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1432323854377" FOLDED="true" ID="ID_1916766819" MODIFIED="1432324614688" TEXT="Developers">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1432323883643" MODIFIED="1432323883643" TEXT="Paolo Maggi"/>
+<node CREATED="1432323883644" MODIFIED="1432323883644" TEXT="Paolo Borelli"/>
+<node CREATED="1432323883644" MODIFIED="1432323883644" TEXT="Steve Fr&#xe9;cinaux"/>
+<node CREATED="1432323883645" MODIFIED="1432323883645" TEXT="Jesse van den Kieboom"/>
+<node CREATED="1432323883645" MODIFIED="1432323883645" TEXT="James Willcox"/>
+<node CREATED="1432323883645" MODIFIED="1432323883645" TEXT="Chema Celorio"/>
+<node CREATED="1432323883646" MODIFIED="1432323883646" TEXT="Federico Mena Quintero"/>
+</node>
 </node>
 <node CREATED="1409008725805" ID="ID_1535844843" MODIFIED="1414183902100" POSITION="left" TEXT="kwrite"/>
 <node CREATED="1409008741629" ID="ID_214558883" MODIFIED="1414183902100" POSITION="left" TEXT="kdit"/>
@@ -277,7 +325,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414183931048" ID="ID_1347439886" MODIFIED="1429658490134" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1432323815364" POSITION="left" TEXT="IDE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1429311603448">
 <richcontent TYPE="NODE"><html>
@@ -348,18 +396,59 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1429658494173" ID="ID_843435950" LINK="http://www.codeblocks.org/" MODIFIED="1429658763702">
+<node CREATED="1429658494173" ID="ID_843435950" LINK="http://www.codeblocks.org/" MODIFIED="1432322930652">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Code::Blocks <img src="../icons/code_blocks.png" />
+      <b>Code::Blocks</b>&#160;<img src="../icons/code_blocks.png" />
     </p>
   </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1415906172005" FOLDED="true" ID="ID_539518007" LINK="http://www.visualstudio.com/" MODIFIED="1432323305845">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Visual Studio</b>&#160;<img src="../icons/visual_studio.png" />
+    </p>
+    <p>
+      1995
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">Microsoft</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1432323184932" ID="ID_108660119" MODIFIED="1432323219152">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Version history</b>&#160;<img src="../icons/version_history.png" />
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1432323292609" MODIFIED="1432323292609" TEXT="Visual Studio"/>
+<node CREATED="1432323292610" MODIFIED="1432323292610" TEXT="Visual Studio 97"/>
+<node CREATED="1432323292610" MODIFIED="1432323292610" TEXT="Visual Studio 6.0"/>
+<node CREATED="1432323292610" MODIFIED="1432323292610" TEXT="Visual Studio .NET (2002)"/>
+<node CREATED="1432323292611" MODIFIED="1432323292611" TEXT="Visual Studio .NET 2003"/>
+<node CREATED="1432323292611" MODIFIED="1432323292611" TEXT="Visual Studio 2005"/>
+<node CREATED="1432323292611" MODIFIED="1432323292611" TEXT="Visual Studio 2008"/>
+<node CREATED="1432323292612" MODIFIED="1432323292612" TEXT="Visual Studio 2010"/>
+<node CREATED="1432323292612" MODIFIED="1432323292612" TEXT="Visual Studio 2012"/>
+<node CREATED="1432323292612" MODIFIED="1432323292612" TEXT="Visual Studio 2013"/>
+<node CREATED="1432323292613" MODIFIED="1432323292613" TEXT="Visual Studio 2015"/>
+</node>
 </node>
 </node>
 <node CREATED="1415905181222" ID="ID_251384017" LINK="http://macromates.com/" MODIFIED="1415905421883" POSITION="right">
@@ -392,19 +481,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906274404" FOLDED="true" ID="ID_516240618" MODIFIED="1429311603450" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Windows <img src="../icons/windows.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1411665241526" ID="ID_1354186917" LINK="http://www.notepad-plus-plus.org/" MODIFIED="1415905145801">
+<node CREATED="1411665241526" ID="ID_1354186917" LINK="http://www.notepad-plus-plus.org/" MODIFIED="1415905145801" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -425,28 +502,10 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906322163" FOLDED="true" ID="ID_1374604496" MODIFIED="1429311603449" TEXT="IDE">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415906172005" ID="ID_539518007" LINK="http://www.visualstudio.com/" MODIFIED="1415906255668">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Visual Studio
-    </p>
-    <p>
-      [ <font color="#3296fa">Microsoft</font>&#160;]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1415906346131" ID="ID_319742038" LINK="http://akelpad.sourceforge.net/en/index.php" MODIFIED="1415906356811" TEXT="AkelPad"/>
-<node CREATED="1415906373746" ID="ID_24243567" LINK="http://www.ultraedit.de/" MODIFIED="1415906397718" TEXT="UltraEdit"/>
-<node CREATED="1415906025176" ID="ID_1148968239" LINK="http://www.pspad.com/" MODIFIED="1415906035179" TEXT="PSPad"/>
-<node CREATED="1415906430914" FOLDED="true" ID="ID_1586698955" LINK="http://www.topstyle4.com/" MODIFIED="1429311603449">
+<node CREATED="1415906346131" ID="ID_319742038" LINK="http://akelpad.sourceforge.net/en/index.php" MODIFIED="1415906356811" POSITION="left" TEXT="AkelPad"/>
+<node CREATED="1415906373746" ID="ID_24243567" LINK="http://www.ultraedit.de/" MODIFIED="1415906397718" POSITION="left" TEXT="UltraEdit"/>
+<node CREATED="1415906025176" ID="ID_1148968239" LINK="http://www.pspad.com/" MODIFIED="1415906035179" POSITION="left" TEXT="PSPad"/>
+<node CREATED="1415906430914" FOLDED="true" ID="ID_1586698955" LINK="http://www.topstyle4.com/" MODIFIED="1429311603449" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -470,7 +529,7 @@
 <node CREATED="1415906596303" ID="ID_1383476258" MODIFIED="1415906598668" TEXT="XHTML"/>
 <node CREATED="1415906599231" ID="ID_1410505347" MODIFIED="1415906601084" TEXT="CSS"/>
 </node>
-<node CREATED="1415906691245" ID="ID_845027523" LINK="https://www.emeditor.com/" MODIFIED="1415906870594">
+<node CREATED="1415906691245" ID="ID_845027523" LINK="https://www.emeditor.com/" MODIFIED="1415906870594" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -485,7 +544,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906895482" ID="ID_739471509" LINK="https://www.editplus.com/" MODIFIED="1415906930986">
+<node CREATED="1415906895482" ID="ID_739471509" LINK="https://www.editplus.com/" MODIFIED="1415906930986" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -500,7 +559,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906992537" ID="ID_179212178" MODIFIED="1415907000454" TEXT="Source Insight"/>
-</node>
+<node CREATED="1415906992537" ID="ID_179212178" MODIFIED="1415907000454" POSITION="left" TEXT="Source Insight"/>
 </node>
 </map>
