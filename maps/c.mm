@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397948184523" ID="ID_1885079368" MODIFIED="1429310622192">
+<node CREATED="1397948184523" ID="ID_1885079368" MODIFIED="1432398552361">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -56,7 +56,7 @@
 </html>
 </richcontent>
 <hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
-<node CREATED="1397991744737" FOLDED="true" ID="ID_1090358281" MODIFIED="1429310622182" POSITION="left">
+<node CREATED="1397991744737" ID="ID_1090358281" MODIFIED="1432398577143" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -68,7 +68,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398000469865" FOLDED="true" ID="ID_601416880" MODIFIED="1429310622180" TEXT="main">
+<node CREATED="1398000469865" ID="ID_601416880" MODIFIED="1432398577169" TEXT="main">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397992568734" ID="ID_176775557" MODIFIED="1397997028430">
 <richcontent TYPE="NODE"><html>
@@ -154,26 +154,27 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1397992541503" ID="ID_1571685923" MODIFIED="1403560402725">
+<node CREATED="1397992541503" ID="ID_1571685923" MODIFIED="1432398600167">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p style="text-align: right">
-      <font color="#46aa46"><b>static</b></font>&#xa0;data-definition;
+    <p style="text-align: left">
+      <font color="#46aa46"><b>static</b></font>&#160;data-definition;
     </p>
-    <p style="text-align: right">
-      <font color="#46aa46"><b>static</b></font>&#xa0;function-definition;
+    <p style="text-align: left">
+      <font color="#46aa46"><b>static</b></font>&#160;function-definition;
     </p>
-    <p style="text-align: right">
-      <font color="#3296fa"><i>preserves variable value to </i></font>
+    <p style="text-align: left">
+      <font color="#3296fa" size="2"><i>preserves variable value to </i></font>
     </p>
-    <p style="text-align: right">
-      <font color="#3296fa"><i>&#xa0;survive after it scope ends</i></font>
+    <p style="text-align: left">
+      <font color="#3296fa" size="2"><i>&#160;survive after it scope ends</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1397992537871" ID="ID_735536109" LINK="#ID_1724616284" MODIFIED="1403560393599">
 <richcontent TYPE="NODE"><html>
@@ -1250,14 +1251,43 @@
 </node>
 </node>
 </node>
-<node CREATED="1398115155444" FOLDED="true" ID="ID_1018283019" MODIFIED="1429310622191" POSITION="right" TEXT="directives">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398115222148" ID="ID_119810307" MODIFIED="1398115227650" TEXT="#assert"/>
-<node CREATED="1398115228548" ID="ID_802385495" MODIFIED="1398115238739" TEXT="#elif"/>
-<node CREATED="1398115240003" ID="ID_347525600" MODIFIED="1398115243426" TEXT="#else"/>
-<node CREATED="1398115244115" ID="ID_469820452" MODIFIED="1398115249603" TEXT="#endif"/>
-<node CREATED="1398115250227" ID="ID_1651484317" MODIFIED="1398115257504" TEXT="#error"/>
-<node CREATED="1398114663083" ID="ID_1243377047" MODIFIED="1398115546815">
+<node CREATED="1398115155444" ID="ID_1018283019" MODIFIED="1432399003489" POSITION="right" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>directives</b>
+    </p>
+    <p>
+      <font size="2">C processor</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398115222148" ID="ID_119810307" MODIFIED="1432398986152" TEXT="#assert"/>
+<node CREATED="1398115228548" ID="ID_802385495" MODIFIED="1432398986152" TEXT="#elif"/>
+<node CREATED="1398115240003" ID="ID_347525600" MODIFIED="1432398986152" TEXT="#else"/>
+<node CREATED="1398115244115" ID="ID_469820452" MODIFIED="1432398986152">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#9632fa"><b>#endif </b></font>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">ends preprocessor conditional</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1398115250227" ID="ID_1651484317" MODIFIED="1432398986152" TEXT="#error"/>
+<node CREATED="1398114663083" ID="ID_1243377047" MODIFIED="1432398986152">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1272,11 +1302,11 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398115259123" ID="ID_254281382" MODIFIED="1398115263362" TEXT="#ident"/>
-<node CREATED="1398115264611" ID="ID_1477564261" MODIFIED="1398115267282" TEXT="#if"/>
-<node CREATED="1398115273715" ID="ID_1995097654" MODIFIED="1398115281570" TEXT="#import"/>
-<node CREATED="1398115267827" ID="ID_398201929" MODIFIED="1398115272866" TEXT="#ifdef"/>
-<node CREATED="1397948195333" FOLDED="true" ID="ID_1466279016" MODIFIED="1429310622191">
+<node CREATED="1398115259123" ID="ID_254281382" MODIFIED="1432398986152" TEXT="#ident"/>
+<node CREATED="1398115264611" ID="ID_1477564261" MODIFIED="1432398986152" TEXT="#if"/>
+<node CREATED="1398115273715" ID="ID_1995097654" MODIFIED="1432398986152" TEXT="#import"/>
+<node CREATED="1398115267827" ID="ID_398201929" MODIFIED="1432398986152" TEXT="#ifdef"/>
+<node CREATED="1397948195333" ID="ID_1466279016" MODIFIED="1432398986152">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1290,7 +1320,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1397948608876" ID="ID_1810836957" MODIFIED="1399313468772">
+<node CREATED="1397948608876" ID="ID_1810836957" MODIFIED="1432398986152">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1308,7 +1338,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1399313484649" ID="ID_894163165" MODIFIED="1399313545021">
+<node CREATED="1399313484649" ID="ID_894163165" MODIFIED="1432398986153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1323,7 +1353,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1397948428141" FOLDED="true" ID="ID_1347709435" MODIFIED="1429310622187">
+<node CREATED="1397948428141" FOLDED="true" ID="ID_1347709435" MODIFIED="1432398986153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1741,7 +1771,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397948582940" FOLDED="true" ID="ID_147177570" MODIFIED="1429310622190">
+<node CREATED="1397948582940" FOLDED="true" ID="ID_147177570" MODIFIED="1432398986153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1775,7 +1805,7 @@
 <node CREATED="1398005398795" ID="ID_6462846" MODIFIED="1398005403624" TEXT="clock_t"/>
 </node>
 </node>
-<node CREATED="1397948568461" FOLDED="true" ID="ID_1305614443" MODIFIED="1429310622190">
+<node CREATED="1397948568461" FOLDED="true" ID="ID_1305614443" MODIFIED="1432398986153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2576,7 +2606,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1399415256739" FOLDED="true" ID="ID_880963002" MODIFIED="1429310622191">
+<node CREATED="1399415256739" FOLDED="true" ID="ID_880963002" MODIFIED="1432398986153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2590,11 +2620,11 @@
 <node CREATED="1399415302355" ID="ID_922468062" MODIFIED="1399415314098" TEXT="strcmp( );"/>
 </node>
 </node>
-<node CREATED="1398115282339" ID="ID_1540845911" MODIFIED="1398115290994" TEXT="#line"/>
-<node CREATED="1398115299251" ID="ID_928861797" MODIFIED="1398115303889" TEXT="#sccs"/>
-<node CREATED="1398115304707" ID="ID_500398878" MODIFIED="1398115309520" TEXT="#unassert"/>
-<node CREATED="1398115310403" ID="ID_1857759995" MODIFIED="1398115313154" TEXT="#undef"/>
-<node CREATED="1398115313987" ID="ID_606312951" MODIFIED="1398115318224" TEXT="#warning"/>
+<node CREATED="1398115282339" ID="ID_1540845911" MODIFIED="1432398986153" TEXT="#line"/>
+<node CREATED="1398115299251" ID="ID_928861797" MODIFIED="1432398986153" TEXT="#sccs"/>
+<node CREATED="1398115304707" ID="ID_500398878" MODIFIED="1432398986153" TEXT="#unassert"/>
+<node CREATED="1398115310403" ID="ID_1857759995" MODIFIED="1432398986153" TEXT="#undef"/>
+<node CREATED="1398115313987" ID="ID_606312951" MODIFIED="1432398986154" TEXT="#warning"/>
 </node>
 <node CREATED="1399313714279" FOLDED="true" ID="ID_1263745696" MODIFIED="1429310622192" POSITION="right" TEXT="extra">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

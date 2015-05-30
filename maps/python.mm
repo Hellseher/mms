@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398203924278" ID="1" MODIFIED="1431558986668">
+<node CREATED="1398203924278" ID="1" MODIFIED="1432479911895">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16,7 +16,505 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="17"/>
-<node CREATED="1398203924280" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1432163166123" POSITION="left" STYLE="bubble" TEXT="build-in">
+<node CREATED="1398544902354" FOLDED="true" ID="ID_1341355363" MODIFIED="1431558986591" POSITION="right" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/info.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399758119424" ID="ID_132038922" LINK="https://www.python.org/" MODIFIED="1430435355820" TEXT="https://www.python.org/"/>
+<node CREATED="1403561508824" ID="ID_1392966636" LINK="http://briansimulator.org/" MODIFIED="1430435355821" TEXT="http://briansimulator.org/">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="letter-spacing: normal; word-spacing: 0px; white-space: normal; margin-left: 0px; padding-bottom: 0px; margin-right: 0px; font-weight: normal; text-align: left; padding-left: 0px; font-family: tahoma, arial, sans-serif; font-style: normal; font-size: 13px; text-indent: 0px; margin-bottom: 0; text-transform: none; display: block; padding-top: 0px; font-variant: normal; padding-right: 0px; background-color: rgb(255, 255, 255); margin-top: 0; color: rgb(0, 0, 0); line-height: normal">
+      Brian is a simulator for spiking neural networks available on almost all platforms. The motivation for this project is that a simulator should not only save the time of processors, but also the time of scientists.
+    </p>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="letter-spacing: normal; word-spacing: 0px; white-space: normal; margin-left: 0px; padding-bottom: 0px; margin-right: 0px; font-weight: normal; text-align: left; padding-left: 0px; font-family: tahoma, arial, sans-serif; font-style: normal; font-size: 13px; text-indent: 0px; margin-bottom: 0; text-transform: none; display: block; padding-top: 0px; font-variant: normal; padding-right: 0px; background-color: rgb(255, 255, 255); margin-top: 0; color: rgb(0, 0, 0); line-height: normal">
+      Brian is easy to learn and use, highly flexible and easily extensible. The Brian package itself and simulations using it are all written in the Python programming language, which is an easy, concise and highly developed language with many advanced features and development tools, excellent documentation and a large community of users providing support and extension packages.
+    </p>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="letter-spacing: normal; word-spacing: 0px; white-space: normal; margin-left: 0px; padding-bottom: 0px; margin-right: 0px; font-weight: normal; text-align: left; padding-left: 0px; font-family: tahoma, arial, sans-serif; font-style: normal; font-size: 13px; text-indent: 0px; margin-bottom: 0; text-transform: none; display: block; padding-top: 0px; font-variant: normal; padding-right: 0px; background-color: rgb(255, 255, 255); margin-top: 0; color: rgb(0, 0, 0); line-height: normal">
+      The following code defines a randomly connected network of integrate and fire neurons with exponential inhibitory and excitatory currents, runs the simulation and makes the raster plot on the right.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499524923" FOLDED="true" ID="ID_1239482713" LINK="https://pypi.python.org/pypi/setuptools/1.1.6" MODIFIED="1430499491863" TEXT="pip">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418499604257" ID="ID_1376661187" MODIFIED="1430435355821" TEXT="bundle                      DEPRECATED. Create pybundles."/>
+<node CREATED="1418499604252" ID="ID_1647704289" MODIFIED="1430435355821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>freeze</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">output installed packages</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604257" ID="ID_391700300" MODIFIED="1430435355821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      help&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Show help for commands.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604251" ID="ID_324126053" MODIFIED="1430435355821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      install&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Install packages.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604253" ID="ID_1209977205" MODIFIED="1430435355822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      list&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;List installed packages.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604254" ID="ID_166853527" MODIFIED="1430435355822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      search&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Search PyPI for packages.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604254" ID="ID_442893399" MODIFIED="1430435355822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      show&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Show information about installed packages.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604252" ID="ID_1867820264" MODIFIED="1430435355822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      uninstall&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Uninstall packages.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604256" ID="ID_1205547378" MODIFIED="1430435355823">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      unzip&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;DEPRECATED. Unzip individual packages.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604255" ID="ID_1057886273" MODIFIED="1430435355823">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      wheel&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Build wheels from your requirements.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418499604256" ID="ID_715790307" MODIFIED="1430435355823">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>zip</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">DEPRECATED. </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">Zip individual packages.</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1421508085438" FOLDED="true" ID="ID_1279802041" MODIFIED="1430435355823" TEXT="implimentation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1421508096877" FOLDED="true" ID="ID_758279186" LINK="http://www.zope.org/" MODIFIED="1429311095158">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Zope</b>&#160;<img src="../icons/zope.png" />
+    </p>
+    <p>
+      1995 <font color="#fa0000">US</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1421508119437" ID="ID_814672879" LINK="https://github.com/zopefoundation/Zope" MODIFIED="1421508141167" TEXT="Zope on GitHub"/>
+</node>
+<node CREATED="1421508106109" ID="ID_682102269" MODIFIED="1421508112907" TEXT="Odoo"/>
+</node>
+<node CREATED="1415576757294" FOLDED="true" ID="ID_442340966" MODIFIED="1429311095188" TEXT="cookbook">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415576763486" ID="ID_75228690" MODIFIED="1415576797305" TEXT="pyromid">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      lines = []
+    </p>
+    <p>
+      for i in range(1, 9):
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;lines.append([int(random()*100) for j in range(i)])&#160;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1419991804540" FOLDED="true" ID="ID_1309710512" MODIFIED="1429311095188" TEXT="Idioms">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1419991809644" ID="ID_1831624520" MODIFIED="1421005955004" TEXT="Unpacking">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      for index, item in enumerate(some_list):
+    </p>
+    <p>
+      # do something with index and item
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      a, b = b, a
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      a, (b, c) = 1, (2, 3)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1418500529306" FOLDED="true" ID="ID_7657495" MODIFIED="1430434873468" TEXT="keys">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418500534060" MODIFIED="1418500534060" TEXT="-a,--annotate"/>
+<node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-s,--sign"/>
+<node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-f,--force"/>
+<node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-d,--delete"/>
+<node CREATED="1418500534062" MODIFIED="1418500534062" TEXT="-v,--verify"/>
+<node CREATED="1418500534062" MODIFIED="1418500534062" TEXT="--column[=&lt;options&gt;],--no-column"/>
+<node CREATED="1418500534062" MODIFIED="1418500534062" TEXT="-a,--annotate"/>
+<node CREATED="1418500534063" MODIFIED="1418500534063" TEXT="-B"/>
+<node CREATED="1418500534063" MODIFIED="1418500534063" TEXT="-ccomm"/>
+<node CREATED="1418500534063" MODIFIED="1418500534063" TEXT="-d"/>
+<node CREATED="1418500534064" MODIFIED="1418500534064" TEXT="-E"/>
+<node CREATED="1418500534064" MODIFIED="1418500534064" TEXT="-h,-"/>
+<node CREATED="1418500534064" MODIFIED="1418500534064" TEXT="-i"/>
+<node CREATED="1418500534065" MODIFIED="1418500534065" TEXT="-mmodu"/>
+<node CREATED="1418500534065" MODIFIED="1418500534065" TEXT="-O"/>
+<node CREATED="1418500534065" MODIFIED="1418500534065" TEXT="-OO"/>
+<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-R"/>
+<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-Qargu"/>
+<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-s"/>
+<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-S"/>
+<node CREATED="1418500534067" MODIFIED="1418500534067" TEXT="-t"/>
+<node CREATED="1418500534067" MODIFIED="1418500534067" TEXT="-u"/>
+<node CREATED="1418500534067" MODIFIED="1418500534067" TEXT="-v"/>
+<node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-V,-"/>
+<node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-Wargu"/>
+<node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-x"/>
+<node CREATED="1418500534069" MODIFIED="1418500534069" TEXT="-3"/>
+</node>
+<node CREATED="1398203924283" FOLDED="true" ID="182" MODIFIED="1429311095157" TEXT="formating">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398203924283" FOLDED="true" ID="183" MODIFIED="1429311095156" TEXT="directives">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398543226971" ID="ID_205787739" MODIFIED="1398543362664">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>%s</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>string</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1398543247258" ID="ID_453294721" MODIFIED="1398543337504">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      %r
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1398543259898" ID="ID_678142293" MODIFIED="1398543263737" TEXT="%c"/>
+<node CREATED="1398543264267" ID="ID_280298351" MODIFIED="1398543267865" TEXT="%d"/>
+<node CREATED="1398543268298" ID="ID_955497150" MODIFIED="1398543271897" TEXT="%i"/>
+<node CREATED="1398543272490" ID="ID_740491503" MODIFIED="1398543276057" TEXT="%u"/>
+<node CREATED="1398543276538" ID="ID_112040811" MODIFIED="1398543281369" TEXT="%o"/>
+<node CREATED="1398543281850" ID="ID_397726453" MODIFIED="1398543285257" TEXT="%x"/>
+<node CREATED="1398543285754" ID="ID_1076060264" MODIFIED="1398543290840" TEXT="%X"/>
+<node CREATED="1398543291274" ID="ID_410919542" MODIFIED="1398543295850" TEXT="%e"/>
+<node CREATED="1398543296442" ID="ID_226954225" MODIFIED="1398543298376" TEXT="%E"/>
+<node CREATED="1398543298938" ID="ID_799965279" MODIFIED="1398543301081" TEXT="%f"/>
+<node CREATED="1398543301578" ID="ID_917579435" MODIFIED="1398543303336" TEXT="%g"/>
+<node CREATED="1398543303833" ID="ID_1685724205" MODIFIED="1398543306872" TEXT="%G"/>
+<node CREATED="1398543307340" ID="ID_1798523270" MODIFIED="1398543313288" TEXT="%%"/>
+</node>
+<node CREATED="1398543096654" FOLDED="true" ID="ID_630762538" MODIFIED="1429311095156" TEXT="escapes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398543114141" ID="ID_489152637" MODIFIED="1398543117643" TEXT="\newline"/>
+<node CREATED="1398543118125" ID="ID_946479421" MODIFIED="1398543120812" TEXT="\\"/>
+<node CREATED="1398543122461" ID="ID_314270015" MODIFIED="1398543127500" TEXT="\&apos;"/>
+<node CREATED="1398543128445" ID="ID_1865409984" MODIFIED="1398543132443" TEXT="\&quot;"/>
+<node CREATED="1398543135309" ID="ID_1017630805" MODIFIED="1398543140875" TEXT="\a"/>
+<node CREATED="1398543142172" ID="ID_102710520" MODIFIED="1398543143403" TEXT="\b"/>
+<node CREATED="1398543143885" ID="ID_1075454855" MODIFIED="1398543151611" TEXT="\n"/>
+<node CREATED="1398543153149" ID="ID_1328874556" MODIFIED="1398543159562" TEXT="\r"/>
+<node CREATED="1398543160492" ID="ID_1122434233" MODIFIED="1398543161770" TEXT="\t"/>
+<node CREATED="1398543162620" ID="ID_661226771" MODIFIED="1398543164249" TEXT="\v"/>
+<node CREATED="1398543165388" ID="ID_325816370" MODIFIED="1398543169147" TEXT="\N{id}"/>
+<node CREATED="1398543170636" ID="ID_280313883" MODIFIED="1398543175802" TEXT="\nhhh"/>
+<node CREATED="1398543177820" ID="ID_172006064" MODIFIED="1398543181435" TEXT="\Uhhh"/>
+<node CREATED="1398543182188" ID="ID_1026737896" MODIFIED="1398543185546" TEXT="\xhh"/>
+<node CREATED="1398543186092" ID="ID_1805934888" MODIFIED="1398543188266" TEXT="\ooo"/>
+<node CREATED="1398543189116" ID="ID_1056052585" MODIFIED="1398543193498" TEXT="\0"/>
+<node CREATED="1398543193948" ID="ID_1590154113" MODIFIED="1398543217818" TEXT="\other"/>
+</node>
+<node CREATED="1401923798522" FOLDED="true" ID="ID_615249395" MODIFIED="1429311095156" TEXT="long">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1401923808970" ID="ID_478868558" MODIFIED="1401923815960" TEXT="( )"/>
+<node CREATED="1401923816441" ID="ID_1255809433" MODIFIED="1401923824328" TEXT="&quot;&quot;&quot; foo &quot;&quot;&quot;"/>
+<node CREATED="1401923824970" ID="ID_460279963" MODIFIED="1401923840231">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      foo \
+    </p>
+    <p>
+      foo
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1418084480066" FOLDED="true" ID="ID_1230427706" MODIFIED="1429311095156" TEXT="RegEx">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418084488673" ID="ID_1121184345" MODIFIED="1418084490222" TEXT="token"/>
+</node>
+<node CREATED="1401918998874" FOLDED="true" ID="ID_1299363364" MODIFIED="1429311095157" TEXT="style">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1401918512749" FOLDED="true" ID="ID_1045264571" LINK="http://legacy.python.org/dev/peps/pep-0008/" MODIFIED="1429311095157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PEP8
+    </p>
+    <p>
+      Style Guide for Python Code
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1401921430458" ID="ID_1014242931" LINK="http://legacy.python.org/dev/peps/pep-0257/" MODIFIED="1401921458558">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PEP 257
+    </p>
+    <p>
+      Docstring Conventions
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1401918096768" ID="ID_297234947" LINK="https://github.com/faif/python-patterns" MODIFIED="1401918105895" TEXT="python-patterns"/>
+<node CREATED="1401917595460" ID="ID_613405124" LINK="http://ivory.idyll.org/articles/advanced-swc/" MODIFIED="1402006155768">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Intermediate and Advanced
+    </p>
+    <p>
+      Software Carpentry in Python
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1402006169965" ID="ID_1528842319" LINK="https://github.com/faif/python-patterns" MODIFIED="1402006185650" TEXT="python-patterns"/>
+<node CREATED="1402006212729" ID="ID_1644047955" LINK="http://www.youtube.com/watch?v=0vJJlVBVTFg" MODIFIED="1402006237088" TEXT="Python Design Patterns YouTube"/>
+<node CREATED="1402006262010" ID="ID_1039910772" LINK="http://code.activestate.com/recipes/langs/python/" MODIFIED="1402006270284" TEXT="Popular Python recipes"/>
+</node>
+</node>
+<node CREATED="1400194016766" FOLDED="true" ID="ID_1314694339" MODIFIED="1430499512926" TEXT="OOP">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1400194021132" ID="ID_1721274051" MODIFIED="1400194031984" TEXT="class"/>
+<node CREATED="1400194032764" ID="ID_210878464" MODIFIED="1400194034490" TEXT="self"/>
+<node CREATED="1418689951166" FOLDED="true" ID="ID_122731614" MODIFIED="1430499510822" TEXT="Spesial Methods">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418689957494" MODIFIED="1418689957494" TEXT="__new__(cls [,...])"/>
+<node CREATED="1418689957496" ID="ID_1932667270" MODIFIED="1418689957496" TEXT="__init__(self [,...])"/>
+<node CREATED="1418689957497" ID="ID_1788524145" MODIFIED="1418689957497" TEXT="__cmp__(self, other)"/>
+<node CREATED="1418689957497" ID="ID_960326550" MODIFIED="1418689957497" TEXT="__pos__(self)"/>
+<node CREATED="1418689957498" ID="ID_1595879137" MODIFIED="1418689957498" TEXT="__neg__(self)"/>
+<node CREATED="1418689957498" ID="ID_944712249" MODIFIED="1418689957498" TEXT="__invert__(self)"/>
+<node CREATED="1418689957499" ID="ID_1942351350" MODIFIED="1418689957499" TEXT="__index__(self)"/>
+<node CREATED="1418689957499" ID="ID_1829864054" MODIFIED="1418689957499" TEXT="__nonzero__(self)"/>
+<node CREATED="1418689957500" ID="ID_716278041" MODIFIED="1418689957500" TEXT="__getattr__(self, name)"/>
+<node CREATED="1418689957500" ID="ID_1421660962" MODIFIED="1418689957500" TEXT="__setattr__(self, name, val)"/>
+<node CREATED="1418689957500" ID="ID_1464605600" MODIFIED="1418689957500" TEXT="__delattr__(self, name)"/>
+<node CREATED="1418689957501" ID="ID_1817621502" MODIFIED="1418689957501" TEXT="__getattribute__(self, name)"/>
+<node CREATED="1418689957501" ID="ID_783004446" MODIFIED="1418689957501" TEXT="__getitem__(self, key)"/>
+<node CREATED="1418689957502" ID="ID_1949170629" MODIFIED="1418689957502" TEXT="__setitem__(self, key, val)"/>
+<node CREATED="1418689957502" ID="ID_56352632" MODIFIED="1418689957502" TEXT="__delitem__(self, key)"/>
+<node CREATED="1418689957503" ID="ID_1878782523" MODIFIED="1418689957503" TEXT="__iter__(self)"/>
+<node CREATED="1418689957503" MODIFIED="1418689957503" TEXT="__contains__(self, value)"/>
+<node CREATED="1418689957503" MODIFIED="1418689957503" TEXT="__call__(self [,...])"/>
+<node CREATED="1418689957504" MODIFIED="1418689957504" TEXT="__enter__(self)"/>
+<node CREATED="1418689957504" MODIFIED="1418689957504" TEXT="__exit__(self, exc, val, trace)"/>
+<node CREATED="1418689957505" MODIFIED="1418689957505" TEXT="__getstate__(self)"/>
+<node CREATED="1418689957505" MODIFIED="1418689957505" TEXT="__setstate__(self)"/>
+<node CREATED="1419987915789" FOLDED="true" ID="ID_1258054894" MODIFIED="1431558986586">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info <img src="../icons/info.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1419987942617" ID="ID_1184725729" LINK="http://www.rafekettler.com/magicmethods.html" MODIFIED="1419987955136" TEXT="Magic methods"/>
+</node>
+</node>
+<node CREATED="1402523249027" ID="ID_886909649" MODIFIED="1402523252802" TEXT="type"/>
+<node CREATED="1402523263459" ID="ID_1680302708" MODIFIED="1402523266514" TEXT="supperclass"/>
+<node CREATED="1402523275587" ID="ID_610834845" MODIFIED="1402523279826" TEXT="inheritance"/>
+</node>
+<node CREATED="1417821622707" ID="ID_707281927" MODIFIED="1428453482147" TEXT="Tezarus">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      spawned program
+    </p>
+    <p>
+      file object
+    </p>
+    <p>
+      canned (precoded) test inputs
+    </p>
+    <p>
+      object
+    </p>
+    <p>
+      method
+    </p>
+    <p>
+      module
+    </p>
+    <p>
+      class
+    </p>
+    <p>
+      variable
+    </p>
+    <p>
+      url mapping
+    </p>
+    <p>
+      iteration
+    </p>
+    <p>
+      recursion
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1432479913087" POSITION="right" STYLE="bubble" TEXT="build-in">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924280" FOLDED="true" ID="185" MODIFIED="1431558986461" TEXT="converters">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -228,7 +726,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1400103016620" FOLDED="true" ID="ID_287048958" MODIFIED="1430434736080" TEXT="i/o">
+<node CREATED="1400103016620" ID="ID_287048958" MODIFIED="1432478758278" TEXT="i/o">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398544469392" ID="ID_925085591" MODIFIED="1398544472578">
 <richcontent TYPE="NODE"><html>
@@ -812,14 +1310,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1432163180341" ID="ID_35975233" MODIFIED="1432163187189" TEXT="underscore">
+<node CREATED="1432163180341" FOLDED="true" ID="ID_35975233" MODIFIED="1432478747631" TEXT="underscore">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432163187429" ID="ID_308348706" MODIFIED="1432163191539" TEXT="__all__"/>
 <node CREATED="1432163192164" ID="ID_1071260056" MODIFIED="1432163195858" TEXT="__init__"/>
 <node CREATED="1432163197044" ID="ID_117304046" MODIFIED="1432163201121" TEXT="__self__"/>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1431558986582" POSITION="right" STYLE="bubble" TEXT="datatypes">
+<node CREATED="1398203924282" ID="24" MODIFIED="1432479926089" POSITION="right" STYLE="bubble" TEXT="datatypes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1431558986511" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1607,9 +2105,9 @@
 </node>
 <node CREATED="1430434502724" ID="ID_190977057" MODIFIED="1430434522347" TEXT="sets"/>
 </node>
-<node CREATED="1398203924284" FOLDED="true" ID="44" MODIFIED="1431551178563" TEXT="file">
+<node CREATED="1398203924284" ID="44" MODIFIED="1432479928464" TEXT="file">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924284" FOLDED="true" ID="47" MODIFIED="1429311095154" TEXT="Operations">
+<node CREATED="1398203924284" FOLDED="true" ID="47" MODIFIED="1432479960686" TEXT="Operations">
 <node CREATED="1398203924284" ID="132" MODIFIED="1398203924284" TEXT="New"/>
 <node CREATED="1398203924284" ID="134" MODIFIED="1398203924284" TEXT="Open"/>
 <node CREATED="1398203924284" ID="135" MODIFIED="1398203924284" TEXT="Read"/>
@@ -1617,15 +2115,26 @@
 <node CREATED="1398203924284" ID="138" MODIFIED="1398203924284" TEXT="Change asses permition"/>
 <node CREATED="1398203924284" ID="139" MODIFIED="1398203924284" TEXT="Change atributes"/>
 </node>
-<node CREATED="1398203924284" FOLDED="true" ID="168" MODIFIED="1429311095154" TEXT="attributes">
+<node CREATED="1398203924284" FOLDED="true" ID="168" MODIFIED="1432479960014" TEXT="attributes">
 <node CREATED="1404166903925" ID="ID_558983237" MODIFIED="1404166906695" TEXT="closed"/>
 </node>
-<node CREATED="1418686462564" FOLDED="true" ID="ID_612873101" MODIFIED="1431558986580" TEXT="File Methods">
+<node CREATED="1418686462564" ID="ID_612873101" MODIFIED="1432479934736" TEXT="File Methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1404166468680" ID="ID_1527254474" MODIFIED="1404166473178" TEXT="__enter__()"/>
 <node CREATED="1404166474280" ID="ID_379208573" MODIFIED="1404166478698" TEXT="__exit__()"/>
 <node CREATED="1398203924287" ID="161" MODIFIED="1404166109647" TEXT="F.close()"/>
-<node CREATED="1398203924287" ID="159" MODIFIED="1431036604160" TEXT="F.open(&quot;file_name&quot;, &quot;mode&quot;)">
+<node CREATED="1398203924287" ID="159" MODIFIED="1432480023414">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>open</b>(&quot;file_name&quot;, &quot;mode&quot;)
+    </p>
+  </body>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1651,6 +2160,10 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1432480025746" ID="ID_1906197485" MODIFIED="1432480119854" TEXT="w | w+"/>
+<node CREATED="1432480031698" ID="ID_569124360" MODIFIED="1432480123437" TEXT="r | r+"/>
+<node CREATED="1432480033218" ID="ID_73731438" MODIFIED="1432480127534" TEXT="a | a+"/>
+<node CREATED="1432480106865" ID="ID_856537508" MODIFIED="1432480107742" TEXT="b"/>
 </node>
 <node CREATED="1398203924287" ID="160" MODIFIED="1404166125246" TEXT="F.read()"/>
 <node CREATED="1404166094282" ID="ID_465820690" MODIFIED="1404166106782" TEXT="F.readline()"/>
@@ -1665,502 +2178,116 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1398544902354" FOLDED="true" ID="ID_1341355363" MODIFIED="1431558986591" POSITION="right" STYLE="bubble">
+<node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1430435377644" POSITION="right" STYLE="bubble" TEXT="frameworks">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418504502447" FOLDED="true" ID="ID_306703348" LINK="https://www.djangoproject.com/" MODIFIED="1430434889022">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="../icons/info.png" />
+      <img src="../icons/django.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418504506207" FOLDED="true" ID="ID_1071395094" MODIFIED="1430434867054" TEXT="modules">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418510530944" ID="ID_765506439" MODIFIED="1418510544895" TEXT="URLconf">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1418510787676" FOLDED="true" ID="ID_406108154" MODIFIED="1429311095186">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      django.conf.urls
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1418510823323" ID="ID_1001231983" MODIFIED="1418510826552" TEXT="patterns"/>
+<node CREATED="1418510826843" ID="ID_411421644" MODIFIED="1418510828169" TEXT="urls"/>
+</node>
+<node CREATED="1418567514473" FOLDED="true" ID="ID_1492082467" MODIFIED="1429311095186">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      django.http
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1418567522057" ID="ID_448452207" MODIFIED="1418567527798" TEXT="HttpResponse"/>
+</node>
+<node CREATED="1418567529209" FOLDED="true" ID="ID_624062803" MODIFIED="1429311095187">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      django.<b>templates</b>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1418567578408" ID="ID_792888939" MODIFIED="1418567585333" TEXT="RequestContext"/>
+</node>
+<node CREATED="1418567589304" FOLDED="true" ID="ID_759467344" MODIFIED="1429311095187">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      django.<b>shortcuts</b>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1418567602456" ID="ID_440220641" MODIFIED="1418567609652" TEXT="render_to_response"/>
+</node>
+</node>
+</node>
+<node CREATED="1418686665617" ID="ID_755020045" MODIFIED="1430434867054">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flask <img src="../icons/flask.png" />
     </p>
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399758119424" ID="ID_132038922" LINK="https://www.python.org/" MODIFIED="1430435355820" TEXT="https://www.python.org/"/>
-<node CREATED="1403561508824" ID="ID_1392966636" LINK="http://briansimulator.org/" MODIFIED="1430435355821" TEXT="http://briansimulator.org/">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p content="text/html; charset=utf-8" http-equiv="content-type" style="letter-spacing: normal; word-spacing: 0px; white-space: normal; margin-left: 0px; padding-bottom: 0px; margin-right: 0px; font-weight: normal; text-align: left; padding-left: 0px; font-family: tahoma, arial, sans-serif; font-style: normal; font-size: 13px; text-indent: 0px; margin-bottom: 0; text-transform: none; display: block; padding-top: 0px; font-variant: normal; padding-right: 0px; background-color: rgb(255, 255, 255); margin-top: 0; color: rgb(0, 0, 0); line-height: normal">
-      Brian is a simulator for spiking neural networks available on almost all platforms. The motivation for this project is that a simulator should not only save the time of processors, but also the time of scientists.
-    </p>
-    <p content="text/html; charset=utf-8" http-equiv="content-type" style="letter-spacing: normal; word-spacing: 0px; white-space: normal; margin-left: 0px; padding-bottom: 0px; margin-right: 0px; font-weight: normal; text-align: left; padding-left: 0px; font-family: tahoma, arial, sans-serif; font-style: normal; font-size: 13px; text-indent: 0px; margin-bottom: 0; text-transform: none; display: block; padding-top: 0px; font-variant: normal; padding-right: 0px; background-color: rgb(255, 255, 255); margin-top: 0; color: rgb(0, 0, 0); line-height: normal">
-      Brian is easy to learn and use, highly flexible and easily extensible. The Brian package itself and simulations using it are all written in the Python programming language, which is an easy, concise and highly developed language with many advanced features and development tools, excellent documentation and a large community of users providing support and extension packages.
-    </p>
-    <p content="text/html; charset=utf-8" http-equiv="content-type" style="letter-spacing: normal; word-spacing: 0px; white-space: normal; margin-left: 0px; padding-bottom: 0px; margin-right: 0px; font-weight: normal; text-align: left; padding-left: 0px; font-family: tahoma, arial, sans-serif; font-style: normal; font-size: 13px; text-indent: 0px; margin-bottom: 0; text-transform: none; display: block; padding-top: 0px; font-variant: normal; padding-right: 0px; background-color: rgb(255, 255, 255); margin-top: 0; color: rgb(0, 0, 0); line-height: normal">
-      The following code defines a randomly connected network of integrate and fire neurons with exponential inhibitory and excitatory currents, runs the simulation and makes the raster plot on the right.
-    </p>
-  </body>
-</html></richcontent>
 </node>
-<node CREATED="1418499524923" FOLDED="true" ID="ID_1239482713" LINK="https://pypi.python.org/pypi/setuptools/1.1.6" MODIFIED="1430499491863" TEXT="pip">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418499604257" ID="ID_1376661187" MODIFIED="1430435355821" TEXT="bundle                      DEPRECATED. Create pybundles."/>
-<node CREATED="1418499604252" ID="ID_1647704289" MODIFIED="1430435355821">
+<node CREATED="1429566932759" FOLDED="true" ID="ID_1165894539" LINK="http://kivy.org/#home" MODIFIED="1430434887146">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>freeze</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">output installed packages</font></i>
+      <b>kivy</b>&#160;<img src="../icons/kivy.png" />
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1418499604257" ID="ID_391700300" MODIFIED="1430435355821">
+<node CREATED="1429569220441" ID="ID_1289149341" LINK="https://github.com/kivy/kivy" MODIFIED="1430434867055">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      help&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Show help for commands.
+      <img src="../icons/github.png" />
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1418499604251" ID="ID_324126053" MODIFIED="1430435355821">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      install&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Install packages.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604253" ID="ID_1209977205" MODIFIED="1430435355822">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      list&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;List installed packages.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604254" ID="ID_166853527" MODIFIED="1430435355822">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      search&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Search PyPI for packages.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604254" ID="ID_442893399" MODIFIED="1430435355822">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      show&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Show information about installed packages.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604252" ID="ID_1867820264" MODIFIED="1430435355822">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      uninstall&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Uninstall packages.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604256" ID="ID_1205547378" MODIFIED="1430435355823">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      unzip&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;DEPRECATED. Unzip individual packages.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604255" ID="ID_1057886273" MODIFIED="1430435355823">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      wheel&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Build wheels from your requirements.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1418499604256" ID="ID_715790307" MODIFIED="1430435355823">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>zip</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">DEPRECATED. </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">Zip individual packages.</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1421508085438" FOLDED="true" ID="ID_1279802041" MODIFIED="1430435355823" TEXT="implimentation">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1421508096877" FOLDED="true" ID="ID_758279186" LINK="http://www.zope.org/" MODIFIED="1429311095158">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Zope</b>&#160;<img src="../icons/zope.png" />
-    </p>
-    <p>
-      1995 <font color="#fa0000">US</font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1421508119437" ID="ID_814672879" LINK="https://github.com/zopefoundation/Zope" MODIFIED="1421508141167" TEXT="Zope on GitHub"/>
-</node>
-<node CREATED="1421508106109" ID="ID_682102269" MODIFIED="1421508112907" TEXT="Odoo"/>
-</node>
-<node CREATED="1415576757294" FOLDED="true" ID="ID_442340966" MODIFIED="1429311095188" TEXT="cookbook">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415576763486" ID="ID_75228690" MODIFIED="1415576797305" TEXT="pyromid">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      lines = []
-    </p>
-    <p>
-      for i in range(1, 9):
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;lines.append([int(random()*100) for j in range(i)])&#160;
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1419991804540" FOLDED="true" ID="ID_1309710512" MODIFIED="1429311095188" TEXT="Idioms">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1419991809644" ID="ID_1831624520" MODIFIED="1421005955004" TEXT="Unpacking">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      for index, item in enumerate(some_list):
-    </p>
-    <p>
-      # do something with index and item
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      a, b = b, a
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      a, (b, c) = 1, (2, 3)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1418500529306" FOLDED="true" ID="ID_7657495" MODIFIED="1430434873468" TEXT="keys">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418500534060" MODIFIED="1418500534060" TEXT="-a,--annotate"/>
-<node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-s,--sign"/>
-<node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-f,--force"/>
-<node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-d,--delete"/>
-<node CREATED="1418500534062" MODIFIED="1418500534062" TEXT="-v,--verify"/>
-<node CREATED="1418500534062" MODIFIED="1418500534062" TEXT="--column[=&lt;options&gt;],--no-column"/>
-<node CREATED="1418500534062" MODIFIED="1418500534062" TEXT="-a,--annotate"/>
-<node CREATED="1418500534063" MODIFIED="1418500534063" TEXT="-B"/>
-<node CREATED="1418500534063" MODIFIED="1418500534063" TEXT="-ccomm"/>
-<node CREATED="1418500534063" MODIFIED="1418500534063" TEXT="-d"/>
-<node CREATED="1418500534064" MODIFIED="1418500534064" TEXT="-E"/>
-<node CREATED="1418500534064" MODIFIED="1418500534064" TEXT="-h,-"/>
-<node CREATED="1418500534064" MODIFIED="1418500534064" TEXT="-i"/>
-<node CREATED="1418500534065" MODIFIED="1418500534065" TEXT="-mmodu"/>
-<node CREATED="1418500534065" MODIFIED="1418500534065" TEXT="-O"/>
-<node CREATED="1418500534065" MODIFIED="1418500534065" TEXT="-OO"/>
-<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-R"/>
-<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-Qargu"/>
-<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-s"/>
-<node CREATED="1418500534066" MODIFIED="1418500534066" TEXT="-S"/>
-<node CREATED="1418500534067" MODIFIED="1418500534067" TEXT="-t"/>
-<node CREATED="1418500534067" MODIFIED="1418500534067" TEXT="-u"/>
-<node CREATED="1418500534067" MODIFIED="1418500534067" TEXT="-v"/>
-<node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-V,-"/>
-<node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-Wargu"/>
-<node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-x"/>
-<node CREATED="1418500534069" MODIFIED="1418500534069" TEXT="-3"/>
-</node>
-<node CREATED="1398203924283" FOLDED="true" ID="182" MODIFIED="1429311095157" TEXT="formating">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924283" FOLDED="true" ID="183" MODIFIED="1429311095156" TEXT="directives">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398543226971" ID="ID_205787739" MODIFIED="1398543362664">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>%s</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>string</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1398543247258" ID="ID_453294721" MODIFIED="1398543337504">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      %r
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1398543259898" ID="ID_678142293" MODIFIED="1398543263737" TEXT="%c"/>
-<node CREATED="1398543264267" ID="ID_280298351" MODIFIED="1398543267865" TEXT="%d"/>
-<node CREATED="1398543268298" ID="ID_955497150" MODIFIED="1398543271897" TEXT="%i"/>
-<node CREATED="1398543272490" ID="ID_740491503" MODIFIED="1398543276057" TEXT="%u"/>
-<node CREATED="1398543276538" ID="ID_112040811" MODIFIED="1398543281369" TEXT="%o"/>
-<node CREATED="1398543281850" ID="ID_397726453" MODIFIED="1398543285257" TEXT="%x"/>
-<node CREATED="1398543285754" ID="ID_1076060264" MODIFIED="1398543290840" TEXT="%X"/>
-<node CREATED="1398543291274" ID="ID_410919542" MODIFIED="1398543295850" TEXT="%e"/>
-<node CREATED="1398543296442" ID="ID_226954225" MODIFIED="1398543298376" TEXT="%E"/>
-<node CREATED="1398543298938" ID="ID_799965279" MODIFIED="1398543301081" TEXT="%f"/>
-<node CREATED="1398543301578" ID="ID_917579435" MODIFIED="1398543303336" TEXT="%g"/>
-<node CREATED="1398543303833" ID="ID_1685724205" MODIFIED="1398543306872" TEXT="%G"/>
-<node CREATED="1398543307340" ID="ID_1798523270" MODIFIED="1398543313288" TEXT="%%"/>
-</node>
-<node CREATED="1398543096654" FOLDED="true" ID="ID_630762538" MODIFIED="1429311095156" TEXT="escapes">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398543114141" ID="ID_489152637" MODIFIED="1398543117643" TEXT="\newline"/>
-<node CREATED="1398543118125" ID="ID_946479421" MODIFIED="1398543120812" TEXT="\\"/>
-<node CREATED="1398543122461" ID="ID_314270015" MODIFIED="1398543127500" TEXT="\&apos;"/>
-<node CREATED="1398543128445" ID="ID_1865409984" MODIFIED="1398543132443" TEXT="\&quot;"/>
-<node CREATED="1398543135309" ID="ID_1017630805" MODIFIED="1398543140875" TEXT="\a"/>
-<node CREATED="1398543142172" ID="ID_102710520" MODIFIED="1398543143403" TEXT="\b"/>
-<node CREATED="1398543143885" ID="ID_1075454855" MODIFIED="1398543151611" TEXT="\n"/>
-<node CREATED="1398543153149" ID="ID_1328874556" MODIFIED="1398543159562" TEXT="\r"/>
-<node CREATED="1398543160492" ID="ID_1122434233" MODIFIED="1398543161770" TEXT="\t"/>
-<node CREATED="1398543162620" ID="ID_661226771" MODIFIED="1398543164249" TEXT="\v"/>
-<node CREATED="1398543165388" ID="ID_325816370" MODIFIED="1398543169147" TEXT="\N{id}"/>
-<node CREATED="1398543170636" ID="ID_280313883" MODIFIED="1398543175802" TEXT="\nhhh"/>
-<node CREATED="1398543177820" ID="ID_172006064" MODIFIED="1398543181435" TEXT="\Uhhh"/>
-<node CREATED="1398543182188" ID="ID_1026737896" MODIFIED="1398543185546" TEXT="\xhh"/>
-<node CREATED="1398543186092" ID="ID_1805934888" MODIFIED="1398543188266" TEXT="\ooo"/>
-<node CREATED="1398543189116" ID="ID_1056052585" MODIFIED="1398543193498" TEXT="\0"/>
-<node CREATED="1398543193948" ID="ID_1590154113" MODIFIED="1398543217818" TEXT="\other"/>
-</node>
-<node CREATED="1401923798522" FOLDED="true" ID="ID_615249395" MODIFIED="1429311095156" TEXT="long">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1401923808970" ID="ID_478868558" MODIFIED="1401923815960" TEXT="( )"/>
-<node CREATED="1401923816441" ID="ID_1255809433" MODIFIED="1401923824328" TEXT="&quot;&quot;&quot; foo &quot;&quot;&quot;"/>
-<node CREATED="1401923824970" ID="ID_460279963" MODIFIED="1401923840231">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      foo \
-    </p>
-    <p>
-      foo
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1418084480066" FOLDED="true" ID="ID_1230427706" MODIFIED="1429311095156" TEXT="RegEx">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418084488673" ID="ID_1121184345" MODIFIED="1418084490222" TEXT="token"/>
-</node>
-<node CREATED="1401918998874" FOLDED="true" ID="ID_1299363364" MODIFIED="1429311095157" TEXT="style">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1401918512749" FOLDED="true" ID="ID_1045264571" LINK="http://legacy.python.org/dev/peps/pep-0008/" MODIFIED="1429311095157">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      PEP8
-    </p>
-    <p>
-      Style Guide for Python Code
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1401921430458" ID="ID_1014242931" LINK="http://legacy.python.org/dev/peps/pep-0257/" MODIFIED="1401921458558">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      PEP 257
-    </p>
-    <p>
-      Docstring Conventions
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1401918096768" ID="ID_297234947" LINK="https://github.com/faif/python-patterns" MODIFIED="1401918105895" TEXT="python-patterns"/>
-<node CREATED="1401917595460" ID="ID_613405124" LINK="http://ivory.idyll.org/articles/advanced-swc/" MODIFIED="1402006155768">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Intermediate and Advanced
-    </p>
-    <p>
-      Software Carpentry in Python
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1402006169965" ID="ID_1528842319" LINK="https://github.com/faif/python-patterns" MODIFIED="1402006185650" TEXT="python-patterns"/>
-<node CREATED="1402006212729" ID="ID_1644047955" LINK="http://www.youtube.com/watch?v=0vJJlVBVTFg" MODIFIED="1402006237088" TEXT="Python Design Patterns YouTube"/>
-<node CREATED="1402006262010" ID="ID_1039910772" LINK="http://code.activestate.com/recipes/langs/python/" MODIFIED="1402006270284" TEXT="Popular Python recipes"/>
-</node>
-</node>
-<node CREATED="1400194016766" FOLDED="true" ID="ID_1314694339" MODIFIED="1430499512926" TEXT="OOP">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1400194021132" ID="ID_1721274051" MODIFIED="1400194031984" TEXT="class"/>
-<node CREATED="1400194032764" ID="ID_210878464" MODIFIED="1400194034490" TEXT="self"/>
-<node CREATED="1418689951166" FOLDED="true" ID="ID_122731614" MODIFIED="1430499510822" TEXT="Spesial Methods">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418689957494" MODIFIED="1418689957494" TEXT="__new__(cls [,...])"/>
-<node CREATED="1418689957496" ID="ID_1932667270" MODIFIED="1418689957496" TEXT="__init__(self [,...])"/>
-<node CREATED="1418689957497" ID="ID_1788524145" MODIFIED="1418689957497" TEXT="__cmp__(self, other)"/>
-<node CREATED="1418689957497" ID="ID_960326550" MODIFIED="1418689957497" TEXT="__pos__(self)"/>
-<node CREATED="1418689957498" ID="ID_1595879137" MODIFIED="1418689957498" TEXT="__neg__(self)"/>
-<node CREATED="1418689957498" ID="ID_944712249" MODIFIED="1418689957498" TEXT="__invert__(self)"/>
-<node CREATED="1418689957499" ID="ID_1942351350" MODIFIED="1418689957499" TEXT="__index__(self)"/>
-<node CREATED="1418689957499" ID="ID_1829864054" MODIFIED="1418689957499" TEXT="__nonzero__(self)"/>
-<node CREATED="1418689957500" ID="ID_716278041" MODIFIED="1418689957500" TEXT="__getattr__(self, name)"/>
-<node CREATED="1418689957500" ID="ID_1421660962" MODIFIED="1418689957500" TEXT="__setattr__(self, name, val)"/>
-<node CREATED="1418689957500" ID="ID_1464605600" MODIFIED="1418689957500" TEXT="__delattr__(self, name)"/>
-<node CREATED="1418689957501" ID="ID_1817621502" MODIFIED="1418689957501" TEXT="__getattribute__(self, name)"/>
-<node CREATED="1418689957501" ID="ID_783004446" MODIFIED="1418689957501" TEXT="__getitem__(self, key)"/>
-<node CREATED="1418689957502" ID="ID_1949170629" MODIFIED="1418689957502" TEXT="__setitem__(self, key, val)"/>
-<node CREATED="1418689957502" ID="ID_56352632" MODIFIED="1418689957502" TEXT="__delitem__(self, key)"/>
-<node CREATED="1418689957503" ID="ID_1878782523" MODIFIED="1418689957503" TEXT="__iter__(self)"/>
-<node CREATED="1418689957503" MODIFIED="1418689957503" TEXT="__contains__(self, value)"/>
-<node CREATED="1418689957503" MODIFIED="1418689957503" TEXT="__call__(self [,...])"/>
-<node CREATED="1418689957504" MODIFIED="1418689957504" TEXT="__enter__(self)"/>
-<node CREATED="1418689957504" MODIFIED="1418689957504" TEXT="__exit__(self, exc, val, trace)"/>
-<node CREATED="1418689957505" MODIFIED="1418689957505" TEXT="__getstate__(self)"/>
-<node CREATED="1418689957505" MODIFIED="1418689957505" TEXT="__setstate__(self)"/>
-<node CREATED="1419987915789" FOLDED="true" ID="ID_1258054894" MODIFIED="1431558986586">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      info <img src="../icons/info.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1419987942617" ID="ID_1184725729" LINK="http://www.rafekettler.com/magicmethods.html" MODIFIED="1419987955136" TEXT="Magic methods"/>
-</node>
-</node>
-<node CREATED="1402523249027" ID="ID_886909649" MODIFIED="1402523252802" TEXT="type"/>
-<node CREATED="1402523263459" ID="ID_1680302708" MODIFIED="1402523266514" TEXT="supperclass"/>
-<node CREATED="1402523275587" ID="ID_610834845" MODIFIED="1402523279826" TEXT="inheritance"/>
-</node>
-<node CREATED="1417821622707" ID="ID_707281927" MODIFIED="1428453482147" TEXT="Tezarus">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      spawned program
-    </p>
-    <p>
-      file object
-    </p>
-    <p>
-      canned (precoded) test inputs
-    </p>
-    <p>
-      object
-    </p>
-    <p>
-      method
-    </p>
-    <p>
-      module
-    </p>
-    <p>
-      class
-    </p>
-    <p>
-      variable
-    </p>
-    <p>
-      url mapping
-    </p>
-    <p>
-      iteration
-    </p>
-    <p>
-      recursion
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1398456024904" FOLDED="true" ID="ID_1318102844" MODIFIED="1431546707631" POSITION="left" STYLE="bubble" TEXT="keywords">
@@ -2259,7 +2386,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924278" ID="68" MODIFIED="1431777334615" POSITION="left" STYLE="bubble">
+<node CREATED="1398203924278" ID="68" MODIFIED="1432931683890" POSITION="left" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4164,11 +4291,10 @@
       <i><font size="2" color="#3296fa">iterators building blocks</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1432163158887" TEXT="3d party">
+<node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1432931972995" TEXT="3d party">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398284924490" FOLDED="true" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1431558986610">
 <richcontent TYPE="NODE"><html>
@@ -4322,6 +4448,32 @@
 </html></richcontent>
 </node>
 <node CREATED="1421173333583" ID="ID_1283536362" LINK="http://www.riverbankcomputing.co.uk/software/pyqt/intro" MODIFIED="1430434881559" TEXT="PyQt"/>
+<node CREATED="1432931693165" ID="ID_1973026086" MODIFIED="1432931850263">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Fabric </b><img src="../icons/fabric.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1432931698621" ID="ID_230632282" LINK="https://github.com/fabric/fabric" MODIFIED="1432931744930">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1411826721485" ID="ID_1129060340" LINK="http://qt-project.org/wiki/PySide" MODIFIED="1430434881559" TEXT="PySide"/>
 <node CREATED="1418080165268" ID="ID_1476672306" LINK="http://www.nltk.org/" MODIFIED="1430434881559" TEXT="NLTK">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4435,8 +4587,7 @@
       <i><font size="2" color="#3296fa">floor value</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1398001509319" FOLDED="true" ID="ID_348424960" MODIFIED="1430434900547" TEXT="comparison">
@@ -4851,118 +5002,6 @@
     </p>
     <p>
       &#xa0;&#xa0;1 | 1 1&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;1 | 1 0
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1430435377644" POSITION="left" STYLE="bubble" TEXT="frameworks">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418504502447" FOLDED="true" ID="ID_306703348" LINK="https://www.djangoproject.com/" MODIFIED="1430434889022">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/django.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418504506207" FOLDED="true" ID="ID_1071395094" MODIFIED="1430434867054" TEXT="modules">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418510530944" ID="ID_765506439" MODIFIED="1418510544895" TEXT="URLconf">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1418510787676" FOLDED="true" ID="ID_406108154" MODIFIED="1429311095186">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      django.conf.urls
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1418510823323" ID="ID_1001231983" MODIFIED="1418510826552" TEXT="patterns"/>
-<node CREATED="1418510826843" ID="ID_411421644" MODIFIED="1418510828169" TEXT="urls"/>
-</node>
-<node CREATED="1418567514473" FOLDED="true" ID="ID_1492082467" MODIFIED="1429311095186">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      django.http
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1418567522057" ID="ID_448452207" MODIFIED="1418567527798" TEXT="HttpResponse"/>
-</node>
-<node CREATED="1418567529209" FOLDED="true" ID="ID_624062803" MODIFIED="1429311095187">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      django.<b>templates</b>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1418567578408" ID="ID_792888939" MODIFIED="1418567585333" TEXT="RequestContext"/>
-</node>
-<node CREATED="1418567589304" FOLDED="true" ID="ID_759467344" MODIFIED="1429311095187">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      django.<b>shortcuts</b>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1418567602456" ID="ID_440220641" MODIFIED="1418567609652" TEXT="render_to_response"/>
-</node>
-</node>
-</node>
-<node CREATED="1418686665617" ID="ID_755020045" MODIFIED="1430434867054">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Flask <img src="../icons/flask.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1429566932759" FOLDED="true" ID="ID_1165894539" LINK="http://kivy.org/#home" MODIFIED="1430434887146">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>kivy</b>&#160;<img src="../icons/kivy.png" />
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1429569220441" ID="ID_1289149341" LINK="https://github.com/kivy/kivy" MODIFIED="1430434867055">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
     </p>
   </body>
 </html></richcontent>

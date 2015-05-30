@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1431725123294" TEXT="OS">
+<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1432980648953" TEXT="OS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -157,7 +157,7 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1431559301902" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" FOLDED="true" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1432980648953" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -491,7 +491,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1431559319493" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1432980648953" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1792,7 +1792,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1431559321798" STYLE="fork">
+<node CREATED="1402147300675" FOLDED="true" ID="ID_1026292484" MODIFIED="1432980648952" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1894,7 +1894,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936504333" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1431559323525" STYLE="fork">
+<node CREATED="1397936504333" FOLDED="true" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1432980648952" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4006,7 +4006,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398707032229" ID="ID_630368414" MODIFIED="1431559334187" STYLE="fork">
+<node COLOR="#329632" CREATED="1398707032229" FOLDED="true" ID="ID_630368414" MODIFIED="1432980648950" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5027,7 +5027,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943315007" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1431559336407" STYLE="fork">
+<node CREATED="1397943315007" FOLDED="true" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1432980648949" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5624,7 +5624,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398706233853" ID="ID_410876810" MODIFIED="1431559339231" STYLE="fork">
+<node COLOR="#329632" CREATED="1398706233853" FOLDED="true" ID="ID_410876810" MODIFIED="1432980648949" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6498,7 +6498,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1403553625426" ID="ID_1224691312" MODIFIED="1431723064998" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1403553625426" FOLDED="true" ID="ID_1224691312" MODIFIED="1432980648949" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1410825539138" FOLDED="true" ID="ID_1651318148" LINK="http://www.apodio.org/" MODIFIED="1429657186852">
 <richcontent TYPE="NODE"><html>
@@ -7765,7 +7765,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1402684666914" ID="ID_1748666183" LINK="http://www.zentyal.org/" MODIFIED="1431723065009" STYLE="fork">
+<node CREATED="1402684666914" FOLDED="true" ID="ID_1748666183" LINK="http://www.zentyal.org/" MODIFIED="1432980648949" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16947,7 +16947,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943651821" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1431774174813" STYLE="fork">
+<node CREATED="1397943651821" FOLDED="true" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1432980648952" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17115,7 +17115,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1431727940705" STYLE="fork">
+<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1432980648951" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17727,7 +17727,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397937148360" ID="ID_429530788" LINK="https://fedoraproject.org/" MODIFIED="1431723879527" STYLE="fork">
+<node CREATED="1397937148360" FOLDED="true" ID="ID_429530788" LINK="https://fedoraproject.org/" MODIFIED="1432980648951" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17745,7 +17745,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#4571f4"/>
-<node CREATED="1399808535612" FOLDED="true" ID="ID_732836631" MODIFIED="1429355991230">
+<node CREATED="1399808535612" FOLDED="true" ID="ID_732836631" MODIFIED="1432980648950">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17845,7 +17845,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1409596862722" FOLDED="true" ID="ID_1428130225" MODIFIED="1429355991230" TEXT="Fedora">
+<node CREATED="1409596862722" FOLDED="true" ID="ID_1428130225" MODIFIED="1432980648950" TEXT="Fedora">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1409597788186" ID="ID_310412199" MODIFIED="1409597851498">
 <richcontent TYPE="NODE"><html>
@@ -18003,22 +18003,26 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1409596954146" ID="ID_539227639" MODIFIED="1409603301780">
+<node CREATED="1409596954146" ID="ID_539227639" MODIFIED="1432969868969">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Fedora 19 Schr&#xf6;dinger's Cat </b>
+      <b>Fedora 19 Schr&#246;dinger's Cat </b>
     </p>
     <p>
-      <font color="#3296fa">R: 07 Jule 2013</font>
+      <font color="#3296fa">R: 07 Jule 2013 </font>
+    </p>
+    <p>
+      <font color="#3296fa">C: 06 January 2015</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1409596869506" ID="ID_115082791" MODIFIED="1409596945998">
+<node CREATED="1409596869506" ID="ID_115082791" MODIFIED="1432969996870">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18028,12 +18032,19 @@
       <b>Fedora 20 Heisenbug </b>
     </p>
     <p>
-      <i><font color="#3296fa">R: 17&#xa0;December 2013</font></i>
+      <font size="2">K: &#160;3.11 </font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">R: 17&#160;December 2013 </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">C: 29 June 2015</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1418479374074" FOLDED="true" ID="ID_814791443" MODIFIED="1429355991229">
+<node CREATED="1418479374074" FOLDED="true" ID="ID_814791443" MODIFIED="1432970004533">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18043,14 +18054,19 @@
       <b>Fedora 21</b>&#160;
     </p>
     <p>
-      <i><font color="#3296fa">R: 9 December 2014</font></i>
+      <font size="2">Kl: 3.17 </font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">R: 9 December 2014</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1418479567732" ID="ID_1861865169" MODIFIED="1418479597969" TEXT="Fedora 21 Cloud"/>
 <node CREATED="1418479598388" ID="ID_1862014829" MODIFIED="1418479604992" TEXT="Fedora 21 Server"/>
 <node CREATED="1418479605347" ID="ID_973936441" MODIFIED="1418479610737" TEXT="Fedora 21 Workstation"/>
 </node>
+<node CREATED="1432969746158" ID="ID_639242016" MODIFIED="1432969749819" TEXT="Fedora 22"/>
 </node>
 </node>
 <node CREATED="1401662434827" FOLDED="true" ID="ID_1912810427" MODIFIED="1431283858454">
@@ -18199,7 +18215,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399318586473" ID="ID_738912851" MODIFIED="1431723880811" STYLE="fork">
+<node COLOR="#329632" CREATED="1399318586473" FOLDED="true" ID="ID_738912851" MODIFIED="1432969735265" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18654,7 +18670,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1431723889946" ID="ID_462044147" MODIFIED="1431723980843">
+<node CREATED="1431723889946" FOLDED="true" ID="ID_462044147" MODIFIED="1432980648951">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18791,7 +18807,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403217454503" ID="ID_1724703132" LINK="http://www.ekaaty.org/en/" MODIFIED="1431725123275" STYLE="fork">
+<node CREATED="1403217454503" FOLDED="true" ID="ID_1724703132" LINK="http://www.ekaaty.org/en/" MODIFIED="1432980648951" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -18822,7 +18838,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1408395894910" ID="ID_648858649" MODIFIED="1431725123280" TEXT="About Ekaaty Linux">
+<node CREATED="1408395894910" FOLDED="true" ID="ID_648858649" MODIFIED="1432980648951" TEXT="About Ekaaty Linux">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -23853,7 +23869,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399808438207" ID="ID_65490118" LINK="http://www.ltsp.org/" MODIFIED="1431723684883" STYLE="fork">
+<node CREATED="1399808438207" FOLDED="true" ID="ID_65490118" LINK="http://www.ltsp.org/" MODIFIED="1432980648952" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -24124,7 +24140,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1431723428902" ID="ID_1234628305" LINK="http://www.voidlinux.eu/" MODIFIED="1431723557792">
+<node CREATED="1431723428902" FOLDED="true" ID="ID_1234628305" LINK="http://www.voidlinux.eu/" MODIFIED="1432980648952">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26662,7 +26678,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399812359681" FOLDED="true" ID="ID_531095719" MODIFIED="1429355991286" POSITION="left">
+<node CREATED="1399812359681" FOLDED="true" ID="ID_531095719" MODIFIED="1432965592444" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26674,81 +26690,8 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1400097147474" ID="ID_326632009" LINK="http://bochs.sourceforge.net/" MODIFIED="1413923592654" TEXT="Bochs"/>
-<node CREATED="1399812401216" ID="ID_1328039407" MODIFIED="1399812404879" TEXT="Citrix"/>
-<node CREATED="1402145652303" ID="ID_1006640391" LINK="http://www.linux-kvm.org/page/Main_Page" MODIFIED="1411231309236">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>KVM </b><img src="../icons/kvm.png" />
-    </p>
-    <p>
-      2007
-    </p>
-    <p>
-      Kernel-base Virtual Machine
-    </p>
-    <p>
-      [<font color="#3296fa">Qumranet</font>]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1411229895646" FOLDED="true" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1429355991284">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Libvirt </b><img src="../icons/libvirt.png" />
-    </p>
-    <p>
-      2005
-    </p>
-    <p>
-      [ <font color="#3296fa">Red Hat</font>&#160;]
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1411231317767" FOLDED="true" ID="ID_1791203185" MODIFIED="1429355991284" TEXT="Supported Hypervisors">
-<node CREATED="1411231327926" ID="ID_448196165" MODIFIED="1411231330883" TEXT="LXC"/>
-<node CREATED="1411231331734" ID="ID_63054238" MODIFIED="1411231335380" TEXT="OpenVZ"/>
-<node CREATED="1411231336134" ID="ID_775799397" MODIFIED="1411231348467" TEXT="QEMU/KVM"/>
-<node CREATED="1411231350166" ID="ID_405120439" MODIFIED="1411231352179" TEXT="Xen"/>
-<node CREATED="1411231352645" ID="ID_1512642071" MODIFIED="1411231354803" TEXT="UML"/>
-<node CREATED="1411231355558" ID="ID_315496564" MODIFIED="1411231359539" TEXT="VirtualBox"/>
-<node CREATED="1411231360374" ID="ID_93641193" MODIFIED="1411231365203" TEXT="VMware ESX"/>
-<node CREATED="1411231365558" ID="ID_1522162693" MODIFIED="1411231375090" TEXT="VMware Workstation"/>
-<node CREATED="1411231375574" ID="ID_899006144" MODIFIED="1411231378386" TEXT="Hyper-V"/>
-<node CREATED="1411231379142" ID="ID_1687370611" MODIFIED="1411231383283" TEXT="PowerVM"/>
-<node CREATED="1411231383653" ID="ID_956575957" MODIFIED="1411231393666" TEXT="Parallels Worsktation"/>
-<node CREATED="1411231394486" ID="ID_498941352" MODIFIED="1411231404770" TEXT="Bhyve"/>
-</node>
-<node CREATED="1420936519780" FOLDED="true" ID="ID_1092678385" MODIFIED="1429355991284" TEXT="Interfaces">
-<node CREATED="1420936525298" ID="ID_843409848" MODIFIED="1420936527168" TEXT="VMM"/>
-</node>
-</node>
-<node CREATED="1400097159409" ID="ID_247371181" MODIFIED="1400097167295" TEXT="Microsoft Virtual PC"/>
-<node CREATED="1411150005401" ID="ID_413532873" LINK="http://openvz.org/Main_Page" MODIFIED="1411150202202">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>OpenVZ</b><img src="../icons/openvz.png" />
-    </p>
-    <p>
-      2005
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1411231471220" ID="ID_1339604604" LINK="http://www.ovirt.org/Home" MODIFIED="1411231478587" TEXT="oVirt"/>
+<node CREATED="1432964940123" FOLDED="true" ID="ID_1713002818" MODIFIED="1432965175762" TEXT="Back End">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812417888" ID="ID_1810489846" LINK="https://www.virtualbox.org/" MODIFIED="1420931732352">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -26764,8 +26707,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411162290913" ID="ID_1086688464" MODIFIED="1411162295278" TEXT="PowerVM"/>
-<node CREATED="1400097170673" FOLDED="true" ID="ID_1071457767" LINK="http://wiki.qemu.org/Main_Page" MODIFIED="1429355991285">
+<node CREATED="1400097170673" FOLDED="true" ID="ID_1071457767" LINK="http://wiki.qemu.org/Main_Page" MODIFIED="1432963941527">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26775,14 +26717,14 @@
       <b>QEMU </b><img src="../icons/qemu.png" />
     </p>
     <p>
-      <i><font color="#3296fa">Fabrice Bellard </font></i>
+      <i><font color="#3296fa" size="2">Fabrice Bellard </font></i>
     </p>
     <p>
-      <i><font color="#3296fa">Anthony Liguori, Paul Brook </font></i>
+      <i><font color="#3296fa" size="2">Anthony Liguori, Paul Brook </font></i>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_355797914" MODIFIED="1429355991285">
+<node CREATED="1402184349896" FOLDED="true" ID="ID_355797914" MODIFIED="1432980648953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26845,26 +26787,26 @@
 <node CREATED="1420932086087" ID="ID_1668105556" MODIFIED="1420932087958" TEXT="-name"/>
 </node>
 </node>
-<node CREATED="1399812413264" ID="ID_283358338" MODIFIED="1399812416527" TEXT="Sun xVM"/>
-<node CREATED="1411162283756" ID="ID_1104557325" MODIFIED="1411162285471" TEXT="UML"/>
-<node CREATED="1399812405280" ID="ID_661350637" MODIFIED="1399812412847" TEXT="Virtual iron"/>
-<node CREATED="1411231488372" FOLDED="true" ID="ID_493345248" MODIFIED="1429355991285" TEXT="VMware">
-<node CREATED="1399812381793" ID="ID_434558045" LINK="http://www.vmware.com/products/esxi-and-esx/overview" MODIFIED="1411230255775">
+<node CREATED="1402145652303" ID="ID_1006640391" LINK="http://www.linux-kvm.org/page/Main_Page" MODIFIED="1432932149834">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>VMware ESX </b>
+      <b>KVM </b><img src="../icons/kvm.png" />
     </p>
     <p>
-      [<font color="#3296fa">VMware</font>]
+      2007
+    </p>
+    <p>
+      <font size="2">Kernel-base Virtual Machine </font>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">Qumranet </font><font size="2">]</font>
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1411231498372" ID="ID_273612781" MODIFIED="1411231503681" TEXT="VMware Workstation"/>
 </node>
 <node CREATED="1399812370225" FOLDED="true" ID="ID_1875530613" LINK="http://www.xenproject.org/" MODIFIED="1429355991285">
 <richcontent TYPE="NODE"><html>
@@ -26940,8 +26882,179 @@
 </node>
 </node>
 </node>
-<node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1420935808883" TEXT="VMM"/>
+</node>
+<node CREATED="1400097147474" ID="ID_326632009" LINK="http://bochs.sourceforge.net/" MODIFIED="1432965348946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Bochs</b>&#160;<img src="../icons/bochs.png" />
+    </p>
+    <p>
+      1994
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Kevin Lawton </font></i>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">Mandriva</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1399812401216" ID="ID_1328039407" MODIFIED="1399812404879" TEXT="Citrix"/>
+<node CREATED="1432963706641" FOLDED="true" ID="ID_1333428185" LINK="https://wiki.gnome.org/action/show/Apps/Boxes?action=show&amp;redirect=Boxes" MODIFIED="1432963946888">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>GNOME Boxes</b>&#160;<img src="../icons/gnome_boxes.png" />
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1432963798111" FOLDED="true" ID="ID_498724348" MODIFIED="1432963939480">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      developers <img src="../icons/people.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#3296fa" CREATED="1432963858820" ID="ID_74331619" MODIFIED="1432963934346" STYLE="fork" TEXT="Alexander Larsson">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1432963858820" ID="ID_238117614" LINK="https://wiki.gnome.org/MarcAndreLureau" MODIFIED="1432963934349" STYLE="fork" TEXT="Marc-Andr&#xe9; Lureau">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1432963858820" ID="ID_308130872" MODIFIED="1432963934348" STYLE="fork" TEXT="Zeeshan Ali (Khattak)">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1432963858821" ID="ID_1133910259" MODIFIED="1432963934347" STYLE="fork" TEXT="Christophe Fergeau">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1411229895646" FOLDED="true" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1432965424382">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Libvirt </b><img src="../icons/libvirt.png" />
+    </p>
+    <p>
+      2005
+    </p>
+    <p>
+      [ <font color="#3296fa">Red Hat</font>&#160;]
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1411231317767" FOLDED="true" ID="ID_1791203185" MODIFIED="1432932162726" TEXT="Supported Hypervisors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1411231327926" ID="ID_448196165" MODIFIED="1411231330883" TEXT="LXC"/>
+<node CREATED="1411231331734" ID="ID_63054238" MODIFIED="1411231335380" TEXT="OpenVZ"/>
+<node CREATED="1411231336134" ID="ID_775799397" MODIFIED="1411231348467" TEXT="QEMU/KVM"/>
+<node CREATED="1411231350166" ID="ID_405120439" MODIFIED="1411231352179" TEXT="Xen"/>
+<node CREATED="1411231352645" ID="ID_1512642071" MODIFIED="1411231354803" TEXT="UML"/>
+<node CREATED="1411231355558" ID="ID_315496564" MODIFIED="1411231359539" TEXT="VirtualBox"/>
+<node CREATED="1411231360374" ID="ID_93641193" MODIFIED="1411231365203" TEXT="VMware ESX"/>
+<node CREATED="1411231365558" ID="ID_1522162693" MODIFIED="1411231375090" TEXT="VMware Workstation"/>
+<node CREATED="1411231375574" ID="ID_899006144" MODIFIED="1411231378386" TEXT="Hyper-V"/>
+<node CREATED="1411231379142" ID="ID_1687370611" MODIFIED="1411231383283" TEXT="PowerVM"/>
+<node CREATED="1411231383653" ID="ID_956575957" MODIFIED="1411231393666" TEXT="Parallels Worsktation"/>
+<node CREATED="1411231394486" ID="ID_498941352" MODIFIED="1411231404770" TEXT="Bhyve"/>
+</node>
+<node CREATED="1420936519780" FOLDED="true" ID="ID_1092678385" MODIFIED="1432980648953" TEXT="Interfaces">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1420936525298" ID="ID_843409848" MODIFIED="1420936527168" TEXT="VMM"/>
+</node>
+</node>
+<node CREATED="1432964639249" ID="ID_1938126957" LINK="https://mesos.apache.org/" MODIFIED="1432964810931">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Mesos </b><img src="../icons/mesos.png" />
+    </p>
+    <p>
+      2011 <font color="#fa0000">US</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1400097159409" ID="ID_247371181" MODIFIED="1400097167295" TEXT="Microsoft Virtual PC"/>
+<node CREATED="1411150005401" ID="ID_413532873" LINK="http://openvz.org/Main_Page" MODIFIED="1432965433601">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>OpenVZ </b><img src="../icons/openvz.png" />
+    </p>
+    <p>
+      2005
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1411231471220" ID="ID_1339604604" LINK="http://www.ovirt.org/Home" MODIFIED="1411231478587" TEXT="oVirt"/>
 <node CREATED="1411231383653" ID="ID_348571407" MODIFIED="1411231393666" TEXT="Parallels Worsktation"/>
+<node CREATED="1411162290913" ID="ID_1086688464" MODIFIED="1411162295278" TEXT="PowerVM"/>
+<node CREATED="1399812413264" ID="ID_283358338" MODIFIED="1399812416527" TEXT="Sun xVM"/>
+<node CREATED="1411162283756" ID="ID_1104557325" MODIFIED="1411162285471" TEXT="UML"/>
+<node CREATED="1399812405280" ID="ID_661350637" MODIFIED="1399812412847" TEXT="Virtual iron"/>
+<node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1432964462848">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>VMM&#160;</b><img src="../icons/virtual_machine_manager.png" />
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">Red Hat</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411231488372" FOLDED="true" ID="ID_493345248" MODIFIED="1432932009082" TEXT="VMware">
+<node CREATED="1399812381793" ID="ID_434558045" LINK="http://www.vmware.com/products/esxi-and-esx/overview" MODIFIED="1411230255775">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>VMware ESX </b>
+    </p>
+    <p>
+      [<font color="#3296fa">VMware</font>]
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411231498372" ID="ID_273612781" MODIFIED="1411231503681" TEXT="VMware Workstation"/>
+</node>
 </node>
 <node CREATED="1401313421636" FOLDED="true" ID="ID_149771912" MODIFIED="1429355991286" POSITION="left">
 <richcontent TYPE="NODE"><html>

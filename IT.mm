@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1431365452764" ID="ID_1921554392" MODIFIED="1432326860268" TEXT="IT">
-<node CREATED="1432326860260" ID="ID_118448653" LINK="file:/home/sharlatan/Projects/my-GitHub/IT-mm/maps/arch.mm" MODIFIED="1432326860260" POSITION="left" TEXT="arch.mm"/>
+<node CREATED="1432326860260" ID="ID_118448653" LINK="file:/home/sharlatan/Projects/my-GitHub/IT-mm/maps/arch.mm" MODIFIED="1432326860260" POSITION="right" TEXT="arch.mm"/>
 <node CREATED="1432326860263" ID="ID_1096628644" LINK="file:/home/sharlatan/Projects/my-GitHub/IT-mm/maps/bash.mm" MODIFIED="1432326860264" POSITION="left" TEXT="bash.mm"/>
 <node CREATED="1432326860265" ID="ID_1312024042" LINK="file:/home/sharlatan/Projects/my-GitHub/IT-mm/maps/c.mm" MODIFIED="1432326860265" POSITION="left" TEXT="c.mm"/>
 <node CREATED="1432326860259" ID="ID_1601374202" LINK="file:/home/sharlatan/Projects/my-GitHub/IT-mm/maps/cli.mm" MODIFIED="1432326860259" POSITION="left" TEXT="cli.mm"/>

@@ -541,13 +541,13 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1431778028830" ID="ID_38936137" MODIFIED="1432332244763" POSITION="left" TEXT="servers">
+<node CREATED="1431778028830" FOLDED="true" ID="ID_38936137" MODIFIED="1432753156690" POSITION="left" TEXT="servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1431778434056" ID="ID_1338529970" MODIFIED="1431778448359" TEXT="Proxy servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1431778085661" ID="ID_1338893350" LINK="http://www.squid-cache.org/" MODIFIED="1431778445800" TEXT="squid"/>
 </node>
-<node CREATED="1431778418536" ID="ID_1110820607" MODIFIED="1432333328473" TEXT="Web Servers">
+<node CREATED="1431778418536" FOLDED="true" ID="ID_1110820607" MODIFIED="1432753155146" TEXT="Web Servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1431778096125" FOLDED="true" ID="ID_1750077800" LINK="http://nginx.org/" MODIFIED="1432333340589">
 <richcontent TYPE="NODE"><html>
@@ -779,7 +779,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1432331119391" POSITION="right">
+<node CREATED="1415451421836" ID="ID_1916043396" MODIFIED="1432980871253" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -816,7 +816,24 @@
 </html></richcontent>
 </node>
 <node CREATED="1415452052754" ID="ID_697094265" MODIFIED="1415452054975" TEXT="Catalyst"/>
-<node CREATED="1414629413574" FOLDED="true" ID="ID_1844300681" MODIFIED="1432318943463" TEXT="CMS">
+<node CREATED="1414629413574" FOLDED="true" ID="ID_1844300681" MODIFIED="1432980924099">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>CMS</b>
+    </p>
+    <p>
+      <font size="2">content management </font>
+    </p>
+    <p>
+      <font size="2">system</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -827,7 +844,7 @@
     </p>
   </body>
 </html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415449371516" ID="ID_596205427" LINK="https://www.drupal.org/" MODIFIED="1415449875381">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1003,7 +1020,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415445361931" ID="ID_1383673651" LINK="https://typo3.org/" MODIFIED="1415450194240">
+<node CREATED="1415445361931" ID="ID_1383673651" LINK="https://typo3.org/" MODIFIED="1432980687976">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1016,13 +1033,14 @@
       1998
     </p>
     <p>
-      <i><font color="#3296fa">Kasper Sk&#229;rh&#248;j </font></i>
+      <i><font color="#3296fa" size="2">Kasper Sk&#229;rh&#248;j </font></i>
     </p>
     <p>
-      GPL | PHP, SQL, JavaScript
+      <font size="2">GPL | PHP</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1415405129953" FOLDED="true" ID="ID_245694098" LINK="https://wordpress.org/" MODIFIED="1429311029296">
 <richcontent TYPE="NODE"><html>
@@ -1126,13 +1144,48 @@
 </node>
 </node>
 <node CREATED="1425250306692" ID="ID_1212872432" MODIFIED="1425250309537" TEXT="OpenCart"/>
+<node CREATED="1432980894569" MODIFIED="1432980894569">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>C</b>ontent <b>M</b>anagement <b>S</b>ystem
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1415452082338" ID="ID_800926711" MODIFIED="1415452087359" TEXT="Grails"/>
+</node>
+<node CREATED="1415452082338" ID="ID_800926711" LINK="https://grails.org/" MODIFIED="1432981727552">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Grails </b><img src="../icons/grails.png" />
+    </p>
+    <p>
+      2006
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Graeme Rocher</i></font>
+    </p>
+    <p>
+      <font size="2">Apache | Groovy</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1415452066658" ID="ID_277225078" MODIFIED="1415452071695" TEXT="Mojolicious"/>
 <node CREATED="1415452038803" ID="ID_698151028" MODIFIED="1415452043423" TEXT="OpenACS"/>
 <node CREATED="1415451627657" ID="ID_621542542" MODIFIED="1415451631686" TEXT="Play"/>
-<node CREATED="1415452188736" FOLDED="true" ID="ID_1768888654" MODIFIED="1432322773141" TEXT="Push-based">
+<node CREATED="1415452188736" ID="ID_1768888654" MODIFIED="1432980954000" TEXT="Push-based">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node CREATED="1415451657176" ID="ID_854097640" MODIFIED="1415451666389" TEXT="Struts"/>
 <node CREATED="1415451712200" ID="ID_1767449498" LINK="https://www.djangoproject.com/" MODIFIED="1418502158328">
 <richcontent TYPE="NODE"><html>
@@ -1176,6 +1229,51 @@
 <node CREATED="1415451559946" ID="ID_554977137" MODIFIED="1415451634710" TEXT="Spring"/>
 <node CREATED="1415451579338" ID="ID_1867907585" MODIFIED="1415451581638" TEXT="Stripes"/>
 <node CREATED="1415452252447" ID="ID_1470973482" MODIFIED="1415452257260" TEXT="CodeIgniter"/>
+<node CREATED="1432980967552" ID="ID_601462725" MODIFIED="1432980974752" TEXT="e-Commerce">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1432981287691" ID="ID_128680090" LINK="http://www.oscommerce.com/" MODIFIED="1432981478293">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>OsCommerce </b><img src="../icons/oscommerce.png" />
+    </p>
+    <p>
+      2000
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Harald Ponce de Leon</i></font>
+    </p>
+    <p>
+      <font size="2">GNU | PHP</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1432981483528" ID="ID_1282465157" MODIFIED="1432981487477" TEXT="derived">
+<node CREATED="1432980975295" ID="ID_87254195" LINK="https://www.zen-cart.com/" MODIFIED="1432981448084">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Zen Cart</b>&#160;<img src="../icons/zen_cart.png" />
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <font size="2">GPL | PHP</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
 <node CREATED="1418501937877" ID="ID_465257643" LINK="http://flask.pocoo.org/" MODIFIED="1418502108499">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1197,8 +1295,49 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1432753200855" FOLDED="true" ID="ID_976199932" MODIFIED="1432980878683">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>SSG</b>
+    </p>
+    <p>
+      <font size="2">static site generator</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1432753229063" ID="ID_217151091" LINK="http://gohugo.io/" MODIFIED="1432753273001">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Hugo</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1432753233047" ID="ID_1693312243" LINK="https://github.com/spf13/hugo" MODIFIED="1432753255565">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1415833811365" ID="ID_59430027" LINK="https://tapestry.apache.org/" MODIFIED="1415834085409">
+</node>
+</node>
+<node CREATED="1415833811365" ID="ID_59430027" LINK="https://tapestry.apache.org/" MODIFIED="1432981462244">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1211,13 +1350,14 @@
       2000
     </p>
     <p>
-      Apache | Java
+      <font size="2">Apache | Java </font>
     </p>
     <p>
-      <i><font color="#3296fa">Howard Lewis Ship</font></i>
+      <i><font color="#3296fa" size="2">Howard Lewis Ship</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1415452023298" ID="ID_667723696" MODIFIED="1415452028192" TEXT="web2py"/>
 <node CREATED="1415451990291" ID="ID_1174680235" MODIFIED="1415452000144" TEXT="WebObjects"/>

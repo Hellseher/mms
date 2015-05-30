@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1429311483957">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1432981996935">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11,6 +11,20 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages" target="_blank">Timeline of programming languages (wiki) </a>
+    </p>
+    <p>
+      <a href="http://rosettacode.org/wiki/Rosetta_Code" target="_blank">Rosetta Code</a>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1399828711389" FOLDED="true" ID="ID_1268856589" MODIFIED="1429311483943" POSITION="left" TEXT="Mac API">
 <node CREATED="1399828718045" ID="ID_1410829608" MODIFIED="1399828720315" TEXT="Cocoa"/>
 <node CREATED="1399828720733" ID="ID_260258861" MODIFIED="1399828724859" TEXT="Carbon"/>
@@ -52,7 +66,7 @@
 <node CREATED="1399851555466" ID="ID_1584953736" MODIFIED="1399851558280" TEXT="Win32s"/>
 <node CREATED="1399851560058" ID="ID_415377549" MODIFIED="1399851564057" TEXT="Win64"/>
 </node>
-<node CREATED="1420241736096" ID="ID_487791167" MODIFIED="1432328028508" POSITION="right" TEXT="Families ">
+<node CREATED="1420241736096" FOLDED="true" ID="ID_487791167" MODIFIED="1432981886540" POSITION="right" TEXT="Families ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417279334489" FOLDED="true" ID="ID_693855860" MODIFIED="1430161627199" TEXT="Markup language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1137,6 +1151,54 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1432679026846" ID="ID_718746171" MODIFIED="1432679041532">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ML</b>
+    </p>
+    <p>
+      1973
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1432679042334" ID="ID_1134287192" MODIFIED="1432679091754">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>F# </b><img src="../icons/f_sharp.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1432981745556" ID="ID_19907479" LINK="http://groovy-lang.org/" MODIFIED="1432981811328">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Groovy</b>
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <font size="2" color="#3296fa"><i>James Strachan</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1417986585330" FOLDED="true" ID="ID_370572784" MODIFIED="1432327790448" POSITION="right" TEXT="Components">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1256,7 +1318,7 @@
 <node CREATED="1426978626568" ID="ID_1878644229" MODIFIED="1426978634325" TEXT="defn"/>
 </node>
 </node>
-<node CREATED="1418255896436" FOLDED="true" ID="ID_1230031090" MODIFIED="1429311483957" POSITION="right" TEXT="Paradigms">
+<node CREATED="1418255896436" FOLDED="true" ID="ID_1230031090" MODIFIED="1432981879732" POSITION="right" TEXT="Paradigms">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418255907587" FOLDED="true" ID="ID_1570148247" MODIFIED="1429311483957" TEXT="OOP">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
