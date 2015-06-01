@@ -175,7 +175,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" FOLDED="true" ID="ID_82536923" MODIFIED="1432931981235" POSITION="right" TEXT="cmd">
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1433194067947" POSITION="right" TEXT="cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1432755536813" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -794,8 +794,7 @@
       Config <img src="../icons/hardware.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407702242914" ID="ID_1775988938" MODIFIED="1432755294499">
 <richcontent TYPE="NODE"><html>
@@ -813,8 +812,7 @@
       <font color="#3296fa" size="2"><i>ring buffer</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408999084781" FOLDED="true" ID="ID_457472167" MODIFIED="1432755301345">
 <richcontent TYPE="NODE"><html>
@@ -829,8 +827,7 @@
       <font color="#3296fa" size="2"><i>read or set the hard drive parameters</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1408999527338" ID="ID_1148110397" MODIFIED="1408999533083" TEXT="-I"/>
 <node CREATED="1408999711833" ID="ID_288636341" MODIFIED="1408999732374">
 <richcontent TYPE="NODE"><html>
@@ -1032,8 +1029,7 @@
       help&#160;&#160;<img src="../icons/doc.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399410550814" ID="ID_931554174" MODIFIED="1399410567123">
 <richcontent TYPE="NODE"><html>
@@ -1135,8 +1131,7 @@
       <font size="2">file system</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398811598128" FOLDED="true" ID="ID_125872665" MODIFIED="1429311610813">
@@ -1530,8 +1525,7 @@
       <i><font color="#3296fa" size="2">&amp; directories</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1398812769080" ID="ID_521787519" MODIFIED="1432760064872">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1545,8 +1539,7 @@
       <i><font color="#3296fa" size="2">prompt before removal</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398812872055" ID="ID_1022358627" MODIFIED="1432760052720">
 <richcontent TYPE="NODE"><html>
@@ -1558,8 +1551,7 @@
       <b>-f --force</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1399839827850" ID="ID_760941492" MODIFIED="1432760072328">
 <richcontent TYPE="NODE"><html>
@@ -1577,8 +1569,7 @@
       <font color="#3296fa" size="2"><i>and their contents recursively</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1399410074274" ID="ID_291552236" MODIFIED="1399839712484">
@@ -1928,8 +1919,7 @@
       image <img src="../icons/image.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413926022370" FOLDED="true" ID="ID_801965852" MODIFIED="1429311610817" TEXT="Imagemagick">
 <node CREATED="1413926049217" ID="ID_1686518674" MODIFIED="1413926054015" TEXT="identify"/>
@@ -1946,8 +1936,7 @@
       audio <img src="../icons/audio.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416668037247" ID="ID_1707022181" MODIFIED="1416668040268" TEXT="pacmd"/>
 <node CREATED="1416668336714" ID="ID_1729445529" MODIFIED="1416668344824" TEXT="arecord, aplay"/>
@@ -1963,8 +1952,7 @@
       network <img src="../icons/network.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1410818626928" ID="ID_1632288072" MODIFIED="1416954678949">
 <richcontent TYPE="NODE"><html>
@@ -2355,7 +2343,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1432326964357">
+<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1433020987590">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2367,7 +2355,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399410573215" ID="ID_1329724197" MODIFIED="1432246088946">
+<node CREATED="1399410573215" ID="ID_1329724197" MODIFIED="1433197191172">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2378,58 +2366,6 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1407797975023" ID="ID_1185175125" MODIFIED="1409411127836">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-exec</b>&#xa0;<i>command</i>&#xa0;{} \;
-    </p>
-    <p>
-      <i><font color="#3296fa">run the command on </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">each file matched by find</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1404661855791" ID="ID_919532559" MODIFIED="1404661866318" TEXT="-group">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1407797674193" ID="ID_1196059735" MODIFIED="1407797687647">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      -<b>iname</b>&#xa0;<i>patern</i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1404661809824" ID="ID_1063421285" MODIFIED="1407797650209">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-name</b>&#xa0;<i>patern</i>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1406497161411" ID="ID_240802271" MODIFIED="1406497168136" TEXT="-newermt"/>
-<node CREATED="1407798068046" ID="ID_709999071" MODIFIED="1407798071325" TEXT="-ok"/>
-<node CREATED="1406586632479" ID="ID_1946803425" MODIFIED="1406586645502" TEXT="-perm">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1421189795446" ID="ID_766688295" MODIFIED="1432246088965" TEXT="CookBook">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2481,7 +2417,57 @@
       <b>~$: find ./ -type f -exec grep &quot;&lt;string&gt;&quot; {} /dev/null \;</b>
     </p>
   </body>
+</html>
+</richcontent>
+<node CREATED="1407797975023" ID="ID_1185175125" MODIFIED="1409411127836">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-exec</b>&#xa0;<i>command</i>&#xa0;{} \;
+    </p>
+    <p>
+      <i><font color="#3296fa">run the command on </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">each file matched by find</font></i>
+    </p>
+  </body>
 </html></richcontent>
+</node>
+<node CREATED="1404661855791" ID="ID_919532559" MODIFIED="1404661866318" TEXT="-group">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1407797674193" ID="ID_1196059735" MODIFIED="1407797687647">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -<b>iname</b>&#xa0;<i>patern</i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1404661809824" ID="ID_1063421285" MODIFIED="1407797650209">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-name</b>&#xa0;<i>patern</i>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1406497161411" ID="ID_240802271" MODIFIED="1406497168136" TEXT="-newermt"/>
+<node CREATED="1407798068046" ID="ID_709999071" MODIFIED="1407798071325" TEXT="-ok"/>
+<node CREATED="1406586632479" ID="ID_1946803425" MODIFIED="1406586645502" TEXT="-perm">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1404661871854" FOLDED="true" ID="ID_1273135729" MODIFIED="1429311610819" TEXT="-size">
@@ -2841,8 +2827,7 @@
       test <img src="../icons/test_and_repair.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408998371666" FOLDED="true" ID="ID_261247798" MODIFIED="1429311610821">
 <richcontent TYPE="NODE"><html>
@@ -3021,8 +3006,7 @@
       text <img src="../icons/text.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399667479631" ID="ID_983597464" MODIFIED="1411332536851">
 <richcontent TYPE="NODE"><html>
@@ -3726,8 +3710,7 @@
       <font size="2">user environment</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414888493253" ID="ID_1388367841" MODIFIED="1429654643937" TEXT="Attributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

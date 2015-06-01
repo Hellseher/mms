@@ -13,8 +13,7 @@
       <font size="2">w3.org</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1415405892036" FOLDED="true" ID="ID_64918932" MODIFIED="1432332228036" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -31,8 +30,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Netscape &gt; Mozilla</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1415406087569" FOLDED="true" ID="ID_1064823589" MODIFIED="1432331720363" TEXT="lib">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432330212296" ID="ID_1260619625" LINK="http://backbonejs.org/" MODIFIED="1432330527825">
@@ -72,8 +70,7 @@
       <font color="#3296fa" size="2"><i>Joe Walker</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415406007427" ID="ID_846616708" LINK="http://jsphp.co/javascript/php/page/home" MODIFIED="1432331268109">
 <richcontent TYPE="NODE"><html>
@@ -91,8 +88,7 @@
       <font color="#3296fa" size="2"><i>Kevin van Zonneveld</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415833611384" ID="ID_1614676823" LINK="http://openrico.sourceforge.net/examples/index.html" MODIFIED="1415833701407" TEXT="Pico"/>
 <node CREATED="1415405992066" ID="ID_400065694" LINK="http://prototypejs.org/" MODIFIED="1432331418616">
@@ -172,8 +168,7 @@
       <i><font color="#3296fa" size="2">Alex Russell</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432328371252" ID="ID_1182564082" LINK="https://github.com/dojo/dojo" MODIFIED="1432331863708">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -566,8 +561,7 @@
       <i><font color="#3296fa" size="2">Igor Sysoev</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1431778298890" ID="ID_1165964147" LINK="https://github.com/nginx/nginx" MODIFIED="1431778336956">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -603,8 +597,7 @@
       <font size="2">C/C++, XML</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414790643234" ID="ID_1218189159" LINK="https://hadoop.apache.org/" MODIFIED="1432333354005">
 <richcontent TYPE="NODE"><html>
@@ -622,8 +615,7 @@
       <i><font color="#3296fa" size="2">Doug Cutting</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1432321002886" ID="ID_1371773763" MODIFIED="1432321334113">
@@ -654,8 +646,7 @@
       <i><font size="2" color="#3296fa">Andrew Aksyonoff</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414628742448" ID="ID_450116671" LINK="http://www.elasticsearch.org/" MODIFIED="1432332780590">
 <richcontent TYPE="NODE"><html>
@@ -673,8 +664,7 @@
       <i><font color="#3296fa" size="2">Shay Banon</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432321244562" ID="ID_1939034232" LINK="https://lucene.apache.org/" MODIFIED="1432332958379">
 <richcontent TYPE="NODE"><html>
@@ -696,8 +686,7 @@
       <font size="2">Apache | Java</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432332983182" ID="ID_3787520" LINK="https://lucene.apache.org/solr/" MODIFIED="1432333211351">
 <richcontent TYPE="NODE"><html>
@@ -718,8 +707,7 @@
       <font size="2">Java</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414628885054" ID="ID_1632387169" LINK="http://yacy.net/" MODIFIED="1414629110494" TEXT="YaCy"/>
 </node>
@@ -779,7 +767,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1415451421836" ID="ID_1916043396" MODIFIED="1432980871253" POSITION="right">
+<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1433197394681" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -832,8 +820,7 @@
       <font size="2">system</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1039,8 +1026,7 @@
       <font size="2">GPL | PHP</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415405129953" FOLDED="true" ID="ID_245694098" LINK="https://wordpress.org/" MODIFIED="1429311029296">
 <richcontent TYPE="NODE"><html>
@@ -1154,8 +1140,7 @@
       <b>C</b>ontent <b>M</b>anagement <b>S</b>ystem
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1415452082338" ID="ID_800926711" LINK="https://grails.org/" MODIFIED="1432981727552">
@@ -1177,8 +1162,7 @@
       <font size="2">Apache | Groovy</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415452066658" ID="ID_277225078" MODIFIED="1415452071695" TEXT="Mojolicious"/>
 <node CREATED="1415452038803" ID="ID_698151028" MODIFIED="1415452043423" TEXT="OpenACS"/>
@@ -1250,8 +1234,7 @@
       <font size="2">GNU | PHP</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432981483528" ID="ID_1282465157" MODIFIED="1432981487477" TEXT="derived">
 <node CREATED="1432980975295" ID="ID_87254195" LINK="https://www.zen-cart.com/" MODIFIED="1432981448084">
 <richcontent TYPE="NODE"><html>
@@ -1308,8 +1291,7 @@
       <font size="2">static site generator</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432753229063" ID="ID_217151091" LINK="http://gohugo.io/" MODIFIED="1432753273001">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1320,8 +1302,7 @@
       <b>Hugo</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432753233047" ID="ID_1693312243" LINK="https://github.com/spf13/hugo" MODIFIED="1432753255565">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1332,8 +1313,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1356,8 +1336,7 @@
       <i><font color="#3296fa" size="2">Howard Lewis Ship</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415452023298" ID="ID_667723696" MODIFIED="1415452028192" TEXT="web2py"/>
 <node CREATED="1415451990291" ID="ID_1174680235" MODIFIED="1415452000144" TEXT="WebObjects"/>
@@ -1453,6 +1432,45 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+</node>
+<node CREATED="1433197397168" ID="ID_683681515" MODIFIED="1433197422398" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>OWP</b>
+    </p>
+    <p>
+      <font size="2">open web platform</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1433197426335" ID="ID_1147823558" LINK="http://www.w3.org/TR/html5/" MODIFIED="1433197607422" TEXT="HTML5"/>
+<node CREATED="1433197432669" ID="ID_134595189" LINK="http://www.w3.org/Style/CSS/current-work#CSS3" MODIFIED="1433197618910" TEXT="CSS"/>
+<node CREATED="1433197436319" ID="ID_344485948" LINK="http://www.w3.org/TR/SVG/" MODIFIED="1433197521336" TEXT="SVG"/>
+<node CREATED="1433197439045" ID="ID_295475838" LINK="http://www.w3.org/TR/MathML/" MODIFIED="1433197540367" TEXT="MathML"/>
+<node CREATED="1433197443487" ID="ID_544594174" LINK="http://www.w3.org/TR/geolocation-API/" MODIFIED="1433197552367" TEXT="Geolocation"/>
+<node CREATED="1433197448530" ID="ID_1441323735" LINK="http://www.w3.org/TR/XMLHttpRequest/" MODIFIED="1433197564924" TEXT="XmlHttpRequest"/>
+<node CREATED="1433197455169" ID="ID_664282779" LINK="http://www.w3.org/TR/2dcontext/" MODIFIED="1433197579964" TEXT="Context 2D"/>
+<node CREATED="1433197460908" ID="ID_340388596" LINK="http://www.w3.org/TR/WOFF/" MODIFIED="1433197592948">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>WOFF</b>
+    </p>
+    <p>
+      <font size="2">web fonts</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1432329320907" POSITION="right">
@@ -1592,8 +1610,7 @@
       <font size="2">engine</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432322054084" ID="ID_1433106711" LINK="http://www.action4java.org/" MODIFIED="1432322695178">
 <richcontent TYPE="NODE"><html>
   <head>

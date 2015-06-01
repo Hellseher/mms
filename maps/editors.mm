@@ -22,8 +22,7 @@
       <font size="2">Python, C++</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1432323448830" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -44,8 +43,7 @@
       <font color="#3296fa" size="2"><i>Guy L. Steele</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1414183396275" ID="ID_568030618" LINK="http://www.xemacs.org/" MODIFIED="1414183902096" TEXT="XEmacs"/>
 </node>
 <node CREATED="1432323508191" ID="ID_892682292" MODIFIED="1432323674937" POSITION="right">
@@ -64,8 +62,7 @@
       <font size="2">GPL | Haskell</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432323678492" ID="ID_799225003" LINK="https://github.com/yi-editor/yi" MODIFIED="1432323705331">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -77,8 +74,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1412961654829" FOLDED="true" ID="ID_215248594" MODIFIED="1429311603446" POSITION="right">
@@ -206,9 +202,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1416428448424" FOLDED="true" ID="ID_1749732945" MODIFIED="1429311603448" POSITION="right" TEXT="Web">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1416428104494" ID="ID_268914109" LINK="http://brackets.io/" MODIFIED="1416428226993">
+<node CREATED="1416428104494" ID="ID_268914109" LINK="http://brackets.io/" MODIFIED="1416428226993" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -225,7 +219,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
 </node>
 <node CREATED="1416428481832" ID="ID_905843032" LINK="http://zedapp.org/" MODIFIED="1416428493307" POSITION="right" TEXT="zed"/>
 <node CREATED="1416428917537" ID="ID_1282392932" LINK="http://www.uvviewsoft.com/synwrite/" MODIFIED="1416428926403" POSITION="right" TEXT="SunWriter"/>
@@ -250,8 +243,7 @@
       GNU | C
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1409006545371" ID="ID_1190820197" LINK="https://wiki.gnome.org/Apps/Gedit" MODIFIED="1432324042150" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -269,8 +261,7 @@
       <font size="2">GPL | C, Python</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432323854377" FOLDED="true" ID="ID_1916766819" MODIFIED="1432324614688" TEXT="Developers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432323883643" MODIFIED="1432323883643" TEXT="Paolo Maggi"/>
@@ -406,8 +397,7 @@
       <b>Code::Blocks</b>&#160;<img src="../icons/code_blocks.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415906172005" FOLDED="true" ID="ID_539518007" LINK="http://www.visualstudio.com/" MODIFIED="1432323305845">
 <richcontent TYPE="NODE"><html>

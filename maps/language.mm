@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1432981996935">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1433197191251">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -693,8 +693,7 @@
       <font color="#3296fa" size="2"><i>Rasmus Lerdorf</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1414223115416" ID="ID_297107521" MODIFIED="1414223324612" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="548;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="212;0;"/>
@@ -736,8 +735,7 @@
       <i><font size="2" color="#3296fa">Brendan Eich</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1418257326877" ID="ID_549111796" MODIFIED="1418257328042" TEXT="&gt;"/>
 <node CREATED="1418257328461" ID="ID_1796491976" MODIFIED="1418257415021" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="347;0;"/>
@@ -757,8 +755,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1414790136105" FOLDED="true" ID="ID_1098741507" MODIFIED="1432328135674" TEXT="Smalltalk">
@@ -1164,8 +1161,7 @@
       1973
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432679042334" ID="ID_1134287192" MODIFIED="1432679091754">
 <richcontent TYPE="NODE"><html>
@@ -1177,8 +1173,7 @@
       <b>F# </b><img src="../icons/f_sharp.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432981745556" ID="ID_19907479" LINK="http://groovy-lang.org/" MODIFIED="1432981811328">
 <richcontent TYPE="NODE"><html>
@@ -1196,8 +1191,7 @@
       <font size="2" color="#3296fa"><i>James Strachan</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1417986585330" FOLDED="true" ID="ID_370572784" MODIFIED="1432327790448" POSITION="right" TEXT="Components">

@@ -345,6 +345,9 @@
 </node>
 <node CREATED="1432333490758" ID="ID_934295670" MODIFIED="1432333498646" POSITION="right" TEXT="VimL">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1433018227090" ID="ID_1515196430" MODIFIED="1433018230865" TEXT="let"/>
+<node CREATED="1433018231347" ID="ID_657167741" MODIFIED="1433018232750" TEXT="s:"/>
+<node CREATED="1433018233971" ID="ID_124032489" MODIFIED="1433018235407" TEXT="g:"/>
 </node>
 <node CREATED="1415908621760" FOLDED="true" ID="ID_327412549" MODIFIED="1432333508758" POSITION="left" TEXT="Cookbook">
 <richcontent TYPE="NOTE"><html>
@@ -1207,8 +1210,7 @@
       info <img src="../icons/info.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415908660415" ID="ID_1991821007" MODIFIED="1432333531849" TEXT="video">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

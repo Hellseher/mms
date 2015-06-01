@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397948184523" ID="ID_1885079368" MODIFIED="1432398552361">
+<node CREATED="1397948184523" ID="ID_1885079368" MODIFIED="1433186261320">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -53,10 +53,9 @@
       http://linux.die.net/ [Linux Documentation]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
-<node CREATED="1397991744737" ID="ID_1090358281" MODIFIED="1432398577143" POSITION="left">
+<node CREATED="1397991744737" FOLDED="true" ID="ID_1090358281" MODIFIED="1433186261318" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -68,7 +67,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398000469865" ID="ID_601416880" MODIFIED="1432398577169" TEXT="main">
+<node CREATED="1398000469865" FOLDED="true" ID="ID_601416880" MODIFIED="1433186261318" TEXT="main">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397992568734" ID="ID_176775557" MODIFIED="1397997028430">
 <richcontent TYPE="NODE"><html>
@@ -173,8 +172,7 @@
       <font color="#3296fa" size="2"><i>&#160;survive after it scope ends</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1397992537871" ID="ID_735536109" LINK="#ID_1724616284" MODIFIED="1403560393599">
 <richcontent TYPE="NODE"><html>
@@ -1251,7 +1249,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398115155444" ID="ID_1018283019" MODIFIED="1432399003489" POSITION="right" STYLE="fork">
+<node CREATED="1398115155444" FOLDED="true" ID="ID_1018283019" MODIFIED="1433186261320" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1264,8 +1262,7 @@
       <font size="2">C processor</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398115222148" ID="ID_119810307" MODIFIED="1432398986152" TEXT="#assert"/>
 <node CREATED="1398115228548" ID="ID_802385495" MODIFIED="1432398986152" TEXT="#elif"/>
@@ -1283,8 +1280,7 @@
       <i><font size="2" color="#3296fa">ends preprocessor conditional</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398115250227" ID="ID_1651484317" MODIFIED="1432398986152" TEXT="#error"/>
 <node CREATED="1398114663083" ID="ID_1243377047" MODIFIED="1432398986152">
@@ -1306,7 +1302,7 @@
 <node CREATED="1398115264611" ID="ID_1477564261" MODIFIED="1432398986152" TEXT="#if"/>
 <node CREATED="1398115273715" ID="ID_1995097654" MODIFIED="1432398986152" TEXT="#import"/>
 <node CREATED="1398115267827" ID="ID_398201929" MODIFIED="1432398986152" TEXT="#ifdef"/>
-<node CREATED="1397948195333" ID="ID_1466279016" MODIFIED="1432398986152">
+<node CREATED="1397948195333" FOLDED="true" ID="ID_1466279016" MODIFIED="1433186261319">
 <richcontent TYPE="NODE"><html>
   <head>
     

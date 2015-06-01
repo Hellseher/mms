@@ -416,8 +416,7 @@
       <font color="#3296fa" size="2"><i>to load at boot time</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408053627228" ID="ID_778058133" MODIFIED="1408053679011">
 <richcontent TYPE="NODE"><html>
@@ -1699,7 +1698,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1432969720771" POSITION="right">
+<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1433197190736" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1715,8 +1714,7 @@
       <i><font color="#3296fa" size="2">Linus Torvalds</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1806,8 +1804,7 @@
       <i><font color="#3296fa" size="2">to the index</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428709102415" FOLDED="true" ID="ID_439274423" MODIFIED="1429310592952" TEXT="options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428709106087" ID="ID_1767311823" MODIFIED="1428709108139" TEXT="-A"/>
@@ -1917,8 +1914,7 @@
       <i><font color="#3296fa" size="2">into a new directory</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2659,7 +2655,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1432398475390" POSITION="right" STYLE="bubble">
+<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1433185185645" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2813,7 +2809,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1430341121991">
+<node CREATED="1403979717646" ID="ID_1656694262" MODIFIED="1433184109666">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3124,14 +3120,14 @@
 <node CREATED="1428693529976" ID="ID_272470735" LINK="http://www.yumex.dk/" MODIFIED="1428695475739" TEXT="yumex">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1411582484444" FOLDED="true" ID="ID_1991972247" LINK="http://dnf.baseurl.org/" MODIFIED="1429310592962">
+<node CREATED="1411582484444" ID="ID_1991972247" LINK="http://dnf.baseurl.org/" MODIFIED="1433184125270">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>DNF </b>
+      <b>dnf </b>
     </p>
     <p>
       <font size="2">Python</font>

@@ -1,19 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1430347752964" STYLE="fork" TEXT="GUI">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      http://en.wikipedia.org/wiki/Desktop_environment
-    </p>
-  </body>
-</html>
-</richcontent>
+<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1433180129337" STYLE="fork" TEXT="GUI">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399812553231" FOLDED="true" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1429310718357" POSITION="right">
+<node CREATED="1399812553231" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1433180075249" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26,38 +15,40 @@
       1984 <font color="#fa0000">US </font>
     </p>
     <p>
-      X.Org Foundation
+      <font size="2">X.Org Foundation </font>
     </p>
     <p>
-      [ <font color="#3296fa">MIT<i>&#160;</i></font>]
+      <font size="2">[ </font><font color="#3296fa" size="2">MIT<i>&#160;</i></font><font size="2">]</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge WIDTH="thin"/>
-<node CREATED="1399832603010" FOLDED="true" ID="ID_483473434" MODIFIED="1429310793906" TEXT="Standarts">
+<node CREATED="1399832603010" FOLDED="true" ID="ID_483473434" MODIFIED="1433180118485" TEXT="Standarts">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399832616529" MODIFIED="1399832621936" TEXT="EWMH"/>
 <node CREATED="1399832655761" MODIFIED="1399832659727" TEXT="ICCCM"/>
 <node CREATED="1399835401896" LINK="http://www.freedesktop.org/wiki/" MODIFIED="1399835429372" TEXT="fd.o"/>
 </node>
 <node CREATED="1409598848341" ID="ID_1994806805" MODIFIED="1409598850676" TEXT="DRI2"/>
-<node COLOR="#ff0000" CREATED="1399817067615" FOLDED="true" ID="ID_1507815884" LINK="http://wayland.freedesktop.org/" MODIFIED="1429310793906">
+<node COLOR="#ff0000" CREATED="1399817067615" FOLDED="true" ID="ID_1507815884" LINK="http://wayland.freedesktop.org/" MODIFIED="1433180054358">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b><font color="#000000">Wayland</font>&#xa0;</b>&#xa0;<img src="../icons/wayland.png"/>
+      <b><font color="#000000">Wayland</font>&#160;</b>&#160;<img src="../icons/wayland.png" />
     </p>
     <p>
-      <font color="#000000">2008</font>&#xa0;<font color="#fa0000">US</font>
+      <font color="#000000">2008</font>&#160;<font color="#fa0000">US</font>
     </p>
     <p>
-      <i><font color="#3296fa">Kristian H&#xf8;gsberg</font></i>
+      <i><font color="#3296fa" size="2">Kristian H&#248;gsberg</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1409599101171" ID="ID_1363226111" MODIFIED="1409599103329" TEXT="Weston"/>
 <node CREATED="1414369512810" ID="ID_1328231032" MODIFIED="1414369516457" TEXT="Hawaii"/>
@@ -80,11 +71,25 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1429310717517" TEXT="terminals">
+<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1433180113486">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      terminal
+    </p>
+    <p>
+      emulator
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417378969784" MODIFIED="1417378969784" TEXT="aterm"/>
 <node CREATED="1417378969785" MODIFIED="1417378969785" TEXT="eterm"/>
-<node CREATED="1417378969786" MODIFIED="1417378969786" TEXT="gnome"/>
+<node CREATED="1417378969786" ID="ID_1070825275" MODIFIED="1433180107141" TEXT="gnome-terminal"/>
 <node CREATED="1417378969786" MODIFIED="1417378969786" TEXT="guake"/>
 <node CREATED="1417378969787" MODIFIED="1417378969787" TEXT="konsole"/>
 <node CREATED="1417378969787" MODIFIED="1417378969787" TEXT="Kuake"/>
@@ -103,7 +108,7 @@
 <node CREATED="1417296340015" ID="ID_1591249503" MODIFIED="1417296364544" POSITION="left" TEXT="Display manager">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417297438174" FOLDED="true" ID="ID_712302856" MODIFIED="1429567946749" POSITION="left">
+<node CREATED="1417297438174" ID="ID_712302856" MODIFIED="1433180198213" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -115,7 +120,6 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417297541868" ID="ID_1555819358" LINK="https://download.gnome.org/sources/mutter/" MODIFIED="1417297554639" TEXT="Mutter"/>
 <node CREATED="1417298281130" ID="ID_1802967983" MODIFIED="1417298281130" TEXT="MWM"/>
 <node CREATED="1417298281130" ID="ID_1354886572" MODIFIED="1417298281130" TEXT="olwm"/>
 <node CREATED="1417298281131" ID="ID_1625738680" MODIFIED="1417298281131" TEXT="PLWM"/>
@@ -128,7 +132,7 @@
 <node CREATED="1417298281134" ID="ID_504887434" MODIFIED="1417298281134" TEXT="wm2"/>
 <node CREATED="1417298281135" ID="ID_571511731" MODIFIED="1417298281135" TEXT="wmx"/>
 <node CREATED="1399322458146" ID="ID_1061689773" MODIFIED="1399322463696" TEXT="WMaker"/>
-<node CREATED="1417300353201" ID="ID_1958118582" MODIFIED="1429566832306" TEXT="composite">
+<node CREATED="1417300353201" ID="ID_1958118582" MODIFIED="1433180289939" TEXT="composite">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812709342" FOLDED="true" ID="ID_1634763815" LINK="http://www.compiz.org/" MODIFIED="1429310793906">
 <richcontent TYPE="NODE"><html>
@@ -244,10 +248,59 @@
 </node>
 </node>
 <node CREATED="1417300667996" ID="ID_892143211" MODIFIED="1417300671449" TEXT="KWin"/>
-<node CREATED="1403351808569" ID="ID_1123762814" LINK="http://blogs.gnome.org/metacity/" MODIFIED="1417297511477" TEXT="Metacity"/>
-<node CREATED="1417300697100" ID="ID_154120649" MODIFIED="1417300700745" TEXT="Xfwm"/>
+<node CREATED="1403351808569" ID="ID_1123762814" LINK="http://blogs.gnome.org/metacity/" MODIFIED="1433181054745">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Metacity</b>&#160;<img src="../icons/metacity.png" />
+    </p>
+    <p>
+      2002
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">The GNOME Project</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1433180342005" ID="ID_1073481466" LINK="https://github.com/tthurman/metacity" MODIFIED="1433180385610">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1417300425711" ID="ID_538987514" MODIFIED="1429566837617" TEXT="stacking">
+</node>
+<node CREATED="1417300697100" ID="ID_154120649" MODIFIED="1417300700745" TEXT="Xfwm"/>
+<node CREATED="1417297541868" ID="ID_1555819358" LINK="https://download.gnome.org/sources/mutter/" MODIFIED="1433180268264">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Mutter</b>
+    </p>
+    <p>
+      2011
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">The GNOME Project</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1417300425711" FOLDED="true" ID="ID_538987514" MODIFIED="1433179989632" TEXT="stacking">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417301288774" ID="ID_1241341748" MODIFIED="1417301288774" TEXT="4Dwm"/>
 <node CREATED="1417301288774" ID="ID_1541088169" LINK="http://unauthorised.org/dhog/9wm.html" MODIFIED="1417301404554">
@@ -341,7 +394,7 @@
 <node CREATED="1417301288776" MODIFIED="1417301288776" TEXT="Window"/>
 <node CREATED="1417301288776" MODIFIED="1417301288776" TEXT="Maker"/>
 </node>
-<node CREATED="1417300469375" FOLDED="true" ID="ID_820003479" MODIFIED="1429310793908" TEXT="tilling">
+<node CREATED="1417300469375" FOLDED="true" ID="ID_820003479" MODIFIED="1433179990776" TEXT="tilling">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1403351808565" ID="ID_105536534" LINK="http://i3wm.org/" MODIFIED="1424625571788">
 <richcontent TYPE="NODE"><html>
@@ -393,7 +446,7 @@
 <node CREATED="1403351808572" ID="ID_149423730" MODIFIED="1403351808572" TEXT="XBMC"/>
 <node CREATED="1411937807687" ID="ID_1814997764" LINK="http://www.sugarlabs.org/" MODIFIED="1411937819822" TEXT="Sugar"/>
 </node>
-<node CREATED="1417296355983" FOLDED="true" ID="ID_759953660" MODIFIED="1429566825895" POSITION="left" TEXT="DE">
+<node CREATED="1417296355983" FOLDED="true" ID="ID_759953660" MODIFIED="1433180122606" POSITION="left" TEXT="DE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397937262168" FOLDED="true" ID="ID_94654175" LINK="http://lxde.org/" MODIFIED="1429310793909" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -508,17 +561,18 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1397939353930" ID="ID_927273631" MODIFIED="1429565893754" STYLE="fork">
+<node CREATED="1397939353930" ID="ID_927273631" MODIFIED="1433180006129" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Pantheon <img src="../icons/elementary_os.png" />
+      <b>Pantheon</b>&#160;<img src="../icons/elementary_os.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1399322450482" ID="ID_284865045" LINK="http://razor-qt.org/" MODIFIED="1417299863167">
 <richcontent TYPE="NODE"><html>
@@ -605,7 +659,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1417296420878" FOLDED="true" ID="ID_171099615" MODIFIED="1430348738678" POSITION="left" TEXT="GUI">
+<node CREATED="1417296420878" FOLDED="true" ID="ID_171099615" MODIFIED="1433180133706" POSITION="left" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -650,7 +704,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417296530908" ID="ID_1602339313" LINK="http://www.qt.io/" MODIFIED="1429565287593">
+<node CREATED="1417296530908" FOLDED="true" ID="ID_1602339313" LINK="http://www.qt.io/" MODIFIED="1433180025159">
 <richcontent TYPE="NODE"><html>
   <head>
     

@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1432980648953" TEXT="OS">
+<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1433066944163" TEXT="OS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -135,17 +135,40 @@
     </p>
     <ul>
       <li>
-        <b>Bold font for name of OS, and main nodes</b>
+        <b>Bold font 12px :&#160;&#160;not empty node</b>
+      </li>
+    </ul>
+    <p>
+      <b>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;: OS name </b>
+    </p>
+    <ul>
+      <li>
+        &#160;Plane text 10px: year of creation
+      </li>
+    </ul>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;abbreviation description
+    </p>
+    <ul>
+      <li>
+        <i><font color="#3296fa">Italic cyen colour 10px [50,150,250]&#160;: developers name</font></i>
+      </li>
+    </ul>
+    <p>
+      <i><font color="#3296fa">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;: years of relies, year of closed </font></i>
+    </p>
+    <ul>
+      <li>
+        [ <font color="#3296fa">in black brackets cyen colour for companies 10px </font>] [<font color="#3296fa">50,150,250</font>]
       </li>
       <li>
-        <i><font color="#3296fa">Italic cyen colour for developers, years of relies [50,150,250]</font></i>
+        <font color="#fa0000">Red colour 10px : country code ISO</font>
       </li>
-      <li>
-        [ <font color="#3296fa">in black brackets cyen colour for companies </font>] [<font color="#3296fa">50,150,250</font>]
-      </li>
-      <li>
-        <font color="#fa0000">Red colour for country code ISO, ~discontinued project [250,0,0]</font>
-      </li>
+    </ul>
+    <p>
+      <font color="#fa0000">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;: ~discontinued project</font>
+    </p>
+    <ul>
       <li>
         <font color="#006699">~minor forks [0,102,153]</font>
       </li>
@@ -154,10 +177,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" FOLDED="true" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1432980648953" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1432985353375" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -491,7 +513,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1432980648953" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1432985354986" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1792,7 +1814,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1402147300675" FOLDED="true" ID="ID_1026292484" MODIFIED="1432980648952" STYLE="fork">
+<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1433181401763" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1894,7 +1916,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936504333" FOLDED="true" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1432980648952" STYLE="fork">
+<node CREATED="1397936504333" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1433181403617" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15188,23 +15210,23 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1397944658182" FOLDED="true" ID="ID_743365499" LINK="https://www.gentoo.org/" MODIFIED="1429355991223" STYLE="fork">
+<node CREATED="1397944658182" FOLDED="true" ID="ID_743365499" LINK="https://www.gentoo.org/" MODIFIED="1433181664219" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Gentoo Linux</b>&#xa0;<img src="../icons/gentoo_linux.png"/>
+      <b>Gentoo Linux</b>&#160;<img src="../icons/gentoo_linux.png" />
     </p>
     <p>
       2002 <font color="#fa0000">US</font>
     </p>
     <p>
-      Enoch Linux
+      <font size="2">Enoch Linux </font>
     </p>
     <p>
-      <i><font color="#3296fa">Daniel Robbins</font></i>
+      <i><font color="#3296fa" size="2">Daniel Robbins</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -15383,7 +15405,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398718911458" FOLDED="true" ID="ID_1331480623" MODIFIED="1429355991223" STYLE="fork">
+<node COLOR="#329632" CREATED="1398718911458" ID="ID_1331480623" MODIFIED="1433181418645" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15532,7 +15554,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1402960608193" FOLDED="true" ID="ID_194046865" MODIFIED="1429355991222" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1402960608193" ID="ID_194046865" MODIFIED="1433181421515" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1401834504009" ID="ID_1172291604" LINK="http://www.anikos.org/?lang=en" MODIFIED="1402339293180" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -15856,7 +15878,7 @@
 <node CREATED="1401834412681" ID="ID_313014176" MODIFIED="1402339293185" STYLE="fork" TEXT="Navyn OS">
 <edge COLOR="#969696"/>
 </node>
-<node CREATED="1399808438207" FOLDED="true" ID="ID_922624130" LINK="http://www.pardus.org.tr/" MODIFIED="1429355991219" STYLE="fork">
+<node CREATED="1399808438207" ID="ID_922624130" LINK="http://www.pardus.org.tr/" MODIFIED="1433181608665" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15874,16 +15896,6 @@
   </body>
 </html></richcontent>
 <edge COLOR="#969696"/>
-<node CREATED="1399808517916" FOLDED="true" ID="ID_1499631237" MODIFIED="1429355991218" TEXT="architecture">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399834832440" ID="ID_1123669002" MODIFIED="1399834836376" TEXT="i386"/>
-<node CREATED="1399834836860" ID="ID_1312841197" MODIFIED="1399834842106" TEXT="x86_64"/>
-</node>
-<node CREATED="1399808530524" FOLDED="true" ID="ID_379191265" MODIFIED="1429355991219" TEXT="DE/WM">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399834843912" ID="ID_1252500933" MODIFIED="1399834847007" TEXT="Cinnamon"/>
-<node CREATED="1399834847446" ID="ID_909485301" MODIFIED="1399834849185" TEXT="GNOME"/>
-</node>
 <node CREATED="1399808535612" FOLDED="true" ID="ID_402597574" MODIFIED="1429355991219">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -15943,7 +15955,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401834623368" ID="ID_1891476561" MODIFIED="1401834703317" TEXT="About Pardus">
+<node CREATED="1401834623368" FOLDED="true" ID="ID_1891476561" MODIFIED="1433181623901" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -15961,7 +15973,32 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399808530524" FOLDED="true" ID="ID_379191265" MODIFIED="1429355991219" TEXT="DE/WM">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399834843912" ID="ID_1252500933" MODIFIED="1399834847007" TEXT="Cinnamon"/>
+<node CREATED="1399834847446" ID="ID_909485301" MODIFIED="1399834849185" TEXT="GNOME"/>
 </node>
+<node CREATED="1399808517916" FOLDED="true" ID="ID_1499631237" MODIFIED="1429355991218" TEXT="architecture">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399834832440" ID="ID_1123669002" MODIFIED="1399834836376" TEXT="i386"/>
+<node CREATED="1399834836860" ID="ID_1312841197" MODIFIED="1399834842106" TEXT="x86_64"/>
+</node>
+</node>
+</node>
+<node CREATED="1433181531234" ID="ID_230938705" LINK="http://porteus-kiosk.org/" MODIFIED="1433181641749">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Porteus Kiosk </b><img src="../icons/porteus_kiosk.png" />
+    </p>
+    <p>
+      2014 <font color="#fa0000">IE</font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
 <node CREATED="1398718993249" FOLDED="true" ID="ID_1001008324" LINK="http://www.pentoo.ch/" MODIFIED="1429355991220" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -18019,8 +18056,7 @@
       <font color="#3296fa">C: 06 January 2015</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1409596869506" ID="ID_115082791" MODIFIED="1432969996870">
 <richcontent TYPE="NODE"><html>
@@ -18041,8 +18077,7 @@
       <i><font color="#3296fa" size="2">C: 29 June 2015</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1418479374074" FOLDED="true" ID="ID_814791443" MODIFIED="1432970004533">
 <richcontent TYPE="NODE"><html>
@@ -18060,8 +18095,7 @@
       <i><font color="#3296fa" size="2">R: 9 December 2014</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1418479567732" ID="ID_1861865169" MODIFIED="1418479597969" TEXT="Fedora 21 Cloud"/>
 <node CREATED="1418479598388" ID="ID_1862014829" MODIFIED="1418479604992" TEXT="Fedora 21 Server"/>
 <node CREATED="1418479605347" ID="ID_973936441" MODIFIED="1418479610737" TEXT="Fedora 21 Workstation"/>
@@ -21202,7 +21236,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397944766584" FOLDED="true" ID="ID_423821898" LINK="http://www.slackware.com/" MODIFIED="1431174265081" STYLE="fork">
+<node CREATED="1397944766584" FOLDED="true" ID="ID_423821898" LINK="http://www.slackware.com/" MODIFIED="1433181527361" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21334,7 +21368,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1399318146892" FOLDED="true" ID="ID_1290299967" MODIFIED="1431174263095" STYLE="fork">
+<node COLOR="#329632" CREATED="1399318146892" ID="ID_1290299967" MODIFIED="1433181442299" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21739,7 +21773,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1407365470708" FOLDED="true" ID="ID_1795818090" MODIFIED="1429355991257" STYLE="fork" TEXT="~ minor">
+<node COLOR="#006699" CREATED="1407365470708" ID="ID_1795818090" MODIFIED="1433181442355" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <node CREATED="1411337410786" FOLDED="true" ID="ID_278447805" LINK="http://www.absolutelinux.org/" MODIFIED="1429355991253">
 <richcontent TYPE="NODE"><html>
@@ -22161,7 +22195,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_9398580" LINK="http://porteus.org/" MODIFIED="1429355991256" STYLE="fork">
+<node CREATED="1397936526301" ID="ID_9398580" LINK="http://porteus.org/" MODIFIED="1433181446787" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22197,7 +22231,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402007594337" FOLDED="true" ID="ID_331711393" MODIFIED="1429355991256" TEXT="About Porteus">
+<node CREATED="1402007594337" FOLDED="true" ID="ID_331711393" MODIFIED="1433181454207" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -22474,7 +22508,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397944695685" FOLDED="true" ID="ID_758067280" LINK="http://www.opensuse.org/en/" MODIFIED="1431174047403" STYLE="fork">
+<node CREATED="1397944695685" ID="ID_758067280" LINK="http://www.opensuse.org/en/" MODIFIED="1433181665755" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22514,14 +22548,14 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402182359879" FOLDED="true" ID="ID_324681380" MODIFIED="1429355991259">
+<node CREATED="1402182359879" FOLDED="true" ID="ID_324681380" MODIFIED="1433197191081">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      About openSUSE <img src="../icons/open_source.png"/>
+      info <img src="../icons/info.png" /><img src="../icons/open_source.png" />
     </p>
   </body>
 </html></richcontent>
@@ -22531,7 +22565,7 @@
   </head>
   <body>
     <p>
-      The openSUSE project is a community program sponsored by Novell. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.&#xa0;
+      The openSUSE project is a community program sponsored by Novell. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.&#160;
     </p>
     <p>
       
@@ -22540,7 +22574,8 @@
       (c) http://distrowatch.com/table.php?distribution=suse
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399323734602" FOLDED="true" ID="ID_468210599" MODIFIED="1429355991258">
 <richcontent TYPE="NODE"><html>
@@ -26902,8 +26937,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Mandriva</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1399812401216" ID="ID_1328039407" MODIFIED="1399812404879" TEXT="Citrix"/>
 <node CREATED="1432963706641" FOLDED="true" ID="ID_1333428185" LINK="https://wiki.gnome.org/action/show/Apps/Boxes?action=show&amp;redirect=Boxes" MODIFIED="1432963946888">
@@ -27013,8 +27047,7 @@
       2005
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1411231471220" ID="ID_1339604604" LINK="http://www.ovirt.org/Home" MODIFIED="1411231478587" TEXT="oVirt"/>
 <node CREATED="1411231383653" ID="ID_348571407" MODIFIED="1411231393666" TEXT="Parallels Worsktation"/>

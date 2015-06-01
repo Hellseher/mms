@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1415748301901" ID="ID_1603557634" MODIFIED="1429310640992" TEXT="HTML">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415832829302" FOLDED="true" ID="ID_1800875381" MODIFIED="1429310640991" POSITION="left" TEXT="tags">
+<node CREATED="1415832829302" FOLDED="true" ID="ID_1800875381" MODIFIED="1433198619157" POSITION="left" TEXT="tags">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396776" FOLDED="true" ID="ID_241413429" MODIFIED="1429310640982">
 <richcontent TYPE="NODE"><html>
@@ -727,27 +727,28 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1415749396808" FOLDED="true" ID="ID_797769530" MODIFIED="1429310640985">
+<node CREATED="1415749396808" ID="ID_797769530" MODIFIED="1433198475028">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;link&gt;</b>
+      <b>&lt;link /&gt;</b>
     </p>
     <p>
-      <font color="#3296fa"><i>most used to link to style sheets</i></font>
+      <font color="#3296fa" size="2"><i>to link to style sheets</i></font>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1416781352680" FOLDED="true" ID="ID_984067309" MODIFIED="1429310640985" TEXT="attr">
+</html>
+</richcontent>
+<node CREATED="1416781352680" ID="ID_984067309" MODIFIED="1433198395952" TEXT="attr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416781355352" ID="ID_1396988836" MODIFIED="1416781364485" TEXT="charset"/>
 <node CREATED="1416781364856" ID="ID_795280332" MODIFIED="1416781367125" TEXT="href"/>
 <node CREATED="1416781367479" ID="ID_627084606" MODIFIED="1416781371380" TEXT="hreflang"/>
 <node CREATED="1416781371848" ID="ID_747212704" MODIFIED="1416781374181" TEXT="media"/>
-<node CREATED="1416781374791" FOLDED="true" ID="ID_866528236" MODIFIED="1429310640985">
+<node CREATED="1416781374791" FOLDED="true" ID="ID_866528236" MODIFIED="1433198460308">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -789,7 +790,22 @@
 <node CREATED="1416781473216" MODIFIED="1416781473216" TEXT="_parent"/>
 <node CREATED="1416781473217" MODIFIED="1416781473217" TEXT="frame_name"/>
 </node>
-<node CREATED="1416781381767" ID="ID_1961376905" MODIFIED="1416781383781" TEXT="type"/>
+<node CREATED="1416781381767" ID="ID_1961376905" MODIFIED="1433198521611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>type</b>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">optional in HTML5</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1415749396811" ID="ID_1162110183" MODIFIED="1415754472369">
@@ -931,6 +947,37 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1433198546561" ID="ID_560948593" MODIFIED="1433198554827" TEXT="attr">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1433198555070" ID="ID_1048064517" MODIFIED="1433198588122">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>src</b>=&quot;path.to.file.js&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1416781381767" ID="ID_1188024659" MODIFIED="1433198521611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>type</b>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">optional in HTML5</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1415749396822" ID="ID_302136306" MODIFIED="1415833110960">
 <richcontent TYPE="NODE"><html>
@@ -1067,51 +1114,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749422033" FOLDED="true" ID="ID_665571542" MODIFIED="1429310640987">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ~HTML5 <img src="../icons/html5.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396780" ID="ID_1362818548" MODIFIED="1415749396780" TEXT="&lt;aside&gt;                Defines content aside from the page content"/>
-<node CREATED="1415749396780" ID="ID_1514384972" MODIFIED="1415749396780" TEXT="&lt;audio&gt;                Defines sound content"/>
-<node CREATED="1415749396782" ID="ID_1198612376" MODIFIED="1415749396782" TEXT="&lt;bdi&gt;                Isolates a part of text that might be formatted in a different direction from other text outside it"/>
-<node CREATED="1415749396787" ID="ID_1716683362" MODIFIED="1415749396787" TEXT="&lt;canvas&gt;        Used to draw graphics, on the fly, via scripting (usually JavaScript)"/>
-<node CREATED="1415749396790" ID="ID_352740747" MODIFIED="1415749396790" TEXT="&lt;datalist&gt;        Specifies a list of pre-defined options for input controls"/>
-<node CREATED="1415749396791" ID="ID_270054473" MODIFIED="1415749396791" TEXT="&lt;details&gt;        Defines additional details that the user can view or hide"/>
-<node CREATED="1415749396792" ID="ID_1189620141" MODIFIED="1415749396792" TEXT="&lt;dialog&gt;        Defines a dialog box or window"/>
-<node CREATED="1415749396795" ID="ID_1721712743" MODIFIED="1415749396795" TEXT="&lt;embed&gt;                Defines a container for an external (non-HTML) application"/>
-<node CREATED="1415749396795" ID="ID_1572294772" MODIFIED="1415749396795" TEXT="&lt;figcaption&gt;        Defines a caption for a &lt;figure&gt; element"/>
-<node CREATED="1415749396796" ID="ID_1098639568" MODIFIED="1415749396796" TEXT="&lt;figure&gt;        Specifies self-contained content"/>
-<node CREATED="1415749396797" ID="ID_833152040" MODIFIED="1415749396797" TEXT="&lt;footer&gt;        Defines a footer for a document or section"/>
-<node CREATED="1415749396800" ID="ID_372276864" MODIFIED="1415749396800" TEXT="&lt;header&gt;        Defines a header for a document or section"/>
-<node CREATED="1415749396800" ID="ID_1590761240" MODIFIED="1415749396800" TEXT="&lt;hgroup&gt;        Defines a group of headings"/>
-<node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
-<node CREATED="1415749396809" ID="ID_261761840" MODIFIED="1415749396809" TEXT="&lt;main&gt;                Specifies the main content of a document"/>
-<node CREATED="1415749396810" ID="ID_1787499180" MODIFIED="1415749396810" TEXT="&lt;mark&gt;                Defines marked/highlighted text"/>
-<node CREATED="1415749396811" ID="ID_1270947381" MODIFIED="1415749396811" TEXT="&lt;menuitem&gt;        Defines a command/menu item that the user can invoke from a popup menu"/>
-<node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
-<node CREATED="1415749396813" ID="ID_506424548" MODIFIED="1415749396813" TEXT="&lt;nav&gt;                Defines navigation links"/>
-<node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
-<node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
-<node CREATED="1415749396818" ID="ID_1751472040" MODIFIED="1415749396818" TEXT="&lt;rp&gt;                Defines what to show in browsers that do not support ruby annotations"/>
-<node CREATED="1415749396818" ID="ID_80670238" MODIFIED="1415749396818" TEXT="&lt;rt&gt;                Defines an explanation/pronunciation of characters (for East Asian typography)"/>
-<node CREATED="1415749396820" ID="ID_895295618" MODIFIED="1415749396820" TEXT="&lt;ruby&gt;                Defines a ruby annotation (for East Asian typography)"/>
-<node CREATED="1415749396821" ID="ID_738606176" MODIFIED="1415749396821" TEXT="&lt;section&gt;        Defines a section in a document"/>
-<node CREATED="1415749396822" ID="ID_819406078" MODIFIED="1415749396822" TEXT="&lt;source&gt;        Defines multiple media resources for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
-<node CREATED="1415749396824" ID="ID_1984940766" MODIFIED="1415749396824" TEXT="&lt;summary&gt;        Defines a visible heading for a &lt;details&gt; element"/>
-<node CREATED="1415749396829" ID="ID_1762863725" MODIFIED="1415749396829" TEXT="&lt;time&gt;                Defines a date/time"/>
-<node CREATED="1415749396830" ID="ID_399453828" MODIFIED="1415749396830" TEXT="&lt;track&gt;                Defines text tracks for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
-<node CREATED="1415749396832" ID="ID_1924629182" MODIFIED="1415749396832" TEXT="&lt;video&gt;                Defines a video or movie"/>
-<node CREATED="1415749396833" ID="ID_23673390" MODIFIED="1415749396833" TEXT="&lt;wbr&gt;                Defines a possible line-break"/>
-</node>
-<node CREATED="1415837728648" FOLDED="true" ID="ID_15596718" MODIFIED="1429310640987" TEXT="~ ABC">
+<node CREATED="1415837728648" ID="ID_15596718" MODIFIED="1433198057775" TEXT="~ ABC">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396829" ID="ID_1854891357" MODIFIED="1415834306048">
 <richcontent TYPE="NODE"><html>
@@ -1128,7 +1131,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396812" ID="ID_606974566" MODIFIED="1415754524816">
+<node CREATED="1415749396812" ID="ID_606974566" MODIFIED="1433198132193">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1138,10 +1141,25 @@
       <b>&lt;meta&gt;</b>
     </p>
     <p>
-      <font color="#3296fa"><i>metadata about an HTML document</i></font>
+      <font color="#3296fa" size="2"><i>metadata about </i></font>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>an HTML document</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(60, 60, 60)" face="courier new, courier" size="16px">&lt;meta charset=&quot;utf-8&quot;&gt;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1415749396775" ID="ID_1619097524" MODIFIED="1415751002983">
 <richcontent TYPE="NODE"><html>
@@ -1188,7 +1206,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396786" ID="ID_671239245" MODIFIED="1415752338594">
+<node CREATED="1415749396786" ID="ID_671239245" MODIFIED="1433198186609">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1198,12 +1216,13 @@
       <b>&lt;body&gt;</b>
     </p>
     <p>
-      <font color="#3296fa"><i>document's body</i></font>
+      <font color="#3296fa" size="2"><i>document's body</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1415749396803" ID="ID_1779737787" MODIFIED="1415753791883">
+<node CREATED="1415749396803" ID="ID_1779737787" MODIFIED="1433198150414">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1213,10 +1232,11 @@
       <b>&lt;html&gt; </b>
     </p>
     <p>
-      <font color="#3296fa"><i>root of an HTML document</i></font>
+      <font color="#3296fa" size="2"><i>root HTML document</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1415836399116" FOLDED="true" ID="ID_167273671" MODIFIED="1429310640990" TEXT="~ Images">
@@ -1682,6 +1702,50 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1415749422033" FOLDED="true" ID="ID_665571542" MODIFIED="1429310640987">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ~HTML5 <img src="../icons/html5.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415749396780" ID="ID_1362818548" MODIFIED="1415749396780" TEXT="&lt;aside&gt;                Defines content aside from the page content"/>
+<node CREATED="1415749396780" ID="ID_1514384972" MODIFIED="1415749396780" TEXT="&lt;audio&gt;                Defines sound content"/>
+<node CREATED="1415749396782" ID="ID_1198612376" MODIFIED="1415749396782" TEXT="&lt;bdi&gt;                Isolates a part of text that might be formatted in a different direction from other text outside it"/>
+<node CREATED="1415749396787" ID="ID_1716683362" MODIFIED="1415749396787" TEXT="&lt;canvas&gt;        Used to draw graphics, on the fly, via scripting (usually JavaScript)"/>
+<node CREATED="1415749396790" ID="ID_352740747" MODIFIED="1415749396790" TEXT="&lt;datalist&gt;        Specifies a list of pre-defined options for input controls"/>
+<node CREATED="1415749396791" ID="ID_270054473" MODIFIED="1415749396791" TEXT="&lt;details&gt;        Defines additional details that the user can view or hide"/>
+<node CREATED="1415749396792" ID="ID_1189620141" MODIFIED="1415749396792" TEXT="&lt;dialog&gt;        Defines a dialog box or window"/>
+<node CREATED="1415749396795" ID="ID_1721712743" MODIFIED="1415749396795" TEXT="&lt;embed&gt;                Defines a container for an external (non-HTML) application"/>
+<node CREATED="1415749396795" ID="ID_1572294772" MODIFIED="1415749396795" TEXT="&lt;figcaption&gt;        Defines a caption for a &lt;figure&gt; element"/>
+<node CREATED="1415749396796" ID="ID_1098639568" MODIFIED="1415749396796" TEXT="&lt;figure&gt;        Specifies self-contained content"/>
+<node CREATED="1415749396797" ID="ID_833152040" MODIFIED="1415749396797" TEXT="&lt;footer&gt;        Defines a footer for a document or section"/>
+<node CREATED="1415749396800" ID="ID_372276864" MODIFIED="1415749396800" TEXT="&lt;header&gt;        Defines a header for a document or section"/>
+<node CREATED="1415749396800" ID="ID_1590761240" MODIFIED="1415749396800" TEXT="&lt;hgroup&gt;        Defines a group of headings"/>
+<node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
+<node CREATED="1415749396809" ID="ID_261761840" MODIFIED="1415749396809" TEXT="&lt;main&gt;                Specifies the main content of a document"/>
+<node CREATED="1415749396810" ID="ID_1787499180" MODIFIED="1415749396810" TEXT="&lt;mark&gt;                Defines marked/highlighted text"/>
+<node CREATED="1415749396811" ID="ID_1270947381" MODIFIED="1415749396811" TEXT="&lt;menuitem&gt;        Defines a command/menu item that the user can invoke from a popup menu"/>
+<node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
+<node CREATED="1415749396813" ID="ID_506424548" MODIFIED="1415749396813" TEXT="&lt;nav&gt;                Defines navigation links"/>
+<node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
+<node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
+<node CREATED="1415749396818" ID="ID_1751472040" MODIFIED="1415749396818" TEXT="&lt;rp&gt;                Defines what to show in browsers that do not support ruby annotations"/>
+<node CREATED="1415749396818" ID="ID_80670238" MODIFIED="1415749396818" TEXT="&lt;rt&gt;                Defines an explanation/pronunciation of characters (for East Asian typography)"/>
+<node CREATED="1415749396820" ID="ID_895295618" MODIFIED="1415749396820" TEXT="&lt;ruby&gt;                Defines a ruby annotation (for East Asian typography)"/>
+<node CREATED="1415749396821" ID="ID_738606176" MODIFIED="1415749396821" TEXT="&lt;section&gt;        Defines a section in a document"/>
+<node CREATED="1415749396822" ID="ID_819406078" MODIFIED="1415749396822" TEXT="&lt;source&gt;        Defines multiple media resources for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
+<node CREATED="1415749396824" ID="ID_1984940766" MODIFIED="1415749396824" TEXT="&lt;summary&gt;        Defines a visible heading for a &lt;details&gt; element"/>
+<node CREATED="1415749396829" ID="ID_1762863725" MODIFIED="1415749396829" TEXT="&lt;time&gt;                Defines a date/time"/>
+<node CREATED="1415749396830" ID="ID_399453828" MODIFIED="1415749396830" TEXT="&lt;track&gt;                Defines text tracks for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
+<node CREATED="1415749396832" ID="ID_1924629182" MODIFIED="1415749396832" TEXT="&lt;video&gt;                Defines a video or movie"/>
+<node CREATED="1415749396833" ID="ID_23673390" MODIFIED="1415749396833" TEXT="&lt;wbr&gt;                Defines a possible line-break"/>
+</node>
 <node CREATED="1415834391516" FOLDED="true" ID="ID_1843430762" MODIFIED="1429310640991" TEXT="~Word emphasize">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396831" ID="ID_246519277" MODIFIED="1415834357229">
@@ -1811,24 +1875,93 @@
 </node>
 <node CREATED="1416676700105" ID="ID_657703901" MODIFIED="1416676710094" POSITION="right" TEXT="Version History">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1416676711595" ID="ID_551118424" MODIFIED="1416676740922" POSITION="right">
+<node CREATED="1433196454772" MODIFIED="1433196454772" TEXT="HTML        1991"/>
+<node CREATED="1433196454773" MODIFIED="1433196454773" TEXT="HTML+        1993"/>
+<node CREATED="1433196454774" MODIFIED="1433196454774" TEXT="HTML2.0        1995"/>
+<node CREATED="1433196454774" MODIFIED="1433196454774" TEXT="HTML3.2        1997"/>
+<node CREATED="1433196454774" MODIFIED="1433196454774" TEXT="HTML4.01        1999"/>
+<node CREATED="1433196454774" MODIFIED="1433196454774" TEXT="XHTML1.0        2000"/>
+<node CREATED="1433196454775" ID="ID_803035166" MODIFIED="1433196878039">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      XHTML
+      <b>HTML5&#160;</b><img src="../icons/html5.png" />
     </p>
-    <p>
-      2000
+    <p style="text-align: left">
+      <i><font color="#3296fa" size="2">R: 28 October 2014</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1416767460078" FOLDED="true" ID="ID_832603952" MODIFIED="1429310640992" POSITION="left" TEXT="info">
+</node>
+<node CREATED="1433196955574" ID="ID_1735270856" MODIFIED="1433196978428" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info<img src="../icons/info.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1433196980363" ID="ID_665052039" LINK="http://www.w3.org/TR/html5/" MODIFIED="1433197004394" TEXT="A vocabulary and associated APIs for HTML and XHTML"/>
+<node CREATED="1433197018261" ID="ID_276318682" LINK="http://www.w3.org/Style/CSS/current-work#CSS3" MODIFIED="1433197034631" TEXT="CSS SPEC&#xad;I&#xad;FI&#xad;CA&#xad;TIONS"/>
+</node>
+<node CREATED="1416767460078" ID="ID_832603952" MODIFIED="1433196678638" POSITION="left" TEXT="info">
 <node CREATED="1416767464158" ID="ID_617642580" LINK="http://www.w3schools.com/html/" MODIFIED="1416767472791" TEXT="http://www.w3schools.com/html/"/>
+</node>
+<node CREATED="1433198621817" ID="ID_656631135" MODIFIED="1433198656357" POSITION="right" TEXT="minimal document">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &lt;!DOCTYPE html&gt;
+    </p>
+    <p>
+      &lt;html lang=&quot;en&quot;&gt;
+    </p>
+    <p>
+      &lt;head&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;meta charset=&quot;utf-8&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;title&gt;Page Title&lt;/title&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;script src=&quot;script.js&quot;&gt;&lt;/script&gt;
+    </p>
+    <p>
+      &lt;/head&gt;
+    </p>
+    <p>
+      &lt;body&gt;
+    </p>
+    <p>
+      ... &lt;!-- The rest is content --&gt;
+    </p>
+    <p>
+      &lt;/body&gt;
+    </p>
+    <p>
+      &lt;/html&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>

@@ -14,8 +14,7 @@
       1984 <font color="#fa0000">US</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432584221780" FOLDED="true" ID="ID_1607682907" MODIFIED="1432592679589" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -31,11 +30,10 @@
       1935 <font color="#fa0000">JP</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432584325314" ID="ID_387196856" MODIFIED="1432584331968" TEXT="TX1320M1"/>
 </node>
-<node CREATED="1432584217476" ID="ID_1645475670" MODIFIED="1432593037564" POSITION="right">
+<node CREATED="1432584217476" ID="ID_1645475670" MODIFIED="1433194067617" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -48,8 +46,7 @@
       1939 <font color="#fa0000">US</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432592819568" ID="ID_1413175868" MODIFIED="1432596674997">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -63,8 +60,7 @@
       Compaq <b><img src="../icons/compaq.png" />&#160;</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432593953183" ID="ID_895772672" MODIFIED="1432594012507" TEXT="abriviation">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432593578389" ID="ID_143077756" MODIFIED="1432593582626" TEXT="0 - Intel"/>
@@ -386,8 +382,7 @@
       1911 <font color="#fa0000">US</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432584284419" ID="ID_289382752" MODIFIED="1432592673327" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -402,8 +397,7 @@
       1982 - 2010
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1432584436289" ID="ID_1276524510" MODIFIED="1432584438350" POSITION="left" TEXT="lenovo"/>
 </node>
