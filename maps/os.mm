@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1433066944163" TEXT="OS">
+<node COLOR="#990000" CREATED="1397936367366" ID="ID_1829940039" MODIFIED="1433363003770" TEXT="OS">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -177,7 +177,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1432985353375" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -3576,7 +3577,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1431723096426" STYLE="fork">
+<node CREATED="1397936526301" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1433363008753" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3595,7 +3596,7 @@
 </html></richcontent>
 <edge COLOR="#969696"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398707062277" FOLDED="true" ID="ID_1945383863" MODIFIED="1431283858445">
+<node CREATED="1398707062277" ID="ID_1945383863" MODIFIED="1433363010501">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3809,18 +3810,25 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414373784426" ID="ID_382326861" MODIFIED="1414373794584">
+<node CREATED="1414373784426" ID="ID_382326861" MODIFIED="1433363137654">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>8.0 jessie</b>
+      <b>8.0 Jessie </b>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">R: 25 April 2015</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1433363139764" ID="ID_244781176" MODIFIED="1433363153520" TEXT="9 Stretch"/>
+<node CREATED="1433363146740" ID="ID_1632115230" MODIFIED="1433363157424" TEXT="10 Buster"/>
 </node>
 <node CREATED="1401661574896" FOLDED="true" ID="ID_1097777232" MODIFIED="1429355991142">
 <richcontent TYPE="NODE"><html>
@@ -22548,7 +22556,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402182359879" FOLDED="true" ID="ID_324681380" MODIFIED="1433197191081">
+<node CREATED="1402182359879" FOLDED="true" ID="ID_324681380" MODIFIED="1433363003777">
 <richcontent TYPE="NODE"><html>
   <head>
     
