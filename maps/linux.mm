@@ -1698,7 +1698,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1433197190736" POSITION="right">
+<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1433961965604" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2655,7 +2655,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1433185185645" POSITION="right" STYLE="bubble">
+<node CREATED="1402074564850" ID="ID_308820005" MODIFIED="1433961970658" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3145,6 +3145,12 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1433961975220" ID="ID_718214955" MODIFIED="1433961979509" TEXT="info">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1433961979731" ID="ID_1418972248" LINK="https://dnf.readthedocs.org/en/latest/" MODIFIED="1433961996508" TEXT="doc">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 </node>
 </node>

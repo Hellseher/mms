@@ -784,18 +784,37 @@
 <node CREATED="1432759300215" ID="ID_162250613" MODIFIED="1432759302357" TEXT="make"/>
 <node CREATED="1432759780384" ID="ID_1370356160" MODIFIED="1432759782926" TEXT="checkinstall"/>
 </node>
-<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1432755518501">
+<node CREATED="1407074986052" ID="ID_714158331" MODIFIED="1433955774701">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Config <img src="../icons/hardware.png" />
+      config <img src="../icons/hardware.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1410467397971" FOLDED="true" ID="ID_1157021936" MODIFIED="1429311610812">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>blkid </b>
+    </p>
+    <p>
+      <i><font color="#3296fa">shows UUID</font></i>
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1419716029170" ID="ID_1692465934" MODIFIED="1419716031523" TEXT="keys">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
 <node CREATED="1407702242914" ID="ID_1775988938" MODIFIED="1432755294499">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -814,6 +833,22 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1412363312339" ID="ID_1529891566" MODIFIED="1412363924065">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>dmidecode </b>
+    </p>
+    <p>
+      <i><u><font color="#3296fa">DMI table decoder</font></u></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409167706538" ID="ID_1041676273" MODIFIED="1409167710460" TEXT="findmnt"/>
 <node CREATED="1408999084781" FOLDED="true" ID="ID_457472167" MODIFIED="1432755301345">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -846,10 +881,29 @@
 </node>
 <node CREATED="1408999972295" ID="ID_537482645" MODIFIED="1408999974231" TEXT="-M"/>
 </node>
+<node CREATED="1409167616331" FOLDED="true" ID="ID_666159182" MODIFIED="1429311610811">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>lsblk</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">list block devices</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1419714829608" FOLDED="true" ID="ID_1784258804" MODIFIED="1429311610811" TEXT="keys">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1419714833177" ID="ID_798203138" MODIFIED="1419714834453" TEXT="-a"/>
+</node>
+</node>
 <node CREATED="1407075790479" ID="ID_1874774475" MODIFIED="1407075793855" TEXT="lscpu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1429311610811">
+<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1433961507758">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -872,7 +926,7 @@
       <font color="#3296fa">find out disks name only</font>
     </p>
     <p>
-      <b># lshw -short -C</b>&#xa0;[<i>diskname</i>]
+      <b># lshw -short -C</b>&#160;[<i>diskname</i>]
     </p>
     <p>
       
@@ -881,7 +935,16 @@
       <font color="#3296fa"><i>get gpu infromation </i></font>
     </p>
     <p>
-      <b># lshw -numeric -C display</b>
+      <b># lshw -numeric -C display </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#3296fa">get video driver info </font></i>
+    </p>
+    <p>
+      <b># lshw -c video</b>
     </p>
   </body>
 </html></richcontent>
@@ -890,82 +953,6 @@
 <node CREATED="1409248289814" ID="ID_1370876466" MODIFIED="1409248291030" TEXT="disk"/>
 <node CREATED="1409248584533" ID="ID_1021607894" MODIFIED="1409248592725" TEXT="network"/>
 </node>
-</node>
-<node CREATED="1407074998324" ID="ID_819071606" MODIFIED="1414524328625">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>lspci</b>&#160;[<i>options</i>]
-    </p>
-    <p>
-      <i><font color="#3296fa">list all Peripheral Component&#160;</font></i>
-    </p>
-    <p>
-      <font color="#3296fa"><i>Interconnect (PCI) devices</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#3296fa"><i>gpu information </i></font>
-    </p>
-    <p>
-      <b># lspci -vnn | grep VGA -A 12</b>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1407075754847" ID="ID_753647616" MODIFIED="1407075759183" TEXT="lsusb">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1409167616331" FOLDED="true" ID="ID_666159182" MODIFIED="1429311610811">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>lsblk</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">list block devices</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1419714829608" FOLDED="true" ID="ID_1784258804" MODIFIED="1429311610811" TEXT="keys">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1419714833177" ID="ID_798203138" MODIFIED="1419714834453" TEXT="-a"/>
-</node>
-</node>
-<node CREATED="1420657074693" ID="ID_593789572" MODIFIED="1432755507549" TEXT="X11">
-<node CREATED="1420657078962" ID="ID_681750955" MODIFIED="1420657082144" TEXT="xinput"/>
-</node>
-<node CREATED="1409167706538" ID="ID_1041676273" MODIFIED="1409167710460" TEXT="findmnt"/>
-<node CREATED="1409177591560" ID="ID_700368984" MODIFIED="1409177595287" TEXT="udisks"/>
-<node CREATED="1409246610455" ID="ID_236448187" MODIFIED="1409246615754" TEXT="lsscsi"/>
-<node CREATED="1409247450860" ID="ID_839178609" MODIFIED="1409247452684" TEXT="sdparm"/>
-<node CREATED="1412363312339" ID="ID_1529891566" MODIFIED="1412363924065">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>dmidecode </b>
-    </p>
-    <p>
-      <i><u><font color="#3296fa">DMI table decoder</font></u></i>
-    </p>
-  </body>
-</html></richcontent>
 </node>
 <node CREATED="1409004013196" ID="ID_1945175354" MODIFIED="1411234727014">
 <richcontent TYPE="NODE"><html>
@@ -982,27 +969,67 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1410467397971" FOLDED="true" ID="ID_1157021936" MODIFIED="1429311610812">
+<node CREATED="1407074998324" ID="ID_819071606" MODIFIED="1433961742390">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>blkid </b>
+      <b>lspci</b>&#160;[<i>options</i>]
     </p>
     <p>
-      <i><font color="#3296fa">shows UUID</font></i>
+      <i><font color="#6496fa" size="2">list all Peripheral Component&#160;</font></i>
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>Interconnect (PCI) devices</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#3296fa"><i>gpu information </i></font>
+    </p>
+    <p>
+      <b># lspci -vnn | grep VGA -A 12</b>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1419716029170" ID="ID_1692465934" MODIFIED="1419716031523" TEXT="keys">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1409246610455" ID="ID_236448187" MODIFIED="1409246615754" TEXT="lsscsi"/>
+<node CREATED="1407075754847" ID="ID_753647616" MODIFIED="1407075759183" TEXT="lsusb">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1433955776304" ID="ID_539060065" MODIFIED="1433961702194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>modinfo</b>&#160;[<i>options</i>] <i>object-file </i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">info about kernel module object-file</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+<node CREATED="1409247450860" ID="ID_839178609" MODIFIED="1409247452684" TEXT="sdparm"/>
+<node CREATED="1409177591560" ID="ID_700368984" MODIFIED="1409177595287" TEXT="udisks"/>
 <node CREATED="1419712426909" ID="ID_1001096665" MODIFIED="1432755513109" TEXT="X server">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1419712400097" ID="ID_1099234797" MODIFIED="1419712401355" TEXT="xev"/>
+</node>
+<node CREATED="1420657074693" ID="ID_593789572" MODIFIED="1432755507549" TEXT="X11">
+<node CREATED="1420657078962" ID="ID_681750955" MODIFIED="1420657082144" TEXT="xinput"/>
 </node>
 </node>
 <node CREATED="1414088710251" FOLDED="true" ID="ID_415520110" MODIFIED="1429311610812">
@@ -2355,7 +2382,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399410573215" ID="ID_1329724197" MODIFIED="1433197191172">
+<node CREATED="1399410573215" ID="ID_1329724197" MODIFIED="1433955694435">
 <richcontent TYPE="NODE"><html>
   <head>
     

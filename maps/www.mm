@@ -712,7 +712,7 @@
 <node CREATED="1414628885054" ID="ID_1632387169" LINK="http://yacy.net/" MODIFIED="1414629110494" TEXT="YaCy"/>
 </node>
 </node>
-<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1432331067753" POSITION="right" TEXT="Tezarus">
+<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1433622381827" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -763,8 +763,21 @@
     <p>
       DOM
     </p>
+    <p>
+      URL : Uniform Resource Locators
+    </p>
+    <p>
+      GET request
+    </p>
+    <p>
+      DDoS Attack
+    </p>
+    <p>
+      DTD : Document Type Declaration
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1433197394681" POSITION="right">
@@ -1434,7 +1447,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433197397168" ID="ID_683681515" MODIFIED="1433197422398" POSITION="right">
+<node CREATED="1433197397168" FOLDED="true" ID="ID_683681515" MODIFIED="1433365840899" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1447,8 +1460,7 @@
       <font size="2">open web platform</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1433197426335" ID="ID_1147823558" LINK="http://www.w3.org/TR/html5/" MODIFIED="1433197607422" TEXT="HTML5"/>
 <node CREATED="1433197432669" ID="ID_134595189" LINK="http://www.w3.org/Style/CSS/current-work#CSS3" MODIFIED="1433362995215" TEXT="CSS"/>
 <node CREATED="1433197436319" ID="ID_344485948" LINK="http://www.w3.org/TR/SVG/" MODIFIED="1433197521336" TEXT="SVG"/>
@@ -1469,8 +1481,7 @@
       <font size="2">web fonts</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1432329320907" POSITION="right">

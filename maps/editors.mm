@@ -202,7 +202,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1416428104494" ID="ID_268914109" LINK="http://brackets.io/" MODIFIED="1416428226993" POSITION="right">
+<node CREATED="1416428104494" FOLDED="true" ID="ID_268914109" LINK="http://brackets.io/" MODIFIED="1433607856335" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -215,12 +215,40 @@
       2014
     </p>
     <p>
-      [ <font color="#3296fa">Adobe</font>&#160;]
+      <font size="2">[ </font><font color="#3296fa" size="2">Adobe</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1432323678492" ID="ID_495185515" LINK="https://github.com/adobe/brackets" MODIFIED="1433605990085">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+      
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1416428481832" ID="ID_905843032" LINK="http://zedapp.org/" MODIFIED="1416428493307" POSITION="right" TEXT="zed"/>
+</node>
+<node CREATED="1416428481832" ID="ID_905843032" LINK="http://zedapp.org/" MODIFIED="1416428493307" POSITION="right" TEXT="zed">
+<node CREATED="1432323678492" ID="ID_1774458425" LINK="https://github.com/zedapp/zed" MODIFIED="1433607931157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 <node CREATED="1416428917537" ID="ID_1282392932" LINK="http://www.uvviewsoft.com/synwrite/" MODIFIED="1416428926403" POSITION="right" TEXT="SunWriter"/>
 <node CREATED="1416428946817" ID="ID_968569854" LINK="http://www.geany.org/" MODIFIED="1416428959588" POSITION="right" TEXT="Geany"/>
 <node CREATED="1409007940818" ID="ID_543821052" LINK="https://atom.io/" MODIFIED="1414183902099" POSITION="right" TEXT="Atom "/>
