@@ -14,91 +14,47 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1401737091376" ID="ID_894468200" LINK="http://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.html" MODIFIED="1402185936172" TEXT="Filesystem Hierarchy Standard">
+<node CREATED="1401737091376" ID="ID_894468200" LINK="http://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.html" MODIFIED="1433976839945">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>FHS</b>
+    </p>
+    <p>
+      <font size="2">Filesystem </font>
+    </p>
+    <p>
+      <font size="2">Hierarchy </font>
+    </p>
+    <p>
+      <font size="2">Standard</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1401492961406" ID="ID_1602593622" MODIFIED="1401493254140">
+<node CREATED="1433976923019" ID="ID_1614806764" MODIFIED="1433976928294" TEXT="FHS 2.3"/>
+<node CREATED="1433976846588" ID="ID_576845674" MODIFIED="1433976878303">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>inode</b>
+      <b>FHS 3.0</b>
     </p>
     <p>
-      <i><font color="#3296fa">stores all the information about a file </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">except its name and its actual data</font></i>
+      <i><font color="#6496fa">R: 3 June 2015</font></i>
     </p>
   </body>
-</html></richcontent>
-</node>
-<node CREATED="1401488838970" FOLDED="true" ID="ID_1415149498" MODIFIED="1429310527976" TEXT="symbol">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1401484482567" ID="ID_308334461" MODIFIED="1403563658948">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      . (dot)
-    </p>
-    <p>
-      <font color="#3296fa"><i>current working directory</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1401484477768" ID="ID_71853243" MODIFIED="1411234781070">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      .. (two dots)
-    </p>
-    <p>
-      <font color="#3296fa"><i>parent directory</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1398809827934" ID="ID_269950218" MODIFIED="1401488829277">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ~
-    </p>
-    <p>
-      <i><font color="#3296fa">home directory</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1403563661928" ID="ID_552749314" MODIFIED="1411234807517">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      - (dash)
-    </p>
-    <p>
-      <font color="#3296fa"><i>previous directory</i></font>
-    </p>
-  </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" FOLDED="true" ID="ID_256627718" MODIFIED="1432966513853">
+<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1433976960575">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -809,20 +765,24 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1401488978730" ID="ID_669909420" MODIFIED="1401489012966">
+<node CREATED="1401488978730" ID="ID_669909420" MODIFIED="1433977030199">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>/opt</b>
+      <b>/opt </b>
+    </p>
+    <p>
+      <font size="2">static sharable </font>
     </p>
     <p>
       <i><font color="#3296fa">third party and extra software</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1431283880658">
 <richcontent TYPE="NODE"><html>
@@ -1148,20 +1108,24 @@
 <node CREATED="1401730114065" ID="ID_380210278" MODIFIED="1410815830112" TEXT="/tmp">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1429310432706">
+<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1433977069782">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>/usr</b>
+      <b>/usr </b>
     </p>
     <p>
-      <i><font color="#3296fa">user apps</font></i>
+      <font size="2" color="#000000">static sharable </font>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">user apps</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398556514353" FOLDED="true" ID="ID_1600012567" MODIFIED="1429310592950">
 <richcontent TYPE="NODE"><html>
@@ -1696,6 +1660,69 @@
 </node>
 <node CREATED="1408142350155" ID="ID_1950057638" MODIFIED="1408142353723" TEXT="/var/www"/>
 </node>
+</node>
+</node>
+<node CREATED="1401488838970" FOLDED="true" ID="ID_1415149498" MODIFIED="1433976905580" POSITION="right" TEXT="symbol">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1401484482567" ID="ID_308334461" MODIFIED="1403563658948">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      . (dot)
+    </p>
+    <p>
+      <font color="#3296fa"><i>current working directory</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1401484477768" ID="ID_71853243" MODIFIED="1411234781070">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      .. (two dots)
+    </p>
+    <p>
+      <font color="#3296fa"><i>parent directory</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1398809827934" ID="ID_269950218" MODIFIED="1401488829277">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ~
+    </p>
+    <p>
+      <i><font color="#3296fa">home directory</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1403563661928" ID="ID_552749314" MODIFIED="1411234807517">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - (dash)
+    </p>
+    <p>
+      <font color="#3296fa"><i>previous directory</i></font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1433961965604" POSITION="right">
@@ -2809,7 +2836,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403979717646" ID="ID_1656694262" MODIFIED="1433184109666">
+<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1433976800301">
 <richcontent TYPE="NODE"><html>
   <head>
     

@@ -903,7 +903,7 @@
 <node CREATED="1407075790479" ID="ID_1874774475" MODIFIED="1407075793855" TEXT="lscpu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1433961507758">
+<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1433971767744">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -947,7 +947,8 @@
       <b># lshw -c video</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1409248283607" FOLDED="true" ID="ID_401390008" MODIFIED="1429311610811" TEXT="-class">
 <node CREATED="1409248289814" ID="ID_1370876466" MODIFIED="1409248291030" TEXT="disk"/>

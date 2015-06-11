@@ -210,36 +210,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396787" ID="ID_1307864647" MODIFIED="1415752395233">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;button&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>clickable button</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396787" ID="ID_1320980941" MODIFIED="1415752457393">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;caption&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>table caption</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1415749396788" ID="ID_713923754" MODIFIED="1415752491904">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -315,36 +285,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396795" FOLDED="true" ID="ID_1440215756" MODIFIED="1429310640984">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;fieldset&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>groups related elements in a form</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415749396807" ID="ID_930834697" MODIFIED="1415754351378">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;legend&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines a caption</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
 <node CREATED="1415749396796" ID="ID_636521287" MODIFIED="1415753439825">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -356,21 +296,6 @@
     </p>
     <p>
       <font color="#3296fa"><i>not in HTML5 use CSS</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396797" ID="ID_124721871" MODIFIED="1415753547007">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;form&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>form for user input</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -405,36 +330,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396805" FOLDED="true" ID="ID_704230923" MODIFIED="1429310640984">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;input&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines an input control</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415749396807" ID="ID_195249205" MODIFIED="1415754219892">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;label&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines a label</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
 <node CREATED="1415749396806" ID="ID_222680080" MODIFIED="1415754167110">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -467,69 +362,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1415749396808" ID="ID_941741001" MODIFIED="1433626937686">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;li&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>list item</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415749396815" ID="ID_513168497" MODIFIED="1415754708877">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;optgroup&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>group of related </i></font>
-    </p>
-    <p>
-      <font color="#3296fa"><i>options in a drop-down list</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396815" ID="ID_929623800" MODIFIED="1415754790620">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;option&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>option in a drop-down list</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396821" ID="ID_1570619061" MODIFIED="1415833053057">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;select&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">drop-down list</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node CREATED="1415749396811" ID="ID_1162110183" MODIFIED="1415754472369">
 <richcontent TYPE="NODE"><html>
@@ -594,21 +426,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396822" ID="ID_1746552537" MODIFIED="1415833131712">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;span&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">section in a document</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1415749396823" ID="ID_593845438" MODIFIED="1415833181455">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -650,21 +467,6 @@
     </p>
     <p>
       <i><font color="#3296fa">superscripted text</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396828" ID="ID_1622475389" MODIFIED="1415833269773">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;textarea&gt;</b>
-    </p>
-    <p>
-      <i><u><font color="#3296fa">multiline input control</font></u></i>
     </p>
   </body>
 </html></richcontent>
@@ -911,9 +713,8 @@
 </node>
 </node>
 <node CREATED="1415749396795" ID="ID_1572294772" MODIFIED="1415749396795" TEXT="&lt;figcaption&gt;        Defines a caption for a &lt;figure&gt; element"/>
-<node CREATED="1415749396796" ID="ID_1098639568" MODIFIED="1415749396796" TEXT="&lt;figure&gt;        Specifies self-contained content"/>
 </node>
-<node CREATED="1415907952122" FOLDED="true" ID="ID_1761787956" MODIFIED="1429310640990" TEXT="~ table">
+<node CREATED="1415907952122" FOLDED="true" ID="ID_1761787956" MODIFIED="1433970453055" TEXT="table">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396825" ID="ID_1588058472" MODIFIED="1415907967698">
 <richcontent TYPE="NODE"><html>
@@ -1050,9 +851,185 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1415749396787" ID="ID_1320980941" MODIFIED="1415752457393">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;caption&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>table caption</i></font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1415837674569" ID="ID_212049435" MODIFIED="1433627014952" TEXT="~ Text formatting">
+</node>
+<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1433975552764" TEXT="form">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415749396797" ID="ID_124721871" MODIFIED="1415753547007">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;form&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>form for user input</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396795" ID="ID_1440215756" MODIFIED="1433970502899">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;fieldset&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>groups related elements in a form</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396807" ID="ID_930834697" MODIFIED="1415754351378">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;legend&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>defines a caption</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396805" ID="ID_704230923" MODIFIED="1433970516915">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;input&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>defines an input control</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415749396807" ID="ID_195249205" MODIFIED="1415754219892">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;label&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>defines a label</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1415749396787" ID="ID_1307864647" MODIFIED="1415752395233">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;button&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>clickable button</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396821" ID="ID_1570619061" MODIFIED="1415833053057">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;select&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">drop-down list</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396790" ID="ID_352740747" MODIFIED="1415749396790" TEXT="&lt;datalist&gt;        Specifies a list of pre-defined options for input controls"/>
+<node CREATED="1415749396815" ID="ID_513168497" MODIFIED="1415754708877">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;optgroup&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>group of related </i></font>
+    </p>
+    <p>
+      <font color="#3296fa"><i>options in a drop-down list</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396828" ID="ID_1622475389" MODIFIED="1433975326863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;textarea&gt;</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">multiline input control</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
+<node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
+<node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
+<node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
+</node>
+<node CREATED="1415837674569" FOLDED="true" ID="ID_212049435" MODIFIED="1433970408128">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>text</b>
+    </p>
+    <p>
+      <font size="2">flow content</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396818" ID="ID_1671676184" MODIFIED="1415754958153">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1083,21 +1060,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396785" ID="ID_1341650070" MODIFIED="1415752310675">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;blockquote&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>quoted section</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1415749396789" ID="ID_1587998095" MODIFIED="1415752572975">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1113,9 +1075,22 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1415749396822" ID="ID_1746552537" MODIFIED="1415833131712">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;span&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">section in a document</font></i>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1433366386847" ID="ID_1560233039" MODIFIED="1433625669066" TEXT="Flow content">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node CREATED="1415749396809" ID="ID_261761840" LINK="http://www.w3.org/TR/html5/grouping-content.html#the-main-element" MODIFIED="1433366817925">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1134,8 +1109,22 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1433366974758" ID="ID_240734800" MODIFIED="1433626572370" TEXT="embedded">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1433366974758" FOLDED="true" ID="ID_240734800" MODIFIED="1433970684481">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>embedded</b>
+    </p>
+    <p>
+      <font size="2">flow content</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396780" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1433367041021">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1338,7 +1327,7 @@
 </html></richcontent>
 </node>
 </node>
-</node>
+<node CREATED="1433970685606" ID="ID_1790302421" MODIFIED="1433970689363" TEXT="interactive"/>
 <node CREATED="1433624101257" FOLDED="true" ID="ID_743984582" MODIFIED="1433626567894">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1605,7 +1594,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433367645051" FOLDED="true" ID="ID_537891902" MODIFIED="1433626782241">
+<node CREATED="1433367645051" ID="ID_537891902" MODIFIED="1433972105979">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1620,7 +1609,25 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396779" ID="ID_1669544277" MODIFIED="1433366543794">
+<node CREATED="1415749396778" ID="ID_1427837199" MODIFIED="1433626698174">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;address&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>contact information for </i></font>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>the author/owner of a document</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396779" ID="ID_1669544277" MODIFIED="1433972214165">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1630,33 +1637,47 @@
       <b>&lt;article&gt;&#160;</b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>defines an article </i></font>
+      <font color="#6496fa" size="2"><i>defines an article </i></font>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>independent content</i></font>
+      <font color="#6496fa" size="2"><i>independent content</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Element was designed for stand-alone parts of a document that could eventually be syndicated in RSS streams
+    </p>
+    <p>
+      May be cut into different <b>&lt;section&gt;&#160;</b>element.
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396780" ID="ID_1362818548" MODIFIED="1433366253009">
+<node CREATED="1415749396780" ID="ID_1362818548" MODIFIED="1433976361936">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;aside&gt;</b>
+      <b>&lt;aside&gt;&#160;&#160; &lt;/aside&gt;</b>
     </p>
     <p>
-      <font size="2" color="#3296fa"><i>defines content aside </i></font>
+      <font color="#6496fa" size="2"><i>defines content aside </i></font>
     </p>
     <p>
-      <font size="2" color="#3296fa"><i>from the page content</i></font>
+      <font color="#6496fa" size="2"><i>from the page content</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1415749396786" ID="ID_671239245" MODIFIED="1433198186609">
+<node CREATED="1415749396786" ID="ID_671239245" MODIFIED="1433975674714">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1666,73 +1687,14 @@
       <b>&lt;body&gt;</b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>document's body</i></font>
+      <font color="#6496fa" size="2"><i>document's body </i></font>
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>sectioning root</i></font>
     </p>
   </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396803" ID="ID_1779737787" MODIFIED="1433198150414">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;html&gt; </b>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>root HTML document</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396813" ID="ID_506424548" MODIFIED="1433366448940">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;nav&gt;</b>
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">defines navigation links</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396821" ID="ID_738606176" MODIFIED="1433367752695">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;section&gt;</b>
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">defines a section </font></i>
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">in a document</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396800" ID="ID_1590761240" MODIFIED="1433625653966">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;hgroup&gt;</b>
-    </p>
-    <p>
-      <font size="2" color="#3296fa"><i>defines a group of headings</i></font>
-    </p>
-  </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1415749396797" ID="ID_833152040" MODIFIED="1433366358026">
 <richcontent TYPE="NODE"><html>
@@ -1770,27 +1732,72 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396778" ID="ID_1427837199" MODIFIED="1433626698174">
+<node CREATED="1415749396800" ID="ID_1590761240" MODIFIED="1433625653966">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;address&gt;</b>
+      <b>&lt;hgroup&gt;</b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>contact information for </i></font>
+      <font size="2" color="#3296fa"><i>defines a group of headings</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396803" ID="ID_1779737787" MODIFIED="1433198150414">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;html&gt; </b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>the author/owner of a document</i></font>
+      <font color="#3296fa" size="2"><i>root HTML document</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396813" ID="ID_506424548" MODIFIED="1433973350298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;nav&gt;</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">defines navigation links</font></i>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1415749396821" ID="ID_738606176" MODIFIED="1433972772333">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;section&gt;</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">defines a section </font></i>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">in a document</font></i>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1433626923297">
+</node>
+<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1433970549037">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1801,6 +1808,20 @@
     </p>
     <p>
       <font size="2">flow content</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415749396794" ID="ID_1345593401" MODIFIED="1433969956080">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;dl&gt;</b>
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>description list</i></font>
     </p>
   </body>
 </html>
@@ -1823,22 +1844,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396794" ID="ID_1345593401" MODIFIED="1415753398578">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;dl&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>description list</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396794" ID="ID_1280890910" MODIFIED="1415753478624">
+<node CREATED="1415749396794" ID="ID_1280890910" MODIFIED="1433969983164">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1848,7 +1854,23 @@
       <b>&lt;dt&gt;</b>
     </p>
     <p>
-      <font color="#3296fa"><i>term/name in a description list</i></font>
+      <font color="#6496fa" size="2"><i>term/name in a description list</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1415749396785" ID="ID_1341650070" MODIFIED="1433970153441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;blockquote&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>quoted section</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -1934,8 +1956,7 @@
       <font color="#3296fa" size="2"><i>in the content</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415749396817" FOLDED="true" ID="ID_1131567880" MODIFIED="1433627324522">
 <richcontent TYPE="NODE"><html>
@@ -1950,16 +1971,46 @@
       <font color="#3296fa" size="2"><i>preformatted text</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1416767698346" FOLDED="true" ID="ID_1086003045" MODIFIED="1429310640986" TEXT="attr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416767701354" ID="ID_1786954784" MODIFIED="1416767703671" TEXT="width"/>
 <node CREATED="1416767704058" ID="ID_347471961" MODIFIED="1416767705623" TEXT="class"/>
 </node>
 </node>
+<node CREATED="1415749396808" ID="ID_941741001" MODIFIED="1433970549040">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;li&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>list item</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415749396815" ID="ID_929623800" MODIFIED="1415754790620">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;option&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>option in a drop-down list</i></font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1415749422033" FOLDED="true" ID="ID_665571542" MODIFIED="1433626784632">
+</node>
+<node CREATED="1415749396796" ID="ID_1098639568" MODIFIED="1415749396796" TEXT="&lt;figure&gt;        Specifies self-contained content"/>
+</node>
+<node CREATED="1415749422033" ID="ID_665571542" MODIFIED="1433970567729">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1972,15 +2023,10 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396782" ID="ID_1198612376" MODIFIED="1415749396782" TEXT="&lt;bdi&gt;                Isolates a part of text that might be formatted in a different direction from other text outside it"/>
-<node CREATED="1415749396790" ID="ID_352740747" MODIFIED="1415749396790" TEXT="&lt;datalist&gt;        Specifies a list of pre-defined options for input controls"/>
 <node CREATED="1415749396791" ID="ID_270054473" MODIFIED="1415749396791" TEXT="&lt;details&gt;        Defines additional details that the user can view or hide"/>
 <node CREATED="1415749396792" ID="ID_1189620141" MODIFIED="1415749396792" TEXT="&lt;dialog&gt;        Defines a dialog box or window"/>
-<node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
 <node CREATED="1415749396810" ID="ID_1787499180" MODIFIED="1415749396810" TEXT="&lt;mark&gt;                Defines marked/highlighted text"/>
 <node CREATED="1415749396811" ID="ID_1270947381" MODIFIED="1415749396811" TEXT="&lt;menuitem&gt;        Defines a command/menu item that the user can invoke from a popup menu"/>
-<node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
-<node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
-<node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
 <node CREATED="1415749396818" ID="ID_1751472040" MODIFIED="1415749396818" TEXT="&lt;rp&gt;                Defines what to show in browsers that do not support ruby annotations"/>
 <node CREATED="1415749396818" ID="ID_80670238" MODIFIED="1415749396818" TEXT="&lt;rt&gt;                Defines an explanation/pronunciation of characters (for East Asian typography)"/>
 <node CREATED="1415749396820" ID="ID_895295618" MODIFIED="1415749396820" TEXT="&lt;ruby&gt;                Defines a ruby annotation (for East Asian typography)"/>
