@@ -6,13 +6,13 @@
 <node CREATED="1433969694422" ID="ID_1390416562" MODIFIED="1433969698105" POSITION="left" TEXT="border"/>
 <node CREATED="1433969699431" ID="ID_165260157" MODIFIED="1433971382076" POSITION="left" TEXT="box">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1433971454603" ID="ID_474579731" MODIFIED="1433971461339" TEXT="basic box">
+<node CREATED="1433971454603" FOLDED="true" ID="ID_474579731" MODIFIED="1434233885728" TEXT="basic box">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433971461824" ID="ID_1829066563" MODIFIED="1433971463931" TEXT="padding"/>
 </node>
-<node CREATED="1433971470059" ID="ID_780476467" MODIFIED="1433971474827" TEXT="flexible box">
+<node CREATED="1433971470059" ID="ID_780476467" MODIFIED="1434302725028" TEXT="flexible box">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1433971377564" ID="ID_1085865070" MODIFIED="1433971482743" TEXT="magin">
+<node CREATED="1433971377564" FOLDED="true" ID="ID_1085865070" MODIFIED="1434233882876" TEXT="magin">
 <node CREATED="1433971409811" ID="ID_995092023" MODIFIED="1433971418859">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -72,7 +72,7 @@
 <node CREATED="1433969714742" ID="ID_1085602199" MODIFIED="1433969716583" POSITION="right" TEXT="table"/>
 <node CREATED="1433969704767" ID="ID_622547147" MODIFIED="1433971282908" POSITION="right" TEXT="text">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1433971110304" ID="ID_1680631425" MODIFIED="1433971284004" TEXT="font">
+<node CREATED="1433971110304" FOLDED="true" ID="ID_1680631425" MODIFIED="1434233995849" TEXT="font">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433971203314" ID="ID_1097601016" MODIFIED="1433971208706">
 <richcontent TYPE="NODE"><html>
@@ -84,8 +84,7 @@
       @font-face
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971208707" ID="ID_1416929906" MODIFIED="1433971215339">
 <richcontent TYPE="NODE"><html>
@@ -97,8 +96,7 @@
       @font-feature-values
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971215340" ID="ID_417901970" MODIFIED="1433971218813">
 <richcontent TYPE="NODE"><html>
@@ -110,8 +108,7 @@
       font
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971218814" ID="ID_1313164677" MODIFIED="1433971223633">
 <richcontent TYPE="NODE"><html>
@@ -123,8 +120,7 @@
       font-family
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971223634" ID="ID_130475104" MODIFIED="1433971226942">
 <richcontent TYPE="NODE"><html>
@@ -136,8 +132,7 @@
       font-feature-settings
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971226943" ID="ID_1122164357" MODIFIED="1433971230188">
 <richcontent TYPE="NODE"><html>
@@ -149,8 +144,7 @@
       font-kerning
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971230195" ID="ID_756951020" MODIFIED="1433971233362">
 <richcontent TYPE="NODE"><html>
@@ -162,8 +156,7 @@
       font-language-override
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971233363" ID="ID_1241829302" MODIFIED="1433971239713">
 <richcontent TYPE="NODE"><html>
@@ -175,8 +168,7 @@
       font-size
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971239714" ID="ID_1078780851" MODIFIED="1433971239715">
 <richcontent TYPE="NODE"><html>
@@ -188,8 +180,7 @@
       font-size-adjust
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971236187" ID="ID_1412176348" MODIFIED="1433971259448">
 <richcontent TYPE="NODE"><html>
@@ -201,8 +192,7 @@
       font-stretch
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971259449" ID="ID_312949582" MODIFIED="1433971259450">
 <richcontent TYPE="NODE"><html>
@@ -214,8 +204,7 @@
       font-style
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971242971" ID="ID_1388976196" MODIFIED="1433971254710">
 <richcontent TYPE="NODE"><html>
@@ -227,8 +216,7 @@
       font-synthesis
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971254711" ID="ID_464868362" MODIFIED="1433971265714">
 <richcontent TYPE="NODE"><html>
@@ -240,8 +228,7 @@
       font-variant
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971265714" ID="ID_229299415" MODIFIED="1433971265716">
 <richcontent TYPE="NODE"><html>
@@ -253,8 +240,7 @@
       font-variant-alternates
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971262856" ID="ID_985115026" MODIFIED="1433971268859">
 <richcontent TYPE="NODE"><html>
@@ -266,8 +252,7 @@
       font-variant-caps
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971268860" ID="ID_446284112" MODIFIED="1433971268861">
 <richcontent TYPE="NODE"><html>
@@ -279,8 +264,7 @@
       font-variant-east-asian
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971245498" ID="ID_384723562" MODIFIED="1433971272000">
 <richcontent TYPE="NODE"><html>
@@ -292,8 +276,7 @@
       font-variant-ligatures
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971272001" ID="ID_1838573469" MODIFIED="1433971272002">
 <richcontent TYPE="NODE"><html>
@@ -305,8 +288,7 @@
       font-variant-numeric
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971252098" ID="ID_1890645823" MODIFIED="1433971276504">
 <richcontent TYPE="NODE"><html>
@@ -318,8 +300,7 @@
       font-variant-position
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971276505" ID="ID_1362913672" MODIFIED="1433971276506">
 <richcontent TYPE="NODE"><html>
@@ -331,8 +312,7 @@
       font-weight
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433971249490" ID="ID_912840585" MODIFIED="1433971249496">
 <richcontent TYPE="NODE"><html>
@@ -344,8 +324,7 @@
       unicode-range
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1433971290587" ID="ID_418973304" MODIFIED="1433971294119" TEXT="p { }"/>

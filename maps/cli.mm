@@ -794,8 +794,7 @@
       config <img src="../icons/hardware.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1410467397971" FOLDED="true" ID="ID_1157021936" MODIFIED="1429311610812">
 <richcontent TYPE="NODE"><html>
@@ -903,7 +902,7 @@
 <node CREATED="1407075790479" ID="ID_1874774475" MODIFIED="1407075793855" TEXT="lscpu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1433971767744">
+<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1434395578109">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -986,8 +985,7 @@
       <font color="#6496fa" size="2"><i>Interconnect (PCI) devices</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1020,8 +1018,7 @@
       <i><font size="2" color="#6496fa">info about kernel module object-file</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1409247450860" ID="ID_839178609" MODIFIED="1409247452684" TEXT="sdparm"/>
 <node CREATED="1409177591560" ID="ID_700368984" MODIFIED="1409177595287" TEXT="udisks"/>
@@ -2445,8 +2442,7 @@
       <b>~$: find ./ -type f -exec grep &quot;&lt;string&gt;&quot; {} /dev/null \;</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1407797975023" ID="ID_1185175125" MODIFIED="1409411127836">
 <richcontent TYPE="NODE"><html>
   <head>

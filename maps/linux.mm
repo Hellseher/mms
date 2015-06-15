@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1429310592962" TEXT="Linux">
 <icon BUILTIN="penguin"/>
-<node CREATED="1398556175894" ID="ID_338041253" MODIFIED="1432754843755" POSITION="right">
+<node CREATED="1398556175894" ID="ID_338041253" MODIFIED="1434392201282" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -33,8 +33,7 @@
       <font size="2">Standard</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433976923019" ID="ID_1614806764" MODIFIED="1433976928294" TEXT="FHS 2.3"/>
 <node CREATED="1433976846588" ID="ID_576845674" MODIFIED="1433976878303">
@@ -50,8 +49,7 @@
       <i><font color="#6496fa">R: 3 June 2015</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1433976960575">
@@ -226,7 +224,7 @@
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
 </node>
-<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1432966511453">
+<node CREATED="1398556276933" ID="ID_1853920621" MODIFIED="1434230349634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -236,7 +234,7 @@
       <b>/etc</b>
     </p>
     <p>
-      <i><font color="#3296fa">config files</font></i>
+      <i><font color="#6496fa" size="2">config files</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -356,7 +354,7 @@
 <node CREATED="1429657274880" ID="ID_252851786" MODIFIED="1429657282406" TEXT="/etc/lsb-release"/>
 <node CREATED="1429657274880" ID="ID_1219204339" MODIFIED="1429657315723" TEXT="/etc/lsb-release.d"/>
 <node CREATED="1408225143443" ID="ID_842530579" MODIFIED="1408225146738" TEXT="/etc/magic"/>
-<node CREATED="1409003942797" ID="ID_838091591" MODIFIED="1432754900754">
+<node CREATED="1409003942797" ID="ID_838091591" MODIFIED="1434230767221">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -366,10 +364,10 @@
       /etc/<b>modules </b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>kernel modules </i></font>
+      <font color="#6496fa" size="2"><i>kernel modules </i></font>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>to load at boot time</i></font>
+      <font color="#6496fa" size="2"><i>to load at boot time</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -781,8 +779,7 @@
       <i><font color="#3296fa">third party and extra software</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1431283880658">
 <richcontent TYPE="NODE"><html>
@@ -1124,8 +1121,7 @@
       <i><font color="#6496fa" size="2">user apps</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398556514353" FOLDED="true" ID="ID_1600012567" MODIFIED="1429310592950">
 <richcontent TYPE="NODE"><html>
@@ -1725,7 +1721,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1433961965604" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1434316629443" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1760,8 +1756,7 @@
       git push origin master
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
@@ -2238,7 +2233,7 @@
 <node CREATED="1432966524658" ID="ID_829280096" MODIFIED="1432966527647" TEXT="git pull"/>
 <node CREATED="1432397483429" ID="ID_272827495" MODIFIED="1432397486800" TEXT="git rebase"/>
 <node CREATED="1428274227537" ID="ID_474780902" MODIFIED="1428274230703" TEXT="git reflog"/>
-<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1432398355825">
+<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1434321850501">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2836,7 +2831,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1433976800301">
+<node CREATED="1403979717646" ID="ID_1656694262" MODIFIED="1434230812352">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3147,7 +3142,7 @@
 <node CREATED="1428693529976" ID="ID_272470735" LINK="http://www.yumex.dk/" MODIFIED="1428695475739" TEXT="yumex">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1411582484444" ID="ID_1991972247" LINK="http://dnf.baseurl.org/" MODIFIED="1433184125270">
+<node CREATED="1411582484444" ID="ID_1991972247" LINK="http://dnf.baseurl.org/" MODIFIED="1434230860793">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3173,7 +3168,17 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1433961975220" ID="ID_718214955" MODIFIED="1433961979509" TEXT="info">
+<node CREATED="1433961975220" ID="ID_718214955" MODIFIED="1434230879950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info <img src="../icons/info.png" />
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433961979731" ID="ID_1418972248" LINK="https://dnf.readthedocs.org/en/latest/" MODIFIED="1433961996508" TEXT="doc">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

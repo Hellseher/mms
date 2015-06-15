@@ -19,7 +19,7 @@
 <node CREATED="1433179824350" ID="ID_864060981" MODIFIED="1433975213940" TEXT="1.1 Video introduction - Week 1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1433179824351" ID="ID_517322367" MODIFIED="1433197093733" TEXT="1.2 From HTML1.0 to HTML5">
+<node CREATED="1433179824351" FOLDED="true" ID="ID_517322367" MODIFIED="1434395835806" TEXT="1.2 From HTML1.0 to HTML5">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433197070568" ID="ID_15580311" MODIFIED="1433197070568" TEXT="History of HTML versions"/>
 <node CREATED="1433197087950" ID="ID_156280643" MODIFIED="1433197089854" TEXT="What is HTML5?">
@@ -27,11 +27,11 @@
 </node>
 <node CREATED="1433197875000" ID="ID_1302440530" MODIFIED="1433197883228" TEXT="The HTML5 Logo"/>
 </node>
-<node CREATED="1433179824352" ID="ID_1595773625" MODIFIED="1433368222037" TEXT="1.3 New structural elements">
+<node CREATED="1433179824352" FOLDED="true" ID="ID_1595773625" MODIFIED="1434395834843" TEXT="1.3 New structural elements">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433368226818" ID="ID_1866295283" MODIFIED="1433975219756" TEXT="1.3.1 Towards more simplicity">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1433368250498" ID="ID_874672767" MODIFIED="1433623457657" TEXT="1.3.1.1 A minimal HTML5 document">
+<node CREATED="1433368250498" ID="ID_874672767" MODIFIED="1434395577901" TEXT="1.3.1.1 A minimal HTML5 document">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -74,7 +74,8 @@
       &lt;/html&gt;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1433622281061" ID="ID_985284441" MODIFIED="1433622304876" TEXT="1.3.1.2 Simpler character set definition">
 <richcontent TYPE="NOTE"><html>
@@ -198,8 +199,7 @@
       A &lt;section&gt; may be cut into different &lt;article&gt; elements, too!
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433972933565" ID="ID_1143312771" MODIFIED="1433972955054" TEXT="1.3.4.2 Can we put a &lt;NAV&gt; in an &lt;ARTICLE&gt;?"/>
 <node CREATED="1433972963157" ID="ID_301016023" MODIFIED="1433972981248" TEXT="1.3.4.3 What about the &lt;DIV&gt; element?"/>
@@ -240,8 +240,7 @@
       2. Try not to rely on implicit sectioning, use &lt;SECTION&gt;, &lt;ARTICLE&gt;, etc. instead of just &lt;H1&gt;...&lt;H6&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433973828232" ID="ID_1584477571" MODIFIED="1433973918466" TEXT="1.3.6.2 More about the &lt;HEADER&gt; element">
 <richcontent TYPE="NOTE"><html>
@@ -253,14 +252,13 @@
       The &lt;header&gt; element is just a container. It is not taken into account for defining new sections of a document nor does it affect the hierarchy levels.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1433974092612" ID="ID_442787550" MODIFIED="1433974107741" TEXT="1.3.7 Embedding a table of contents">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1433975069046" ID="ID_430932143" MODIFIED="1433976180677" TEXT="1.3.8 What about the &lt;MAIN&gt;">
+<node CREATED="1433975069046" ID="ID_430932143" MODIFIED="1434392244077" TEXT="1.3.8 What about the &lt;MAIN&gt;">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -269,13 +267,55 @@
     <p>
       If you do use &lt;nav&gt; / &lt;header&gt; / &lt;footer&gt; etc. to structure your document, you can also use &lt;main&gt; to identify the main content of the document. Doing so provides a navigable document structure for assistive technology users as well as styling hooks for devs.
     </p>
+    <p>
+      
+    </p>
+    <p>
+      There must not be more than one &lt;main&gt; element in a document,
+    </p>
+    <p>
+      It must not be a descendent of an &lt;article&gt;,&lt;aside&gt;, &lt;footer&gt;, &lt;header&gt;, or &lt;nav&gt; element.
+    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434232508836" ID="ID_1540456683" MODIFIED="1434232512132" TEXT="links">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434232522611" ID="ID_1233760673" LINK="http://www.w3.org/html/wg/wiki/User:Sfaulkne/main-usecases#Introduction" MODIFIED="1434232557755" TEXT="main usecases - Intro"/>
+<node CREATED="1434232576962" ID="ID_864403566" LINK="http://www.w3.org/TR/html5/grouping-content.html#the-main-element" MODIFIED="1434232597124" TEXT="4.4.14 The main element"/>
+<node CREATED="1434232742032" ID="ID_1151569865" LINK="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main" MODIFIED="1434232774795" TEXT="MDN - main"/>
+</node>
+</node>
+<node CREATED="1434233100714" FOLDED="true" ID="ID_1640951330" MODIFIED="1434317621954" TEXT="1.3.9 Let&apos;s fis the blog">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434233555619" ID="ID_379003013" MODIFIED="1434233558531" TEXT="links">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434233558899" ID="ID_602731054" LINK="http://www.paciellogroup.com/blog/2012/05/html5-accessibility-chops-hidden-and-aria-hidden/" MODIFIED="1434233573702" TEXT="HTML5 Accessibility Chops: hidden and aria-hidden"/>
+</node>
+</node>
+</node>
+<node CREATED="1433179824352" ID="ID_1304284168" MODIFIED="1434317625858" TEXT="1.4 Other elements and attributes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434318188187" ID="ID_21219019" MODIFIED="1434318209702" TEXT="1.4.1 &lt;details&gt; and &lt;summary&gt; elements">
+<node CREATED="1434321723396" ID="ID_751186784" MODIFIED="1434321726278" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1433179824352" MODIFIED="1433179824352" TEXT="1.4 Other elements and attributes"/>
+<node CREATED="1434395888053" ID="ID_473004128" MODIFIED="1434395898357" TEXT="1.4.2 The &lt;time&gt; element">
+<node CREATED="1434395916805" ID="ID_1232131160" MODIFIED="1434395919941" TEXT="links">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434395920853" ID="ID_1304338777" LINK="http://www.brucelawson.co.uk/2012/best-of-time/" MODIFIED="1434395936828" TEXT="The best of &lt;time&gt;s"/>
+<node CREATED="1434396095650" ID="ID_1803415460" LINK="http://www.w3.org/TR/html5/text-level-semantics.html#the-time-element" MODIFIED="1434396104131" TEXT="4.5.11 The time element"/>
+</node>
+</node>
+<node CREATED="1434396236624" ID="ID_1317840990" MODIFIED="1434396244763" TEXT="1.4.3 The &lt;mark&gt; element"/>
+<node CREATED="1434396280751" ID="ID_657303615" MODIFIED="1434396286091" TEXT="1.4.4 The new HTML5  DOWNLOAD attribute for &lt;A HREF&gt;">
+<node CREATED="1434396294479" ID="ID_933844438" MODIFIED="1434396297673" TEXT="links">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434396306367" ID="ID_1891007334" LINK="http://www.w3.org/TR/html5/links.html#downloading-resources" MODIFIED="1434396314373" TEXT="4.8.3 Downloading resources"/>
+</node>
+</node>
+</node>
 <node CREATED="1433179824352" MODIFIED="1433179824352" TEXT="1.5 Microdata"/>
 <node CREATED="1433179824353" MODIFIED="1433179824353" TEXT="1.6 Exercises - Week 1"/>
 </node>
@@ -290,8 +330,7 @@
       2.1 Video introduction - Week 2
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433975175220" ID="ID_1973820283" MODIFIED="1433975178790">
 <richcontent TYPE="NODE"><html>
@@ -303,8 +342,7 @@
       2.2 Streaming multimedia content: the video and audio elements
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433975178790" ID="ID_1839206126" MODIFIED="1433975182082">
 <richcontent TYPE="NODE"><html>
@@ -316,8 +354,7 @@
       2.3 Subtitles and closed captions
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433975182083" ID="ID_469840149" MODIFIED="1433975185357">
 <richcontent TYPE="NODE"><html>
@@ -329,8 +366,7 @@
       2.4 Enhanced HTML5 media players and frameworks
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433975185357" ID="ID_388227049" MODIFIED="1433975188267">
 <richcontent TYPE="NODE"><html>
@@ -342,8 +378,7 @@
       2.5 Webcam, microphone: the getUserMedia API
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433975188267" ID="ID_1672289508" MODIFIED="1433975188268">
 <richcontent TYPE="NODE"><html>
@@ -355,8 +390,7 @@
       2.6 Exercises - Week 2
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

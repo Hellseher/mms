@@ -218,8 +218,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Adobe</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1432323678492" ID="ID_495185515" LINK="https://github.com/adobe/brackets" MODIFIED="1433605990085">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -234,7 +233,23 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1416428481832" ID="ID_905843032" LINK="http://zedapp.org/" MODIFIED="1416428493307" POSITION="right" TEXT="zed">
+<node CREATED="1416428481832" FOLDED="true" ID="ID_905843032" LINK="http://zedapp.org/" MODIFIED="1434303186031" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>zed</b>&#160;<img src="../icons/zed.png" />
+    </p>
+    <p>
+      2013
+    </p>
+    <p>
+      <i><font color="#3296fa">Zef Hemel</font></i>
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1432323678492" ID="ID_1774458425" LINK="https://github.com/zedapp/zed" MODIFIED="1433607931157">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -344,7 +359,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1432323815364" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" ID="ID_1347439886" MODIFIED="1434315381639" POSITION="left" TEXT="IDE">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1429311603448">
 <richcontent TYPE="NODE"><html>
@@ -468,6 +483,7 @@
 <node CREATED="1432323292613" MODIFIED="1432323292613" TEXT="Visual Studio 2015"/>
 </node>
 </node>
+<node CREATED="1434315386039" ID="ID_253931574" LINK="https://www.kdevelop.org/" MODIFIED="1434315406120" TEXT="KDevelop"/>
 </node>
 <node CREATED="1415905181222" ID="ID_251384017" LINK="http://macromates.com/" MODIFIED="1415905421883" POSITION="right">
 <richcontent TYPE="NODE"><html>

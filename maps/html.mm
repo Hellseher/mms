@@ -2,116 +2,80 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1415748301901" ID="ID_1603557634" MODIFIED="1429310640992" TEXT="HTML">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415832829302" ID="ID_1800875381" MODIFIED="1433623992398" POSITION="left" TEXT="tags">
+<node CREATED="1433196955574" FOLDED="true" ID="ID_1735270856" MODIFIED="1434231967070" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info<img src="../icons/info.png" />
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396776" FOLDED="true" ID="ID_241413429" MODIFIED="1429310640982">
-<richcontent TYPE="NODE"><html>
+<node CREATED="1433196980363" ID="ID_665052039" LINK="http://www.w3.org/TR/html5/" MODIFIED="1433197004394" TEXT="A vocabulary and associated APIs for HTML and XHTML"/>
+<node CREATED="1433197018261" ID="ID_276318682" LINK="http://www.w3.org/Style/CSS/current-work#CSS3" MODIFIED="1433197034631" TEXT="CSS SPEC&#xad;I&#xad;FI&#xad;CA&#xad;TIONS"/>
+</node>
+<node CREATED="1416767460078" FOLDED="true" ID="ID_832603952" MODIFIED="1434231962714" POSITION="left" TEXT="info">
+<node CREATED="1416767464158" ID="ID_617642580" LINK="http://www.w3schools.com/html/" MODIFIED="1416767472791" TEXT="http://www.w3schools.com/html/"/>
+</node>
+<node CREATED="1433198621817" ID="ID_656631135" MODIFIED="1433198656357" POSITION="right" TEXT="minimal document">
+<richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;a&gt;</b>
+      &lt;!DOCTYPE html&gt;
     </p>
     <p>
-      <font color="#3296fa"><i>hyperlink (anchor)</i></font>
+      &lt;html lang=&quot;en&quot;&gt;
+    </p>
+    <p>
+      &lt;head&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;meta charset=&quot;utf-8&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;title&gt;Page Title&lt;/title&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;
+    </p>
+    <p>
+      &#160;&#160;&#160;&lt;script src=&quot;script.js&quot;&gt;&lt;/script&gt;
+    </p>
+    <p>
+      &lt;/head&gt;
+    </p>
+    <p>
+      &lt;body&gt;
+    </p>
+    <p>
+      ... &lt;!-- The rest is content --&gt;
+    </p>
+    <p>
+      &lt;/body&gt;
+    </p>
+    <p>
+      &lt;/html&gt;
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415835145728" FOLDED="true" ID="ID_446767619" MODIFIED="1429310640982" TEXT="attr">
+</node>
+<node CREATED="1433365854810" FOLDED="true" ID="ID_726392271" MODIFIED="1433366176666" POSITION="left" TEXT="Structural elements">
+<node CREATED="1433365865116" ID="ID_566202164" MODIFIED="1433365867724" TEXT="list"/>
+<node CREATED="1433365868064" ID="ID_1709797292" MODIFIED="1433365871409" TEXT="paragrapsh"/>
+<node CREATED="1433365872052" ID="ID_238463226" MODIFIED="1433365875913" TEXT="tables"/>
+<node CREATED="1433365886348" ID="ID_197304993" MODIFIED="1433365891632" TEXT="navigation menue"/>
+<node CREATED="1433365892005" ID="ID_1042789961" MODIFIED="1433365897834" TEXT="tabbed panel"/>
+<node CREATED="1433365899327" ID="ID_1289909773" MODIFIED="1433365901535" TEXT="header"/>
+<node CREATED="1433365901924" ID="ID_1962942065" MODIFIED="1433365903826" TEXT="footer"/>
+</node>
+<node CREATED="1415832829302" FOLDED="true" ID="ID_1800875381" MODIFIED="1434400060513" POSITION="left" TEXT="Main Tags">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415835150240" ID="ID_510152046" MODIFIED="1415835153069" TEXT="charset"/>
-<node CREATED="1415835153472" ID="ID_216248748" MODIFIED="1415835155036" TEXT="coords"/>
-<node CREATED="1415835155839" ID="ID_1115017067" MODIFIED="1415835609569">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>href=&quot;</b><i>URL</i><b>&quot;</b>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415835161504" ID="ID_419556383" MODIFIED="1415835166301" TEXT="hreflang"/>
-<node CREATED="1415835166864" ID="ID_15521260" MODIFIED="1415835168253" TEXT="media"/>
-<node CREATED="1415835169086" ID="ID_362663238" MODIFIED="1415835170075" TEXT="name"/>
-<node CREATED="1415835170366" FOLDED="true" ID="ID_1343956492" MODIFIED="1429310640981">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>rel=&quot;</b><i>value</i><b>&quot;</b>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415835393324" ID="ID_1777180245" MODIFIED="1415835397609" TEXT="alternate"/>
-<node CREATED="1415835398476" ID="ID_1105957662" MODIFIED="1415835402329" TEXT="author"/>
-<node CREATED="1415835402764" ID="ID_122498157" MODIFIED="1415835404649" TEXT="bookmark"/>
-<node CREATED="1415835405468" ID="ID_1418408882" MODIFIED="1415835406633" TEXT="help"/>
-<node CREATED="1415835407100" ID="ID_1214550215" MODIFIED="1415835409497" TEXT="license"/>
-<node CREATED="1415835410364" ID="ID_695844425" MODIFIED="1415835411434" TEXT="next"/>
-<node CREATED="1415835411804" ID="ID_981131964" MODIFIED="1415835413769" TEXT="nofollow"/>
-<node CREATED="1415835416876" ID="ID_1149170958" MODIFIED="1415835420968" TEXT="noreferrer"/>
-<node CREATED="1415835421963" ID="ID_1814270728" MODIFIED="1415835426793" TEXT="prefetch"/>
-<node CREATED="1415835427131" ID="ID_1510949371" MODIFIED="1415835428521" TEXT="prev"/>
-<node CREATED="1415835428955" ID="ID_990473959" MODIFIED="1415835430697" TEXT="search"/>
-<node CREATED="1415835431259" ID="ID_1048030458" MODIFIED="1415835432505" TEXT="tag"/>
-</node>
-<node CREATED="1415835171502" ID="ID_11678024" MODIFIED="1415835172971" TEXT="rev"/>
-<node CREATED="1415835173534" FOLDED="true" ID="ID_1993592108" MODIFIED="1429310640981">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>shape=&quot;</b><i>valueb&quot;</i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415835462395" ID="ID_392169228" MODIFIED="1415835465176" TEXT="default"/>
-<node CREATED="1415835465947" ID="ID_964247177" MODIFIED="1415835467816" TEXT="rect"/>
-<node CREATED="1415835468283" ID="ID_1646941619" MODIFIED="1415835471400" TEXT="circle"/>
-<node CREATED="1415835472219" ID="ID_902080915" MODIFIED="1415835476856" TEXT="poly"/>
-</node>
-<node CREATED="1415835177440" FOLDED="true" ID="ID_671691737" MODIFIED="1429310640981">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>target=&quot;</b><i>meidia_type</i><b>&quot;</b>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415835243135" ID="ID_1326456112" MODIFIED="1415835247627" TEXT="_blank"/>
-<node CREATED="1415835248078" ID="ID_1298181464" MODIFIED="1415835252987" TEXT="_parent"/>
-<node CREATED="1415835253998" ID="ID_1967356691" MODIFIED="1415835258859" TEXT="_self"/>
-<node CREATED="1415835259310" ID="ID_644052066" MODIFIED="1415835262251" TEXT="_top"/>
-</node>
-<node CREATED="1415835180543" ID="ID_737205711" MODIFIED="1415835181724" TEXT="type"/>
-</node>
-</node>
-<node CREATED="1415749396776" ID="ID_451576412" MODIFIED="1415751183188">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;abbr&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>abbreviation</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1415749396777" ID="ID_88964366" MODIFIED="1415751238948">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -157,44 +121,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396784" FOLDED="true" ID="ID_1841253783" MODIFIED="1429310640983">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;bdo&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">bi-directional overide</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415837539595" FOLDED="true" ID="ID_1770230442" MODIFIED="1429310640983" TEXT="dir=&quot;value&quot;">
-<node CREATED="1415837547403" ID="ID_21950704" MODIFIED="1415837550599" TEXT="ltr"/>
-<node CREATED="1415837550986" ID="ID_1564595515" MODIFIED="1415837552263" TEXT="rtl"/>
-</node>
-<node CREATED="1415837572186" ID="ID_1794301577" MODIFIED="1415837598408" TEXT="css">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      bdo {
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;unicode-bidi: bidi-override;
-    </p>
-    <p>
-      }
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
 <node CREATED="1415749396784" ID="ID_359569919" MODIFIED="1415752263108">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -225,36 +151,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396789" ID="ID_1901000084" MODIFIED="1415752550710">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;cite&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>title of a work</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396792" ID="ID_380824508" MODIFIED="1415753264596">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;dfn&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>definition term</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1415749396792" ID="ID_1119071531" MODIFIED="1415753449186">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -266,21 +162,6 @@
     </p>
     <p>
       <font color="#3296fa"><i>not in HTML5 use &lt;ul&gt;</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396794" ID="ID_178688160" MODIFIED="1415753498287">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;em&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>emphasized text</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -348,36 +229,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396806" ID="ID_1017728377" MODIFIED="1415754186516">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;kbd&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>keyboard input</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396811" ID="ID_1162110183" MODIFIED="1415754472369">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;menu&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines a list/menu of commands</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1415749396813" ID="ID_32843560" MODIFIED="1415754560383">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -422,21 +273,6 @@
     </p>
     <p>
       <i><font color="#3296fa">smaller text</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396823" ID="ID_593845438" MODIFIED="1415833181455">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;strong&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">important text</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -531,8 +367,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415836399116" ID="ID_167273671" MODIFIED="1433625346362" TEXT="~ Images">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396810" FOLDED="true" ID="ID_1376234068" MODIFIED="1429310640987">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -579,7 +413,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1415749396779" FOLDED="true" ID="ID_787679918" MODIFIED="1429310640989">
+<node CREATED="1415749396779" FOLDED="true" ID="ID_787679918" MODIFIED="1434395621978">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -593,7 +427,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415835744535" FOLDED="true" ID="ID_1151408314" MODIFIED="1429310640989" TEXT="attr">
+<node CREATED="1415835744535" ID="ID_1151408314" MODIFIED="1434395600419" TEXT="attr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415835749591" ID="ID_1818561945" MODIFIED="1415835750627" TEXT="alt"/>
 <node CREATED="1415835751447" ID="ID_1792411750" MODIFIED="1415835754515" TEXT="coords"/>
@@ -623,7 +457,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415835771686" FOLDED="true" ID="ID_629881034" MODIFIED="1429310640988">
+<node CREATED="1415835771686" FOLDED="true" ID="ID_629881034" MODIFIED="1434395614161">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -713,7 +547,6 @@
 </node>
 </node>
 <node CREATED="1415749396795" ID="ID_1572294772" MODIFIED="1415749396795" TEXT="&lt;figcaption&gt;        Defines a caption for a &lt;figure&gt; element"/>
-</node>
 <node CREATED="1415907952122" FOLDED="true" ID="ID_1761787956" MODIFIED="1433970453055" TEXT="table">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396825" ID="ID_1588058472" MODIFIED="1415907967698">
@@ -867,8 +700,22 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1433975552764" TEXT="form">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1434395498543">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>form</b>
+    </p>
+    <p>
+      <font size="2">flow content</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396797" ID="ID_124721871" MODIFIED="1415753547007">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1006,15 +853,14 @@
       <i><font color="#6496fa" size="2">multiline input control</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
 <node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
 <node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
 <node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
 </node>
-<node CREATED="1415837674569" FOLDED="true" ID="ID_212049435" MODIFIED="1433970408128">
+<node CREATED="1415837674569" ID="ID_212049435" MODIFIED="1434395500797">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1027,8 +873,7 @@
       <font size="2">flow content</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396818" ID="ID_1671676184" MODIFIED="1415754958153">
 <richcontent TYPE="NODE"><html>
@@ -1090,24 +935,299 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1415749396809" ID="ID_261761840" LINK="http://www.w3.org/TR/html5/grouping-content.html#the-main-element" MODIFIED="1433366817925">
+<node CREATED="1415749396776" FOLDED="true" ID="ID_241413429" MODIFIED="1434396927920">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;main&gt;</b>
+      <b>&lt;a&gt;</b>
     </p>
     <p>
-      <i><font size="2" color="#3296fa">specifies the main </font></i>
+      <font color="#6496fa" size="2"><i>hyperlink (anchor)</i></font>
     </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1415835145728" FOLDED="true" ID="ID_446767619" MODIFIED="1434396921652" TEXT="attr">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415835150240" ID="ID_510152046" MODIFIED="1415835153069" TEXT="charset"/>
+<node CREATED="1415835153472" ID="ID_216248748" MODIFIED="1415835155036" TEXT="coords"/>
+<node CREATED="1415835155839" ID="ID_1115017067" MODIFIED="1415835609569">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      <i><font size="2" color="#3296fa">content of a document</font></i>
+      <b>href=&quot;</b><i>URL</i><b>&quot;</b>
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1415835161504" ID="ID_419556383" MODIFIED="1415835166301" TEXT="hreflang"/>
+<node CREATED="1415835166864" ID="ID_15521260" MODIFIED="1415835168253" TEXT="media"/>
+<node CREATED="1415835169086" ID="ID_362663238" MODIFIED="1415835170075" TEXT="name"/>
+<node CREATED="1415835170366" FOLDED="true" ID="ID_1343956492" MODIFIED="1429310640981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>rel=&quot;</b><i>value</i><b>&quot;</b>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415835393324" ID="ID_1777180245" MODIFIED="1415835397609" TEXT="alternate"/>
+<node CREATED="1415835398476" ID="ID_1105957662" MODIFIED="1415835402329" TEXT="author"/>
+<node CREATED="1415835402764" ID="ID_122498157" MODIFIED="1415835404649" TEXT="bookmark"/>
+<node CREATED="1415835405468" ID="ID_1418408882" MODIFIED="1415835406633" TEXT="help"/>
+<node CREATED="1415835407100" ID="ID_1214550215" MODIFIED="1415835409497" TEXT="license"/>
+<node CREATED="1415835410364" ID="ID_695844425" MODIFIED="1415835411434" TEXT="next"/>
+<node CREATED="1415835411804" ID="ID_981131964" MODIFIED="1415835413769" TEXT="nofollow"/>
+<node CREATED="1415835416876" ID="ID_1149170958" MODIFIED="1415835420968" TEXT="noreferrer"/>
+<node CREATED="1415835421963" ID="ID_1814270728" MODIFIED="1415835426793" TEXT="prefetch"/>
+<node CREATED="1415835427131" ID="ID_1510949371" MODIFIED="1415835428521" TEXT="prev"/>
+<node CREATED="1415835428955" ID="ID_990473959" MODIFIED="1415835430697" TEXT="search"/>
+<node CREATED="1415835431259" ID="ID_1048030458" MODIFIED="1415835432505" TEXT="tag"/>
+</node>
+<node CREATED="1415835171502" ID="ID_11678024" MODIFIED="1415835172971" TEXT="rev"/>
+<node CREATED="1415835173534" FOLDED="true" ID="ID_1993592108" MODIFIED="1429310640981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>shape=&quot;</b><i>valueb&quot;</i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415835462395" ID="ID_392169228" MODIFIED="1415835465176" TEXT="default"/>
+<node CREATED="1415835465947" ID="ID_964247177" MODIFIED="1415835467816" TEXT="rect"/>
+<node CREATED="1415835468283" ID="ID_1646941619" MODIFIED="1415835471400" TEXT="circle"/>
+<node CREATED="1415835472219" ID="ID_902080915" MODIFIED="1415835476856" TEXT="poly"/>
+</node>
+<node CREATED="1415835177440" FOLDED="true" ID="ID_671691737" MODIFIED="1434396472692">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>target=&quot;</b><i>meidia_type</i><b>&quot;</b>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415835243135" ID="ID_1326456112" MODIFIED="1415835247627" TEXT="_blank"/>
+<node CREATED="1415835248078" ID="ID_1298181464" MODIFIED="1415835252987" TEXT="_parent"/>
+<node CREATED="1415835253998" ID="ID_1967356691" MODIFIED="1415835258859" TEXT="_self"/>
+<node CREATED="1415835259310" ID="ID_644052066" MODIFIED="1415835262251" TEXT="_top"/>
+</node>
+<node CREATED="1415835180543" ID="ID_737205711" MODIFIED="1415835181724" TEXT="type"/>
+<node CREATED="1434396517915" ID="ID_538000531" MODIFIED="1434396535990">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>download </b>
+    </p>
+    <p>
+      <font size="2">from HTML5</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1415749396776" ID="ID_451576412" MODIFIED="1415751183188">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;abbr&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>abbreviation</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396784" ID="ID_1841253783" MODIFIED="1434396935768">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;bdo&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">bi-directional overide</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415837539595" FOLDED="true" ID="ID_1770230442" MODIFIED="1434396947040">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>dir</b>=&quot;value&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1415837547403" ID="ID_21950704" MODIFIED="1415837550599" TEXT="ltr"/>
+<node CREATED="1415837550986" ID="ID_1564595515" MODIFIED="1415837552263" TEXT="rtl"/>
+</node>
+<node CREATED="1415837572186" ID="ID_1794301577" MODIFIED="1415837598408" TEXT="css">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      bdo {
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;unicode-bidi: bidi-override;
+    </p>
+    <p>
+      }
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1415749396789" ID="ID_1901000084" MODIFIED="1415752550710">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;cite&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>title of a work</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396792" ID="ID_380824508" MODIFIED="1415753264596">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;dfn&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>definition term</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396794" ID="ID_178688160" MODIFIED="1415753498287">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;em&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>emphasized text</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396806" ID="ID_1017728377" MODIFIED="1415754186516">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;kbd&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>keyboard input</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396823" ID="ID_593845438" MODIFIED="1415833181455">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;strong&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">important text</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396810" ID="ID_1787499180" MODIFIED="1434322115923">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;mark&gt; </b>
+    </p>
+    <p>
+      <font size="2">from HTML5 </font>
+    </p>
+    <p>
+      <font size="2" color="#6496fa"><i>Defines marked/highlighted text</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396829" FOLDED="true" ID="ID_1762863725" MODIFIED="1434396456365">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;time&gt;</b>
+    </p>
+    <p>
+      <font size="2">from HTML5 </font>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">Defines a date/time</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1434395636394" ID="ID_847178025" MODIFIED="1434395639018" TEXT="attr">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434395639336" ID="ID_223344652" MODIFIED="1434395649060" TEXT="datetime">
+<node CREATED="1434396130801" ID="ID_194101144" MODIFIED="1434396132896" TEXT="YYYY-MM-DDThh:mm:ssTZD"/>
+<node CREATED="1434396133937" ID="ID_320875176" MODIFIED="1434396143104" TEXT="PTDHMS"/>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1433366974758" FOLDED="true" ID="ID_240734800" MODIFIED="1433970684481">
 <richcontent TYPE="NODE"><html>
@@ -1122,8 +1242,7 @@
       <font size="2">flow content</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396780" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1433367041021">
 <richcontent TYPE="NODE"><html>
@@ -1594,7 +1713,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433367645051" ID="ID_537891902" MODIFIED="1433972105979">
+<node CREATED="1433367645051" FOLDED="true" ID="ID_537891902" MODIFIED="1434393643515">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1674,17 +1793,16 @@
       <font color="#6496fa" size="2"><i>from the page content</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1415749396786" ID="ID_671239245" MODIFIED="1433975674714">
+<node CREATED="1415749396786" ID="ID_671239245" MODIFIED="1434231857100">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;body&gt;</b>
+      <b>&lt;body&gt; &lt;/body&gt;</b>
     </p>
     <p>
       <font color="#6496fa" size="2"><i>document's body </i></font>
@@ -1693,8 +1811,7 @@
       <font color="#6496fa" size="2"><i>sectioning root</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415749396797" ID="ID_833152040" MODIFIED="1433366358026">
 <richcontent TYPE="NODE"><html>
@@ -1775,8 +1892,7 @@
       <i><font color="#6496fa" size="2">defines navigation links</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415749396821" ID="ID_738606176" MODIFIED="1433972772333">
 <richcontent TYPE="NODE"><html>
@@ -1797,7 +1913,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1433970549037">
+<node CREATED="1433626851519" FOLDED="true" ID="ID_494627017" MODIFIED="1434233677316">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1824,8 +1940,7 @@
       <font color="#6496fa" size="2"><i>description list</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1415749396791" ID="ID_1156550869" MODIFIED="1415753194293">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2009,8 +2124,71 @@
 </node>
 </node>
 <node CREATED="1415749396796" ID="ID_1098639568" MODIFIED="1415749396796" TEXT="&lt;figure&gt;        Specifies self-contained content"/>
+<node CREATED="1415749396809" ID="ID_261761840" LINK="http://www.w3.org/TR/html5/grouping-content.html#the-main-element" MODIFIED="1434232438037">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;main&gt;</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">specifies the main </font></i>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">content of a document</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      There must not be more than one &lt;main&gt; element in a document,
+    </p>
+    <p>
+      It must not be a descendent of an &lt;article&gt;,&lt;aside&gt;, &lt;footer&gt;, &lt;header&gt;, or &lt;nav&gt; element.
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1415749422033" ID="ID_665571542" MODIFIED="1433970567729">
+</node>
+<node CREATED="1434317898032" FOLDED="true" ID="ID_359600380" MODIFIED="1434395524413">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>interactive</b>
+    </p>
+    <p>
+      <font size="2">flow content</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415749396791" ID="ID_270054473" MODIFIED="1434317942819" TEXT="&lt;details&gt;        Defines additional details that the user can view or hide"/>
+<node CREATED="1415749396824" ID="ID_1984940766" MODIFIED="1434317950961" TEXT="&lt;summary&gt;        Defines a visible heading for a &lt;details&gt; element"/>
+<node CREATED="1415749396811" ID="ID_1162110183" MODIFIED="1434317998258">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;menu&gt;</b>
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>defines a list/menu of commands</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1415749422033" ID="ID_665571542" MODIFIED="1434317895014">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2023,16 +2201,12 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396782" ID="ID_1198612376" MODIFIED="1415749396782" TEXT="&lt;bdi&gt;                Isolates a part of text that might be formatted in a different direction from other text outside it"/>
-<node CREATED="1415749396791" ID="ID_270054473" MODIFIED="1415749396791" TEXT="&lt;details&gt;        Defines additional details that the user can view or hide"/>
 <node CREATED="1415749396792" ID="ID_1189620141" MODIFIED="1415749396792" TEXT="&lt;dialog&gt;        Defines a dialog box or window"/>
-<node CREATED="1415749396810" ID="ID_1787499180" MODIFIED="1415749396810" TEXT="&lt;mark&gt;                Defines marked/highlighted text"/>
 <node CREATED="1415749396811" ID="ID_1270947381" MODIFIED="1415749396811" TEXT="&lt;menuitem&gt;        Defines a command/menu item that the user can invoke from a popup menu"/>
 <node CREATED="1415749396818" ID="ID_1751472040" MODIFIED="1415749396818" TEXT="&lt;rp&gt;                Defines what to show in browsers that do not support ruby annotations"/>
 <node CREATED="1415749396818" ID="ID_80670238" MODIFIED="1415749396818" TEXT="&lt;rt&gt;                Defines an explanation/pronunciation of characters (for East Asian typography)"/>
 <node CREATED="1415749396820" ID="ID_895295618" MODIFIED="1415749396820" TEXT="&lt;ruby&gt;                Defines a ruby annotation (for East Asian typography)"/>
 <node CREATED="1415749396822" ID="ID_819406078" MODIFIED="1415749396822" TEXT="&lt;source&gt;        Defines multiple media resources for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
-<node CREATED="1415749396824" ID="ID_1984940766" MODIFIED="1415749396824" TEXT="&lt;summary&gt;        Defines a visible heading for a &lt;details&gt; element"/>
-<node CREATED="1415749396829" ID="ID_1762863725" MODIFIED="1415749396829" TEXT="&lt;time&gt;                Defines a date/time"/>
 <node CREATED="1415749396830" ID="ID_399453828" MODIFIED="1415749396830" TEXT="&lt;track&gt;                Defines text tracks for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
 <node CREATED="1415749396833" ID="ID_23673390" MODIFIED="1415749396833" TEXT="&lt;wbr&gt;                Defines a possible line-break"/>
 </node>
@@ -2163,6 +2337,21 @@
 </node>
 </node>
 </node>
+<node CREATED="1434400039141" ID="ID_1774401660" MODIFIED="1434400050406" POSITION="left" TEXT="Global Atributes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1433623150343" ID="ID_1091616028" MODIFIED="1433623186812" POSITION="right" TEXT="Thesarus">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      MAMA : Metadata Analysis and Minig Application
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1416676700105" FOLDED="true" ID="ID_657703901" MODIFIED="1433365851870" POSITION="right" TEXT="Version History">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433196454772" MODIFIED="1433196454772" TEXT="HTML        1991"/>
@@ -2186,90 +2375,6 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1433196955574" ID="ID_1735270856" MODIFIED="1433196978428" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      info<img src="../icons/info.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1433196980363" ID="ID_665052039" LINK="http://www.w3.org/TR/html5/" MODIFIED="1433197004394" TEXT="A vocabulary and associated APIs for HTML and XHTML"/>
-<node CREATED="1433197018261" ID="ID_276318682" LINK="http://www.w3.org/Style/CSS/current-work#CSS3" MODIFIED="1433197034631" TEXT="CSS SPEC&#xad;I&#xad;FI&#xad;CA&#xad;TIONS"/>
-</node>
-<node CREATED="1416767460078" ID="ID_832603952" MODIFIED="1433196678638" POSITION="left" TEXT="info">
-<node CREATED="1416767464158" ID="ID_617642580" LINK="http://www.w3schools.com/html/" MODIFIED="1416767472791" TEXT="http://www.w3schools.com/html/"/>
-</node>
-<node CREATED="1433198621817" ID="ID_656631135" MODIFIED="1433198656357" POSITION="right" TEXT="minimal document">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &lt;!DOCTYPE html&gt;
-    </p>
-    <p>
-      &lt;html lang=&quot;en&quot;&gt;
-    </p>
-    <p>
-      &lt;head&gt;
-    </p>
-    <p>
-      &#160;&#160;&#160;&lt;meta charset=&quot;utf-8&quot;&gt;
-    </p>
-    <p>
-      &#160;&#160;&#160;&lt;title&gt;Page Title&lt;/title&gt;
-    </p>
-    <p>
-      &#160;&#160;&#160;&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;
-    </p>
-    <p>
-      &#160;&#160;&#160;&lt;script src=&quot;script.js&quot;&gt;&lt;/script&gt;
-    </p>
-    <p>
-      &lt;/head&gt;
-    </p>
-    <p>
-      &lt;body&gt;
-    </p>
-    <p>
-      ... &lt;!-- The rest is content --&gt;
-    </p>
-    <p>
-      &lt;/body&gt;
-    </p>
-    <p>
-      &lt;/html&gt;
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1433623150343" ID="ID_1091616028" MODIFIED="1433623186812" POSITION="right" TEXT="Thesarus">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      MAMA : Metadata Analysis and Minig Application
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1433365854810" FOLDED="true" ID="ID_726392271" MODIFIED="1433366176666" POSITION="left" TEXT="Structural elements">
-<node CREATED="1433365865116" ID="ID_566202164" MODIFIED="1433365867724" TEXT="list"/>
-<node CREATED="1433365868064" ID="ID_1709797292" MODIFIED="1433365871409" TEXT="paragrapsh"/>
-<node CREATED="1433365872052" ID="ID_238463226" MODIFIED="1433365875913" TEXT="tables"/>
-<node CREATED="1433365886348" ID="ID_197304993" MODIFIED="1433365891632" TEXT="navigation menue"/>
-<node CREATED="1433365892005" ID="ID_1042789961" MODIFIED="1433365897834" TEXT="tabbed panel"/>
-<node CREATED="1433365899327" ID="ID_1289909773" MODIFIED="1433365901535" TEXT="header"/>
-<node CREATED="1433365901924" ID="ID_1962942065" MODIFIED="1433365903826" TEXT="footer"/>
 </node>
 </node>
 </map>

@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415405892036" FOLDED="true" ID="ID_64918932" MODIFIED="1432332228036" POSITION="left">
+<node CREATED="1415405892036" ID="ID_64918932" MODIFIED="1434394424744" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -31,7 +31,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415406087569" FOLDED="true" ID="ID_1064823589" MODIFIED="1432331720363" TEXT="lib">
+<node CREATED="1415406087569" ID="ID_1064823589" MODIFIED="1434394429900" TEXT="lib">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432330212296" ID="ID_1260619625" LINK="http://backbonejs.org/" MODIFIED="1432330527825">
 <richcontent TYPE="NODE"><html>
@@ -127,7 +127,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1432331521476" FOLDED="true" ID="ID_130015849" MODIFIED="1432331704396" TEXT="widgets">
+<node CREATED="1432331521476" ID="ID_130015849" MODIFIED="1434394446384" TEXT="widgets">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421783337705" ID="ID_671310861" LINK="https://angularjs.org/" MODIFIED="1421783465267">
 <richcontent TYPE="NODE"><html>
@@ -150,9 +150,9 @@
 <node CREATED="1415406003587" ID="ID_1244913743" LINK="http://www.sencha.com/products/extjs/" MODIFIED="1415406646220" TEXT="Ext Core"/>
 <node CREATED="1415406033122" ID="ID_1958983824" MODIFIED="1415406036991" TEXT="Ext JS"/>
 </node>
-<node CREATED="1432331613411" FOLDED="true" ID="ID_143653282" MODIFIED="1432332224060" TEXT="DOM">
+<node CREATED="1432331613411" ID="ID_143653282" MODIFIED="1434394442598" TEXT="DOM">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415406040818" ID="ID_303382184" LINK="https://dojotoolkit.org/" MODIFIED="1432332034782">
+<node CREATED="1415406040818" FOLDED="true" ID="ID_303382184" LINK="https://dojotoolkit.org/" MODIFIED="1434394445200">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -259,7 +259,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1432328218855" FOLDED="true" ID="ID_293881334" LINK="https://www.npmjs.com/" MODIFIED="1432330981023">
+<node CREATED="1432328218855" FOLDED="true" ID="ID_293881334" LINK="https://www.npmjs.com/" MODIFIED="1434394440429">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -304,7 +304,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1432329000747" FOLDED="true" ID="ID_974177486" MODIFIED="1432329424886">
+<node CREATED="1432329000747" FOLDED="true" ID="ID_974177486" MODIFIED="1434394454229">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -328,7 +328,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1424015172094" FOLDED="true" ID="ID_144404480" MODIFIED="1432331539694" TEXT="TaskRunners">
+<node CREATED="1424015172094" ID="ID_144404480" MODIFIED="1434394450460" TEXT="TaskRunners">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1424015395598" FOLDED="true" ID="ID_1765955690" LINK="http://brunch.io/" MODIFIED="1432329120251">
 <richcontent TYPE="NODE"><html>
@@ -403,6 +403,8 @@
 </node>
 </node>
 </node>
+<node CREATED="1434394463661" ID="ID_1193472543" LINK="http://modernizr.com/" MODIFIED="1434394482095" TEXT="Modernizr"/>
+<node CREATED="1434394802854" ID="ID_1117408287" LINK="http://d3js.org/" MODIFIED="1434394833691" TEXT="D3js"/>
 </node>
 <node CREATED="1415052925776" FOLDED="true" ID="ID_1087413980" MODIFIED="1432329331875" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -712,7 +714,7 @@
 <node CREATED="1414628885054" ID="ID_1632387169" LINK="http://yacy.net/" MODIFIED="1414629110494" TEXT="YaCy"/>
 </node>
 </node>
-<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1433622381827" POSITION="right" TEXT="Thesarus">
+<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1434316767648" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -775,12 +777,14 @@
     <p>
       DTD : Document Type Declaration
     </p>
+    <p>
+      MIME
+    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1433197394681" POSITION="right">
+<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1434325187977" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -817,7 +821,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1415452052754" ID="ID_697094265" MODIFIED="1415452054975" TEXT="Catalyst"/>
-<node CREATED="1414629413574" FOLDED="true" ID="ID_1844300681" MODIFIED="1432980924099">
+<node CREATED="1414629413574" FOLDED="true" ID="ID_1844300681" MODIFIED="1434316758793">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1222,11 +1226,30 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1741832866" ENDARROW="Default" ENDINCLINATION="515;0;" ID="Arrow_ID_166975935" SOURCE="ID_400065694" STARTARROW="None" STARTINCLINATION="515;0;"/>
 </node>
 <node CREATED="1415451532714" ID="ID_1609581552" LINK="http://symfony.com/legacy" MODIFIED="1425250212602" TEXT="Symfony"/>
+<node CREATED="1434305192997" ID="ID_1675248117" LINK="https://phalconphp.com/en/" MODIFIED="1434305425589">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Phalcon </b><img src="../icons/phalcon.png" />
+    </p>
+    <p>
+      2012
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">Andres Gutierrez </font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1415451543402" ID="ID_806492816" MODIFIED="1415451547111" TEXT="Yii"/>
 <node CREATED="1415451559946" ID="ID_554977137" MODIFIED="1415451634710" TEXT="Spring"/>
 <node CREATED="1415451579338" ID="ID_1867907585" MODIFIED="1415451581638" TEXT="Stripes"/>
+<node CREATED="1434324951011" ID="ID_144241571" LINK="http://mean.io/#!/" MODIFIED="1434324964857" TEXT="MEAN"/>
 <node CREATED="1415452252447" ID="ID_1470973482" MODIFIED="1415452257260" TEXT="CodeIgniter"/>
-<node CREATED="1432980967552" ID="ID_601462725" MODIFIED="1432980974752" TEXT="e-Commerce">
+<node CREATED="1432980967552" FOLDED="true" ID="ID_601462725" MODIFIED="1434305128898" TEXT="e-Commerce">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432981287691" ID="ID_128680090" LINK="http://www.oscommerce.com/" MODIFIED="1432981478293">
 <richcontent TYPE="NODE"><html>
@@ -1484,7 +1507,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1432329320907" POSITION="right">
+<node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1434305123146" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1525,7 +1548,7 @@
 <node CREATED="1426545414615" ID="ID_64490991" MODIFIED="1426545418995" TEXT="ISPConfig"/>
 <node CREATED="1426545438710" ID="ID_1389638045" MODIFIED="1426545443027" TEXT="DirectAdmin"/>
 <node CREATED="1426544790063" ID="ID_1530837574" MODIFIED="1426544793900" TEXT="cPanel"/>
-<node CREATED="1426544796367" ID="ID_163407385" LINK="http://www.webmin.com/" MODIFIED="1432318969080">
+<node CREATED="1426544796367" FOLDED="true" ID="ID_163407385" LINK="http://www.webmin.com/" MODIFIED="1434304520625">
 <richcontent TYPE="NODE"><html>
   <head>
     
