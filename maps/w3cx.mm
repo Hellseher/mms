@@ -294,29 +294,59 @@
 </node>
 </node>
 </node>
-<node CREATED="1433179824352" ID="ID_1304284168" MODIFIED="1434317625858" TEXT="1.4 Other elements and attributes">
+<node CREATED="1433179824352" FOLDED="true" ID="ID_1304284168" MODIFIED="1434400165339" TEXT="1.4 Other elements and attributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1434318188187" ID="ID_21219019" MODIFIED="1434318209702" TEXT="1.4.1 &lt;details&gt; and &lt;summary&gt; elements">
+<node CREATED="1434318188187" ID="ID_21219019" MODIFIED="1434399771530" TEXT="1.4.1 &lt;details&gt; and &lt;summary&gt; elements">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434321723396" ID="ID_751186784" MODIFIED="1434321726278" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1434395888053" ID="ID_473004128" MODIFIED="1434395898357" TEXT="1.4.2 The &lt;time&gt; element">
+<node CREATED="1434395888053" ID="ID_473004128" MODIFIED="1434399770634" TEXT="1.4.2 The &lt;time&gt; element">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434395916805" ID="ID_1232131160" MODIFIED="1434395919941" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434395920853" ID="ID_1304338777" LINK="http://www.brucelawson.co.uk/2012/best-of-time/" MODIFIED="1434395936828" TEXT="The best of &lt;time&gt;s"/>
 <node CREATED="1434396095650" ID="ID_1803415460" LINK="http://www.w3.org/TR/html5/text-level-semantics.html#the-time-element" MODIFIED="1434396104131" TEXT="4.5.11 The time element"/>
 </node>
 </node>
-<node CREATED="1434396236624" ID="ID_1317840990" MODIFIED="1434396244763" TEXT="1.4.3 The &lt;mark&gt; element"/>
-<node CREATED="1434396280751" ID="ID_657303615" MODIFIED="1434396286091" TEXT="1.4.4 The new HTML5  DOWNLOAD attribute for &lt;A HREF&gt;">
+<node CREATED="1434396236624" ID="ID_1317840990" MODIFIED="1434399769882" TEXT="1.4.3 The &lt;mark&gt; element">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1434396280751" ID="ID_657303615" MODIFIED="1434399768684" TEXT="1.4.4 The new HTML5  DOWNLOAD attribute for &lt;A HREF&gt;">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434396294479" ID="ID_933844438" MODIFIED="1434396297673" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434396306367" ID="ID_1891007334" LINK="http://www.w3.org/TR/html5/links.html#downloading-resources" MODIFIED="1434396314373" TEXT="4.8.3 Downloading resources"/>
 </node>
 </node>
+<node CREATED="1434399773594" ID="ID_1165915619" MODIFIED="1434399787082" TEXT="1.4.5 HTML5 TRANSLATE ATTRIBUTE">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1433179824352" MODIFIED="1433179824352" TEXT="1.5 Microdata"/>
+</node>
+<node CREATED="1433179824352" ID="ID_1679124635" MODIFIED="1434401149468" TEXT="1.5 Microdata">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      www.scheme.org
+    </p>
+    <p>
+      itmescope itemtype=&quot;http://schema.org/PostalAddress&quot;
+    </p>
+    <p>
+      itemprop=&quot;streetAddress&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434401528478" ID="ID_48161277" MODIFIED="1434401535690" TEXT="1.5.1 Microdata Tools">
+<node CREATED="1434401537134" ID="ID_63745727" MODIFIED="1434401538441" TEXT="links"/>
+</node>
+</node>
 <node CREATED="1433179824353" MODIFIED="1433179824353" TEXT="1.6 Exercises - Week 1"/>
 </node>
 <node CREATED="1433975138741" FOLDED="true" ID="ID_1238472519" MODIFIED="1433975206803" POSITION="right" TEXT="Week2: HTML5 Multimedia">

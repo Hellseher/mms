@@ -179,7 +179,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" FOLDED="true" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1434393074847" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1434476023035" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -524,7 +524,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1433976677517" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1434476086959" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -25995,7 +25995,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1410906984797" FOLDED="true" ID="ID_1661011407" MODIFIED="1433623298793">
+<node CREATED="1410906984797" FOLDED="true" ID="ID_1661011407" MODIFIED="1434476082037">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26009,7 +26009,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1398564209843" FOLDED="true" ID="ID_568251019" MODIFIED="1429355991281" STYLE="fork">
+<node CREATED="1398564209843" FOLDED="true" ID="ID_568251019" MODIFIED="1434476078083" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26040,7 +26040,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_647698580" MODIFIED="1429355991281" STYLE="fork">
+<node COLOR="#329632" CREATED="1402144715013" ID="ID_647698580" MODIFIED="1434476023062" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26053,7 +26053,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398564936534" FOLDED="true" ID="ID_1678700364" LINK="http://blog.illumos.org/about-illumos-2/" MODIFIED="1429355991280" STYLE="fork">
+<node CREATED="1398564936534" ID="ID_1678700364" LINK="http://blog.illumos.org/about-illumos-2/" MODIFIED="1434476023070" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26136,7 +26136,7 @@
 <node CREATED="1402145964349" ID="ID_1915722637" MODIFIED="1402145967005" TEXT="x86_64"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_582607684" MODIFIED="1429355991280" STYLE="fork">
+<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_582607684" MODIFIED="1434476075852" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26149,7 +26149,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402145419201" FOLDED="true" ID="ID_132307934" LINK="http://wiki.illumos.org/display/illumos/illumos+Home" MODIFIED="1429355991279" STYLE="fork">
+<node CREATED="1402145419201" FOLDED="true" ID="ID_132307934" LINK="http://wiki.illumos.org/display/illumos/illumos+Home" MODIFIED="1434476074308" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26179,7 +26179,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_665679623" MODIFIED="1429355991279" STYLE="fork">
+<node COLOR="#329632" CREATED="1402144715013" FOLDED="true" ID="ID_665679623" MODIFIED="1434476072546" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26460,7 +26460,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1412705304209" ID="ID_88517111" LINK="http://www.tribblix.org/" MODIFIED="1412706139848" TEXT="Tribblix"/>
-<node CREATED="1403199142392" FOLDED="true" ID="ID_1353770598" LINK="http://www.nexenta.com/products/nexentastor" MODIFIED="1429355991278">
+<node CREATED="1403199142392" ID="ID_1353770598" LINK="http://www.nexenta.com/products/nexentastor" MODIFIED="1434476029398">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26474,7 +26474,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411689676419" ID="ID_1053628230" MODIFIED="1411690340828" TEXT="About NexentaStor">
+<node CREATED="1411689676419" ID="ID_1053628230" MODIFIED="1434476052832" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     

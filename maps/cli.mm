@@ -784,7 +784,7 @@
 <node CREATED="1432759300215" ID="ID_162250613" MODIFIED="1432759302357" TEXT="make"/>
 <node CREATED="1432759780384" ID="ID_1370356160" MODIFIED="1432759782926" TEXT="checkinstall"/>
 </node>
-<node CREATED="1407074986052" ID="ID_714158331" MODIFIED="1433955774701">
+<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1434572077857">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -902,7 +902,7 @@
 <node CREATED="1407075790479" ID="ID_1874774475" MODIFIED="1407075793855" TEXT="lscpu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1434395578109">
+<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1434475027113">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3721,7 +3721,7 @@
 <node CREATED="1408313017187" ID="ID_1329878499" MODIFIED="1408313018241" TEXT="zip"/>
 </node>
 </node>
-<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1432755476854">
+<node CREATED="1408402182454" ID="ID_493014581" MODIFIED="1434572087130">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4059,7 +4059,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408828329850" ID="ID_1781001464" MODIFIED="1414888675322">
+<node CREATED="1408828329850" ID="ID_1781001464" MODIFIED="1434572124683">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4069,10 +4069,11 @@
       <b>chgrp</b>&#160;[<i>options</i>] <i>newgroup files </i>
     </p>
     <p>
-      <font color="#3296fa"><i>change the group of file to newgroup</i></font>
+      <font color="#6496fa" size="2"><i>change the group of file to newgroup</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1408746003573" ID="ID_1740011873" MODIFIED="1408746006996" TEXT="hostname"/>
