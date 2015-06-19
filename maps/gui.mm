@@ -1,8 +1,28 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1433180129337" STYLE="fork" TEXT="GUI">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399812553231" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1433180075249" POSITION="right">
+<node CREATED="1397937211997" ID="ID_683667505" LINK="Linux.mm" MODIFIED="1434742746112" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>GUI</b>
+    </p>
+    <p>
+      <font size="2">graphical </font>
+    </p>
+    <p>
+      <font size="2">user </font>
+    </p>
+    <p>
+      <font size="2">interface</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399812553231" FOLDED="true" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1434742714172" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21,8 +41,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">MIT<i>&#160;</i></font><font size="2">]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <node CREATED="1399832603010" FOLDED="true" ID="ID_483473434" MODIFIED="1433180118485" TEXT="Standarts">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -47,8 +66,7 @@
       <i><font color="#3296fa" size="2">Kristian H&#248;gsberg</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1409599101171" ID="ID_1363226111" MODIFIED="1409599103329" TEXT="Weston"/>
 <node CREATED="1414369512810" ID="ID_1328231032" MODIFIED="1414369516457" TEXT="Hawaii"/>
@@ -84,8 +102,7 @@
       emulator
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417378969784" MODIFIED="1417378969784" TEXT="aterm"/>
 <node CREATED="1417378969785" MODIFIED="1417378969785" TEXT="eterm"/>
@@ -108,7 +125,7 @@
 <node CREATED="1417296340015" ID="ID_1591249503" MODIFIED="1417296364544" POSITION="left" TEXT="Display manager">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417297438174" ID="ID_712302856" MODIFIED="1433180198213" POSITION="left">
+<node CREATED="1417297438174" FOLDED="true" ID="ID_712302856" MODIFIED="1434742712642" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -132,7 +149,7 @@
 <node CREATED="1417298281134" ID="ID_504887434" MODIFIED="1417298281134" TEXT="wm2"/>
 <node CREATED="1417298281135" ID="ID_571511731" MODIFIED="1417298281135" TEXT="wmx"/>
 <node CREATED="1399322458146" ID="ID_1061689773" MODIFIED="1399322463696" TEXT="WMaker"/>
-<node CREATED="1417300353201" ID="ID_1958118582" MODIFIED="1433180289939" TEXT="composite">
+<node CREATED="1417300353201" FOLDED="true" ID="ID_1958118582" MODIFIED="1434742711013" TEXT="composite">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812709342" FOLDED="true" ID="ID_1634763815" LINK="http://www.compiz.org/" MODIFIED="1429310793906">
 <richcontent TYPE="NODE"><html>
@@ -264,8 +281,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">The GNOME Project</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1433180342005" ID="ID_1073481466" LINK="https://github.com/tthurman/metacity" MODIFIED="1433180385610">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -276,8 +292,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1417300697100" ID="ID_154120649" MODIFIED="1417300700745" TEXT="Xfwm"/>
@@ -571,8 +586,7 @@
       <b>Pantheon</b>&#160;<img src="../icons/elementary_os.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1399322450482" ID="ID_284865045" LINK="http://razor-qt.org/" MODIFIED="1417299863167">
 <richcontent TYPE="NODE"><html>

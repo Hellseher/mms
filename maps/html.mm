@@ -713,8 +713,7 @@
       <font size="2">flow content</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396797" ID="ID_124721871" MODIFIED="1415753547007">
 <richcontent TYPE="NODE"><html>
@@ -948,8 +947,7 @@
       <font color="#6496fa" size="2"><i>hyperlink (anchor)</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1415835145728" FOLDED="true" ID="ID_446767619" MODIFIED="1434396921652" TEXT="attr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415835150240" ID="ID_510152046" MODIFIED="1415835153069" TEXT="charset"/>
@@ -1040,8 +1038,7 @@
       <font size="2">from HTML5</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1084,8 +1081,7 @@
       <b>dir</b>=&quot;value&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1415837547403" ID="ID_21950704" MODIFIED="1415837550599" TEXT="ltr"/>
 <node CREATED="1415837550986" ID="ID_1564595515" MODIFIED="1415837552263" TEXT="rtl"/>
 </node>
@@ -1202,7 +1198,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396829" FOLDED="true" ID="ID_1762863725" MODIFIED="1434396456365">
+<node CREATED="1415749396829" FOLDED="true" ID="ID_1762863725" MODIFIED="1434575316489">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1218,8 +1214,7 @@
       <i><font color="#6496fa" size="2">Defines a date/time</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1434395636394" ID="ID_847178025" MODIFIED="1434395639018" TEXT="attr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434395639336" ID="ID_223344652" MODIFIED="1434395649060" TEXT="datetime">
@@ -1229,7 +1224,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433366974758" FOLDED="true" ID="ID_240734800" MODIFIED="1433970684481">
+<node CREATED="1433366974758" ID="ID_240734800" MODIFIED="1434575074602">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1244,7 +1239,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396780" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1433367041021">
+<node CREATED="1415749396780" FOLDED="true" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1434577539691">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1254,10 +1249,40 @@
       <b>&lt;audio&gt;</b>
     </p>
     <p>
-      <i><font size="2" color="#3296fa">defines sound content</font></i>
+      <i><font color="#6496fa" size="2">defines sound content</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1434575097436" ID="ID_761564481" MODIFIED="1434575105469" TEXT="atr">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434575212526" ID="ID_1025394501" MODIFIED="1434575310389">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>autoplay </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">audio will start playing </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">as soon as it is ready</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1434575212526" MODIFIED="1434575212526" TEXT="controls        controls        Specifies that audio controls should be displayed (such as a play/pause button etc)"/>
+<node CREATED="1434575212528" MODIFIED="1434575212528" TEXT="loop        loop        Specifies that the audio will start over again, every time it is finished"/>
+<node CREATED="1434575212528" MODIFIED="1434575212528" TEXT="muted        muted        Specifies that the audio output should be muted"/>
+<node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="preload        auto"/>
+<node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="metadata"/>
+<node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="none        Specifies if and how the author thinks the audio should be loaded when the page loads"/>
+<node CREATED="1434575212530" MODIFIED="1434575212530" TEXT="src        URL        Specifies the URL of the audio file"/>
+</node>
 </node>
 <node CREATED="1415749396787" ID="ID_1716683362" LINK="http://www.w3.org/TR/html5/scripting-1.html#the-canvas-element" MODIFIED="1433367122634">
 <richcontent TYPE="NODE"><html>
@@ -1295,7 +1320,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415749396805" ID="ID_885211039" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-iframe-element" MODIFIED="1433367167947">
+<node CREATED="1415749396805" ID="ID_885211039" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-iframe-element" MODIFIED="1434577553958">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1305,10 +1330,11 @@
       <b>&lt;iframe&gt;</b>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>inline frame</i></font>
+      <font color="#6496fa" size="2"><i>inline frame</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1415749396805" FOLDED="true" ID="ID_326309713" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-img-element" MODIFIED="1433367265420">
 <richcontent TYPE="NODE"><html>
@@ -1913,7 +1939,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1434401164159">
+<node CREATED="1433626851519" FOLDED="true" ID="ID_494627017" MODIFIED="1434575065199">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2188,7 +2214,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1415749422033" ID="ID_665571542" MODIFIED="1434317895014">
+<node CREATED="1415749422033" FOLDED="true" ID="ID_665571542" MODIFIED="1434575184043">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2336,6 +2362,25 @@
 </html></richcontent>
 </node>
 </node>
+</node>
+<node CREATED="1434575149356" FOLDED="true" ID="ID_1163704137" MODIFIED="1434575181167" POSITION="left" TEXT="Global Attributes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434575178110" MODIFIED="1434575178110" TEXT="accesskey        Specifies a shortcut key to activate/focus an element"/>
+<node CREATED="1434575178111" MODIFIED="1434575178111" TEXT="class        Specifies one or more classnames for an element (refers to a class in a style sheet)"/>
+<node CREATED="1434575178112" MODIFIED="1434575178112" TEXT="contenteditable        Specifies whether the content of an element is editable or not"/>
+<node CREATED="1434575178113" MODIFIED="1434575178113" TEXT="contextmenu        Specifies a context menu for an element. The context menu appears when a user right-clicks on the element"/>
+<node CREATED="1434575178114" MODIFIED="1434575178114" TEXT="data-*        Used to store custom data private to the page or application"/>
+<node CREATED="1434575178114" MODIFIED="1434575178114" TEXT="dir        Specifies the text direction for the content in an element"/>
+<node CREATED="1434575178114" MODIFIED="1434575178114" TEXT="draggable        Specifies whether an element is draggable or not"/>
+<node CREATED="1434575178115" MODIFIED="1434575178115" TEXT="dropzone        Specifies whether the dragged data is copied, moved, or linked, when dropped"/>
+<node CREATED="1434575178115" MODIFIED="1434575178115" TEXT="hidden        Specifies that an element is not yet, or is no longer, relevant"/>
+<node CREATED="1434575178115" MODIFIED="1434575178115" TEXT="id        Specifies a unique id for an element"/>
+<node CREATED="1434575178116" MODIFIED="1434575178116" TEXT="lang        Specifies the language of the element&apos;s content"/>
+<node CREATED="1434575178116" MODIFIED="1434575178116" TEXT="spellcheck        Specifies whether the element is to have its spelling and grammar checked or not"/>
+<node CREATED="1434575178117" MODIFIED="1434575178117" TEXT="style        Specifies an inline CSS style for an element"/>
+<node CREATED="1434575178117" MODIFIED="1434575178117" TEXT="tabindex        Specifies the tabbing order of an element"/>
+<node CREATED="1434575178117" MODIFIED="1434575178117" TEXT="title        Specifies extra information about an element"/>
+<node CREATED="1434575178118" MODIFIED="1434575178118" TEXT="translate        Specifies whether the content of an element should be translated or not"/>
 </node>
 <node CREATED="1434400039141" ID="ID_1774401660" MODIFIED="1434400050406" POSITION="left" TEXT="Global Atributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

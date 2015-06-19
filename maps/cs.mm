@@ -276,9 +276,6 @@
 <node CREATED="1414100572810" ID="ID_263230714" MODIFIED="1414100586375" TEXT="4 packets 2 from each side"/>
 </node>
 <node CREATED="1414099199408" ID="ID_1828058132" MODIFIED="1414099204733" TEXT="rainbow table"/>
-</node>
-<node CREATED="1417126236417" ID="ID_720817108" MODIFIED="1417126317309" TEXT="fingerprint"/>
-<node CREATED="1417126324896" ID="ID_1181934129" MODIFIED="1417126335005" TEXT="randomart image"/>
 <node CREATED="1417126338223" ID="ID_1474859265" MODIFIED="1433438439603">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -307,6 +304,32 @@
 <node CREATED="1433438685058" ID="ID_1770650212" LINK="https://www.google.com/patents/US4405829" MODIFIED="1433438703465" TEXT="US 4405829 A"/>
 <node CREATED="1433438604274" ID="ID_775589027" MODIFIED="1433438608910" TEXT="RSA problem"/>
 </node>
+<node CREATED="1434687609404" ID="ID_1319112682" MODIFIED="1434687782187">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>AES </b>
+    </p>
+    <p>
+      <font size="2">Rijndael </font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Joan Daemaen </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Vincent Rijmen</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1434687761881" ID="ID_710779890" MODIFIED="1434687764533" TEXT="DES"/>
+</node>
+<node CREATED="1417126236417" ID="ID_720817108" MODIFIED="1417126317309" TEXT="fingerprint"/>
+<node CREATED="1417126324896" ID="ID_1181934129" MODIFIED="1417126335005" TEXT="randomart image"/>
 <node CREATED="1417126250321" ID="ID_1829833749" MODIFIED="1417126251645" TEXT="key">
 <node CREATED="1417126294416" ID="ID_806908390" MODIFIED="1417126297309" TEXT="public key"/>
 <node CREATED="1417126252000" ID="ID_821561571" MODIFIED="1417126254637" TEXT="open key"/>

@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1433179794784" ID="ID_995612218" MODIFIED="1433975208036" POSITION="right" TEXT="Week1: HTML5 Basics">
+<node CREATED="1433179794784" FOLDED="true" ID="ID_995612218" MODIFIED="1434574866765" POSITION="right" TEXT="Week1: HTML5 Basics">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433179824350" ID="ID_864060981" MODIFIED="1433975213940" TEXT="1.1 Video introduction - Week 1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -74,8 +74,7 @@
       &lt;/html&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1433622281061" ID="ID_985284441" MODIFIED="1433622304876" TEXT="1.3.1.2 Simpler character set definition">
 <richcontent TYPE="NOTE"><html>
@@ -324,7 +323,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1433179824352" ID="ID_1679124635" MODIFIED="1434401149468" TEXT="1.5 Microdata">
+<node CREATED="1433179824352" FOLDED="true" ID="ID_1679124635" MODIFIED="1434574862796" TEXT="1.5 Microdata">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -349,7 +348,8 @@
 </node>
 <node CREATED="1433179824353" MODIFIED="1433179824353" TEXT="1.6 Exercises - Week 1"/>
 </node>
-<node CREATED="1433975138741" FOLDED="true" ID="ID_1238472519" MODIFIED="1433975206803" POSITION="right" TEXT="Week2: HTML5 Multimedia">
+<node CREATED="1433975138741" ID="ID_1238472519" MODIFIED="1434574906959" POSITION="right" TEXT="Week2: HTML5 Multimedia">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433975165495" ID="ID_1485220595" MODIFIED="1433975175215">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -362,17 +362,23 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1433975175220" ID="ID_1973820283" MODIFIED="1433975178790">
+<node CREATED="1433975175220" ID="ID_1973820283" MODIFIED="1434576820772">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      2.2 Streaming multimedia content: the video and audio elements
+      2.2 Streaming multimedia content:
+    </p>
+    <p>
+      the video and audio elements
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1434576822243" ID="ID_1524213829" MODIFIED="1434576839279" TEXT="2.2.1 The &lt;video&gt; element"/>
 </node>
 <node CREATED="1433975178790" ID="ID_1839206126" MODIFIED="1433975182082">
 <richcontent TYPE="NODE"><html>
@@ -422,6 +428,15 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+<node CREATED="1434574884126" FOLDED="true" ID="ID_1026139844" MODIFIED="1434574904622" POSITION="right" TEXT="Week3: HTML5 Graphics">
+<node CREATED="1434574900853" MODIFIED="1434574900853" TEXT="3.1 Video introduction - Week 3"/>
+<node CREATED="1434574900854" MODIFIED="1434574900854" TEXT="3.2 Basics of HTML5 canvas"/>
+<node CREATED="1434574900855" MODIFIED="1434574900855" TEXT="3.3 Immediate drawing mode: rectangles, text and images"/>
+<node CREATED="1434574900855" MODIFIED="1434574900855" TEXT="3.4 Path drawing mode: lines, circles, arcs, curves and other path drawing methods"/>
+<node CREATED="1434574900856" MODIFIED="1434574900856" TEXT="3.5 Colors, gradients, patterns, shadows, etc."/>
+<node CREATED="1434574900857" MODIFIED="1434574900857" TEXT="3.6 Exercises - Week 3"/>
+<node CREATED="1434574900857" MODIFIED="1434574900857" TEXT="Exercises due Jun 27, 2015 at 15:00 UTC"/>
 </node>
 </node>
 </map>

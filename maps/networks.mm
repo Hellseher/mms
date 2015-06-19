@@ -286,8 +286,7 @@
       <font size="2">Management Protocol</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1400096230984" FOLDED="true" ID="ID_1922473238" MODIFIED="1433609299645" TEXT="FTP">
 <node CREATED="1400096286583" ID="ID_716192248" MODIFIED="1400096291477" TEXT="TFTP"/>
@@ -464,6 +463,7 @@
 </node>
 </node>
 </node>
+<node CREATED="1434690138644" ID="ID_1017359549" MODIFIED="1434690142864" POSITION="right" TEXT="PPTP"/>
 <node CREATED="1433609400907" ID="ID_1968956192" MODIFIED="1433609407308" POSITION="right" TEXT="Network monitoring">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433609600665" ID="ID_1479834906" LINK="https://opmantek.com/" MODIFIED="1433609618323" TEXT="NMIS"/>
@@ -509,8 +509,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1416955862643" FOLDED="true" ID="ID_1019537539" MODIFIED="1433609224478" POSITION="left" TEXT="ip">
