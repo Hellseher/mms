@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1433179794784" FOLDED="true" ID="ID_995612218" MODIFIED="1434574866765" POSITION="right" TEXT="Week1: HTML5 Basics">
+<node CREATED="1433179794784" ID="ID_995612218" MODIFIED="1434779749921" POSITION="right" TEXT="Week1: HTML5 Basics">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433179824350" ID="ID_864060981" MODIFIED="1433975213940" TEXT="1.1 Video introduction - Week 1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -323,7 +323,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1433179824352" FOLDED="true" ID="ID_1679124635" MODIFIED="1434574862796" TEXT="1.5 Microdata">
+<node CREATED="1433179824352" ID="ID_1679124635" MODIFIED="1434779749923" TEXT="1.5 Microdata">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -339,8 +339,7 @@
       itemprop=&quot;streetAddress&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434401528478" ID="ID_48161277" MODIFIED="1434401535690" TEXT="1.5.1 Microdata Tools">
 <node CREATED="1434401537134" ID="ID_63745727" MODIFIED="1434401538441" TEXT="links"/>
@@ -362,7 +361,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1433975175220" ID="ID_1973820283" MODIFIED="1434576820772">
+<node CREATED="1433975175220" ID="ID_1973820283" MODIFIED="1435526787214">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -375,10 +374,89 @@
       the video and audio elements
     </p>
   </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Best practice: do not use autoplay and add preload=&quot;none&quot; if you target mobile devices or if you have multiple audio/video on the same page. For example, this page&#160;&#160;contains many audio elements and it does not make sense to have them preload or autoplay.
+    </p>
+  </body>
 </html>
 </richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1434576822243" ID="ID_1524213829" MODIFIED="1434576839279" TEXT="2.2.1 The &lt;video&gt; element"/>
+<node CREATED="1434576822243" ID="ID_1524213829" MODIFIED="1435525736972" TEXT="2.2.1 The &lt;video&gt; element">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The controls attribute indicates that a control panel with play/stop/volume/progress widgets should be displayed;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Usually the browser&#160;&#160;will use the first format it recognizes&#160; (in this case, the browser checks whether mp4 is supported, and if not, it will check for the ogg format, and so on). Some browsers may use a different heuristic and choose a &quot;preferred&quot; format.
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The &lt;video&gt; element is a DOM member, so&#160;&#160;CSS styling can be applied, as well as manipulation using the DOM API.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1435525738127" ID="ID_319508583" MODIFIED="1435525739883" TEXT="Restriction: you cannot embed a YouTube or DailyMotion video using the &lt;video&gt; element"/>
+<node CREATED="1435525876234" ID="ID_8091908" MODIFIED="1435525927570" TEXT="2.2.3 CODEC SUPPORT">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The recommended codec that works on most browsers, as of 2015:
+    </p>
+    <p>
+      H264/mp4
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1435525937656" ID="ID_159371313" MODIFIED="1435525940341" TEXT="links">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435525940681" ID="ID_752861335" LINK="http://www.jwplayer.com/html5/" MODIFIED="1435526083756" TEXT=" THE STATE OF HTML5 VIDEO&#x9; "/>
+</node>
+</node>
+<node CREATED="1435526190373" ID="ID_491174607" MODIFIED="1435526804716" TEXT="The &lt;audio&gt; element"/>
+<node CREATED="1435531549698" ID="ID_443211819" MODIFIED="1435531553819" TEXT="Styling media players with CSS3"/>
+<node CREATED="1435531810030" ID="ID_1655006713" MODIFIED="1435531845946" TEXT="Control &lt;audio&gt; and &lt;video&gt; elements from JavaScript">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The &lt;video&gt; element has methods, properties/attributes and events that can be manipulated with JavaScript. Using the DOM API it's possible to manipulate an audio or video element as a JavaScript object that has:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Methods for controlling the behavior like play(), pause(), etc.;
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Properties (duration, current position, etc.), either in read/write mode (like volume), or in read-only mode (like encoding, duration, etc.);
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Events generated during the life cycle of the element that can be processed using JavaScript callbacks. It is also possible to send events to control the video player.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1435531882268" ID="ID_1083977486" MODIFIED="1435531885031" TEXT="JavaScript API of the &lt;audio&gt; and &lt;video&gt; elements"/>
 </node>
 <node CREATED="1433975178790" ID="ID_1839206126" MODIFIED="1433975182082">
 <richcontent TYPE="NODE"><html>

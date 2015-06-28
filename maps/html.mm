@@ -859,7 +859,7 @@
 <node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
 <node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
 </node>
-<node CREATED="1415837674569" ID="ID_212049435" MODIFIED="1434395500797">
+<node CREATED="1415837674569" FOLDED="true" ID="ID_212049435" MODIFIED="1435526432047">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1224,7 +1224,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433366974758" ID="ID_240734800" MODIFIED="1434575074602">
+<node CREATED="1433366974758" ID="ID_240734800" MODIFIED="1435526452413">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1239,14 +1239,14 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396780" FOLDED="true" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1434577539691">
+<node CREATED="1415749396780" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1435526516780">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;audio&gt;</b>
+      <b>&lt;audio&gt;...&lt;/audio&gt;</b>
     </p>
     <p>
       <i><font color="#6496fa" size="2">defines sound content</font></i>
@@ -1256,27 +1256,57 @@
 </richcontent>
 <node CREATED="1434575097436" ID="ID_761564481" MODIFIED="1434575105469" TEXT="atr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1434575212526" ID="ID_1025394501" MODIFIED="1434575310389">
+<node CREATED="1434575212526" ID="ID_1025394501" MODIFIED="1435526489785">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>autoplay </b>
+      &lt;audio <b>autoplay</b>&gt;
     </p>
     <p>
-      <i><font size="2" color="#6496fa">audio will start playing </font></i>
+      <i><font color="#6496fa" size="2">audio will start playing </font></i>
     </p>
     <p>
-      <i><font size="2" color="#6496fa">as soon as it is ready</font></i>
+      <font color="#6496fa" size="2"><i>as soon as it is ready</i></font>
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1434575212526" MODIFIED="1434575212526" TEXT="controls        controls        Specifies that audio controls should be displayed (such as a play/pause button etc)"/>
-<node CREATED="1434575212528" MODIFIED="1434575212528" TEXT="loop        loop        Specifies that the audio will start over again, every time it is finished"/>
+<node CREATED="1434575212526" ID="ID_953845101" MODIFIED="1435526581095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &lt;audio <b>controls</b>&gt;
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">specifies that audio controls</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1434575212528" ID="ID_1115150580" MODIFIED="1435526701912">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &lt;audio loop&gt;
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">audio over and over again...</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1434575212528" MODIFIED="1434575212528" TEXT="muted        muted        Specifies that the audio output should be muted"/>
 <node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="preload        auto"/>
 <node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="metadata"/>
@@ -1333,8 +1363,7 @@
       <font color="#6496fa" size="2"><i>inline frame</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415749396805" FOLDED="true" ID="ID_326309713" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-img-element" MODIFIED="1433367265420">
 <richcontent TYPE="NODE"><html>
@@ -1939,7 +1968,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433626851519" FOLDED="true" ID="ID_494627017" MODIFIED="1434575065199">
+<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1434779750497">
 <richcontent TYPE="NODE"><html>
   <head>
     

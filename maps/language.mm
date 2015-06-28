@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1434572546288">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1435339857060">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16,18 +16,17 @@
       <font size="2">language</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <a href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages" target="_blank">Timeline of programming languages (wiki) </a>
+      <a target="_blank" href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages">Timeline of programming languages (wiki) </a>
     </p>
     <p>
-      <a href="http://rosettacode.org/wiki/Rosetta_Code" target="_blank">Rosetta Code</a>
+      <a target="_blank" href="http://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a>
     </p>
   </body>
 </html>
@@ -101,7 +100,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1434572683091" TEXT="Compiled">
+<node CREATED="1416423580002" FOLDED="true" ID="ID_1728030669" MODIFIED="1435339861555" TEXT="Compiled">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414972454263" ID="ID_255010547" LINK="http://www.rust-lang.org/" MODIFIED="1414972547910">
 <richcontent TYPE="NODE"><html>
@@ -161,8 +160,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Bell Labs<i>&#160;</i></font><font size="2">]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1399916443345" ID="ID_240628614" MODIFIED="1418257648137" TEXT="&gt;">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_27482317" STARTARROW="None" STARTINCLINATION="96;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1764151906" ENDARROW="Default" ENDINCLINATION="191;0;" ID="Arrow_ID_91180816" STARTARROW="None" STARTINCLINATION="191;0;"/>
@@ -599,7 +597,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1434572837679" ID="ID_266356112" MODIFIED="1434572843777" TEXT="P-code">
+<node CREATED="1434572837679" FOLDED="true" ID="ID_266356112" MODIFIED="1435339859212" TEXT="P-code">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#000000" CREATED="1399824632442" FOLDED="true" ID="ID_384840071" LINK="http://java.com/en/" MODIFIED="1429311483946">
 <richcontent TYPE="NODE"><html>
@@ -671,7 +669,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423396294" ID="ID_1627802312" MODIFIED="1432327801982">
+<node CREATED="1416423396294" FOLDED="true" ID="ID_1627802312" MODIFIED="1435340158102">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -708,9 +706,9 @@
 </html></richcontent>
 <node CREATED="1414223115416" ID="ID_297107521" MODIFIED="1414223324612" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="548;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="212;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_868409279" SOURCE="ID_867478545" STARTARROW="None" STARTINCLINATION="473;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="437;0;" ID="Arrow_ID_505662110" SOURCE="ID_24764778" STARTARROW="None" STARTINCLINATION="437;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="212;0;"/>
 </node>
 <node CREATED="1414223268213" ID="ID_1491081924" MODIFIED="1414223276582" TEXT="&gt;">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" STARTARROW="None" STARTINCLINATION="458;0;"/>
@@ -751,9 +749,9 @@
 <node CREATED="1418257326877" ID="ID_549111796" MODIFIED="1418257328042" TEXT="&gt;"/>
 <node CREATED="1418257328461" ID="ID_1796491976" MODIFIED="1418257415021" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="347;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_497293378" SOURCE="ID_1474263539" STARTARROW="None" STARTINCLINATION="175;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="240;0;" ID="Arrow_ID_917214609" SOURCE="ID_664418335" STARTARROW="None" STARTINCLINATION="240;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" SOURCE="ID_524077208" STARTARROW="None" STARTINCLINATION="1282;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_497293378" SOURCE="ID_1474263539" STARTARROW="None" STARTINCLINATION="175;0;"/>
 </node>
 </node>
 <node CREATED="1432328112280" ID="ID_1477545368" LINK="http://www.selflanguage.org/" MODIFIED="1432328131198" TEXT="Self">
@@ -1012,8 +1010,8 @@
 </html></richcontent>
 <node CREATED="1414223148487" ID="ID_1285929834" MODIFIED="1414223276581" TEXT="&gt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="789;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" SOURCE="ID_1491081924" STARTARROW="None" STARTINCLINATION="458;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="544;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" SOURCE="ID_1491081924" STARTARROW="None" STARTINCLINATION="458;0;"/>
 </node>
 </node>
 <node CREATED="1399831298187" FOLDED="true" ID="ID_80709921" MODIFIED="1429311483952">

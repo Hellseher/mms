@@ -175,7 +175,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1433194067947" POSITION="right" TEXT="cmd">
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1435305984831" POSITION="right" TEXT="cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1432755536813" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -780,11 +780,11 @@
 <node CREATED="1413156013925" ID="ID_1358842604" MODIFIED="1413156017121" TEXT="crontab"/>
 </node>
 </node>
-<node CREATED="1432759295464" ID="ID_134535404" MODIFIED="1432759298725" TEXT="devel">
+<node CREATED="1432759295464" FOLDED="true" ID="ID_134535404" MODIFIED="1435306051988" TEXT="devel">
 <node CREATED="1432759300215" ID="ID_162250613" MODIFIED="1432759302357" TEXT="make"/>
 <node CREATED="1432759780384" ID="ID_1370356160" MODIFIED="1432759782926" TEXT="checkinstall"/>
 </node>
-<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1434572077857">
+<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1435252800795">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -902,7 +902,7 @@
 <node CREATED="1407075790479" ID="ID_1874774475" MODIFIED="1407075793855" TEXT="lscpu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1434475027113">
+<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1434779862500">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -946,8 +946,7 @@
       <b># lshw -c video</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1409248283607" FOLDED="true" ID="ID_401390008" MODIFIED="1429311610811" TEXT="-class">
 <node CREATED="1409248289814" ID="ID_1370876466" MODIFIED="1409248291030" TEXT="disk"/>
@@ -1143,7 +1142,7 @@
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1432931978284" STYLE="fork">
+<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1435306049297" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1457,7 +1456,7 @@
 <node CREATED="1398811499793" ID="ID_225216149" MODIFIED="1398811504047" TEXT="-d"/>
 </node>
 <node CREATED="1414891785281" ID="ID_1024658369" MODIFIED="1414891788846" TEXT="lsattr"/>
-<node CREATED="1398811608176" ID="ID_1543650439" MODIFIED="1411496202055">
+<node CREATED="1398811608176" ID="ID_1543650439" MODIFIED="1435306043450">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1477,13 +1476,23 @@
   </head>
   <body>
     <p>
-      <font color="#3296fa"><i>create n numbers of directories</i></font>
+      <i><font color="#6496fa">create n numbers of directories</font></i>
     </p>
     <p>
-      <b>$ mdkir ./name{1..100}{a..z}{A..Z}</b>
+      <b>$ mdkir ./name{1..100}{a..z}{A..Z} </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#6496fa">create a set of directories</font></i>
+    </p>
+    <p>
+      <b>mkdir -p ~/rpmbuild/{BUILD,RPMS,SOURCES,SPECS,SRPMS} </b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1412375000129" ID="ID_1643954444" MODIFIED="1412375004896" TEXT="mktemp"/>
 <node CREATED="1398811603200" FOLDED="true" ID="ID_780619250" MODIFIED="1429311610814">
@@ -2368,7 +2377,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1433020987590">
+<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1435252796959">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3721,7 +3730,7 @@
 <node CREATED="1408313017187" ID="ID_1329878499" MODIFIED="1408313018241" TEXT="zip"/>
 </node>
 </node>
-<node CREATED="1408402182454" ID="ID_493014581" MODIFIED="1434572087130">
+<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1435271254842">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3982,7 +3991,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414888430950" ID="ID_1968492847" MODIFIED="1429654651201" TEXT="Group maintain">
+<node CREATED="1414888430950" FOLDED="true" ID="ID_1968492847" MODIFIED="1435252804611" TEXT="Group maintain">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408403265167" ID="ID_1602028040" MODIFIED="1408487018996">
 <richcontent TYPE="NODE"><html>
@@ -4072,8 +4081,7 @@
       <font color="#6496fa" size="2"><i>change the group of file to newgroup</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1408746003573" ID="ID_1740011873" MODIFIED="1408746006996" TEXT="hostname"/>

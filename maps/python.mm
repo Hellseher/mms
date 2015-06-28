@@ -2469,19 +2469,9 @@
 <node CREATED="1417735235814" ID="ID_918437704" MODIFIED="1433104117796" TEXT="__excepthook__"/>
 </node>
 </node>
-<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1433490514845" POSITION="left" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>modules</b>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1433179722965" STYLE="bubble" TEXT="standart">
+<node CREATED="1398203924278" ID="68" MODIFIED="1434752761843" POSITION="left" STYLE="bubble" TEXT="lib">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398203924279" ID="69" MODIFIED="1434752740136" STYLE="fork" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416682044057" FOLDED="true" ID="ID_614858224" LINK="https://docs.python.org/2/library/base64.html" MODIFIED="1429311095161" TEXT="base64">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4259,6 +4249,22 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1434752787059" ID="ID_975109229" MODIFIED="1434752806435">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>argparse</b>
+    </p>
+    <p>
+      <font size="2">from 3.0</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1411826706189" ID="ID_254180861" MODIFIED="1411826711919" TEXT="tkinter">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -4280,7 +4286,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417822282665" FOLDED="true" ID="ID_179356466" MODIFIED="1430434986153" TEXT="~old">
+<node CREATED="1417822282665" FOLDED="true" ID="ID_179356466" MODIFIED="1434752778269" TEXT="~old">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417822301640" FOLDED="true" ID="ID_324499103" LINK="#ID_1759469872" MODIFIED="1429311095182">
 <richcontent TYPE="NODE"><html>

@@ -52,7 +52,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1433976960575">
+<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1434775099337">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1112,7 +1112,7 @@
 <node CREATED="1401730114065" ID="ID_380210278" MODIFIED="1410815830112" TEXT="/tmp">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1434743241025">
+<node CREATED="1398556504033" ID="ID_278395263" MODIFIED="1434775234712">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1122,13 +1122,14 @@
       <b>/usr </b>
     </p>
     <p>
-      <font size="2" color="#000000">static sharable </font>
+      <font color="#000000" size="2">static sharable </font>
     </p>
     <p>
-      <i><font color="#6496fa" size="2">user apps</font></i>
+      <i><font color="#6496fa" size="2">lib and kernel modules</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398556514353" FOLDED="true" ID="ID_1600012567" MODIFIED="1429310592950">
 <richcontent TYPE="NODE"><html>
@@ -1301,6 +1302,22 @@
 <node CREATED="1413071771721" ID="ID_1759691261" MODIFIED="1413071779047" TEXT="/usr/nfs/rmtab"/>
 <node CREATED="1413071780153" ID="ID_1512462816" MODIFIED="1413071786743" TEXT="/usr/nfs/xtab"/>
 <node CREATED="1413071787337" ID="ID_943574865" MODIFIED="1413071792742" TEXT="/usr/nfs/state"/>
+</node>
+<node CREATED="1434775270951" ID="ID_803454498" MODIFIED="1434775327005">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /usr/<b>libexec</b>
+    </p>
+    <p>
+      <font size="2" color="#6496fa"><i>bins runs by other progs.</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1398556663716" ID="ID_1191041117" MODIFIED="1398557626926">
 <richcontent TYPE="NODE"><html>
@@ -2749,7 +2766,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402074586132" ID="ID_1348669715" MODIFIED="1434742779033">
+<node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1434774331206">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2891,7 +2908,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403979717646" ID="ID_1656694262" MODIFIED="1434230812352">
+<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1434775096530">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3243,6 +3260,12 @@
 <node CREATED="1433961979731" ID="ID_1418972248" LINK="https://dnf.readthedocs.org/en/latest/" MODIFIED="1433961996508" TEXT="doc">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+</node>
+<node CREATED="1434774383989" ID="ID_36401089" MODIFIED="1434774389829" TEXT="options">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1434774391317" ID="ID_1700702091" MODIFIED="1434774394325" TEXT="commands">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </node>

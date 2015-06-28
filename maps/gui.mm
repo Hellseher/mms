@@ -19,8 +19,7 @@
       <font size="2">interface</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812553231" FOLDED="true" ID="ID_393922461" LINK="http://www.x.org/wiki/" MODIFIED="1434742714172" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -125,7 +124,7 @@
 <node CREATED="1417296340015" ID="ID_1591249503" MODIFIED="1417296364544" POSITION="left" TEXT="Display manager">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417297438174" FOLDED="true" ID="ID_712302856" MODIFIED="1434742712642" POSITION="left">
+<node CREATED="1417297438174" ID="ID_712302856" MODIFIED="1434779750083" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
