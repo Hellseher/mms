@@ -14,20 +14,22 @@ _Собранные карты для FreeMind_
 
 ![IT](./IT.png)
 
-#### Как начать ####
+## Как начать ##
 Что бы получить карты вы должны скачать и распоковать их, просто не так ли :)?
 
-__Используя Git__  
+#### Используя Git ####
 Следующая команда скачает весь проект в __$: pwd__ (текущую папку/каталог) как
 "IT-mm".
 
     $: git clone https://github.com/Hellseher/IT-mm
 
-__Используя браузер__  
+#### Используя браузер ####
 Нажмите __Download ZIP__  в правой части экрана.
 
-#### Софт ####
+## Софт ##
 Для наилучшей совместимости установите или скопилируйте FreeMind версии не ниже
-1.0.1.
+1.0.1. Если не нашлось подходящей версии на сайте проекта соберите FreeMind
+сами.
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
     ![FreeMind](http://a.fsdn.com/allura/p/freemind/icon)
++   [Compile FreeMind](http://freemind.sourceforge.net/wiki/index.php/Building)

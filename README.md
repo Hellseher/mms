@@ -16,19 +16,18 @@ Every mm includes credits, links and references.
 ## How to start ##
 To obtain IT-mm you have to download and unpack them, easy isn't it :)?
 
-### Using Git ###
+#### Using Git ####
 This command downloads the whole project in your __$: pwd__ under the name "IT-mm".
 
     $: git clone https://github.com/Hellseher/IT-mm  
 
-### Using browser ###
+#### Using browser ####
 Click __Download ZIP__ on right hand side of the screen.
 
 ## Software ##
-For the best compatibility install or  
-compile FreeMind of version 1.0.1 of or higher. 
-If for some reason you can't find appropriate version for your machine in
-projects branch, try to compile it from scratch.
+For the best compatibility install or compile FreeMind of version 1.0.1 of or  
+higher.  If for some reason you can't find appropriate version for your machine  
+in projects branch, try to compile it from scratch.  
 
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
    ![FreeMind](http://a.fsdn.com/allura/p/freemind/icon) 
