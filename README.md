@@ -27,5 +27,9 @@ Click __Download ZIP__ on right hand side of the screen.
 ## Software ##
 For the best compatibility install or  
 compile FreeMind of version 1.0.1 of or higher. 
+If for some reason you can't find appropriate version for your machine in
+projects branch, try to compile it from scratch.
+
 +   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
    ![FreeMind](http://a.fsdn.com/allura/p/freemind/icon) 
++   [Compile FreeMind](http://freemind.sourceforge.net/wiki/index.php/Building)
