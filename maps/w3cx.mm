@@ -14,7 +14,29 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1433179794784" ID="ID_995612218" MODIFIED="1434779749921" POSITION="right" TEXT="Week1: HTML5 Basics">
+<node CREATED="1435876418894" FOLDED="true" ID="ID_440178178" MODIFIED="1435876508894" POSITION="left" TEXT=" Week 4: HTML5 Animations ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435876448427" MODIFIED="1435876448427" TEXT="4.1 Video introduction - Week 4"/>
+<node CREATED="1435876448428" MODIFIED="1435876448428" TEXT="4.2 Basic animation techniques"/>
+<node CREATED="1435876448428" MODIFIED="1435876448428" TEXT="4.3 Canvas and user interaction (keyboard, mouse)"/>
+<node CREATED="1435876448429" MODIFIED="1435876448429" TEXT="4.4 A peak at advanced canvas functionalities"/>
+<node CREATED="1435876448429" MODIFIED="1435876448429" TEXT="4.5 Exercises - Week 4"/>
+<node CREATED="1435876448429" MODIFIED="1435876448429" TEXT="Exercises due Jul 06, 2015 at 15:00 UTC"/>
+<node CREATED="1435876448430" MODIFIED="1435876448430" TEXT="Graded Section"/>
+<node CREATED="1435876448430" MODIFIED="1435876448430" TEXT="4.6 W3Cx future courses - Survey"/>
+</node>
+<node CREATED="1435876452621" FOLDED="true" ID="ID_1570652433" MODIFIED="1435876509485" POSITION="left" TEXT="Week 5: HTML5 Forms">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435876490900" MODIFIED="1435876490900" TEXT="5.1 Video introduction - Week 5"/>
+<node CREATED="1435876490901" MODIFIED="1435876490901" TEXT="5.2 Introduction to HTML5 forms"/>
+<node CREATED="1435876490901" MODIFIED="1435876490901" TEXT="5.3 Accessible forms"/>
+<node CREATED="1435876490901" MODIFIED="1435876490901" TEXT="5.4 New &lt;input&gt; types"/>
+<node CREATED="1435876490902" MODIFIED="1435876490902" TEXT="5.5 New forms attributes"/>
+<node CREATED="1435876490902" MODIFIED="1435876490902" TEXT="5.6 New elements related to forms"/>
+<node CREATED="1435876490902" MODIFIED="1435876490902" TEXT="5.7 Form validation API"/>
+<node CREATED="1435876490903" MODIFIED="1435876490903" TEXT="5.8 Exercises - Week 5"/>
+</node>
+<node CREATED="1433179794784" FOLDED="true" ID="ID_995612218" MODIFIED="1435876499778" POSITION="right" TEXT="Week1: HTML5 Basics">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433179824350" ID="ID_864060981" MODIFIED="1433975213940" TEXT="1.1 Video introduction - Week 1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -347,7 +369,7 @@
 </node>
 <node CREATED="1433179824353" MODIFIED="1433179824353" TEXT="1.6 Exercises - Week 1"/>
 </node>
-<node CREATED="1433975138741" ID="ID_1238472519" MODIFIED="1434574906959" POSITION="right" TEXT="Week2: HTML5 Multimedia">
+<node CREATED="1433975138741" FOLDED="true" ID="ID_1238472519" MODIFIED="1435876415604" POSITION="right" TEXT="Week2: HTML5 Multimedia">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433975165495" ID="ID_1485220595" MODIFIED="1433975175215">
 <richcontent TYPE="NODE"><html>
@@ -384,8 +406,7 @@
       Best practice: do not use autoplay and add preload=&quot;none&quot; if you target mobile devices or if you have multiple audio/video on the same page. For example, this page&#160;&#160;contains many audio elements and it does not make sense to have them preload or autoplay.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434576822243" ID="ID_1524213829" MODIFIED="1435525736972" TEXT="2.2.1 The &lt;video&gt; element">
 <richcontent TYPE="NOTE"><html>
@@ -406,8 +427,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The &lt;video&gt; element is a DOM member, so&#160;&#160;CSS styling can be applied, as well as manipulation using the DOM API.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435525738127" ID="ID_319508583" MODIFIED="1435525739883" TEXT="Restriction: you cannot embed a YouTube or DailyMotion video using the &lt;video&gt; element"/>
 <node CREATED="1435525876234" ID="ID_8091908" MODIFIED="1435525927570" TEXT="2.2.3 CODEC SUPPORT">
 <richcontent TYPE="NOTE"><html>
@@ -453,10 +473,33 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Events generated during the life cycle of the element that can be processed using JavaScript callbacks. It is also possible to send events to control the video player.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435531882268" ID="ID_1083977486" MODIFIED="1435531885031" TEXT="JavaScript API of the &lt;audio&gt; and &lt;video&gt; elements"/>
+<node CREATED="1435876382734" ID="ID_1611733167" MODIFIED="1435876415602" TEXT="projects">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Project 1 (very easy): try to find the &quot;enhanced HTML5 video players&quot; described in the course and try to use one of them to play a video + use some of the possible customizations: add a logo, choose a theme, etc.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Project 2 (easy): try to write a video or an audio player with some custom buttons for play/stop/etc. Add to your custom player a mean to play several videos one after another - what we call a playlist -, etc.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Project 3 (with JavaScript knowledge): try to play a video file or an audio file with an external synchronization. Use the progress event and the currentTime property from the audio and video objects you can manipulate with the JavaScript API described in the course. For example, please display some text aside the video, and/or display a wikipedia page in an iframe, and/or display a google map if you know how to do it.
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1433975178790" ID="ID_1839206126" MODIFIED="1433975182082">
 <richcontent TYPE="NODE"><html>
@@ -507,7 +550,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1434574884126" FOLDED="true" ID="ID_1026139844" MODIFIED="1434574904622" POSITION="right" TEXT="Week3: HTML5 Graphics">
+<node CREATED="1434574884126" FOLDED="true" ID="ID_1026139844" MODIFIED="1435876507645" POSITION="right" TEXT="Week3: HTML5 Graphics">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434574900853" MODIFIED="1434574900853" TEXT="3.1 Video introduction - Week 3"/>
 <node CREATED="1434574900854" MODIFIED="1434574900854" TEXT="3.2 Basics of HTML5 canvas"/>
 <node CREATED="1434574900855" MODIFIED="1434574900855" TEXT="3.3 Immediate drawing mode: rectangles, text and images"/>

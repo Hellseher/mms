@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1435339857060">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1435684574028">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23,10 +23,10 @@
   </head>
   <body>
     <p>
-      <a target="_blank" href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages">Timeline of programming languages (wiki) </a>
+      <a href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages" target="_blank">Timeline of programming languages (wiki) </a>
     </p>
     <p>
-      <a target="_blank" href="http://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a>
+      <a href="http://rosettacode.org/wiki/Rosetta_Code" target="_blank">Rosetta Code</a>
     </p>
   </body>
 </html>
@@ -72,7 +72,7 @@
 <node CREATED="1399851555466" ID="ID_1584953736" MODIFIED="1399851558280" TEXT="Win32s"/>
 <node CREATED="1399851560058" ID="ID_415377549" MODIFIED="1399851564057" TEXT="Win64"/>
 </node>
-<node CREATED="1420241736096" ID="ID_487791167" MODIFIED="1434572558868" POSITION="right" TEXT="Families ">
+<node CREATED="1420241736096" FOLDED="true" ID="ID_487791167" MODIFIED="1435525521140" POSITION="right" TEXT="Families ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417279334489" ID="ID_693855860" MODIFIED="1434572686595" TEXT="Markup language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

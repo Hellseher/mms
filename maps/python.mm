@@ -16,7 +16,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="17"/>
-<node CREATED="1398544902354" FOLDED="true" ID="ID_1341355363" MODIFIED="1433490661307" POSITION="right" STYLE="bubble">
+<node CREATED="1398544902354" FOLDED="true" ID="ID_1341355363" MODIFIED="1435611439062" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -28,8 +28,8 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399758119424" ID="ID_132038922" LINK="https://www.python.org/" MODIFIED="1430435355820" TEXT="https://www.python.org/"/>
-<node CREATED="1403561508824" ID="ID_1392966636" LINK="http://briansimulator.org/" MODIFIED="1430435355821" TEXT="http://briansimulator.org/">
+<node CREATED="1399758119424" ID="ID_132038922" LINK="https://www.python.org/" MODIFIED="1435611386659" TEXT="https://www.python.org/"/>
+<node CREATED="1403561508824" ID="ID_1392966636" LINK="http://briansimulator.org/" MODIFIED="1435611386659" TEXT="http://briansimulator.org/">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -47,7 +47,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1418499524923" FOLDED="true" ID="ID_1239482713" LINK="https://pypi.python.org/pypi/setuptools/1.1.6" MODIFIED="1430499491863" TEXT="pip">
+<node CREATED="1418499524923" FOLDED="true" ID="ID_1239482713" LINK="https://pypi.python.org/pypi/setuptools/1.1.6" MODIFIED="1435611386660" TEXT="pip">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418499604257" ID="ID_1376661187" MODIFIED="1430435355821" TEXT="bundle                      DEPRECATED. Create pybundles."/>
 <node CREATED="1418499604252" ID="ID_1647704289" MODIFIED="1430435355821">
@@ -180,7 +180,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1421508085438" FOLDED="true" ID="ID_1279802041" MODIFIED="1430435355823" TEXT="implimentation">
+<node CREATED="1421508085438" FOLDED="true" ID="ID_1279802041" MODIFIED="1435611424654" TEXT="implimentation">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421508096877" FOLDED="true" ID="ID_758279186" LINK="http://www.zope.org/" MODIFIED="1429311095158">
 <richcontent TYPE="NODE"><html>
@@ -200,7 +200,7 @@
 </node>
 <node CREATED="1421508106109" ID="ID_682102269" MODIFIED="1421508112907" TEXT="Odoo"/>
 </node>
-<node CREATED="1415576757294" FOLDED="true" ID="ID_442340966" MODIFIED="1433179722948" TEXT="cookbook">
+<node CREATED="1415576757294" FOLDED="true" ID="ID_442340966" MODIFIED="1435611386660" TEXT="cookbook">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415576763486" ID="ID_75228690" MODIFIED="1415576797305" TEXT="pyromid">
 <richcontent TYPE="NOTE"><html>
@@ -251,7 +251,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1418500529306" FOLDED="true" ID="ID_7657495" MODIFIED="1430434873468" TEXT="keys">
+<node CREATED="1418500529306" FOLDED="true" ID="ID_7657495" MODIFIED="1435611386660" TEXT="keys">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418500534060" MODIFIED="1418500534060" TEXT="-a,--annotate"/>
 <node CREATED="1418500534061" MODIFIED="1418500534061" TEXT="-s,--sign"/>
@@ -281,7 +281,7 @@
 <node CREATED="1418500534068" MODIFIED="1418500534068" TEXT="-x"/>
 <node CREATED="1418500534069" MODIFIED="1418500534069" TEXT="-3"/>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="182" MODIFIED="1429311095157" TEXT="formating">
+<node CREATED="1398203924283" FOLDED="true" ID="182" MODIFIED="1435611386660" TEXT="formating">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924283" FOLDED="true" ID="183" MODIFIED="1429311095156" TEXT="directives">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -423,7 +423,7 @@
 <node CREATED="1402006262010" ID="ID_1039910772" LINK="http://code.activestate.com/recipes/langs/python/" MODIFIED="1402006270284" TEXT="Popular Python recipes"/>
 </node>
 </node>
-<node CREATED="1400194016766" FOLDED="true" ID="ID_1314694339" MODIFIED="1433066748870" TEXT="OOP">
+<node CREATED="1400194016766" FOLDED="true" ID="ID_1314694339" MODIFIED="1435611386660" TEXT="OOP">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1400194021132" ID="ID_1721274051" MODIFIED="1400194031984" TEXT="class"/>
 <node CREATED="1400194032764" ID="ID_210878464" MODIFIED="1400194034490" TEXT="self"/>
@@ -431,7 +431,7 @@
 <node CREATED="1402523263459" ID="ID_1680302708" MODIFIED="1402523266514" TEXT="supperclass"/>
 <node CREATED="1402523275587" ID="ID_610834845" MODIFIED="1402523279826" TEXT="inheritance"/>
 </node>
-<node CREATED="1417821622707" ID="ID_707281927" MODIFIED="1428453482147" TEXT="Tezarus">
+<node CREATED="1417821622707" ID="ID_707281927" MODIFIED="1435611386660" TEXT="Tezarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -474,8 +474,8 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1419987942617" ID="ID_1184725729" LINK="http://www.rafekettler.com/magicmethods.html" MODIFIED="1419987955136" TEXT="Magic methods"/>
-<node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1433490476258" STYLE="fork" TEXT="frameworks">
+<node CREATED="1419987942617" ID="ID_1184725729" LINK="http://www.rafekettler.com/magicmethods.html" MODIFIED="1435611386660" TEXT="Magic methods"/>
+<node CREATED="1418504494639" FOLDED="true" ID="ID_1136939860" MODIFIED="1435611386661" STYLE="fork" TEXT="frameworks">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418504502447" FOLDED="true" ID="ID_306703348" LINK="https://www.djangoproject.com/" MODIFIED="1430434889022">
 <richcontent TYPE="NODE"><html>
@@ -588,7 +588,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1433486568530" POSITION="right" STYLE="bubble" TEXT="build-in">
+<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1435611414990" POSITION="right" STYLE="fork" TEXT="build-in">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924280" FOLDED="true" ID="185" MODIFIED="1431558986461" TEXT="converters">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -664,7 +664,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398547960942" ID="ID_1211193620" MODIFIED="1433484316846" TEXT="list">
+<node CREATED="1398547960942" FOLDED="true" ID="ID_1211193620" MODIFIED="1435611404478" TEXT="list">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398548021391" ID="ID_1573317089" MODIFIED="1398548036843" TEXT="filter(function, iterable)"/>
 <node CREATED="1398544478937" ID="ID_1813115261" MODIFIED="1433484332167">
@@ -971,7 +971,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402522868663" FOLDED="true" ID="ID_639446404" MODIFIED="1430499528934" TEXT="classes">
+<node CREATED="1402522868663" FOLDED="true" ID="ID_639446404" MODIFIED="1435611413822" TEXT="classes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1400103045867" ID="ID_560325981" MODIFIED="1402523325318">
 <richcontent TYPE="NODE"><html>
@@ -1410,7 +1410,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" ID="24" MODIFIED="1433613251447" POSITION="right" STYLE="bubble" TEXT="Data types">
+<node CREATED="1398203924282" ID="24" MODIFIED="1435611377910" POSITION="right" STYLE="fork" TEXT="Data types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1431558986511" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1719,7 +1719,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" ID="40" MODIFIED="1433613256150">
+<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1435611391662">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2198,7 +2198,7 @@
 </node>
 <node CREATED="1430434502724" ID="ID_190977057" MODIFIED="1430434522347" TEXT="sets"/>
 </node>
-<node CREATED="1398203924284" ID="44" MODIFIED="1433486573037" TEXT="file">
+<node CREATED="1398203924284" FOLDED="true" ID="44" MODIFIED="1435611393174" TEXT="file">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924284" FOLDED="true" ID="47" MODIFIED="1432479960686" TEXT="Operations">
 <node CREATED="1398203924284" ID="132" MODIFIED="1398203924284" TEXT="New"/>
@@ -2271,7 +2271,7 @@
 <node CREATED="1433490454704" ID="ID_57996609" MODIFIED="1433490460913" POSITION="right" TEXT="decorators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398456024904" FOLDED="true" ID="ID_1318102844" MODIFIED="1433490507331" POSITION="left" STYLE="bubble" TEXT="keywords">
+<node CREATED="1398456024904" FOLDED="true" ID="ID_1318102844" MODIFIED="1435611435216" POSITION="left" STYLE="fork" TEXT="keywords">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398456037448" ID="ID_1482639065" MODIFIED="1430435167864" TEXT="as"/>
 <node CREATED="1398456039976" ID="ID_251240780" MODIFIED="1430435167864" TEXT="assert"/>
@@ -2469,9 +2469,9 @@
 <node CREATED="1417735235814" ID="ID_918437704" MODIFIED="1433104117796" TEXT="__excepthook__"/>
 </node>
 </node>
-<node CREATED="1398203924278" ID="68" MODIFIED="1434752761843" POSITION="left" STYLE="bubble" TEXT="lib">
+<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1435611435215" POSITION="left" STYLE="fork" TEXT="lib">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924279" ID="69" MODIFIED="1434752740136" STYLE="fork" TEXT="standart">
+<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1435611362759" STYLE="fork" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416682044057" FOLDED="true" ID="ID_614858224" LINK="https://docs.python.org/2/library/base64.html" MODIFIED="1429311095161" TEXT="base64">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4262,8 +4262,7 @@
       <font size="2">from 3.0</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1411826706189" ID="ID_254180861" MODIFIED="1411826711919" TEXT="tkinter">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4533,7 +4532,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398000845975" FOLDED="true" ID="ID_1395125167" MODIFIED="1433066990199" POSITION="left" STYLE="bubble" TEXT="operators">
+<node CREATED="1398000845975" FOLDED="true" ID="ID_1395125167" MODIFIED="1435611435216" POSITION="left" STYLE="fork" TEXT="operators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398001302798" FOLDED="true" ID="ID_1544869825" MODIFIED="1433066988591" TEXT="arithmetic">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

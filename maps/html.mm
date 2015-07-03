@@ -74,7 +74,7 @@
 <node CREATED="1433365899327" ID="ID_1289909773" MODIFIED="1433365901535" TEXT="header"/>
 <node CREATED="1433365901924" ID="ID_1962942065" MODIFIED="1433365903826" TEXT="footer"/>
 </node>
-<node CREATED="1415832829302" ID="ID_1800875381" MODIFIED="1434401164141" POSITION="left" TEXT="Main Tags">
+<node CREATED="1415832829302" ID="ID_1800875381" MODIFIED="1435614070035" POSITION="left" TEXT="HTML tags">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396777" ID="ID_88964366" MODIFIED="1415751238948">
 <richcontent TYPE="NODE"><html>
@@ -547,6 +547,314 @@
 </node>
 </node>
 <node CREATED="1415749396795" ID="ID_1572294772" MODIFIED="1415749396795" TEXT="&lt;figcaption&gt;        Defines a caption for a &lt;figure&gt; element"/>
+<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1435615253900">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>form</b>
+    </p>
+    <p>
+      <font size="2">flow content</font>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415749396787" ID="ID_1307864647" MODIFIED="1435613977541">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;button&gt;...&lt;/button&gt;</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">clickable button</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1435614001864" FOLDED="true" ID="ID_1882907848" MODIFIED="1435614284014" TEXT="attr">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435614282609" MODIFIED="1435614282609" TEXT="autofocus         autofocus         Specifies that a button should automatically get focus when the page loads"/>
+<node CREATED="1435614282610" MODIFIED="1435614282610" TEXT="disabled         disabled         Specifies that a button should be disabled"/>
+<node CREATED="1435614282610" MODIFIED="1435614282610" TEXT="form         form_id         Specifies one or more forms the button belongs to"/>
+<node CREATED="1435614282610" MODIFIED="1435614282610" TEXT="formaction         URL         Specifies where to send the form-data when a form is submitted. Only for type=&quot;submit&quot;"/>
+<node CREATED="1435614282611" MODIFIED="1435614282611" TEXT="formenctype         application/x-www-form-urlencoded"/>
+<node CREATED="1435614282611" MODIFIED="1435614282611" TEXT="multipart/form-data"/>
+<node CREATED="1435614282611" MODIFIED="1435614282611" TEXT="text/plain         Specifies how form-data should be encoded before sending it to a server. Only for type=&quot;submit&quot;"/>
+<node CREATED="1435614282612" MODIFIED="1435614282612" TEXT="formmethod         get"/>
+<node CREATED="1435614282612" MODIFIED="1435614282612" TEXT="post         Specifies how to send the form-data (which HTTP method to use). Only for type=&quot;submit&quot;"/>
+<node CREATED="1435614282613" MODIFIED="1435614282613" TEXT="formnovalidate         formnovalidate         Specifies that the form-data should not be validated on submission. Only for type=&quot;submit&quot;"/>
+<node CREATED="1435614282614" MODIFIED="1435614282614" TEXT="formtarget         _blank"/>
+<node CREATED="1435614282614" MODIFIED="1435614282614" TEXT="_self"/>
+<node CREATED="1435614282614" MODIFIED="1435614282614" TEXT="_parent"/>
+<node CREATED="1435614282614" MODIFIED="1435614282614" TEXT="_top"/>
+<node CREATED="1435614282614" MODIFIED="1435614282614" TEXT="framename         Specifies where to display the response after submitting the form. Only for type=&quot;submit&quot;"/>
+<node CREATED="1435614282615" MODIFIED="1435614282615" TEXT="name         name         Specifies a name for the button"/>
+<node CREATED="1435614282615" MODIFIED="1435614282615" TEXT="type         button"/>
+<node CREATED="1435614282615" MODIFIED="1435614282615" TEXT="reset"/>
+<node CREATED="1435614282616" MODIFIED="1435614282616" TEXT="submit         Specifies the type of button"/>
+<node CREATED="1435614282616" MODIFIED="1435614282616" TEXT="value         text         Specifies an initial value for the button"/>
+</node>
+</node>
+<node CREATED="1415749396790" ID="ID_352740747" MODIFIED="1415749396790" TEXT="&lt;datalist&gt;        Specifies a list of pre-defined options for input controls"/>
+<node CREATED="1415749396795" ID="ID_1440215756" MODIFIED="1433970502899">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;fieldset&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>groups related elements in a form</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396797" ID="ID_124721871" MODIFIED="1415753547007">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;form&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>form for user input</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396805" ID="ID_704230923" MODIFIED="1433970516915">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;input&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>defines an input control</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415749396807" ID="ID_195249205" MODIFIED="1415754219892">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;label&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>defines a label</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
+<node CREATED="1415749396807" ID="ID_930834697" MODIFIED="1415754351378">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;legend&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>defines a caption</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
+<node CREATED="1415749396815" ID="ID_513168497" MODIFIED="1415754708877">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;optgroup&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>group of related </i></font>
+    </p>
+    <p>
+      <font color="#3296fa"><i>options in a drop-down list</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
+<node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
+<node CREATED="1415749396821" ID="ID_1570619061" MODIFIED="1415833053057">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;select&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">drop-down list</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396828" ID="ID_1622475389" MODIFIED="1433975326863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;textarea&gt;</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">multiline input control</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1415834391516" FOLDED="true" ID="ID_1843430762" MODIFIED="1435615255819" TEXT="~Word emphasize">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415749396831" ID="ID_246519277" MODIFIED="1415834357229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;u&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">underline</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396804" ID="ID_688986691" MODIFIED="1415834605400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;i&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">italic</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396820" ID="ID_1508565206" MODIFIED="1415754993719">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;s&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>striked text</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396799" ID="ID_1765096787" MODIFIED="1415753652238">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;h1&gt; </b>to <b>&lt;h6&gt;&#160;&#160;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>headings</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396781" ID="ID_949876535" MODIFIED="1415751794203">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;b&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>bold text</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1415749396791" FOLDED="true" ID="ID_245861357" MODIFIED="1429310640990">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;del&gt;</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>deleted text</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415834800501" ID="ID_1406006966" MODIFIED="1415835084251" TEXT="css">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font face="Consolas, courier new" color="rgb(165, 42, 42)">del&#160;</font><font face="Consolas, courier new" color="rgb(0, 0, 0)">{<br align="start" style="line-height: normal; text-indent: 0px; word-spacing: 0px; white-space: normal; letter-spacing: normal; text-transform: none; font-variant: normal" />&#160;&#160;&#160;&#160;</font><font face="Consolas, courier new" color="rgb(220, 20, 60)">text-decoration:</font><font face="Consolas, courier new" color="rgb(0, 0, 205)">&#160;line-through;</font><font color="rgb(0, 0, 0)" face="Consolas, courier new"><br align="start" style="line-height: normal; text-indent: 0px; word-spacing: 0px; white-space: normal; letter-spacing: normal; text-transform: none; font-variant: normal" />}</font>
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1415835069265" FOLDED="true" ID="ID_1049158641" MODIFIED="1429310640990" TEXT="attr">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1415834790437" ID="ID_1180324114" MODIFIED="1415834792770" TEXT="datetime"/>
+<node CREATED="1415834787302" ID="ID_352421744" MODIFIED="1415834789923" TEXT="cite"/>
+</node>
+</node>
+<node CREATED="1415749396823" ID="ID_1476566199" MODIFIED="1415833160479">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;strike&gt;</b>
+    </p>
+    <p>
+      <i><font color="#3296fa">not in HTML5 use &lt;del&gt;</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 <node CREATED="1415907952122" FOLDED="true" ID="ID_1761787956" MODIFIED="1433970453055" TEXT="table">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396825" ID="ID_1588058472" MODIFIED="1415907967698">
@@ -699,165 +1007,6 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1434395498543">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>form</b>
-    </p>
-    <p>
-      <font size="2">flow content</font>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396797" ID="ID_124721871" MODIFIED="1415753547007">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;form&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>form for user input</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396795" ID="ID_1440215756" MODIFIED="1433970502899">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;fieldset&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>groups related elements in a form</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396807" ID="ID_930834697" MODIFIED="1415754351378">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;legend&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines a caption</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396805" ID="ID_704230923" MODIFIED="1433970516915">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;input&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines an input control</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415749396807" ID="ID_195249205" MODIFIED="1415754219892">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;label&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>defines a label</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1415749396787" ID="ID_1307864647" MODIFIED="1415752395233">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;button&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>clickable button</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396821" ID="ID_1570619061" MODIFIED="1415833053057">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;select&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">drop-down list</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396790" ID="ID_352740747" MODIFIED="1415749396790" TEXT="&lt;datalist&gt;        Specifies a list of pre-defined options for input controls"/>
-<node CREATED="1415749396815" ID="ID_513168497" MODIFIED="1415754708877">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;optgroup&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>group of related </i></font>
-    </p>
-    <p>
-      <font color="#3296fa"><i>options in a drop-down list</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396828" ID="ID_1622475389" MODIFIED="1433975326863">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;textarea&gt;</b>
-    </p>
-    <p>
-      <i><font color="#6496fa" size="2">multiline input control</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396807" ID="ID_717999263" MODIFIED="1415749396807" TEXT="&lt;keygen&gt;        Defines a key-pair generator field (for forms)"/>
-<node CREATED="1415749396816" ID="ID_1175779402" MODIFIED="1415749396816" TEXT="&lt;output&gt;        Defines the result of a calculation"/>
-<node CREATED="1415749396817" ID="ID_1477814413" MODIFIED="1415749396817" TEXT="&lt;progress&gt;        Represents the progress of a task"/>
-<node CREATED="1415749396813" ID="ID_1517950949" MODIFIED="1415749396813" TEXT="&lt;meter&gt;                Defines a scalar measurement within a known range (a gauge)"/>
 </node>
 <node CREATED="1415837674569" FOLDED="true" ID="ID_212049435" MODIFIED="1435526432047">
 <richcontent TYPE="NODE"><html>
@@ -1224,7 +1373,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1433366974758" ID="ID_240734800" MODIFIED="1435526452413">
+<node CREATED="1433366974758" ID="ID_240734800" MODIFIED="1435615260366">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1239,7 +1388,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396780" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1435526516780">
+<node CREATED="1415749396780" ID="ID_1514384972" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element" MODIFIED="1435615262452">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1254,7 +1403,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1434575097436" ID="ID_761564481" MODIFIED="1434575105469" TEXT="atr">
+<node CREATED="1434575097436" FOLDED="true" ID="ID_761564481" MODIFIED="1435531738277" TEXT="atr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434575212526" ID="ID_1025394501" MODIFIED="1435526489785">
 <richcontent TYPE="NODE"><html>
@@ -1291,14 +1440,14 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1434575212528" ID="ID_1115150580" MODIFIED="1435526701912">
+<node CREATED="1434575212528" ID="ID_1115150580" MODIFIED="1435526711541">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &lt;audio loop&gt;
+      &lt;audio <b>loop</b>&gt;
     </p>
     <p>
       <i><font color="#6496fa" size="2">audio over and over again...</font></i>
@@ -1308,10 +1457,132 @@
 </richcontent>
 </node>
 <node CREATED="1434575212528" MODIFIED="1434575212528" TEXT="muted        muted        Specifies that the audio output should be muted"/>
-<node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="preload        auto"/>
-<node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="metadata"/>
-<node CREATED="1434575212529" MODIFIED="1434575212529" TEXT="none        Specifies if and how the author thinks the audio should be loaded when the page loads"/>
-<node CREATED="1434575212530" MODIFIED="1434575212530" TEXT="src        URL        Specifies the URL of the audio file"/>
+<node CREATED="1434575212529" ID="ID_1822968649" MODIFIED="1435530726746">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &lt;audio <b>preload</b>=&quot;VALUE&quot;&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The preload attribute is ignored if autoplay is present.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1434575212529" ID="ID_1557601476" MODIFIED="1435530804906">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>none</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">audio plays when </font></i>
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>the page loads</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1434575212529" ID="ID_428395654" MODIFIED="1434575212529" TEXT="metadata"/>
+<node CREATED="1435530630624" ID="ID_86564803" MODIFIED="1435530632301" TEXT="auto"/>
+</node>
+<node CREATED="1434575212530" ID="ID_52088754" MODIFIED="1434575212530" TEXT="src        URL        Specifies the URL of the audio file"/>
+</node>
+<node CREATED="1435610927031" FOLDED="true" ID="ID_101762479" MODIFIED="1435615272243" TEXT="methods">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435611643802" MODIFIED="1435611643802" TEXT="addTextTrack()         Adds a new text track to the audio/video"/>
+<node CREATED="1435611643803" MODIFIED="1435611643803" TEXT="canPlayType()         Checks if the browser can play the specified audio/video type"/>
+<node CREATED="1435611643803" MODIFIED="1435611643803" TEXT="load()         Re-loads the audio/video element"/>
+<node CREATED="1435611643804" MODIFIED="1435611643804" TEXT="play()         Starts playing the audio/video"/>
+<node CREATED="1435611643804" MODIFIED="1435611643804" TEXT="pause()         Pauses the currently playing audio/video"/>
+</node>
+<node CREATED="1435610931526" FOLDED="true" ID="ID_739015329" MODIFIED="1435615285947" TEXT="properties">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435611657701" MODIFIED="1435611657701" TEXT="audioTracks         Returns an AudioTrackList object representing available audio tracks"/>
+<node CREATED="1435611657702" MODIFIED="1435611657702" TEXT="autoplay         Sets or returns whether the audio/video should start playing as soon as it is loaded"/>
+<node CREATED="1435611657703" MODIFIED="1435611657703" TEXT="buffered         Returns a TimeRanges object representing the buffered parts of the audio/video"/>
+<node CREATED="1435611657704" MODIFIED="1435611657704" TEXT="controller         Returns the MediaController object representing the current media controller of the audio/video"/>
+<node CREATED="1435611657705" MODIFIED="1435611657705" TEXT="controls         Sets or returns whether the audio/video should display controls (like play/pause etc.)"/>
+<node CREATED="1435611657706" MODIFIED="1435611657706" TEXT="crossOrigin         Sets or returns the CORS settings of the audio/video"/>
+<node CREATED="1435611657707" MODIFIED="1435611657707" TEXT="currentSrc         Returns the URL of the current audio/video"/>
+<node CREATED="1435611657707" ID="ID_95871046" MODIFIED="1435612202348">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>currentTime</b>&#160;&#160;&#160;
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">returns the current playback position</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="defaultMuted         Sets or returns whether the audio/video should be muted by default"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="defaultPlaybackRate         Sets or returns the default speed of the audio/video playback"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="duration         Returns the length of the current audio/video (in seconds)"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="ended         Returns whether the playback of the audio/video has ended or not"/>
+<node CREATED="1435611657709" MODIFIED="1435611657709" TEXT="error         Returns a MediaError object representing the error state of the audio/video"/>
+<node CREATED="1435611657709" MODIFIED="1435611657709" TEXT="loop         Sets or returns whether the audio/video should start over again when finished"/>
+<node CREATED="1435611657709" MODIFIED="1435611657709" TEXT="mediaGroup         Sets or returns the group the audio/video belongs to (used to link multiple audio/video elements)"/>
+<node CREATED="1435611657710" MODIFIED="1435611657710" TEXT="muted         Sets or returns whether the audio/video is muted or not"/>
+<node CREATED="1435611657710" MODIFIED="1435611657710" TEXT="networkState         Returns the current network state of the audio/video"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="paused         Returns whether the audio/video is paused or not"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="playbackRate         Sets or returns the speed of the audio/video playback"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="played         Returns a TimeRanges object representing the played parts of the audio/video"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="preload         Sets or returns whether the audio/video should be loaded when the page loads"/>
+<node CREATED="1435611657712" MODIFIED="1435611657712" TEXT="readyState         Returns the current ready state of the audio/video"/>
+<node CREATED="1435611657712" MODIFIED="1435611657712" TEXT="seekable         Returns a TimeRanges object representing the seekable parts of the audio/video"/>
+<node CREATED="1435611657713" MODIFIED="1435611657713" TEXT="seeking         Returns whether the user is currently seeking in the audio/video"/>
+<node CREATED="1435611657713" MODIFIED="1435611657713" TEXT="src         Sets or returns the current source of the audio/video element"/>
+<node CREATED="1435611657713" MODIFIED="1435611657713" TEXT="startDate         Returns a Date object representing the current time offset"/>
+<node CREATED="1435611657714" MODIFIED="1435611657714" TEXT="textTracks         Returns a TextTrackList object representing the available text tracks"/>
+<node CREATED="1435611657714" MODIFIED="1435611657714" TEXT="videoTracks         Returns a VideoTrackList object representing the available video tracks"/>
+<node CREATED="1435611657714" MODIFIED="1435611657714" TEXT="volume         Sets or returns the volume of the audio/video"/>
+</node>
+<node CREATED="1435610941766" FOLDED="true" ID="ID_1047973756" MODIFIED="1435615623054" TEXT="events">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435611675758" MODIFIED="1435611675758" TEXT="abort         Fires when the loading of an audio/video is aborted"/>
+<node CREATED="1435611675759" MODIFIED="1435611675759" TEXT="canplay         Fires when the browser can start playing the audio/video"/>
+<node CREATED="1435611675759" MODIFIED="1435611675759" TEXT="canplaythrough         Fires when the browser can play through the audio/video without stopping for buffering"/>
+<node CREATED="1435611675760" MODIFIED="1435611675760" TEXT="durationchange         Fires when the duration of the audio/video is changed"/>
+<node CREATED="1435611675760" MODIFIED="1435611675760" TEXT="emptied         Fires when the current playlist is empty"/>
+<node CREATED="1435611675761" ID="ID_1237506058" MODIFIED="1435611675761" TEXT="ended         Fires when the current playlist is ended"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="error         Fires when an error occurred during the loading of an audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="loadeddata         Fires when the browser has loaded the current frame of the audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="loadedmetadata         Fires when the browser has loaded meta data for the audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="loadstart         Fires when the browser starts looking for the audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="pause         Fires when the audio/video has been paused"/>
+<node CREATED="1435611675762" MODIFIED="1435611675762" TEXT="play         Fires when the audio/video has been started or is no longer paused"/>
+<node CREATED="1435611675762" MODIFIED="1435611675762" TEXT="playing         Fires when the audio/video is playing after having been paused or stopped for buffering"/>
+<node CREATED="1435611675763" MODIFIED="1435611675763" TEXT="progress         Fires when the browser is downloading the audio/video"/>
+<node CREATED="1435611675763" MODIFIED="1435611675763" TEXT="ratechange         Fires when the playing speed of the audio/video is changed"/>
+<node CREATED="1435611675764" MODIFIED="1435611675764" TEXT="seeked         Fires when the user is finished moving/skipping to a new position in the audio/video"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="seeking         Fires when the user starts moving/skipping to a new position in the audio/video"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="stalled         Fires when the browser is trying to get media data, but data is not available"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="suspend         Fires when the browser is intentionally not getting media data"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="timeupdate         Fires when the current playback position has changed"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="volumechange         Fires when the volume has been changed"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="waiting         Fires when the video stops because it needs to buffer the next frame"/>
 </node>
 </node>
 <node CREATED="1415749396787" ID="ID_1716683362" LINK="http://www.w3.org/TR/html5/scripting-1.html#the-canvas-element" MODIFIED="1433367122634">
@@ -1485,20 +1756,83 @@
 </node>
 </node>
 <node CREATED="1433367410159" ID="ID_484803823" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#svg-0" MODIFIED="1433367505113" TEXT="&lt;svg&gt;"/>
-<node CREATED="1415749396832" ID="ID_1924629182" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-video-element" MODIFIED="1433367584148">
+<node CREATED="1415749396832" ID="ID_1924629182" LINK="http://www.w3.org/TR/html5/embedded-content-0.html#the-video-element" MODIFIED="1435531772827">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>&lt;video&gt;</b>
+      <b>&lt;video&gt;...&lt;/video&gt;</b>
     </p>
     <p>
-      <i><font size="2" color="#3296fa">defines a video or movie</font></i>
+      <i><font color="#3296fa" size="2">defines a video or movie</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1435610927031" FOLDED="true" ID="ID_32909668" MODIFIED="1435611661098" TEXT="methods">
+<node CREATED="1435611643802" MODIFIED="1435611643802" TEXT="addTextTrack()         Adds a new text track to the audio/video"/>
+<node CREATED="1435611643803" MODIFIED="1435611643803" TEXT="canPlayType()         Checks if the browser can play the specified audio/video type"/>
+<node CREATED="1435611643803" MODIFIED="1435611643803" TEXT="load()         Re-loads the audio/video element"/>
+<node CREATED="1435611643804" MODIFIED="1435611643804" TEXT="play()         Starts playing the audio/video"/>
+<node CREATED="1435611643804" MODIFIED="1435611643804" TEXT="pause()         Pauses the currently playing audio/video"/>
+</node>
+<node CREATED="1435610931526" FOLDED="true" ID="ID_1005910716" MODIFIED="1435611659186" TEXT="properties">
+<node CREATED="1435611657701" MODIFIED="1435611657701" TEXT="audioTracks         Returns an AudioTrackList object representing available audio tracks"/>
+<node CREATED="1435611657702" MODIFIED="1435611657702" TEXT="autoplay         Sets or returns whether the audio/video should start playing as soon as it is loaded"/>
+<node CREATED="1435611657703" MODIFIED="1435611657703" TEXT="buffered         Returns a TimeRanges object representing the buffered parts of the audio/video"/>
+<node CREATED="1435611657704" MODIFIED="1435611657704" TEXT="controller         Returns the MediaController object representing the current media controller of the audio/video"/>
+<node CREATED="1435611657705" MODIFIED="1435611657705" TEXT="controls         Sets or returns whether the audio/video should display controls (like play/pause etc.)"/>
+<node CREATED="1435611657706" MODIFIED="1435611657706" TEXT="crossOrigin         Sets or returns the CORS settings of the audio/video"/>
+<node CREATED="1435611657707" MODIFIED="1435611657707" TEXT="currentSrc         Returns the URL of the current audio/video"/>
+<node CREATED="1435611657707" MODIFIED="1435611657707" TEXT="currentTime         Sets or returns the current playback position in the audio/video (in seconds)"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="defaultMuted         Sets or returns whether the audio/video should be muted by default"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="defaultPlaybackRate         Sets or returns the default speed of the audio/video playback"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="duration         Returns the length of the current audio/video (in seconds)"/>
+<node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="ended         Returns whether the playback of the audio/video has ended or not"/>
+<node CREATED="1435611657709" MODIFIED="1435611657709" TEXT="error         Returns a MediaError object representing the error state of the audio/video"/>
+<node CREATED="1435611657709" MODIFIED="1435611657709" TEXT="loop         Sets or returns whether the audio/video should start over again when finished"/>
+<node CREATED="1435611657709" MODIFIED="1435611657709" TEXT="mediaGroup         Sets or returns the group the audio/video belongs to (used to link multiple audio/video elements)"/>
+<node CREATED="1435611657710" MODIFIED="1435611657710" TEXT="muted         Sets or returns whether the audio/video is muted or not"/>
+<node CREATED="1435611657710" MODIFIED="1435611657710" TEXT="networkState         Returns the current network state of the audio/video"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="paused         Returns whether the audio/video is paused or not"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="playbackRate         Sets or returns the speed of the audio/video playback"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="played         Returns a TimeRanges object representing the played parts of the audio/video"/>
+<node CREATED="1435611657711" MODIFIED="1435611657711" TEXT="preload         Sets or returns whether the audio/video should be loaded when the page loads"/>
+<node CREATED="1435611657712" MODIFIED="1435611657712" TEXT="readyState         Returns the current ready state of the audio/video"/>
+<node CREATED="1435611657712" MODIFIED="1435611657712" TEXT="seekable         Returns a TimeRanges object representing the seekable parts of the audio/video"/>
+<node CREATED="1435611657713" MODIFIED="1435611657713" TEXT="seeking         Returns whether the user is currently seeking in the audio/video"/>
+<node CREATED="1435611657713" MODIFIED="1435611657713" TEXT="src         Sets or returns the current source of the audio/video element"/>
+<node CREATED="1435611657713" MODIFIED="1435611657713" TEXT="startDate         Returns a Date object representing the current time offset"/>
+<node CREATED="1435611657714" MODIFIED="1435611657714" TEXT="textTracks         Returns a TextTrackList object representing the available text tracks"/>
+<node CREATED="1435611657714" MODIFIED="1435611657714" TEXT="videoTracks         Returns a VideoTrackList object representing the available video tracks"/>
+<node CREATED="1435611657714" MODIFIED="1435611657714" TEXT="volume         Sets or returns the volume of the audio/video"/>
+</node>
+<node CREATED="1435610941766" FOLDED="true" ID="ID_694176628" MODIFIED="1435611681260" TEXT="events">
+<node CREATED="1435611675758" MODIFIED="1435611675758" TEXT="abort         Fires when the loading of an audio/video is aborted"/>
+<node CREATED="1435611675759" MODIFIED="1435611675759" TEXT="canplay         Fires when the browser can start playing the audio/video"/>
+<node CREATED="1435611675759" MODIFIED="1435611675759" TEXT="canplaythrough         Fires when the browser can play through the audio/video without stopping for buffering"/>
+<node CREATED="1435611675760" MODIFIED="1435611675760" TEXT="durationchange         Fires when the duration of the audio/video is changed"/>
+<node CREATED="1435611675760" MODIFIED="1435611675760" TEXT="emptied         Fires when the current playlist is empty"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="ended         Fires when the current playlist is ended"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="error         Fires when an error occurred during the loading of an audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="loadeddata         Fires when the browser has loaded the current frame of the audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="loadedmetadata         Fires when the browser has loaded meta data for the audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="loadstart         Fires when the browser starts looking for the audio/video"/>
+<node CREATED="1435611675761" MODIFIED="1435611675761" TEXT="pause         Fires when the audio/video has been paused"/>
+<node CREATED="1435611675762" MODIFIED="1435611675762" TEXT="play         Fires when the audio/video has been started or is no longer paused"/>
+<node CREATED="1435611675762" MODIFIED="1435611675762" TEXT="playing         Fires when the audio/video is playing after having been paused or stopped for buffering"/>
+<node CREATED="1435611675763" MODIFIED="1435611675763" TEXT="progress         Fires when the browser is downloading the audio/video"/>
+<node CREATED="1435611675763" MODIFIED="1435611675763" TEXT="ratechange         Fires when the playing speed of the audio/video is changed"/>
+<node CREATED="1435611675764" MODIFIED="1435611675764" TEXT="seeked         Fires when the user is finished moving/skipping to a new position in the audio/video"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="seeking         Fires when the user starts moving/skipping to a new position in the audio/video"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="stalled         Fires when the browser is trying to get media data, but data is not available"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="suspend         Fires when the browser is intentionally not getting media data"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="timeupdate         Fires when the current playback position has changed"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="volumechange         Fires when the volume has been changed"/>
+<node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="waiting         Fires when the video stops because it needs to buffer the next frame"/>
+</node>
 </node>
 </node>
 <node CREATED="1433970685606" ID="ID_1790302421" MODIFIED="1433970689363" TEXT="interactive"/>
@@ -1768,7 +2102,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433367645051" FOLDED="true" ID="ID_537891902" MODIFIED="1434393643515">
+<node CREATED="1433367645051" FOLDED="true" ID="ID_537891902" MODIFIED="1435531754493">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1968,7 +2302,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1434779750497">
+<node CREATED="1433626851519" FOLDED="true" ID="ID_494627017" MODIFIED="1435610920838">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2265,134 +2599,8 @@
 <node CREATED="1415749396830" ID="ID_399453828" MODIFIED="1415749396830" TEXT="&lt;track&gt;                Defines text tracks for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
 <node CREATED="1415749396833" ID="ID_23673390" MODIFIED="1415749396833" TEXT="&lt;wbr&gt;                Defines a possible line-break"/>
 </node>
-<node CREATED="1415834391516" FOLDED="true" ID="ID_1843430762" MODIFIED="1429310640991" TEXT="~Word emphasize">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415749396831" ID="ID_246519277" MODIFIED="1415834357229">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;u&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">underline</font></i>
-    </p>
-  </body>
-</html></richcontent>
 </node>
-<node CREATED="1415749396804" ID="ID_688986691" MODIFIED="1415834605400">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;i&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">italic</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396820" ID="ID_1508565206" MODIFIED="1415754993719">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;s&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>striked text</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396799" ID="ID_1765096787" MODIFIED="1415753652238">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;h1&gt; </b>to <b>&lt;h6&gt;&#160;&#160;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>headings</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396781" ID="ID_949876535" MODIFIED="1415751794203">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;b&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>bold text</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415749396791" FOLDED="true" ID="ID_245861357" MODIFIED="1429310640990">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;del&gt;</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>deleted text</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415834800501" ID="ID_1406006966" MODIFIED="1415835084251" TEXT="css">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font face="Consolas, courier new" color="rgb(165, 42, 42)">del&#160;</font><font face="Consolas, courier new" color="rgb(0, 0, 0)">{<br align="start" style="line-height: normal; text-indent: 0px; word-spacing: 0px; white-space: normal; letter-spacing: normal; text-transform: none; font-variant: normal" />&#160;&#160;&#160;&#160;</font><font face="Consolas, courier new" color="rgb(220, 20, 60)">text-decoration:</font><font face="Consolas, courier new" color="rgb(0, 0, 205)">&#160;line-through;</font><font color="rgb(0, 0, 0)" face="Consolas, courier new"><br align="start" style="line-height: normal; text-indent: 0px; word-spacing: 0px; white-space: normal; letter-spacing: normal; text-transform: none; font-variant: normal" />}</font>
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1415835069265" FOLDED="true" ID="ID_1049158641" MODIFIED="1429310640990" TEXT="attr">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415834790437" ID="ID_1180324114" MODIFIED="1415834792770" TEXT="datetime"/>
-<node CREATED="1415834787302" ID="ID_352421744" MODIFIED="1415834789923" TEXT="cite"/>
-</node>
-</node>
-<node CREATED="1415749396823" ID="ID_1476566199" MODIFIED="1415833160479">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>&lt;strike&gt;</b>
-    </p>
-    <p>
-      <i><font color="#3296fa">not in HTML5 use &lt;del&gt;</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1434575149356" FOLDED="true" ID="ID_1163704137" MODIFIED="1434575181167" POSITION="left" TEXT="Global Attributes">
+<node CREATED="1434575149356" FOLDED="true" ID="ID_1163704137" MODIFIED="1435613943087" POSITION="left" TEXT="Global Attributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434575178110" MODIFIED="1434575178110" TEXT="accesskey        Specifies a shortcut key to activate/focus an element"/>
 <node CREATED="1434575178111" MODIFIED="1434575178111" TEXT="class        Specifies one or more classnames for an element (refers to a class in a style sheet)"/>
@@ -2411,10 +2619,7 @@
 <node CREATED="1434575178117" MODIFIED="1434575178117" TEXT="title        Specifies extra information about an element"/>
 <node CREATED="1434575178118" MODIFIED="1434575178118" TEXT="translate        Specifies whether the content of an element should be translated or not"/>
 </node>
-<node CREATED="1434400039141" ID="ID_1774401660" MODIFIED="1434400050406" POSITION="left" TEXT="Global Atributes">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1433623150343" ID="ID_1091616028" MODIFIED="1433623186812" POSITION="right" TEXT="Thesarus">
+<node CREATED="1433623150343" ID="ID_1091616028" MODIFIED="1435614373337" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2423,8 +2628,12 @@
     <p>
       MAMA : Metadata Analysis and Minig Application
     </p>
+    <p>
+      DOM&#160;&#160;&#160;: Document ObjectMethod
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1416676700105" FOLDED="true" ID="ID_657703901" MODIFIED="1433365851870" POSITION="right" TEXT="Version History">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

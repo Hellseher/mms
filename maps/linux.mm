@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1429310592962" TEXT="Linux">
 <icon BUILTIN="penguin"/>
-<node CREATED="1398556175894" ID="ID_338041253" MODIFIED="1434392201282" POSITION="right">
+<node CREATED="1398556175894" FOLDED="true" ID="ID_338041253" MODIFIED="1435531989049" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -52,7 +52,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1434775099337">
+<node CREATED="1398556187398" FOLDED="true" ID="ID_256627718" MODIFIED="1435531988234">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -79,8 +79,7 @@
       <i><font color="#6496fa" size="2">all user cmd binaries</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398556204022" ID="ID_59556694" MODIFIED="1434743399823">
 <richcontent TYPE="NODE"><html>
@@ -98,8 +97,7 @@
       <font color="#6496fa" size="2">files of the boot loader</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398810123499" FOLDED="true" ID="ID_899518779" MODIFIED="1434743670483">
 <richcontent TYPE="NODE"><html>
@@ -114,8 +112,7 @@
       <i><font color="#6496fa" size="2">device files</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411343753114" FOLDED="true" ID="ID_924056332" MODIFIED="1429310592949">
 <richcontent TYPE="NODE"><html>
@@ -243,8 +240,7 @@
       <i><font color="#6496fa" size="2">config files</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1413071651483" ID="ID_1284065277" MODIFIED="1413071656696" TEXT="/etc/anacrontab"/>
 <node CREATED="1413071662411" ID="ID_862731658" MODIFIED="1413071669352" TEXT="/etc/crontab"/>
 <node CREATED="1432754877405" ID="ID_326225392" MODIFIED="1432754884859" TEXT="/etc/default/keyboard"/>
@@ -1128,8 +1124,7 @@
       <i><font color="#6496fa" size="2">lib and kernel modules</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398556514353" FOLDED="true" ID="ID_1600012567" MODIFIED="1429310592950">
 <richcontent TYPE="NODE"><html>
@@ -1255,8 +1250,7 @@
       <i><font color="#6496fa" size="2">distribution software</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1280,8 +1274,7 @@
       /usr/local/<b>man</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398557860234" ID="ID_648110541" MODIFIED="1398557864313" TEXT="/usr/local/sbin"/>
 <node CREATED="1398557865098" ID="ID_1321990808" MODIFIED="1398557870729" TEXT="/usr/local/share"/>
@@ -1316,8 +1309,7 @@
       <font size="2" color="#6496fa"><i>bins runs by other progs.</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398556663716" ID="ID_1191041117" MODIFIED="1398557626926">
 <richcontent TYPE="NODE"><html>
@@ -1456,8 +1448,7 @@
       <i><font color="#6496fa" size="2">variable files</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1407105263957" ID="ID_1570073958" MODIFIED="1407105269987" TEXT="/var/account"/>
 <node CREATED="1398558133286" ID="ID_1277353275" MODIFIED="1401729037527">
 <richcontent TYPE="NODE"><html>
@@ -1540,8 +1531,7 @@
       <font size="2">variable unshareable</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398558196357" FOLDED="true" ID="ID_1269104373" MODIFIED="1429310592951">
 <richcontent TYPE="NODE"><html>
@@ -1618,8 +1608,7 @@
       <font size="2">variable shareable</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1407105318469" ID="ID_945421704" MODIFIED="1407105324531" TEXT="/var/opt"/>
 <node CREATED="1407105275429" FOLDED="true" ID="ID_259067563" MODIFIED="1434743563958">
@@ -1635,8 +1624,7 @@
       <font color="#000000" size="2">variable unshareable</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1412979897290" ID="ID_493637087" MODIFIED="1434743558987">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1650,8 +1638,7 @@
       <i><font color="#6496fa" size="2">list of users currently logged in</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1398558172005" FOLDED="true" ID="ID_1999865824" MODIFIED="1434743410297">
@@ -1798,7 +1785,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1434742853849" POSITION="right">
+<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1435531990073" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1885,7 +1872,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417380937987" FOLDED="true" ID="ID_1205914089" MODIFIED="1434742852585" TEXT="commands">
+<node CREATED="1417380937987" ID="ID_1205914089" MODIFIED="1435532002331" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417380923635" FOLDED="true" ID="ID_1689171388" MODIFIED="1432398370346">
 <richcontent TYPE="NODE"><html>
@@ -2029,7 +2016,7 @@
 <node CREATED="1417389073781" ID="ID_388133774" MODIFIED="1417389075075" TEXT="-m"/>
 <node CREATED="1431731932401" ID="ID_55715471" MODIFIED="1431731937022" TEXT="--amend"/>
 </node>
-<node CREATED="1417125422286" FOLDED="true" ID="ID_1936443195" MODIFIED="1432398395344">
+<node CREATED="1417125422286" ID="ID_1936443195" MODIFIED="1435532005102">
 <richcontent TYPE="NODE"><html>
   <head>
     

@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415405892036" ID="ID_64918932" MODIFIED="1434779750653" POSITION="left">
+<node CREATED="1415405892036" FOLDED="true" ID="ID_64918932" MODIFIED="1435526269420" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -714,7 +714,7 @@
 <node CREATED="1414628885054" ID="ID_1632387169" LINK="http://yacy.net/" MODIFIED="1414629110494" TEXT="YaCy"/>
 </node>
 </node>
-<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1434647668939" POSITION="right" TEXT="Thesarus">
+<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1435526387967" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -789,8 +789,12 @@
     <p>
       ISP&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:
     </p>
+    <p>
+      API&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1434325187977" POSITION="right">
