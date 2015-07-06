@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1426031394259" ID="ID_322066631" MODIFIED="1432324722585">
+<node CREATED="1426031394259" ID="ID_322066631" MODIFIED="1435900043922">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -230,7 +230,7 @@
 <node CREATED="1432320200947" ID="ID_459018568" MODIFIED="1432320202656" POSITION="left" TEXT="parser"/>
 <node CREATED="1433181816158" ID="ID_897186260" MODIFIED="1433181820665" POSITION="right" TEXT="runtime"/>
 <node CREATED="1433181821117" ID="ID_966756822" MODIFIED="1433181825225" POSITION="right" TEXT="debug"/>
-<node CREATED="1417126224449" ID="ID_1542645377" MODIFIED="1433438419021" POSITION="right" TEXT="Criptography">
+<node CREATED="1417126224449" FOLDED="true" ID="ID_1542645377" MODIFIED="1435900042760" POSITION="right" TEXT="Criptography">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411669362733" ID="ID_92854863" MODIFIED="1416956192190" TEXT="Ciphers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -323,8 +323,7 @@
       <i><font color="#3296fa" size="2">Vincent Rijmen</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434687761881" ID="ID_710779890" MODIFIED="1434687764533" TEXT="DES"/>
 </node>
@@ -336,6 +335,127 @@
 </node>
 <node CREATED="1417126255809" ID="ID_300129441" MODIFIED="1417126284686" TEXT="passprase"/>
 <node CREATED="1417126288720" ID="ID_12262181" MODIFIED="1417126293405" TEXT="indentification"/>
+</node>
+<node CREATED="1418255896436" ID="ID_1230031090" MODIFIED="1435900031554" POSITION="left" TEXT="Paradigms">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418255907587" ID="ID_1570148247" MODIFIED="1435900078025">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>OOP</b>
+    </p>
+    <p>
+      <font size="2">Object-Oriented </font>
+    </p>
+    <p>
+      <font size="2">Programming</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418255910291" FOLDED="true" ID="ID_1837733047" MODIFIED="1429311483956" TEXT="abstraction">
+<node CREATED="1418256396619" ID="ID_932493386" MODIFIED="1418256401191" TEXT="abstruction levels"/>
+</node>
+<node CREATED="1418255915891" ID="ID_1842336216" MODIFIED="1418256176995" TEXT="encapsulation">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;is used to refer to one of two related but distinct notions, and sometimes to the combination thereof: A language mechanism for restricting access to some of the object's components.
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418256328893" FOLDED="true" ID="ID_52810704" MODIFIED="1429311483956" TEXT="object">
+<node CREATED="1418256335164" ID="ID_753289527" MODIFIED="1418256822066" TEXT="encapsulated object"/>
+<node CREATED="1418256822533" ID="ID_268365154" MODIFIED="1418256830130" TEXT="public object"/>
+<node CREATED="1418690848833" ID="ID_1223437127" MODIFIED="1418690851007" TEXT="type"/>
+</node>
+<node CREATED="1418257043122" FOLDED="true" ID="ID_405307651" MODIFIED="1429311483956" TEXT="accsses madification">
+<node CREATED="1418257119408" ID="ID_442682087" MODIFIED="1418257121821" TEXT="public"/>
+<node CREATED="1418257122288" ID="ID_544134536" MODIFIED="1418257125165" TEXT="protected"/>
+<node CREATED="1418257125504" ID="ID_1753628292" MODIFIED="1418257127405" TEXT="package"/>
+<node CREATED="1418257127808" ID="ID_131267543" MODIFIED="1418257131133" TEXT="private"/>
+</node>
+<node CREATED="1435900089009" ID="ID_961400308" MODIFIED="1435900096866" TEXT="Terminlogy">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418256895684" ID="ID_350655025" MODIFIED="1435900156233" TEXT="class">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418256899268" ID="ID_916393161" MODIFIED="1418686197676" TEXT="interface class ">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>class</b>&#160;A:
+    </p>
+    <p>
+      &#160;&#160;&#160; <b>def</b>&#160;foo(self):
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160; <b>pass </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#3296fa">instance class</font></i>
+    </p>
+    <p>
+      a = A()
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418256961491" ID="ID_772370780" MODIFIED="1418690737971">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      method
+    </p>
+    <p>
+      attributes
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1418690835953" ID="ID_54030817" MODIFIED="1418690838895" TEXT="metaclass"/>
+<node CREATED="1418690960688" ID="ID_1707788029" MODIFIED="1418690964829" TEXT="behavior"/>
+<node CREATED="1418690983648" ID="ID_1947829227" MODIFIED="1418690987948" TEXT="interface"/>
+<node CREATED="1418691020126" FOLDED="true" ID="ID_757333913" MODIFIED="1435900184045" TEXT="Member accessibility">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418691034191" ID="ID_1245022559" MODIFIED="1418691037643" TEXT="private"/>
+<node CREATED="1418691037982" ID="ID_147220778" MODIFIED="1418691041675" TEXT="protected"/>
+<node CREATED="1418691041998" ID="ID_943346283" MODIFIED="1418691043787" TEXT="bublic"/>
+</node>
+</node>
+<node CREATED="1418255927587" ID="ID_295392695" MODIFIED="1418255944924" TEXT="polymorphism "/>
+<node CREATED="1418684861198" ID="ID_1873619856" MODIFIED="1418684862779" TEXT="inheritance"/>
+<node CREATED="1435900108865" ID="ID_941020732" MODIFIED="1435900114285" TEXT="namespace"/>
+<node CREATED="1435900114608" ID="ID_1535405365" MODIFIED="1435900120253" TEXT="object"/>
+<node CREATED="1435900121697" ID="ID_211143661" MODIFIED="1435900126142" TEXT="property"/>
+<node CREATED="1435900126816" ID="ID_114489241" MODIFIED="1435900129885" TEXT="method"/>
+<node CREATED="1435900130849" ID="ID_746537381" MODIFIED="1435900135118" TEXT="constructor"/>
+<node CREATED="1435900136016" ID="ID_1793761150" MODIFIED="1435900142763" TEXT="abstraction"/>
+</node>
+<node CREATED="1435900209838" ID="ID_1806097927" MODIFIED="1435900213643" TEXT="PBP"/>
+</node>
+<node CREATED="1424820069425" ID="ID_508369269" MODIFIED="1424820074195" TEXT="COP">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 </node>
 </map>

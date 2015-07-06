@@ -177,8 +177,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1435004758231" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -525,7 +524,7 @@
 <node CREATED="1411251670368" ID="ID_927240392" MODIFIED="1411251678300" TEXT="Bill Joy"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1398630936724" FOLDED="true" ID="ID_645329084" MODIFIED="1435533947299" STYLE="fork">
+<node COLOR="#329632" CREATED="1398630936724" ID="ID_645329084" MODIFIED="1436095095600" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1928,7 +1927,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936504333" FOLDED="true" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1435533945788" STYLE="fork">
+<node CREATED="1397936504333" ID="ID_1156112644" LINK="http://www.linux.com/" MODIFIED="1436095097058" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3588,7 +3587,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397936526301" FOLDED="true" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1435533944026" STYLE="fork">
+<node CREATED="1397936526301" ID="ID_1495588668" LINK="http://www.debian.org/" MODIFIED="1436095102772" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3624,8 +3623,7 @@
       <font color="#6496fa" size="2"><i>Server</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399821647359" FOLDED="true" ID="ID_558597198" MODIFIED="1429355991140" TEXT="0.900">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4047,7 +4045,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1398707032229" FOLDED="true" ID="ID_630368414" MODIFIED="1435533782630" STYLE="fork">
+<node COLOR="#329632" CREATED="1398707032229" ID="ID_630368414" MODIFIED="1436095103898" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5068,7 +5066,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943315007" FOLDED="true" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1435533780485" STYLE="fork">
+<node CREATED="1397943315007" ID="ID_1334328970" LINK="http://www.ubuntu.com/" MODIFIED="1436095123210" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9707,8 +9705,7 @@
       Ubuntu Christian Edition is a free, open source operating system geared towards Christians. It is based on the popular Ubuntu. Along with the standard Ubuntu applications, Ubuntu Christian Edition includes the best available Christian software. The latest release contains GnomeSword, a top of the line Bible study program for Linux based on the Sword Project. There are several modules installed with GnomeSword including Bibles, Commentaries, and Dictionaries. Ubuntu Christian Edition also includes fully integrated web content parental controls powered by Dansguardian. A graphical tool to adjust the parental control settings has also been developed specifically for Ubuntu Christian Edition. The goal of Ubuntu Christian Edition is not to bring Christianity to Linux but to bring Linux to Christians.&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -17217,7 +17214,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397943651821" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1435533826256" STYLE="fork">
+<node CREATED="1397943651821" FOLDED="true" ID="ID_1886905608" LINK="http://www.redhat.com/" MODIFIED="1436095101029" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17385,7 +17382,7 @@
   </body>
 </html></richcontent>
 </node>
-<node COLOR="#329632" CREATED="1399242959616" ID="ID_94660851" MODIFIED="1435272114477" STYLE="fork">
+<node COLOR="#329632" CREATED="1399242959616" FOLDED="true" ID="ID_94660851" MODIFIED="1436095099557" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17418,8 +17415,7 @@
       <font size="2">Operating Syste</font>m
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696"/>
 <node CREATED="1398707062277" FOLDED="true" ID="ID_139382771" MODIFIED="1435004749999">
 <richcontent TYPE="NODE"><html>
@@ -18075,8 +18071,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Red Hat </font><font size="2">]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4571f4"/>
 <node CREATED="1399808535612" FOLDED="true" ID="ID_732836631" MODIFIED="1433480275108">
 <richcontent TYPE="NODE"><html>
@@ -19872,8 +19867,7 @@
       <i><font color="#3296fa" size="2">Ga&#1105;l Duval </font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696"/>
 <arrowlink COLOR="#074fd7" DESTINATION="ID_336685863" ENDARROW="Default" ENDINCLINATION="374;0;" ID="Arrow_ID_1443991639" STARTARROW="None" STARTINCLINATION="374;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1069992554" ENDARROW="Default" ENDINCLINATION="624;0;" ID="Arrow_ID_893270847" SOURCE="ID_1907040204" STARTARROW="None" STARTINCLINATION="624;0;"/>
@@ -27114,7 +27108,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399812359681" ID="ID_531095719" MODIFIED="1435609563163" POSITION="left">
+<node CREATED="1399812359681" ID="ID_531095719" MODIFIED="1436095000181" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27126,9 +27120,9 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1432964940123" FOLDED="true" ID="ID_1713002818" MODIFIED="1432965175762" TEXT="Back End">
+<node CREATED="1432964940123" ID="ID_1713002818" MODIFIED="1436095205085" TEXT="Back End">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399812417888" ID="ID_1810489846" LINK="https://www.virtualbox.org/" MODIFIED="1420931732352">
+<node CREATED="1399812417888" ID="ID_1810489846" LINK="https://www.virtualbox.org/" MODIFIED="1436095621350">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27138,10 +27132,56 @@
       <b>VirtualBox</b>&#160;<img src="../icons/virtualbox.png" />
     </p>
     <p>
-      [ <font color="#3296fa">Oracle</font>&#160;]
+      <font size="2">Innotek VirtualBox &gt; </font>
+    </p>
+    <p>
+      <font size="2">Sun xVM VirtualBox &gt; </font>
+    </p>
+    <p>
+      <font size="2">Sun VirtualBox</font>
+    </p>
+    <p>
+      2007 <font color="#fa0000">US</font>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">Oracle</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1403818878177" ID="ID_308239483" LINK="https://www.virtualbox.org/wiki/Downloads" MODIFIED="1436131523968">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      download <img src="../icons/download.png"/>
     </p>
   </body>
 </html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1436131528651" ID="ID_107127129" MODIFIED="1436131544568" TEXT="info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      For a thorough introduction to virtualization and VirtualBox, please refer to the online version of the VirtualBox User Manual's first chapter.
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 <node CREATED="1400097170673" FOLDED="true" ID="ID_1071457767" LINK="http://wiki.qemu.org/Main_Page" MODIFIED="1432963941527">
 <richcontent TYPE="NODE"><html>
@@ -27382,7 +27422,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1411229895646" FOLDED="true" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1432965424382">
+<node CREATED="1411229895646" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1436095192386">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27399,7 +27439,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411231317767" FOLDED="true" ID="ID_1791203185" MODIFIED="1432932162726" TEXT="Supported Hypervisors">
+<node CREATED="1411231317767" ID="ID_1791203185" MODIFIED="1436095192389" TEXT="Supported Hypervisors">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411231327926" ID="ID_448196165" MODIFIED="1411231330883" TEXT="LXC"/>
 <node CREATED="1411231331734" ID="ID_63054238" MODIFIED="1411231335380" TEXT="OpenVZ"/>
@@ -27456,7 +27496,7 @@
 <node CREATED="1399812413264" ID="ID_283358338" MODIFIED="1399812416527" TEXT="Sun xVM"/>
 <node CREATED="1411162283756" ID="ID_1104557325" MODIFIED="1411162285471" TEXT="UML"/>
 <node CREATED="1399812405280" ID="ID_661350637" MODIFIED="1399812412847" TEXT="Virtual iron"/>
-<node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1435610381415">
+<node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1436001048435">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27466,10 +27506,17 @@
       <b>VMM&#160;</b><img src="../icons/virtual_machine_manager.png" />
     </p>
     <p>
+      <font size="2">Virtual Machines </font>
+    </p>
+    <p>
+      <font size="2">Manager</font>
+    </p>
+    <p>
       <font size="2">[ </font><font color="#3296fa" size="2">Red Hat</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -27497,7 +27544,8 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1411231488372" FOLDED="true" ID="ID_493345248" MODIFIED="1432932009082" TEXT="VMware">
+<node CREATED="1436001093491" ID="ID_1513340546" MODIFIED="1436001095664" TEXT="LXT"/>
+<node CREATED="1411231488372" ID="ID_493345248" MODIFIED="1436095017217" TEXT="VMware">
 <node CREATED="1399812381793" ID="ID_434558045" LINK="http://www.vmware.com/products/esxi-and-esx/overview" MODIFIED="1411230255775">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -27515,7 +27563,19 @@
 </node>
 <node CREATED="1411231498372" ID="ID_273612781" MODIFIED="1411231503681" TEXT="VMware Workstation"/>
 </node>
-<node CREATED="1415651097965" ID="ID_1905104538" MODIFIED="1415651103258" TEXT="Vagrant"/>
+<node CREATED="1415651097965" ID="ID_1905104538" MODIFIED="1436095044243">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Vagrant
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1401313421636" FOLDED="true" ID="ID_149771912" MODIFIED="1435004750019" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -29757,8 +29817,7 @@
       <font size="2">Configuration Management</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -29768,8 +29827,7 @@
       <b>O</b>perating <b>S</b>ystem <b>C</b>onfiguration <b>M</b>anagement
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415650947055" ID="ID_668158486" LINK="http://www.ansible.com/home" MODIFIED="1415651565463">
 <richcontent TYPE="NODE"><html>
@@ -29812,8 +29870,7 @@
       <i><font color="#3296fa" size="2">Jamis Buck, Lee Hambley</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435534045611" ID="ID_1589829889" LINK="https://github.com/capistrano/capistrano" MODIFIED="1435534069505">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -29824,8 +29881,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1415650955263" ID="ID_382801716" MODIFIED="1415650956907" TEXT="cdist"/>
@@ -29889,8 +29945,7 @@
       <i><font color="#3296fa" size="2">Luke kanies</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1414796404984" ID="ID_479980252" LINK="https://puppetlabs.com/services/certification" MODIFIED="1414796423966" TEXT="Certificate"/>
 <node CREATED="1416098424027" FOLDED="true" ID="ID_500488360" MODIFIED="1429355991299">
 <richcontent TYPE="NODE"><html>
@@ -29931,8 +29986,7 @@
       <i><font color="#3296fa" size="2">Thomas S Hatch</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415651083725" ID="ID_884337193" MODIFIED="1415651087626" TEXT="Spacewalk"/>
 <node CREATED="1415651088013" ID="ID_1759660212" MODIFIED="1415651091162" TEXT="STAF"/>

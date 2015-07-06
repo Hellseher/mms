@@ -5,7 +5,7 @@
 <node CREATED="1429459729623" ID="ID_563209070" MODIFIED="1429459736435" POSITION="right" TEXT="consol.log()"/>
 <node CREATED="1429460658585" ID="ID_1632406008" MODIFIED="1429460668825" POSITION="right" TEXT="var &lt;varible name&gt;"/>
 <node CREATED="1429460680856" ID="ID_1388889995" MODIFIED="1429460684612" POSITION="right" TEXT="property"/>
-<node CREATED="1429460803767" ID="ID_710127910" MODIFIED="1435615760089" POSITION="right" TEXT="Data type">
+<node CREATED="1429460803767" FOLDED="true" ID="ID_710127910" MODIFIED="1435875189889" POSITION="right" TEXT="Data type">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1429460821606" ID="ID_1540960725" MODIFIED="1435613506512" TEXT="string">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -27,8 +27,7 @@
       <font color="#6496fa" size="2"><i>at the specified index</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435613476489" MODIFIED="1435613476489" TEXT="charCodeAt()         Returns the Unicode of the character at the specified index"/>
 <node CREATED="1435613476489" MODIFIED="1435613476489" TEXT="concat()         Joins two or more strings, and returns a new joined strings"/>
@@ -70,8 +69,7 @@
       <b>var</b>&#160;array = [ ];
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435615764541" FOLDED="true" ID="ID_1354435891" MODIFIED="1435615887826" TEXT="properties">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -91,8 +89,7 @@
       <font color="#6496fa" size="2"><i>created the Array object's prototype</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435615792387" MODIFIED="1435615792387" TEXT="length         Sets or returns the number of elements in an array"/>
 <node CREATED="1435615792387" MODIFIED="1435615792387" TEXT="prototype         Allows you to add properties and methods to an Array object"/>
@@ -112,8 +109,7 @@
       <i><font color="#6496fa" size="2">joins two or more arrays, and returns a copy of the joined arrays</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435615926478" MODIFIED="1435615926478" TEXT="indexOf()         Search the array for an element and returns its position"/>
 <node CREATED="1435615926478" MODIFIED="1435615926478" TEXT="join()         Joins all elements of an array into a string"/>
@@ -142,8 +138,7 @@
       <b>var</b>&#160;d = new Date();
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1431808039448" ID="ID_1068234474" MODIFIED="1431808049174" TEXT="properties">
 <node CREATED="1431808056570" ID="ID_827367064" MODIFIED="1431808063557" TEXT="constructor"/>
 <node CREATED="1431808063928" ID="ID_171102241" MODIFIED="1431808068165" TEXT="prototype"/>
@@ -222,7 +217,7 @@
 <node CREATED="1431809945179" MODIFIED="1431809945179" TEXT="tan(x)        Returns the tangent of an angle"/>
 </node>
 </node>
-<node CREATED="1429480114009" ID="ID_1318763169" MODIFIED="1429480116293" POSITION="right" TEXT="condition">
+<node CREATED="1429480114009" FOLDED="true" ID="ID_1318763169" MODIFIED="1435875193774" POSITION="right" TEXT="condition">
 <node CREATED="1429480117226" ID="ID_27429385" MODIFIED="1429480230155">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -252,7 +247,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1429480821791" ID="ID_509613856" MODIFIED="1429480824154" POSITION="right" TEXT="loop">
+<node CREATED="1429480821791" FOLDED="true" ID="ID_509613856" MODIFIED="1435875193190" POSITION="right" TEXT="loop">
 <node CREATED="1429480825134" ID="ID_1825524202" MODIFIED="1429482548756" TEXT="for">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -272,7 +267,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1431809647535" FOLDED="true" ID="ID_1417306111" MODIFIED="1435612899439" POSITION="left" TEXT="operators">
+<node CREATED="1431809647535" FOLDED="true" ID="ID_1417306111" MODIFIED="1435874619047" POSITION="left" TEXT="operators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1431809653118" ID="ID_911621883" MODIFIED="1431809690110" TEXT="assignment Op.">
 <node CREATED="1431809664091" MODIFIED="1431809664091" TEXT="=        x = y        x = y"/>
@@ -306,8 +301,7 @@
       <font size="2">Document ObjectModel</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -332,10 +326,9 @@
       &#160;&#160;&#160;&#160;Comments are <b>comment nodes</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1435612915563" FOLDED="true" ID="ID_215216557" MODIFIED="1435615649542" TEXT="DOM Document">
+<node CREATED="1435612915563" ID="ID_215216557" MODIFIED="1435875634009" TEXT="DOM Document">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435614447451" MODIFIED="1435614447451" TEXT="document.activeElement         Returns the currently focused element in the document"/>
 <node CREATED="1435614447452" ID="ID_284280272" MODIFIED="1435614950234">
@@ -351,8 +344,7 @@
       <i><font color="#6496fa" size="2">attaches an event handler to the document</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435614447452" MODIFIED="1435614447452" TEXT="document.adoptNode()         Adopts a node from another document"/>
 <node CREATED="1435614447452" MODIFIED="1435614447452" TEXT="document.anchors         Returns a collection of all &lt;a&gt; elements in the document that have a name attribute"/>
@@ -377,7 +369,22 @@
 <node CREATED="1435614447459" MODIFIED="1435614447459" TEXT="document.getElementById()         Returns the element that has the ID attribute with the specified value"/>
 <node CREATED="1435614447460" MODIFIED="1435614447460" TEXT="document.getElementsByClassName()         Returns a NodeList containing all elements with the specified class name"/>
 <node CREATED="1435614447461" MODIFIED="1435614447461" TEXT="document.getElementsByName()         Returns a NodeList containing all elements with a specified name"/>
-<node CREATED="1435614447462" MODIFIED="1435614447462" TEXT="document.getElementsByTagName()         Returns a NodeList containing all elements with the specified tag name"/>
+<node CREATED="1435614447462" ID="ID_37721310" MODIFIED="1435875838470">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i>document</i>.<b>getElementsByTagName</b>(<i>tagname</i>)
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">returns a NodeList containing all elements with the specified tag name</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1435614447463" MODIFIED="1435614447463" TEXT="document.hasFocus()         Returns a Boolean value indicating whether the document has focus"/>
 <node CREATED="1435614447463" MODIFIED="1435614447463" TEXT="document.head         Returns the &lt;head&gt; element of the document"/>
 <node CREATED="1435614447464" MODIFIED="1435614447464" TEXT="document.images         Returns a collection of all &lt;img&gt; elements in the document"/>
@@ -405,8 +412,7 @@
       <font color="#6496fa" size="2"><i>matches a specified selector</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435614447467" MODIFIED="1435614447467" TEXT="document.querySelectorAll()         Returns a static NodeList containing all elements that matches a specified CSS selector(s) in the document"/>
 <node CREATED="1435614447468" MODIFIED="1435614447468" TEXT="document.readyState         Returns the (loading) status of the document"/>
@@ -422,9 +428,9 @@
 </node>
 <node CREATED="1435612915564" MODIFIED="1435612915564" TEXT="DOM Elements"/>
 <node CREATED="1435612915564" MODIFIED="1435612915564" TEXT="DOM Attributes"/>
-<node CREATED="1435612915564" ID="ID_789869846" MODIFIED="1435615085240" TEXT="DOM Events">
+<node CREATED="1435612915564" ID="ID_789869846" MODIFIED="1435875610418" TEXT="DOM Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1435615082678" FOLDED="true" ID="ID_1143599768" MODIFIED="1435615132021" TEXT="Mouse Events">
+<node CREATED="1435615082678" ID="ID_1143599768" MODIFIED="1435875629069" TEXT="Mouse Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435615094738" MODIFIED="1435615094738" TEXT="onclick         The event occurs when the user clicks on an element         2"/>
 <node CREATED="1435615094739" MODIFIED="1435615094739" TEXT="oncontextmenu         The event occurs when the user right-clicks on an element to open a context menu         3"/>
@@ -437,13 +443,13 @@
 <node CREATED="1435615094746" MODIFIED="1435615094746" TEXT="onmouseout         The event occurs when a user moves the mouse pointer out of an element, or out of one of its children         2"/>
 <node CREATED="1435615094748" MODIFIED="1435615094748" TEXT="onmouseup         The event occurs when a user releases a mouse button over an element         2"/>
 </node>
-<node CREATED="1435615103494" FOLDED="true" ID="ID_1973121821" MODIFIED="1435615133141" TEXT="Keyboard Events">
+<node CREATED="1435615103494" ID="ID_1973121821" MODIFIED="1435875630464" TEXT="Keyboard Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435615112090" MODIFIED="1435615112090" TEXT="onkeydown         The event occurs when the user is pressing a key         2"/>
 <node CREATED="1435615112091" MODIFIED="1435615112091" TEXT="onkeypress         The event occurs when the user presses a key         2"/>
 <node CREATED="1435615112091" MODIFIED="1435615112091" TEXT="onkeyup         The event occurs when the user releases a key         2"/>
 </node>
-<node CREATED="1435615118471" FOLDED="true" ID="ID_727724600" MODIFIED="1435615136405" TEXT="Frame/Object Events">
+<node CREATED="1435615118471" ID="ID_727724600" MODIFIED="1435875631626" TEXT="Frame/Object Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435615129643" MODIFIED="1435615129643" TEXT="onabort         The event occurs when the loading of a resource has been aborted         2"/>
 <node CREATED="1435615129644" MODIFIED="1435615129644" TEXT="onbeforeunload         The event occurs before the document is about to be unloaded         2"/>
@@ -456,7 +462,7 @@
 <node CREATED="1435615129646" MODIFIED="1435615129646" TEXT="onscroll         The event occurs when an element&apos;s scrollbar is being scrolled         2"/>
 <node CREATED="1435615129646" MODIFIED="1435615129646" TEXT="onunload         The event occurs once a page has unloaded (for &lt;body&gt;)         2"/>
 </node>
-<node CREATED="1435615145303" FOLDED="true" ID="ID_53282888" MODIFIED="1435615176599" TEXT="Form Events">
+<node CREATED="1435615145303" ID="ID_53282888" MODIFIED="1435875619713" TEXT="Form Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435615157467" MODIFIED="1435615157467" TEXT="onblur         The event occurs when an element loses focus         2"/>
 <node CREATED="1435615157467" MODIFIED="1435615157467" TEXT="onchange         The event occurs when the content of a form element, the selection, or the checked state have changed (for &lt;input&gt;, &lt;keygen&gt;, &lt;select&gt;, and &lt;textarea&gt;)         2"/>
@@ -470,7 +476,7 @@
 <node CREATED="1435615157470" MODIFIED="1435615157470" TEXT="onselect         The event occurs after the user selects some text (for &lt;input&gt; and &lt;textarea&gt;)         2"/>
 <node CREATED="1435615157471" MODIFIED="1435615157471" TEXT="onsubmit         The event occurs when a form is submitted         2"/>
 </node>
-<node CREATED="1435615164086" FOLDED="true" ID="ID_1782307016" MODIFIED="1435615177656" TEXT="Drag Events">
+<node CREATED="1435615164086" ID="ID_1782307016" MODIFIED="1435875621834" TEXT="Drag Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435615172730" MODIFIED="1435615172730" TEXT="ondrag         The event occurs when an element is being dragged         3"/>
 <node CREATED="1435615172730" MODIFIED="1435615172730" TEXT="ondragend         The event occurs when the user has finished dragging an element         3"/>
@@ -480,7 +486,7 @@
 <node CREATED="1435615172731" MODIFIED="1435615172731" TEXT="ondragstart         The event occurs when the user starts to drag an element         3"/>
 <node CREATED="1435615172731" MODIFIED="1435615172731" TEXT="ondrop         The event occurs when the dragged element is dropped on the drop target         3"/>
 </node>
-<node CREATED="1435615205574" FOLDED="true" ID="ID_1852229874" MODIFIED="1435615249300" TEXT="Media Events">
+<node CREATED="1435615205574" ID="ID_1852229874" MODIFIED="1435875623192" TEXT="Media Events">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1435615216329" MODIFIED="1435615216329" TEXT="onabort         The event occurs when the loading of a media is aborted         3"/>
 <node CREATED="1435615216330" MODIFIED="1435615216330" TEXT="oncanplay         The event occurs when the browser can start playing the media (when it has buffered enough to begin)         3"/>
@@ -505,7 +511,41 @@
 <node CREATED="1435615216344" MODIFIED="1435615216344" TEXT="onvolumechange         The event occurs when the volume of the media has changed (includes setting the volume to &quot;mute&quot;)         3"/>
 <node CREATED="1435615216345" MODIFIED="1435615216345" TEXT="onwaiting         The event occurs when the media has paused but is expected to resume (like when the media pauses to buffer more data)         3"/>
 </node>
+<node CREATED="1435874598969" ID="ID_1177633924" MODIFIED="1435875625948" TEXT="Properties">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1435874611382" MODIFIED="1435874611382" TEXT="bubbles         Returns whether or not a specific event is a bubbling event         2"/>
+<node CREATED="1435874611384" MODIFIED="1435874611384" TEXT="cancelable         Returns whether or not an event can have its default action prevented         2"/>
+<node CREATED="1435874611386" MODIFIED="1435874611386" TEXT="currentTarget         Returns the element whose event listeners triggered the event         2"/>
+<node CREATED="1435874611386" MODIFIED="1435874611386" TEXT="defaultPrevented         Returns whether or not the preventDefault() method was called for the event         3"/>
+<node CREATED="1435874611388" MODIFIED="1435874611388" TEXT="eventPhase         Returns which phase of the event flow is currently being evaluated         2"/>
+<node CREATED="1435874611388" MODIFIED="1435874611388" TEXT="isTrusted         Returns whether or not an event is trusted         3"/>
+<node CREATED="1435874611389" ID="ID_1425338851" MODIFIED="1435874868401">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      event.<b>target</b>
+    </p>
+    <p>
+      <font color="#6496fa" size="2">returns the element </font>
+    </p>
+    <p>
+      <font color="#6496fa" size="2">that triggered the event</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+<node CREATED="1435874611389" MODIFIED="1435874611389" TEXT="timeStamp         Returns the time (in milliseconds relative to the epoch) at which the event was created         2"/>
+<node CREATED="1435874611391" MODIFIED="1435874611391" TEXT="type         Returns the name of the event         2"/>
+<node CREATED="1435874611391" MODIFIED="1435874611391" TEXT="view         Returns a reference to the Window object where the event occured         2"/>
+</node>
+</node>
+</node>
+<node CREATED="1435875387389" ID="ID_1475083820" MODIFIED="1435875391482" POSITION="left" TEXT="Node">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </map>
