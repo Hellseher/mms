@@ -5,7 +5,7 @@
 <node CREATED="1429459729623" ID="ID_563209070" MODIFIED="1429459736435" POSITION="right" TEXT="consol.log()"/>
 <node CREATED="1429460658585" ID="ID_1632406008" MODIFIED="1429460668825" POSITION="right" TEXT="var &lt;varible name&gt;"/>
 <node CREATED="1429460680856" ID="ID_1388889995" MODIFIED="1429460684612" POSITION="right" TEXT="property"/>
-<node CREATED="1429460803767" FOLDED="true" ID="ID_710127910" MODIFIED="1435875189889" POSITION="right" TEXT="Data type">
+<node CREATED="1429460803767" ID="ID_710127910" MODIFIED="1436289663636" POSITION="right" TEXT="Data type">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1429460821606" ID="ID_1540960725" MODIFIED="1435613506512" TEXT="string">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -382,8 +382,7 @@
       <i><font size="2" color="#6496fa">returns a NodeList containing all elements with the specified tag name</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435614447463" MODIFIED="1435614447463" TEXT="document.hasFocus()         Returns a Boolean value indicating whether the document has focus"/>
 <node CREATED="1435614447463" MODIFIED="1435614447463" TEXT="document.head         Returns the &lt;head&gt; element of the document"/>
@@ -535,8 +534,7 @@
       <font color="#6496fa" size="2">that triggered the event</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435874611389" MODIFIED="1435874611389" TEXT="timeStamp         Returns the time (in milliseconds relative to the epoch) at which the event was created         2"/>
 <node CREATED="1435874611391" MODIFIED="1435874611391" TEXT="type         Returns the name of the event         2"/>

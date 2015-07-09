@@ -1401,8 +1401,7 @@
       <i><font color="#6496fa" size="2">defines sound content</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1434575097436" FOLDED="true" ID="ID_761564481" MODIFIED="1435531738277" TEXT="atr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434575212526" ID="ID_1025394501" MODIFIED="1435526489785">
@@ -1421,8 +1420,7 @@
       <font color="#6496fa" size="2"><i>as soon as it is ready</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434575212526" ID="ID_953845101" MODIFIED="1435526581095">
 <richcontent TYPE="NODE"><html>
@@ -1437,8 +1435,7 @@
       <i><font color="#6496fa" size="2">specifies that audio controls</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434575212528" ID="ID_1115150580" MODIFIED="1435526711541">
 <richcontent TYPE="NODE"><html>
@@ -1453,8 +1450,7 @@
       <i><font color="#6496fa" size="2">audio over and over again...</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434575212528" MODIFIED="1434575212528" TEXT="muted        muted        Specifies that the audio output should be muted"/>
 <node CREATED="1434575212529" ID="ID_1822968649" MODIFIED="1435530726746">
@@ -1467,8 +1463,7 @@
       &lt;audio <b>preload</b>=&quot;VALUE&quot;&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1478,8 +1473,7 @@
       The preload attribute is ignored if autoplay is present.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1434575212529" ID="ID_1557601476" MODIFIED="1435530804906">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1496,8 +1490,7 @@
       <font color="#6496fa" size="2"><i>the page loads</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434575212529" ID="ID_428395654" MODIFIED="1434575212529" TEXT="metadata"/>
 <node CREATED="1435530630624" ID="ID_86564803" MODIFIED="1435530632301" TEXT="auto"/>
@@ -1534,8 +1527,7 @@
       <i><font color="#6496fa" size="2">returns the current playback position</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="defaultMuted         Sets or returns whether the audio/video should be muted by default"/>
 <node CREATED="1435611657708" MODIFIED="1435611657708" TEXT="defaultPlaybackRate         Sets or returns the default speed of the audio/video playback"/>
@@ -1769,8 +1761,7 @@
       <i><font color="#3296fa" size="2">defines a video or movie</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435610927031" FOLDED="true" ID="ID_32909668" MODIFIED="1435611661098" TEXT="methods">
 <node CREATED="1435611643802" MODIFIED="1435611643802" TEXT="addTextTrack()         Adds a new text track to the audio/video"/>
 <node CREATED="1435611643803" MODIFIED="1435611643803" TEXT="canPlayType()         Checks if the browser can play the specified audio/video type"/>
@@ -1833,6 +1824,28 @@
 <node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="volumechange         Fires when the volume has been changed"/>
 <node CREATED="1435611675765" MODIFIED="1435611675765" TEXT="waiting         Fires when the video stops because it needs to buffer the next frame"/>
 </node>
+</node>
+<node CREATED="1415749396830" ID="ID_399453828" MODIFIED="1436389765831">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>&lt;track&gt;</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">defines text tracks </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">for media elements </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">(&lt;video&gt; and &lt;audio&gt;)</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1433970685606" ID="ID_1790302421" MODIFIED="1433970689363" TEXT="interactive"/>
@@ -2577,7 +2590,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1415749422033" FOLDED="true" ID="ID_665571542" MODIFIED="1434575184043">
+<node CREATED="1415749422033" ID="ID_665571542" MODIFIED="1436389626435">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2596,7 +2609,6 @@
 <node CREATED="1415749396818" ID="ID_80670238" MODIFIED="1415749396818" TEXT="&lt;rt&gt;                Defines an explanation/pronunciation of characters (for East Asian typography)"/>
 <node CREATED="1415749396820" ID="ID_895295618" MODIFIED="1415749396820" TEXT="&lt;ruby&gt;                Defines a ruby annotation (for East Asian typography)"/>
 <node CREATED="1415749396822" ID="ID_819406078" MODIFIED="1415749396822" TEXT="&lt;source&gt;        Defines multiple media resources for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
-<node CREATED="1415749396830" ID="ID_399453828" MODIFIED="1415749396830" TEXT="&lt;track&gt;                Defines text tracks for media elements (&lt;video&gt; and &lt;audio&gt;)"/>
 <node CREATED="1415749396833" ID="ID_23673390" MODIFIED="1415749396833" TEXT="&lt;wbr&gt;                Defines a possible line-break"/>
 </node>
 </node>
@@ -2632,8 +2644,7 @@
       DOM&#160;&#160;&#160;: Document ObjectMethod
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1416676700105" FOLDED="true" ID="ID_657703901" MODIFIED="1433365851870" POSITION="right" TEXT="Version History">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

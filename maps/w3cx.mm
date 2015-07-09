@@ -369,7 +369,7 @@
 </node>
 <node CREATED="1433179824353" MODIFIED="1433179824353" TEXT="1.6 Exercises - Week 1"/>
 </node>
-<node CREATED="1433975138741" FOLDED="true" ID="ID_1238472519" MODIFIED="1435876415604" POSITION="right" TEXT="Week2: HTML5 Multimedia">
+<node CREATED="1433975138741" ID="ID_1238472519" MODIFIED="1436289662484" POSITION="right" TEXT="Week2: HTML5 Multimedia">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433975165495" ID="ID_1485220595" MODIFIED="1433975175215">
 <richcontent TYPE="NODE"><html>
@@ -501,7 +501,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433975178790" ID="ID_1839206126" MODIFIED="1433975182082">
+<node CREATED="1433975178790" ID="ID_1839206126" MODIFIED="1436389608686">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -512,6 +512,8 @@
     </p>
   </body>
 </html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1436389610157" ID="ID_1751878972" MODIFIED="1436389616409" TEXT="&lt;track&gt;"/>
 </node>
 <node CREATED="1433975182083" ID="ID_469840149" MODIFIED="1433975185357">
 <richcontent TYPE="NODE"><html>
@@ -559,6 +561,9 @@
 <node CREATED="1434574900856" MODIFIED="1434574900856" TEXT="3.5 Colors, gradients, patterns, shadows, etc."/>
 <node CREATED="1434574900857" MODIFIED="1434574900857" TEXT="3.6 Exercises - Week 3"/>
 <node CREATED="1434574900857" MODIFIED="1434574900857" TEXT="Exercises due Jun 27, 2015 at 15:00 UTC"/>
+</node>
+<node CREATED="1436389339204" ID="ID_1450761517" MODIFIED="1436389344069" POSITION="right" TEXT=" Week 6: HTML5 Basic APIs ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </map>

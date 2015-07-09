@@ -16,8 +16,7 @@
       <font size="2">interface</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="17"/>
 <node CREATED="1398811962534" FOLDED="true" ID="ID_962394651" MODIFIED="1432327210985" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -460,8 +459,7 @@
       <font color="#3296fa" size="2"><i>Albert Cahalan</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1404942884604" ID="ID_588193485" MODIFIED="1404942889724" TEXT="-1"/>
 <node CREATED="1404942890444" ID="ID_1680743705" MODIFIED="1404942895226" TEXT="-15"/>
 <node CREATED="1404942895804" ID="ID_1013474503" MODIFIED="1404942899467" TEXT="-9"/>
@@ -735,8 +733,7 @@
       <i><font color="#6496fa" size="2">execute cmd at specified time</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -761,8 +758,7 @@
       job 1 at 2003-03-19 01:00
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1417633825509" FOLDED="true" ID="ID_121902498" MODIFIED="1429311610809">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -801,8 +797,7 @@
       <i><font color="#6496fa" size="2">run the cmd repeatedly</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -4843,23 +4838,23 @@
 <node CREATED="1432327538257" ID="ID_88014871" MODIFIED="1432327540255" TEXT="cmd.exe"/>
 </node>
 </node>
-<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1432327306303" POSITION="right" TEXT="GUI terminals">
+<node CREATED="1417377656934" ID="ID_1949155085" MODIFIED="1436390787947" POSITION="right" TEXT="terminal emulators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417378969784" MODIFIED="1417378969784" TEXT="aterm"/>
 <node CREATED="1417378969785" MODIFIED="1417378969785" TEXT="eterm"/>
-<node CREATED="1417378969786" MODIFIED="1417378969786" TEXT="gnome"/>
+<node CREATED="1417378969786" ID="ID_486052798" MODIFIED="1436390732076" TEXT="gnome-terminal"/>
 <node CREATED="1417378969786" MODIFIED="1417378969786" TEXT="guake"/>
 <node CREATED="1417378969787" MODIFIED="1417378969787" TEXT="konsole"/>
 <node CREATED="1417378969787" MODIFIED="1417378969787" TEXT="Kuake"/>
 <node CREATED="1417378969788" MODIFIED="1417378969788" TEXT="mrxvt"/>
 <node CREATED="1417378969788" ID="ID_281231788" LINK="http://software.schmorp.de/pkg/rxvt-unicode.html" MODIFIED="1419374174819" TEXT="rxvt"/>
 <node CREATED="1417378969789" ID="ID_647709737" MODIFIED="1417378969789" TEXT="xfce4"/>
-<node CREATED="1417378969789" ID="ID_1020879587" MODIFIED="1417378969789" TEXT="Terminator"/>
+<node CREATED="1417378969789" ID="ID_1020879587" LINK="https://launchpad.net/terminator" MODIFIED="1436390908398" TEXT="Terminator"/>
 <node CREATED="1417378969790" MODIFIED="1417378969790" TEXT="Terminology"/>
-<node CREATED="1417378969790" MODIFIED="1417378969790" TEXT="tilda"/>
-<node CREATED="1417378969791" MODIFIED="1417378969791" TEXT="wterm"/>
-<node CREATED="1417378969791" MODIFIED="1417378969791" TEXT="xterm"/>
-<node CREATED="1417378969791" MODIFIED="1417378969791" TEXT="Yakuake"/>
+<node CREATED="1417378969790" ID="ID_169597338" LINK="http://tilda.sourceforge.net/tildaabout.php" MODIFIED="1436390933198" TEXT="Tilda"/>
+<node CREATED="1417378969791" ID="ID_584687950" MODIFIED="1417378969791" TEXT="wterm"/>
+<node CREATED="1417378969791" ID="ID_644039634" LINK="http://invisible-island.net/xterm/" MODIFIED="1436390861875" TEXT="xterm"/>
+<node CREATED="1417378969791" ID="ID_1603666720" MODIFIED="1417378969791" TEXT="Yakuake"/>
 </node>
 <node CREATED="1429564473616" FOLDED="true" ID="ID_816169975" MODIFIED="1432327572483" POSITION="right" TEXT="multiplexors">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
