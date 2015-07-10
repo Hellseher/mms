@@ -179,7 +179,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1435004758231" POSITION="right" STYLE="fork">
+<node CREATED="1397936401850" ID="ID_314395695" LINK="http://www.unix.org/" MODIFIED="1436565618191" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -537,7 +537,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397939769863" FOLDED="true" ID="ID_321065827" MODIFIED="1431173420340" STYLE="fork">
+<node CREATED="1397939769863" ID="ID_321065827" MODIFIED="1436566366643" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -547,19 +547,20 @@
       <b>BSD</b>
     </p>
     <p>
-      <font size="2">1977 - 1995 </font><font color="#fa0000" size="2">US</font>
+      <font size="2">Barkeley Software Distribution </font>
     </p>
     <p>
-      <b><font size="2">B</font></b><font size="2">arkeley <b>S</b>oftware <b>D</b>istribution </font>
+      <font size="3">1977 - 1995 </font><font size="3" color="#fa0000">US</font>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>Bill Joy </i></font>
+      <i><font size="2" color="#3296fa">Bill Joy </font></i>
     </p>
     <p>
-      <font size="2">[ </font><font color="#3296fa" size="2">CSRG, UC Berkeley </font><font size="2">]</font>
+      <font size="2">[ </font><font size="2" color="#3296fa">CSRG, UC Berkeley </font><font size="2">]</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1404074145096" FOLDED="true" ID="ID_565734874" MODIFIED="1429355991117">
 <richcontent TYPE="NODE"><html>
@@ -625,7 +626,7 @@
 <node CREATED="1411251738350" ID="ID_399799707" MODIFIED="1429305228597" TEXT="info">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#329632" CREATED="1404056851003" FOLDED="true" ID="ID_1396446167" MODIFIED="1431283858442">
+<node COLOR="#329632" CREATED="1404056851003" ID="ID_1396446167" MODIFIED="1436565624458">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -638,7 +639,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398563186995" FOLDED="true" ID="ID_518918152" LINK="http://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html" MODIFIED="1429355991118">
+<node CREATED="1398563186995" ID="ID_518918152" LINK="http://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html" MODIFIED="1436565715832">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -659,9 +660,9 @@
 <node CREATED="1399828474623" ID="ID_380446539" MODIFIED="1401831707410" TEXT="architecture">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1399828398880" FOLDED="true" ID="ID_1632308501" MODIFIED="1429355991118" STYLE="fork" TEXT="Mach-derived">
+<node CREATED="1399828398880" ID="ID_1632308501" MODIFIED="1436565715842" STYLE="fork" TEXT="Mach-derived">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399828451151" FOLDED="true" ID="ID_583361909" MODIFIED="1429355991118" STYLE="fork">
+<node CREATED="1399828451151" FOLDED="true" ID="ID_583361909" MODIFIED="1436565743329" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -674,10 +675,11 @@
       1998 - 1995 <font color="#fa0000">US</font>
     </p>
     <p>
-      [<font color="#3296fa"><i>NeXT</i></font>]
+      <font size="2">[ </font><font size="2" color="#3296fa">NeXT </font><font size="2">]</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1399828474623" ID="ID_1867671896" MODIFIED="1401831707410" TEXT="architecture">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -726,9 +728,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1412623355229" FOLDED="true" ID="ID_753604911" MODIFIED="1431283858442" TEXT="4.4 BSD-Liet derived">
+<node CREATED="1412623355229" ID="ID_753604911" MODIFIED="1436565627308" TEXT="4.4 BSD-Liet derived">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397938103330" FOLDED="true" ID="ID_585629590" LINK="https://www.netbsd.org/" MODIFIED="1429355991121" STYLE="fork">
+<node CREATED="1397938103330" ID="ID_585629590" LINK="https://www.netbsd.org/" MODIFIED="1436565676621" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -832,7 +834,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1402006831078" FOLDED="true" ID="ID_963854001" MODIFIED="1429355991121" STYLE="fork">
+<node COLOR="#329632" CREATED="1402006831078" ID="ID_963854001" MODIFIED="1436565678098" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1026,7 +1028,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1397938941484" FOLDED="true" ID="ID_507558849" LINK="https://www.freebsd.org/" MODIFIED="1431283858441" STYLE="fork">
+<node CREATED="1397938941484" ID="ID_507558849" LINK="https://www.freebsd.org/" MODIFIED="1436565669288" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1041,7 +1043,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399324966210" ID="ID_399461714" MODIFIED="1410292795934">
+<node CREATED="1399324966210" ID="ID_399461714" MODIFIED="1436566328609">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1061,23 +1063,18 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1402007938302" FOLDED="true" ID="ID_631953840" MODIFIED="1431283858441" TEXT="info">
+<node CREATED="1402007938302" FOLDED="true" ID="ID_631953840" MODIFIED="1436566343935" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, powerpc, ppc64, PC-98 and UltraSPARC platforms based on U.C. Berkeley's "4.4BSD-Lite" release, with some "4.4BSD-Lite2" enhancements. It is also based indirectly on William Jolitz's port of U.C. Berkeley's "Net/2" to the i386, known as "386BSD", though very little of the 386BSD code remains. FreeBSD is used by companies, Internet Service Providers, researchers, computer professionals, students and home users all over the world in their work, education and recreation. FreeBSD comes with over 20,000 packages (pre-compiled software that is bundled for easy installation), covering a wide range of areas: from server software, databases and web servers, to desktop software, games, web browsers and business software - all free and easy to install.&#xa0;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      (c) http://distrowatch.com/table.php?distribution=freebsd
+      FreeBSD is a UNIX-like operating system for the i386, amd64, IA-64, arm, MIPS, powerpc, ppc64, PC-98 and UltraSPARC platforms based on U.C. Berkeley's &quot;4.4BSD-Lite&quot; release, with some &quot;4.4BSD-Lite2&quot; enhancements. It is also based indirectly on William Jolitz's port of U.C. Berkeley's &quot;Net/2&quot; to the i386, known as &quot;386BSD&quot;, though very little of the 386BSD code remains. FreeBSD is used by companies, Internet Service Providers, researchers, computer professionals, students and home users all over the world in their work, education and recreation. FreeBSD comes with over 20,000 packages (pre-compiled software that is bundled for easy installation), covering a wide range of areas: from server software, databases and web servers, to desktop software, games, web browsers and business software - all free and easy to install.&#160;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399324955090" FOLDED="true" ID="ID_1810170701" MODIFIED="1429355991121">
 <richcontent TYPE="NODE"><html>
@@ -1218,7 +1215,20 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1399324971139" FOLDED="true" ID="ID_469737457" MODIFIED="1429355991126">
+<node CREATED="1436566284761" ID="ID_1443969377" LINK="https://www.freebsd.org/where.html" MODIFIED="1436566329680">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      download <img src="../icons/download.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#329632" CREATED="1399324971139" FOLDED="true" ID="ID_469737457" MODIFIED="1436566326686">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1682,7 +1692,7 @@
 </node>
 <node CREATED="1415147429512" ID="ID_231307520" MODIFIED="1415147433476" TEXT="OpenDarwin"/>
 </node>
-<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_167621103" MODIFIED="1429355991127" TEXT="~ discontinued">
+<node COLOR="#fa0000" CREATED="1409334721593" FOLDED="true" ID="ID_167621103" MODIFIED="1436566259967" TEXT="~ discontinued">
 <node CREATED="1407618727129" FOLDED="true" ID="ID_1410713961" MODIFIED="1429355991126">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1825,7 +1835,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1402147300675" ID="ID_1026292484" MODIFIED="1435271650665" STYLE="fork">
+<node CREATED="1402147300675" FOLDED="true" ID="ID_1026292484" MODIFIED="1436565619529" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26070,7 +26080,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1410906984797" FOLDED="true" ID="ID_1661011407" MODIFIED="1434476082037">
+<node CREATED="1410906984797" ID="ID_1661011407" MODIFIED="1436565692238">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -26084,6 +26094,55 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1397940070292" FOLDED="true" ID="ID_837644077" LINK="http://www8.hp.com/us/en/products/servers/hp-ux.html#tab=TAB1" MODIFIED="1436566252057" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>HP-UX </b>
+    </p>
+    <p>
+      1983 <font color="#fa0000">US</font>
+    </p>
+    <p>
+      [ <font size="2" color="#3296fa">Hewlett-Packard</font><font color="#3296fa">&#160;</font>]
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1411338786236" ID="ID_1030379293" MODIFIED="1428362014249">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>About HP-UX </b><img src="../icons/corporate.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1397940420354" ID="ID_1664722782" LINK="http://www.sgi.com/products/software/irix/" MODIFIED="1436566208715" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>IRIX </b><img src="../icons/irix.png" />
+    </p>
+    <p>
+      1988-2006 <font color="#fa0000">US </font>
+    </p>
+    <p>
+      <font size="2">[ </font><font size="2" color="#3296fa">Silicon Graphics</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1398564209843" FOLDED="true" ID="ID_568251019" MODIFIED="1434476078083" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -26757,31 +26816,37 @@
 </node>
 </node>
 </node>
-<node CREATED="1397940070292" FOLDED="true" ID="ID_837644077" LINK="http://www8.hp.com/us/en/products/servers/hp-ux.html#tab=TAB1" MODIFIED="1429355991281" STYLE="fork">
+<node COLOR="#006699" CREATED="1401659841067" FOLDED="true" ID="ID_1192082735" MODIFIED="1436566234639" STYLE="fork" TEXT="~ historic">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<node CREATED="1398564014310" ID="ID_148475436" LINK="http://www.sco.com/products/openserver6/" MODIFIED="1414193899039" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>HP-UX </b>
+      <b>XENIX </b>
     </p>
     <p>
-      1983 <font color="#fa0000">US</font>
+      1980<font color="#fa0000">US </font>
     </p>
     <p>
-      [<font color="#3296fa">Hewlett-Packard</font>]
+      [<font color="#3296fa">Microsof, SCO</font>]
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411338786236" ID="ID_1030379293" MODIFIED="1428362014249">
+</node>
+<node CREATED="1411769288194" ID="ID_569982392" MODIFIED="1412708568766">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>About HP-UX </b><img src="../icons/corporate.png" />
+      <b>A/UX</b>
+    </p>
+    <p>
+      [<font color="#3296fa">Apple</font>]
     </p>
   </body>
 </html></richcontent>
@@ -26860,60 +26925,9 @@
 <node CREATED="1407669649092" ID="ID_498375365" MODIFIED="1407669663027" TEXT="proprietary"/>
 </node>
 </node>
-<node COLOR="#006699" CREATED="1401659841067" FOLDED="true" ID="ID_1192082735" MODIFIED="1433623298793" STYLE="fork" TEXT="~ historic">
+</node>
+<node COLOR="#006699" CREATED="1401659841067" FOLDED="true" ID="ID_1428338991" MODIFIED="1436566228159" STYLE="fork" TEXT="~ minor">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1398564014310" ID="ID_148475436" LINK="http://www.sco.com/products/openserver6/" MODIFIED="1414193899039" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>XENIX </b>
-    </p>
-    <p>
-      1980<font color="#fa0000">US </font>
-    </p>
-    <p>
-      [<font color="#3296fa">Microsof, SCO</font>]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1411769288194" ID="ID_569982392" MODIFIED="1412708568766">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>A/UX</b>
-    </p>
-    <p>
-      [<font color="#3296fa">Apple</font>]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node COLOR="#006699" CREATED="1401659841067" FOLDED="true" ID="ID_1428338991" MODIFIED="1433623298794" STYLE="fork" TEXT="~ minor">
-<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1397940420354" ID="ID_1664722782" LINK="http://www.sgi.com/products/software/irix/" MODIFIED="1402142117636" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>IRIX</b>&#xa0;1988 <font color="#fa0000">US </font>
-    </p>
-    <p>
-      [<font color="#3296fa">Silicon Graphics</font>]
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1398718466877" FOLDED="true" ID="ID_1090847433" MODIFIED="1429355991282">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -27090,7 +27104,7 @@
 <node CREATED="1402141205374" ID="ID_813072139" MODIFIED="1402141207213" TEXT="Douglas Comer"/>
 </node>
 </node>
-<node CREATED="1407669876242" FOLDED="true" ID="ID_935470694" MODIFIED="1429355991283">
+<node CREATED="1407669876242" FOLDED="true" ID="ID_935470694" MODIFIED="1436566227335">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27108,7 +27122,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399812359681" ID="ID_531095719" MODIFIED="1436095000181" POSITION="left">
+<node CREATED="1399812359681" FOLDED="true" ID="ID_531095719" MODIFIED="1436563968971" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27147,8 +27161,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Oracle</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1403818878177" ID="ID_308239483" LINK="https://www.virtualbox.org/wiki/Downloads" MODIFIED="1436131523968">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -27178,8 +27191,7 @@
       For a thorough introduction to virtualization and VirtualBox, please refer to the online version of the VirtualBox User Manual's first chapter.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -27422,7 +27434,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1411229895646" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1436095192386">
+<node CREATED="1411229895646" FOLDED="true" ID="ID_1045713979" LINK="http://libvirt.org/" MODIFIED="1436563967857">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27496,7 +27508,7 @@
 <node CREATED="1399812413264" ID="ID_283358338" MODIFIED="1399812416527" TEXT="Sun xVM"/>
 <node CREATED="1411162283756" ID="ID_1104557325" MODIFIED="1411162285471" TEXT="UML"/>
 <node CREATED="1399812405280" ID="ID_661350637" MODIFIED="1399812412847" TEXT="Virtual iron"/>
-<node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1436001048435">
+<node CREATED="1420935798751" ID="ID_1310245515" LINK="http://virt-manager.org/" MODIFIED="1436478604878">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -27515,8 +27527,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Red Hat</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -27573,8 +27584,7 @@
       Vagrant
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1401313421636" FOLDED="true" ID="ID_149771912" MODIFIED="1435004750019" POSITION="left">
@@ -27908,23 +27918,56 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402147376323" FOLDED="true" ID="ID_535904853" MODIFIED="1433623314915" POSITION="left" TEXT="routers">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402007897950" ID="ID_807651608" LINK="http://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-technologies/index.html" MODIFIED="1402008046004" TEXT="Cisco IOS"/>
-<node CREATED="1398565571403" FOLDED="true" ID="ID_45479330" LINK="http://www.juniper.net/us/en/products-services/nos/junos/" MODIFIED="1429355991287" STYLE="fork">
+<node CREATED="1402147376323" ID="ID_535904853" MODIFIED="1436565065132" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Junos</b>&#xa0;1998 <font color="#fa0000">US</font>
+      routers <img src="../icons/router.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1402007897950" ID="ID_807651608" LINK="http://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-technologies/index.html" MODIFIED="1436564772047">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>IOS</b>
+    </p>
+    <p>
+      <font size="2">Internetwork OS </font>
+    </p>
+    <p>
+      <font size="2">[ </font><font size="2" color="#3296fa">Cisco</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1398565571403" FOLDED="true" ID="ID_45479330" LINK="http://www.juniper.net/us/en/products-services/nos/junos/" MODIFIED="1436564751520" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Junos </b>
+    </p>
+    <p>
+      1998 <font color="#fa0000">US</font>
     </p>
     <p>
       [<font color="#3296fa">Juniper Networks</font>]
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1403909458546" ID="ID_399361958" LINK="#ID_507558849" MODIFIED="1403909483013" TEXT="Derived from  FreeBSD">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>

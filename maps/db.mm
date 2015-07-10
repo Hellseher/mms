@@ -32,10 +32,10 @@
       <font color="#3296fa"><i>Alexei Vladishev</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
+<node CREATED="1436478906614" ID="ID_1574381288" MODIFIED="1436478911809" POSITION="right" TEXT="Couchbase "/>
 <node CREATED="1433609050449" ID="ID_258575042" LINK="https://www.mysql.com/" MODIFIED="1435525550891" POSITION="right" TEXT="MySQL"/>
 <node CREATED="1435616985387" ID="ID_5967700" MODIFIED="1435616997033" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
@@ -47,8 +47,7 @@
       Semantic query
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435617093945" ID="ID_196706096" MODIFIED="1435617099482" POSITION="right" TEXT="Graph DB">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -68,8 +67,7 @@
       <font size="2">GPL | Java</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435617692497" ID="ID_1439706174" MODIFIED="1435617697830" TEXT="info">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -80,8 +78,7 @@
       A highly scalable open source graph database that supports ACID, has high-availability clustering for enterprise deployments, and comes with a web-based administration tool that includes full transaction support and visual node-link graph explorer. Neo4j is accessible from most programming languages using its built-in REST web API interface. Neo4j is the most popular graph database in use today.[8]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1435617881886" ID="ID_715504986" LINK="http://www.zabbix.com/" MODIFIED="1435617906355">
@@ -94,8 +91,7 @@
       <img src="../icons/github.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -152,8 +148,7 @@
       <font size="2">Apache 2 | Java</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

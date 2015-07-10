@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1435684574028">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1436478604317">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -72,35 +72,219 @@
 <node CREATED="1399851555466" ID="ID_1584953736" MODIFIED="1399851558280" TEXT="Win32s"/>
 <node CREATED="1399851560058" ID="ID_415377549" MODIFIED="1399851564057" TEXT="Win64"/>
 </node>
-<node CREATED="1420241736096" FOLDED="true" ID="ID_487791167" MODIFIED="1435525521140" POSITION="right" TEXT="Families ">
+<node CREATED="1420241736096" FOLDED="true" ID="ID_487791167" MODIFIED="1436564436890" POSITION="right" TEXT="Families ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417279334489" ID="ID_693855860" MODIFIED="1434572686595" TEXT="Markup language">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417279352665" FOLDED="true" ID="ID_575866232" MODIFIED="1429311483943" TEXT="HTML">
-<node CREATED="1417279619380" ID="ID_1210723804" LINK="http://haml.info/" MODIFIED="1417279673287" TEXT="Haml"/>
-</node>
-<node CREATED="1417279718258" ID="ID_712962039" MODIFIED="1417279720752" TEXT="XHTML"/>
-<node CREATED="1417279750898" ID="ID_716547617" MODIFIED="1417279755455" TEXT="SVG"/>
-<node CREATED="1417279768754" ID="ID_222729930" MODIFIED="1417279770511" TEXT="XUL"/>
-<node CREATED="1417279370024" FOLDED="true" ID="ID_929110489" MODIFIED="1429311483943" TEXT="SGML">
-<node CREATED="1417279391128" ID="ID_396669841" MODIFIED="1417279436648">
+<node CREATED="1414184653132" FOLDED="true" ID="ID_175252723" LINK="http://hacklang.org/" MODIFIED="1429311483952">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>XML</b>
+      <b>hack </b><img src="../icons/hacklang.png" />
     </p>
     <p>
-      1998
+      [ <font color="#3296fa">facebook</font>&#160;]
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223148487" ID="ID_1285929834" MODIFIED="1414223276581" TEXT="&gt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" SOURCE="ID_1491081924" STARTARROW="None" STARTINCLINATION="458;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="544;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="789;0;"/>
+</node>
+</node>
+<node CREATED="1399831298187" FOLDED="true" ID="ID_80709921" MODIFIED="1429311483952">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Limbo</b>
+    </p>
+    <p>
+      1995
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1402184349896" FOLDED="true" ID="ID_1419902224" MODIFIED="1429311483952">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/people.png" />
+      &#160;people
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#3296fa" CREATED="1413826635289" ID="ID_82045966" LINK="http://herpolhode.com/rob/" MODIFIED="1414223575496" TEXT="Rob Pike">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1414223749485" ID="ID_20110829" MODIFIED="1414223782718" STYLE="fork" TEXT="Sean Dorward">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1414223754973" ID="ID_1817433885" MODIFIED="1414223782715" STYLE="fork" TEXT="Phil Winterbottom">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1399824675594" ID="ID_556164453" MODIFIED="1399824677943" TEXT="BASIC"/>
+<node CREATED="1399824712281" FOLDED="true" ID="ID_286246793" MODIFIED="1436564423498" TEXT="Asembler">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1403907731100" ID="ID_1836967640" LINK="http://flatassembler.net/" MODIFIED="1403907922809">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>fasm </b>
+    </p>
+    <p>
+      1999 <font color="#fa0000">PL</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Tomasz Grysztar </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">a.k.a. Privalov</font></i>
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1400090034610" ID="ID_365678118" MODIFIED="1400090035954" TEXT="Alef"/>
+<node CREATED="1411231254008" ID="ID_1454215732" LINK="http://caml.inria.fr/" MODIFIED="1411231265727" TEXT="Caml"/>
+<node CREATED="1401918350479" ID="ID_509329743" MODIFIED="1401918356320" TEXT="CoffeScript"/>
+<node CREATED="1399828679998" ID="ID_716278565" MODIFIED="1399828684156" TEXT="OpenStep"/>
+<node CREATED="1399915894165" FOLDED="true" ID="ID_1945064632" MODIFIED="1429311483953">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Prolog</b>
+    </p>
+    <p>
+      1972 <font color="#fa0000">FR</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Alain Comerauer</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223237446" ID="ID_909720635" MODIFIED="1421534770959" TEXT="&gt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" STARTARROW="None" STARTINCLINATION="370;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" STARTARROW="None" STARTINCLINATION="264;0;"/>
 </node>
-<node CREATED="1416423580002" FOLDED="true" ID="ID_1728030669" MODIFIED="1435339861555" TEXT="Compiled">
+<node CREATED="1414223239349" ID="ID_819437184" MODIFIED="1414223240258" TEXT="&lt;"/>
+</node>
+<node CREATED="1400090039778" ID="ID_1483966976" MODIFIED="1400090041378" TEXT="Vala"/>
+<node CREATED="1399824707146" ID="ID_757291439" MODIFIED="1399824711768" TEXT="SNOBOL"/>
+<node CREATED="1399915873334" FOLDED="true" ID="ID_401023813" MODIFIED="1429311483953">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Go!</b>&#160;
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <i><font color="#3296fa">Francis McCabe </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">Keith Clark</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223133879" ID="ID_918647012" MODIFIED="1414223248661" TEXT="&lt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="370;0;"/>
+</node>
+<node CREATED="1414223136119" ID="ID_765649329" MODIFIED="1414223137124" TEXT="&gt;"/>
+</node>
+<node CREATED="1414797714275" ID="ID_1852875123" MODIFIED="1414797720928" TEXT="Datalog"/>
+<node CREATED="1418257397068" FOLDED="true" ID="ID_1945727541" MODIFIED="1429311483953" TEXT="HyperTalk">
+<node CREATED="1418257404796" ID="ID_524077208" MODIFIED="1418257415021" TEXT="&gt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" STARTARROW="None" STARTINCLINATION="1282;0;"/>
+</node>
+<node CREATED="1418257406140" ID="ID_307838912" MODIFIED="1418257406729" TEXT="&lt;"/>
+</node>
+<node CREATED="1427321228049" ID="ID_1236310478" MODIFIED="1427321349400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Scala </b><img src="../icons/scala.png" />
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <i><font color="#3296fa">Martin Odersky</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1432679026846" ID="ID_718746171" MODIFIED="1432679041532">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ML</b>
+    </p>
+    <p>
+      1973
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1432679042334" ID="ID_1134287192" MODIFIED="1432679091754">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>F# </b><img src="../icons/f_sharp.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1432981745556" ID="ID_19907479" LINK="http://groovy-lang.org/" MODIFIED="1432981811328">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Groovy</b>
+    </p>
+    <p>
+      2003
+    </p>
+    <p>
+      <font size="2" color="#3296fa"><i>James Strachan</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1416423580002" FOLDED="true" ID="ID_1728030669" MODIFIED="1435339861555" POSITION="right" TEXT="Compiled">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414972454263" ID="ID_255010547" LINK="http://www.rust-lang.org/" MODIFIED="1414972547910">
 <richcontent TYPE="NODE"><html>
@@ -165,10 +349,10 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_27482317" STARTARROW="None" STARTINCLINATION="96;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1764151906" ENDARROW="Default" ENDINCLINATION="191;0;" ID="Arrow_ID_91180816" STARTARROW="None" STARTINCLINATION="191;0;"/>
 <arrowlink COLOR="#969696" DESTINATION="ID_905758910" ENDARROW="Default" ENDINCLINATION="395;-59;" ID="Arrow_ID_1508489523" STARTARROW="None" STARTINCLINATION="83;-50;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" STARTARROW="None" STARTINCLINATION="789;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" STARTARROW="None" STARTINCLINATION="548;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" STARTARROW="None" STARTINCLINATION="347;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="313;0;" ID="Arrow_ID_469403593" STARTARROW="None" STARTINCLINATION="313;0;"/>
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" STARTARROW="None" STARTINCLINATION="789;0;"/>
 </node>
 <node CREATED="1414223077832" ID="ID_131686982" MODIFIED="1414223100040" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_131686982" ENDARROW="Default" ENDINCLINATION="427;0;" ID="Arrow_ID_1734129943" SOURCE="ID_1361491213" STARTARROW="None" STARTINCLINATION="427;0;"/>
@@ -192,12 +376,12 @@
 </html></richcontent>
 <node CREATED="1416423009806" ID="ID_1270103190" MODIFIED="1416423621948" TEXT="&lt;">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_27482317" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="96;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="47;0;" ID="Arrow_ID_940786165" SOURCE="ID_876225156" STARTARROW="None" STARTINCLINATION="47;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="178;0;" ID="Arrow_ID_340704962" SOURCE="ID_889756015" STARTARROW="None" STARTINCLINATION="178;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="302;0;" ID="Arrow_ID_902479924" SOURCE="ID_13288565" STARTARROW="None" STARTINCLINATION="302;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="275;0;" ID="Arrow_ID_1794232383" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="275;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="599;0;" ID="Arrow_ID_186797040" SOURCE="ID_1474263539" STARTARROW="None" STARTINCLINATION="599;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="657;0;" ID="Arrow_ID_814538951" SOURCE="ID_1910869910" STARTARROW="None" STARTINCLINATION="657;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="47;0;" ID="Arrow_ID_940786165" SOURCE="ID_876225156" STARTARROW="None" STARTINCLINATION="47;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="178;0;" ID="Arrow_ID_340704962" SOURCE="ID_889756015" STARTARROW="None" STARTINCLINATION="178;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="302;0;" ID="Arrow_ID_902479924" SOURCE="ID_13288565" STARTARROW="None" STARTINCLINATION="302;0;"/>
 </node>
 <node CREATED="1416423011611" ID="ID_1556397866" MODIFIED="1416423012313" TEXT="&gt;"/>
 <node CREATED="1401832109000" FOLDED="true" ID="ID_1985472245" MODIFIED="1429311483944">
@@ -535,8 +719,8 @@
   </body>
 </html></richcontent>
 <node CREATED="1414790088090" ID="ID_1076606841" MODIFIED="1421534770959" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" SOURCE="ID_1168675224" STARTARROW="None" STARTINCLINATION="82;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="264;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" SOURCE="ID_1168675224" STARTARROW="None" STARTINCLINATION="82;0;"/>
 </node>
 <node CREATED="1414790090282" ID="ID_1546611264" MODIFIED="1414790091031" TEXT="&gt;"/>
 <node CREATED="1421534717827" ID="ID_152636690" MODIFIED="1430161550656">
@@ -597,7 +781,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1434572837679" FOLDED="true" ID="ID_266356112" MODIFIED="1435339859212" TEXT="P-code">
+<node CREATED="1434572837679" FOLDED="true" ID="ID_266356112" MODIFIED="1436564438242" POSITION="right" TEXT="P-code">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#000000" CREATED="1399824632442" FOLDED="true" ID="ID_384840071" LINK="http://java.com/en/" MODIFIED="1429311483946">
 <richcontent TYPE="NODE"><html>
@@ -617,9 +801,9 @@
   </body>
 </html></richcontent>
 <node CREATED="1414223170390" ID="ID_311815872" MODIFIED="1416423327943" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="275;0;" ID="Arrow_ID_1794232383" STARTARROW="None" STARTINCLINATION="275;0;"/>
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" STARTARROW="None" STARTINCLINATION="212;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" STARTARROW="None" STARTINCLINATION="544;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" STARTARROW="None" STARTINCLINATION="212;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="275;0;" ID="Arrow_ID_1794232383" STARTARROW="None" STARTINCLINATION="275;0;"/>
 </node>
 <node CREATED="1414223172630" ID="ID_457272363" MODIFIED="1414223173939" TEXT="&lt;"/>
 </node>
@@ -642,7 +826,7 @@
 </html></richcontent>
 <node CREATED="1416423331270" ID="ID_468643822" MODIFIED="1416423332195" TEXT="&lt;"/>
 <node CREATED="1416423332534" ID="ID_1474263539" MODIFIED="1418257356030" TEXT="&gt;">
-<arrowlink DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_497293378" STARTARROW="None" STARTINCLINATION="175;0;"/>
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_497293378" STARTARROW="None" STARTINCLINATION="175;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="599;0;" ID="Arrow_ID_186797040" STARTARROW="None" STARTINCLINATION="599;0;"/>
 </node>
 </node>
@@ -669,539 +853,30 @@
 </node>
 </node>
 </node>
-<node CREATED="1416423396294" FOLDED="true" ID="ID_1627802312" MODIFIED="1435340158102">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Dynamic
-    </p>
-    <p>
-      Interpreted
-    </p>
-    <p>
-      Interactive
-    </p>
-  </body>
-</html></richcontent>
+<node CREATED="1417279334489" FOLDED="true" ID="ID_693855860" MODIFIED="1436564441098" POSITION="right" TEXT="Markup language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399824637546" FOLDED="true" ID="ID_1685394417" LINK="http://php.net/" MODIFIED="1432327855969">
+<node CREATED="1417279352665" FOLDED="true" ID="ID_575866232" MODIFIED="1429311483943" TEXT="HTML">
+<node CREATED="1417279619380" ID="ID_1210723804" LINK="http://haml.info/" MODIFIED="1417279673287" TEXT="Haml"/>
+</node>
+<node CREATED="1417279718258" ID="ID_712962039" MODIFIED="1417279720752" TEXT="XHTML"/>
+<node CREATED="1417279750898" ID="ID_716547617" MODIFIED="1417279755455" TEXT="SVG"/>
+<node CREATED="1417279768754" ID="ID_222729930" MODIFIED="1417279770511" TEXT="XUL"/>
+<node CREATED="1417279370024" FOLDED="true" ID="ID_929110489" MODIFIED="1429311483943" TEXT="SGML">
+<node CREATED="1417279391128" ID="ID_396669841" MODIFIED="1417279436648">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>PHP </b><img src="../icons/php.png" />
+      <b>XML</b>
     </p>
     <p>
-      1995
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Rasmus Lerdorf</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223115416" ID="ID_297107521" MODIFIED="1414223324612" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="548;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="212;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_868409279" SOURCE="ID_867478545" STARTARROW="None" STARTINCLINATION="473;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="437;0;" ID="Arrow_ID_505662110" SOURCE="ID_24764778" STARTARROW="None" STARTINCLINATION="437;0;"/>
-</node>
-<node CREATED="1414223268213" ID="ID_1491081924" MODIFIED="1414223276582" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" STARTARROW="None" STARTINCLINATION="458;0;"/>
-</node>
-<node CREATED="1398707062277" FOLDED="true" ID="ID_186119687" MODIFIED="1429311483949">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/version_history.png" />
-      &#160;<b>Version history</b>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414629479957" ID="ID_1946059570" MODIFIED="1414629482578" TEXT="5.4"/>
-</node>
-</node>
-<node CREATED="1416423430293" FOLDED="true" ID="ID_1932605362" MODIFIED="1432328082614">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>JavaScript</b>
-    </p>
-    <p>
-      1995
-    </p>
-    <p>
-      <i><font size="2" color="#3296fa">Brendan Eich</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1418257326877" ID="ID_549111796" MODIFIED="1418257328042" TEXT="&gt;"/>
-<node CREATED="1418257328461" ID="ID_1796491976" MODIFIED="1418257415021" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="347;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_497293378" SOURCE="ID_1474263539" STARTARROW="None" STARTINCLINATION="175;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="240;0;" ID="Arrow_ID_917214609" SOURCE="ID_664418335" STARTARROW="None" STARTINCLINATION="240;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" SOURCE="ID_524077208" STARTARROW="None" STARTINCLINATION="1282;0;"/>
-</node>
-</node>
-<node CREATED="1432328112280" ID="ID_1477545368" LINK="http://www.selflanguage.org/" MODIFIED="1432328131198" TEXT="Self">
-<node CREATED="1432328158168" ID="ID_1930193664" LINK="https://github.com/russellallen/self" MODIFIED="1432328184468">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
+      1998
     </p>
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1414790136105" FOLDED="true" ID="ID_1098741507" MODIFIED="1432328135674" TEXT="Smalltalk">
-<node CREATED="1414790141834" ID="ID_437105609" MODIFIED="1414790143015" TEXT="&lt;"/>
-<node CREATED="1414790143353" ID="ID_1168675224" MODIFIED="1414790176730" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" STARTARROW="None" STARTINCLINATION="82;0;"/>
-</node>
-</node>
-<node CREATED="1399824602570" FOLDED="true" ID="ID_697178098" LINK="http://www.lua.org/" MODIFIED="1429311483950" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Lua </b><img src="../icons/lua.png" />
-    </p>
-    <p>
-      1993
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_564732538" MODIFIED="1429311483950">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/people.png"/>
-      &#xa0;people
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#3296fa" CREATED="1414797787386" ID="ID_925831806" MODIFIED="1417297741164" TEXT="Roberto Lerusalimschy">
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1414797791239" ID="ID_1837385079" MODIFIED="1417297741165" TEXT="Waldemar Cales">
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1414797795114" ID="ID_1405936895" MODIFIED="1417297741165" TEXT="Luiz Henrique de Figueiredo">
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-</node>
-<node CREATED="1412968653109" FOLDED="true" ID="ID_1821443437" LINK="http://www.tcl.tk/" MODIFIED="1429311483950">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Tcl</b>
-    </p>
-    <p>
-      1988
-    </p>
-    <p>
-      <i><font color="#3296fa">John Ousterhout</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223289988" ID="ID_867478545" MODIFIED="1414223295749" TEXT="&lt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_868409279" STARTARROW="None" STARTINCLINATION="473;0;"/>
-</node>
-</node>
-<node CREATED="1416423534819" ID="ID_670286796" MODIFIED="1416423538544" TEXT="VBScript"/>
-<node CREATED="1416423554819" ID="ID_575577858" MODIFIED="1416423562144" TEXT="Powershell"/>
-<node CREATED="1399828752717" FOLDED="true" ID="ID_1538929268" LINK="http://www.perl.org/" MODIFIED="1429311483950">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Perl</b>&#160;<img src="../icons/perl.png" />
-    </p>
-    <p>
-      1987
-    </p>
-    <p>
-      <i><font color="#3296fa">Larry Wall</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1411075669503" ID="ID_1679284755" LINK="http://perl6.org/" MODIFIED="1411075681108" TEXT="Perl 6"/>
-<node CREATED="1414223313220" ID="ID_24764778" MODIFIED="1414223324613" TEXT="&lt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="437;0;" ID="Arrow_ID_505662110" STARTARROW="None" STARTINCLINATION="437;0;"/>
-</node>
-<node CREATED="1414223314836" ID="ID_343873166" MODIFIED="1414223315697" TEXT="&gt;"/>
-</node>
-<node CREATED="1411075641153" FOLDED="true" ID="ID_325723000" MODIFIED="1429311483951">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>AWK</b>
-    </p>
-    <p>
-      1977
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1418257376173" ID="ID_664418335" MODIFIED="1418257382381" TEXT="&gt;">
-<arrowlink DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="240;0;" ID="Arrow_ID_917214609" STARTARROW="None" STARTINCLINATION="240;0;"/>
-</node>
-<node CREATED="1418257377644" ID="ID_1880139067" MODIFIED="1418257648137" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="313;0;" ID="Arrow_ID_469403593" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="313;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="160;0;" ID="Arrow_ID_1987053486" SOURCE="ID_1402657594" STARTARROW="None" STARTINCLINATION="160;0;"/>
-</node>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_1825920134" MODIFIED="1429311483950">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/people.png" />
-      &#160;people
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#3296fa" CREATED="1418257502226" ID="ID_769595213" MODIFIED="1418257535977" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Alfred Aho
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1418257507316" ID="ID_1358057659" MODIFIED="1418257539097" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Peter Weinberger
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1418257510677" ID="ID_20401162" MODIFIED="1418257541510" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Brian Kernighan
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-<node COLOR="#329632" CREATED="1418257559722" FOLDED="true" ID="ID_2148149" MODIFIED="1429311483951" STYLE="fork" TEXT="AWK-dialects">
-<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1418257577194" ID="ID_293045701" MODIFIED="1418257588375" TEXT="oawk"/>
-<node CREATED="1418257588713" ID="ID_1873742732" MODIFIED="1418257609014" TEXT="nawk"/>
-<node CREATED="1418257601657" ID="ID_447086136" MODIFIED="1418257605174" TEXT="gawk"/>
-</node>
-</node>
-<node CREATED="1418257621736" FOLDED="true" ID="ID_1477173416" MODIFIED="1434572946495" TEXT="Bourne shell">
-<node CREATED="1418257628632" ID="ID_1402657594" MODIFIED="1418257638217" TEXT="&gt;">
-<arrowlink DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="160;0;" ID="Arrow_ID_1987053486" STARTARROW="None" STARTINCLINATION="160;0;"/>
-</node>
-<node CREATED="1418257629816" ID="ID_1887383149" MODIFIED="1418257630693" TEXT="&lt;"/>
-</node>
-</node>
-<node CREATED="1421534565960" FOLDED="true" ID="ID_889872299" MODIFIED="1430161632693" TEXT="Style languages">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1421534575333" ID="ID_1803572317" MODIFIED="1421534576738" TEXT="CSS"/>
-<node CREATED="1421534940671" ID="ID_1372240228" MODIFIED="1421534945116" TEXT="DSSSL"/>
-<node CREATED="1421534946079" ID="ID_1492280276" MODIFIED="1421534948317" TEXT="XSL"/>
-<node CREATED="1421534949055" ID="ID_651855872" MODIFIED="1421534951436" TEXT="JSSSS"/>
-<node CREATED="1421534952415" ID="ID_405513839" MODIFIED="1421534954268" TEXT="FOSI"/>
-<node CREATED="1421534954815" ID="ID_680778780" MODIFIED="1421534956637" TEXT="Qt"/>
-<node CREATED="1421534957855" ID="ID_541347261" MODIFIED="1421534960060" TEXT="Sass"/>
-<node CREATED="1421534960974" ID="ID_1940669345" MODIFIED="1421534962668" TEXT="Less"/>
-<node CREATED="1421534963167" ID="ID_697181391" MODIFIED="1421534965532" TEXT="Stylus"/>
-<node CREATED="1421534966734" ID="ID_1244818961" MODIFIED="1421534968204" TEXT="SMIL"/>
-<node CREATED="1421534968670" ID="ID_1822641768" MODIFIED="1421534972060" TEXT="Timesheets"/>
-<node CREATED="1417279278652" FOLDED="true" ID="ID_732710113" LINK="http://yaml.org/" MODIFIED="1429311483951">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>YAML</b>
-    </p>
-    <p>
-      2001
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1415833681127" ID="ID_900024353" LINK="http://json.org/" MODIFIED="1417289463418">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>JSON </b><img src="../icons/json.png" />
-    </p>
-    <p>
-      <i><font color="#3296fa">Douglas Crockford</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1414184653132" FOLDED="true" ID="ID_175252723" LINK="http://hacklang.org/" MODIFIED="1429311483952">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>hack </b><img src="../icons/hacklang.png" />
-    </p>
-    <p>
-      [ <font color="#3296fa">facebook</font>&#160;]
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223148487" ID="ID_1285929834" MODIFIED="1414223276581" TEXT="&gt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="789;0;" ID="Arrow_ID_1362176227" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="789;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="544;0;" ID="Arrow_ID_493441292" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="544;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" SOURCE="ID_1491081924" STARTARROW="None" STARTINCLINATION="458;0;"/>
-</node>
-</node>
-<node CREATED="1399831298187" FOLDED="true" ID="ID_80709921" MODIFIED="1429311483952">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Limbo</b>
-    </p>
-    <p>
-      1995
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_1419902224" MODIFIED="1429311483952">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/people.png" />
-      &#160;people
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#3296fa" CREATED="1413826635289" ID="ID_82045966" LINK="http://herpolhode.com/rob/" MODIFIED="1414223575496" TEXT="Rob Pike">
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1414223749485" ID="ID_20110829" MODIFIED="1414223782718" STYLE="fork" TEXT="Sean Dorward">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node COLOR="#3296fa" CREATED="1414223754973" ID="ID_1817433885" MODIFIED="1414223782715" STYLE="fork" TEXT="Phil Winterbottom">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-</node>
-<node CREATED="1399824675594" ID="ID_556164453" MODIFIED="1399824677943" TEXT="BASIC"/>
-<node CREATED="1399824712281" FOLDED="true" ID="ID_286246793" MODIFIED="1429311483953" TEXT="Asembler">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1403907731100" ID="ID_1836967640" LINK="http://flatassembler.net/" MODIFIED="1403907922809">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>fasm </b>
-    </p>
-    <p>
-      1999 <font color="#fa0000">PL</font>
-    </p>
-    <p>
-      <i><font color="#3296fa">Tomasz Grysztar </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">a.k.a. Privalov</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1400090034610" ID="ID_365678118" MODIFIED="1400090035954" TEXT="Alef"/>
-<node CREATED="1411231254008" ID="ID_1454215732" LINK="http://caml.inria.fr/" MODIFIED="1411231265727" TEXT="Caml"/>
-<node CREATED="1401918350479" ID="ID_509329743" MODIFIED="1401918356320" TEXT="CoffeScript"/>
-<node CREATED="1399828679998" ID="ID_716278565" MODIFIED="1399828684156" TEXT="OpenStep"/>
-<node CREATED="1399915894165" FOLDED="true" ID="ID_1945064632" MODIFIED="1429311483953">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Prolog</b>
-    </p>
-    <p>
-      1972 <font color="#fa0000">FR</font>
-    </p>
-    <p>
-      <i><font color="#3296fa">Alain Comerauer</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223237446" ID="ID_909720635" MODIFIED="1421534770959" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="264;0;" ID="Arrow_ID_850133215" STARTARROW="None" STARTINCLINATION="264;0;"/>
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" STARTARROW="None" STARTINCLINATION="370;0;"/>
-</node>
-<node CREATED="1414223239349" ID="ID_819437184" MODIFIED="1414223240258" TEXT="&lt;"/>
-</node>
-<node CREATED="1400090039778" ID="ID_1483966976" MODIFIED="1400090041378" TEXT="Vala"/>
-<node CREATED="1399824707146" ID="ID_757291439" MODIFIED="1399824711768" TEXT="SNOBOL"/>
-<node CREATED="1399915873334" FOLDED="true" ID="ID_401023813" MODIFIED="1429311483953">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Go!</b>&#160;
-    </p>
-    <p>
-      2003
-    </p>
-    <p>
-      <i><font color="#3296fa">Francis McCabe </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">Keith Clark</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1414223133879" ID="ID_918647012" MODIFIED="1414223248661" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_918647012" ENDARROW="Default" ENDINCLINATION="370;0;" ID="Arrow_ID_1903730914" SOURCE="ID_909720635" STARTARROW="None" STARTINCLINATION="370;0;"/>
-</node>
-<node CREATED="1414223136119" ID="ID_765649329" MODIFIED="1414223137124" TEXT="&gt;"/>
-</node>
-<node CREATED="1414797714275" ID="ID_1852875123" MODIFIED="1414797720928" TEXT="Datalog"/>
-<node CREATED="1418257397068" FOLDED="true" ID="ID_1945727541" MODIFIED="1429311483953" TEXT="HyperTalk">
-<node CREATED="1418257404796" ID="ID_524077208" MODIFIED="1418257415021" TEXT="&gt;">
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" STARTARROW="None" STARTINCLINATION="1282;0;"/>
-</node>
-<node CREATED="1418257406140" ID="ID_307838912" MODIFIED="1418257406729" TEXT="&lt;"/>
-</node>
-<node CREATED="1427321228049" ID="ID_1236310478" MODIFIED="1427321349400">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Scala </b><img src="../icons/scala.png" />
-    </p>
-    <p>
-      2003
-    </p>
-    <p>
-      <i><font color="#3296fa">Martin Odersky</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1432679026846" ID="ID_718746171" MODIFIED="1432679041532">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>ML</b>
-    </p>
-    <p>
-      1973
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1432679042334" ID="ID_1134287192" MODIFIED="1432679091754">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>F# </b><img src="../icons/f_sharp.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1432981745556" ID="ID_19907479" LINK="http://groovy-lang.org/" MODIFIED="1432981811328">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Groovy</b>
-    </p>
-    <p>
-      2003
-    </p>
-    <p>
-      <font size="2" color="#3296fa"><i>James Strachan</i></font>
-    </p>
-  </body>
-</html></richcontent>
 </node>
 </node>
 <node CREATED="1417986585330" FOLDED="true" ID="ID_370572784" MODIFIED="1432327790448" POSITION="right" TEXT="Components">
@@ -1320,6 +995,332 @@
 <node CREATED="1426978620777" ID="ID_1983959118" MODIFIED="1426978623285" TEXT="def"/>
 <node CREATED="1426978623666" ID="ID_1987592671" MODIFIED="1426978626197" TEXT="defun"/>
 <node CREATED="1426978626568" ID="ID_1878644229" MODIFIED="1426978634325" TEXT="defn"/>
+</node>
+</node>
+<node CREATED="1421534565960" FOLDED="true" ID="ID_889872299" MODIFIED="1430161632693" POSITION="right" TEXT="Style languages">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1421534575333" ID="ID_1803572317" MODIFIED="1421534576738" TEXT="CSS"/>
+<node CREATED="1421534940671" ID="ID_1372240228" MODIFIED="1421534945116" TEXT="DSSSL"/>
+<node CREATED="1421534946079" ID="ID_1492280276" MODIFIED="1421534948317" TEXT="XSL"/>
+<node CREATED="1421534949055" ID="ID_651855872" MODIFIED="1421534951436" TEXT="JSSSS"/>
+<node CREATED="1421534952415" ID="ID_405513839" MODIFIED="1421534954268" TEXT="FOSI"/>
+<node CREATED="1421534954815" ID="ID_680778780" MODIFIED="1421534956637" TEXT="Qt"/>
+<node CREATED="1421534957855" ID="ID_541347261" MODIFIED="1421534960060" TEXT="Sass"/>
+<node CREATED="1421534960974" ID="ID_1940669345" MODIFIED="1421534962668" TEXT="Less"/>
+<node CREATED="1421534963167" ID="ID_697181391" MODIFIED="1421534965532" TEXT="Stylus"/>
+<node CREATED="1421534966734" ID="ID_1244818961" MODIFIED="1421534968204" TEXT="SMIL"/>
+<node CREATED="1421534968670" ID="ID_1822641768" MODIFIED="1421534972060" TEXT="Timesheets"/>
+<node CREATED="1417279278652" FOLDED="true" ID="ID_732710113" LINK="http://yaml.org/" MODIFIED="1429311483951">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>YAML</b>
+    </p>
+    <p>
+      2001
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1415833681127" ID="ID_900024353" LINK="http://json.org/" MODIFIED="1417289463418">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>JSON </b><img src="../icons/json.png" />
+    </p>
+    <p>
+      <i><font color="#3296fa">Douglas Crockford</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1416423396294" ID="ID_1627802312" MODIFIED="1436564469723" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Dynamic</b>
+    </p>
+    <p>
+      <font size="2">Interpreted </font>
+    </p>
+    <p>
+      <font size="2">Interactive</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1399824637546" FOLDED="true" ID="ID_1685394417" LINK="http://php.net/" MODIFIED="1432327855969">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>PHP </b><img src="../icons/php.png" />
+    </p>
+    <p>
+      1995
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Rasmus Lerdorf</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223115416" ID="ID_297107521" MODIFIED="1414223324612" TEXT="&lt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_868409279" SOURCE="ID_867478545" STARTARROW="None" STARTINCLINATION="473;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="437;0;" ID="Arrow_ID_505662110" SOURCE="ID_24764778" STARTARROW="None" STARTINCLINATION="437;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="212;0;" ID="Arrow_ID_603574307" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="212;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="548;0;" ID="Arrow_ID_1616628791" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="548;0;"/>
+</node>
+<node CREATED="1414223268213" ID="ID_1491081924" MODIFIED="1414223276582" TEXT="&gt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1285929834" ENDARROW="Default" ENDINCLINATION="458;0;" ID="Arrow_ID_1571529633" STARTARROW="None" STARTINCLINATION="458;0;"/>
+</node>
+<node CREATED="1398707062277" FOLDED="true" ID="ID_186119687" MODIFIED="1429311483949">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/version_history.png" />
+      &#160;<b>Version history</b>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1414629479957" ID="ID_1946059570" MODIFIED="1414629482578" TEXT="5.4"/>
+</node>
+</node>
+<node CREATED="1416423430293" FOLDED="true" ID="ID_1932605362" MODIFIED="1432328082614">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>JavaScript</b>
+    </p>
+    <p>
+      1995
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">Brendan Eich</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1418257326877" ID="ID_549111796" MODIFIED="1418257328042" TEXT="&gt;"/>
+<node CREATED="1418257328461" ID="ID_1796491976" MODIFIED="1418257415021" TEXT="&lt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="1282;0;" ID="Arrow_ID_1152559928" SOURCE="ID_524077208" STARTARROW="None" STARTINCLINATION="1282;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="240;0;" ID="Arrow_ID_917214609" SOURCE="ID_664418335" STARTARROW="None" STARTINCLINATION="240;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="175;0;" ID="Arrow_ID_497293378" SOURCE="ID_1474263539" STARTARROW="None" STARTINCLINATION="175;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="347;0;" ID="Arrow_ID_1575356107" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="347;0;"/>
+</node>
+</node>
+<node CREATED="1432328112280" ID="ID_1477545368" LINK="http://www.selflanguage.org/" MODIFIED="1432328131198" TEXT="Self">
+<node CREATED="1432328158168" ID="ID_1930193664" LINK="https://github.com/russellallen/self" MODIFIED="1432328184468">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/github.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1414790136105" FOLDED="true" ID="ID_1098741507" MODIFIED="1432328135674" TEXT="Smalltalk">
+<node CREATED="1414790141834" ID="ID_437105609" MODIFIED="1414790143015" TEXT="&lt;"/>
+<node CREATED="1414790143353" ID="ID_1168675224" MODIFIED="1414790176730" TEXT="&gt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1076606841" ENDARROW="Default" ENDINCLINATION="82;0;" ID="Arrow_ID_1634764034" STARTARROW="None" STARTINCLINATION="82;0;"/>
+</node>
+</node>
+<node CREATED="1399824602570" FOLDED="true" ID="ID_697178098" LINK="http://www.lua.org/" MODIFIED="1429311483950" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Lua </b><img src="../icons/lua.png" />
+    </p>
+    <p>
+      1993
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1402184349896" FOLDED="true" ID="ID_564732538" MODIFIED="1429311483950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/people.png"/>
+      &#xa0;people
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#3296fa" CREATED="1414797787386" ID="ID_925831806" MODIFIED="1417297741164" TEXT="Roberto Lerusalimschy">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1414797791239" ID="ID_1837385079" MODIFIED="1417297741165" TEXT="Waldemar Cales">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1414797795114" ID="ID_1405936895" MODIFIED="1417297741165" TEXT="Luiz Henrique de Figueiredo">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1412968653109" FOLDED="true" ID="ID_1821443437" LINK="http://www.tcl.tk/" MODIFIED="1436564377005">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Tcl </b><img src="../icons/tcl.png" />
+    </p>
+    <p>
+      1988 <font color="#fa0000">US</font>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">John Ousterhout</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1414223289988" ID="ID_867478545" MODIFIED="1414223295749" TEXT="&lt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="473;0;" ID="Arrow_ID_868409279" STARTARROW="None" STARTINCLINATION="473;0;"/>
+</node>
+</node>
+<node CREATED="1416423534819" ID="ID_670286796" MODIFIED="1416423538544" TEXT="VBScript"/>
+<node CREATED="1416423554819" ID="ID_575577858" MODIFIED="1416423562144" TEXT="Powershell"/>
+<node CREATED="1399828752717" FOLDED="true" ID="ID_1538929268" LINK="http://www.perl.org/" MODIFIED="1436564390518">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Perl</b>&#160;<img src="../icons/perl.png" />
+    </p>
+    <p>
+      1987 <font color="#fa0000">US</font>
+    </p>
+    <p>
+      <i><font color="#3296fa">Larry Wall</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1411075669503" ID="ID_1679284755" LINK="http://perl6.org/" MODIFIED="1411075681108" TEXT="Perl 6"/>
+<node CREATED="1414223313220" ID="ID_24764778" MODIFIED="1414223324613" TEXT="&lt;">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_297107521" ENDARROW="Default" ENDINCLINATION="437;0;" ID="Arrow_ID_505662110" STARTARROW="None" STARTINCLINATION="437;0;"/>
+</node>
+<node CREATED="1414223314836" ID="ID_343873166" MODIFIED="1414223315697" TEXT="&gt;"/>
+</node>
+<node CREATED="1411075641153" FOLDED="true" ID="ID_325723000" MODIFIED="1429311483951">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>AWK</b>
+    </p>
+    <p>
+      1977
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1418257376173" ID="ID_664418335" MODIFIED="1418257382381" TEXT="&gt;">
+<arrowlink DESTINATION="ID_1796491976" ENDARROW="Default" ENDINCLINATION="240;0;" ID="Arrow_ID_917214609" STARTARROW="None" STARTINCLINATION="240;0;"/>
+</node>
+<node CREATED="1418257377644" ID="ID_1880139067" MODIFIED="1418257648137" TEXT="&lt;">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="160;0;" ID="Arrow_ID_1987053486" SOURCE="ID_1402657594" STARTARROW="None" STARTINCLINATION="160;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="313;0;" ID="Arrow_ID_469403593" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="313;0;"/>
+</node>
+<node CREATED="1402184349896" FOLDED="true" ID="ID_1825920134" MODIFIED="1429311483950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../icons/people.png" />
+      &#160;people
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#3296fa" CREATED="1418257502226" ID="ID_769595213" MODIFIED="1418257535977" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alfred Aho
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1418257507316" ID="ID_1358057659" MODIFIED="1418257539097" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Peter Weinberger
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#3296fa" CREATED="1418257510677" ID="ID_20401162" MODIFIED="1418257541510" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Brian Kernighan
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#329632" CREATED="1418257559722" FOLDED="true" ID="ID_2148149" MODIFIED="1429311483951" STYLE="fork" TEXT="AWK-dialects">
+<edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1418257577194" ID="ID_293045701" MODIFIED="1418257588375" TEXT="oawk"/>
+<node CREATED="1418257588713" ID="ID_1873742732" MODIFIED="1418257609014" TEXT="nawk"/>
+<node CREATED="1418257601657" ID="ID_447086136" MODIFIED="1418257605174" TEXT="gawk"/>
+</node>
+</node>
+<node CREATED="1418257621736" FOLDED="true" ID="ID_1477173416" MODIFIED="1434572946495" TEXT="Bourne shell">
+<node CREATED="1418257628632" ID="ID_1402657594" MODIFIED="1418257638217" TEXT="&gt;">
+<arrowlink DESTINATION="ID_1880139067" ENDARROW="Default" ENDINCLINATION="160;0;" ID="Arrow_ID_1987053486" STARTARROW="None" STARTINCLINATION="160;0;"/>
+</node>
+<node CREATED="1418257629816" ID="ID_1887383149" MODIFIED="1418257630693" TEXT="&lt;"/>
 </node>
 </node>
 </node>

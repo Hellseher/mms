@@ -2016,7 +2016,7 @@
 <node CREATED="1417389073781" ID="ID_388133774" MODIFIED="1417389075075" TEXT="-m"/>
 <node CREATED="1431731932401" ID="ID_55715471" MODIFIED="1431731937022" TEXT="--amend"/>
 </node>
-<node CREATED="1417125422286" ID="ID_1936443195" MODIFIED="1435532005102">
+<node CREATED="1417125422286" FOLDED="true" ID="ID_1936443195" MODIFIED="1436563941153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2049,7 +2049,7 @@
 <node CREATED="1417125428204" MODIFIED="1417125428204" TEXT="-f, --file &lt;file&gt;     use given config file"/>
 <node CREATED="1417125428205" MODIFIED="1417125428205" TEXT="--blob &lt;blob-id&gt;      read config from given blob object"/>
 </node>
-<node CREATED="1417125428205" ID="ID_44949152" MODIFIED="1432397521072" TEXT="Action">
+<node CREATED="1417125428205" FOLDED="true" ID="ID_44949152" MODIFIED="1436563938355" TEXT="Action">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417125428205" MODIFIED="1417125428205" TEXT="--get                 get value: name [value-regex]"/>
 <node CREATED="1417125428206" MODIFIED="1417125428206" TEXT="--get-all             get all values: key [value-regex]"/>
@@ -2297,7 +2297,7 @@
 <node CREATED="1432966524658" ID="ID_829280096" MODIFIED="1432966527647" TEXT="git pull"/>
 <node CREATED="1432397483429" ID="ID_272827495" MODIFIED="1432397486800" TEXT="git rebase"/>
 <node CREATED="1428274227537" ID="ID_474780902" MODIFIED="1428274230703" TEXT="git reflog"/>
-<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1434321850501">
+<node CREATED="1428194330284" FOLDED="true" ID="ID_1226809236" MODIFIED="1436566562295">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2307,10 +2307,11 @@
       git <b>remote </b>
     </p>
     <p>
-      <i><font size="2" color="#3296fa">manage set of tracked repos</font></i>
+      <i><font size="2" color="#6496fa">manage set of tracked repos</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2323,7 +2324,8 @@
       <b>git remote set-url </b>origin&#160;git@github.com:&lt;Username&gt;/&lt;Project&gt;.git
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1428194356495" FOLDED="true" ID="ID_1609746641" MODIFIED="1429310592954" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428194370130" FOLDED="true" ID="ID_1206631312" MODIFIED="1429310592953" TEXT="add">
