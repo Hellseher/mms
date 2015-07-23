@@ -390,7 +390,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1413070122372" FOLDED="true" ID="ID_1153654712" MODIFIED="1435992891562" POSITION="right">
+<node CREATED="1413070122372" ID="ID_1153654712" MODIFIED="1436601219484" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -409,20 +409,21 @@
 <node CREATED="1413070127604" ID="ID_898287535" MODIFIED="1413070127604" TEXT="caller"/>
 <node CREATED="1413070127605" ID="ID_602218438" MODIFIED="1413070127605" TEXT="command"/>
 <node CREATED="1413070127628" ID="ID_1648272408" MODIFIED="1413070127628" TEXT="commands"/>
-<node CREATED="1413070127605" FOLDED="true" ID="ID_1061412318" MODIFIED="1429311062719">
+<node CREATED="1413070127605" ID="ID_1061412318" MODIFIED="1436601265291">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>compgen </b>
+      <b>compgen</b>&#160;[option] [word]
     </p>
     <p>
-      <i><font color="#3296fa">display available commands</font></i>
+      <i><font size="2" color="#6496fa">display available commands</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1425338731245" ID="ID_534359517" MODIFIED="1425338733290" TEXT="-c"/>
 <node CREATED="1425338733757" ID="ID_1903971267" MODIFIED="1425338735130" TEXT="-a"/>
 <node CREATED="1425338737564" ID="ID_1009218129" MODIFIED="1425338740538" TEXT="-b"/>

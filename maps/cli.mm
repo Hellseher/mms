@@ -191,9 +191,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" FOLDED="true" ID="ID_82536923" MODIFIED="1435599344419" POSITION="right" TEXT="cmd">
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1437604221072" POSITION="right" TEXT="*nix cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1435597681147" TEXT="administration">
+<node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1437604227893" TEXT="administration">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413754493491" ID="ID_704100240" MODIFIED="1413754825469">
 <richcontent TYPE="NODE"><html>
@@ -441,7 +441,7 @@
 </node>
 </node>
 <node CREATED="1414889599667" ID="ID_747544783" MODIFIED="1414889602512" TEXT="tmpwatch"/>
-<node CREATED="1399409772021" ID="ID_376573605" MODIFIED="1435597681164" TEXT="~processes">
+<node CREATED="1399409772021" FOLDED="true" ID="ID_376573605" MODIFIED="1437604225005" TEXT="~processes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1404942162217" FOLDED="true" ID="ID_462833045" MODIFIED="1435597701458">
 <richcontent TYPE="NODE"><html>
@@ -805,7 +805,7 @@
 <node CREATED="1432759300215" ID="ID_162250613" MODIFIED="1432759302357" TEXT="make"/>
 <node CREATED="1432759780384" ID="ID_1370356160" MODIFIED="1432759782926" TEXT="checkinstall"/>
 </node>
-<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1435252800795">
+<node CREATED="1407074986052" ID="ID_714158331" MODIFIED="1437604701147">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1163,7 +1163,7 @@
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1435306049297" STYLE="fork">
+<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1437604348574" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1641,7 +1641,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408226448490" FOLDED="true" ID="ID_1085427569" MODIFIED="1429311610816">
+<node CREATED="1408226448490" ID="ID_1085427569" LINK="https://rsync.samba.org/" MODIFIED="1437604511740">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1651,35 +1651,32 @@
       <b>rsync&#160;</b>[<i>options</i>] <i>sources dest </i>
     </p>
     <p>
-      <font color="#3296fa"><i>transfer files, frequently across network</i></font>
+      <i><font size="2" color="#6496fa">transfer files, frequently across network</font></i>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1420999904904" FOLDED="true" ID="ID_1823351141" MODIFIED="1429311610814" TEXT="CookBook">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1420999918008" ID="ID_4961289" MODIFIED="1421002506432" TEXT="Remote Copy">
+</html>
+</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="rgb(0, 0, 0)" face="SansSerif" size="3"><b>~$</b>&#160;<b>rsync</b>&#160;-<b>avz</b>&#160;-<b>e</b>&#160;<b>ssh</b>&#160; remoteuser@remotehost:/remote/dir /this/dir/&#160; </font>
+      <font size="3" face="SansSerif" color="rgb(0, 0, 0)"><b>$:</b>&#160;<b>rsync</b>&#160;-<b>avz</b>&#160;-<b>e</b>&#160;<b>ssh</b>&#160; remoteuser@remotehost:/remote/dir /this/dir/&#160; </font>
     </p>
     <p>
       
     </p>
     <p>
-      <font color="#3296fa"><i>copy from one machine to another</i></font>
+      <i><font color="#3296fa">copy from one machine to another</font></i>
     </p>
     <p>
-      <b>~# rsync -v -e ssh </b>&lt;host&gt;<b>:/</b>path_to_copping_file <b>~/</b>dist_dir_on_local_host
+      <b>#: rsync -v -e ssh </b>&lt;host&gt;<b>:/</b>path_to_copping_file <b>~/</b>dist_dir_on_local_host
     </p>
   </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1421000481132" FOLDED="true" ID="ID_865599162" MODIFIED="1429311610816" TEXT="Options">
+</html>
+</richcontent>
+<node CREATED="1421000481132" FOLDED="true" ID="ID_865599162" MODIFIED="1437604460032" TEXT="Options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421000695207" ID="ID_1171340881" MODIFIED="1421000695207" TEXT="--address=ADDRESS       bind address for outgoing socket to daemon"/>
 <node CREATED="1421000695214" MODIFIED="1421000695214" TEXT="--address=ADDRESS       bind to the specified address"/>
@@ -1824,7 +1821,7 @@
 <node CREATED="1421000695201" ID="ID_949434359" MODIFIED="1421000695201" TEXT="-y, --fuzzy                 find similar file for basis if no dest file"/>
 <node CREATED="1421000695202" ID="ID_1484766247" MODIFIED="1421000695202" TEXT="-z, --compress              compress file data during the transfer"/>
 </node>
-<node CREATED="1421001425469" FOLDED="true" ID="ID_234283858" MODIFIED="1429311610816">
+<node CREATED="1421001425469" ID="ID_234283858" MODIFIED="1437604434129">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1996,7 +1993,7 @@
 <node CREATED="1416668336714" ID="ID_1729445529" MODIFIED="1416668344824" TEXT="arecord, aplay"/>
 <node CREATED="1432755673584" ID="ID_1459718106" MODIFIED="1432755823297" TEXT="puls"/>
 </node>
-<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1432755355123">
+<node CREATED="1399409789401" ID="ID_833760425" MODIFIED="1437604709869">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2185,7 +2182,7 @@
 <node CREATED="1414794399159" ID="ID_1539449784" MODIFIED="1414794402100" TEXT="-n"/>
 <node CREATED="1414794402407" ID="ID_1261696798" MODIFIED="1414794403860" TEXT="-a"/>
 </node>
-<node CREATED="1410820509634" FOLDED="true" ID="ID_1547757855" MODIFIED="1429311610818" TEXT="nmap">
+<node CREATED="1410820509634" ID="ID_1547757855" LINK="https://nmap.org/" MODIFIED="1437604322692" TEXT="nmap">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416955035008" ID="ID_433446379" MODIFIED="1416955042253" TEXT="-s"/>
 <node CREATED="1416955036272" ID="ID_416442696" MODIFIED="1416955038397" TEXT="-P"/>
@@ -2310,7 +2307,7 @@
 <node CREATED="1413837573284" ID="ID_645118185" MODIFIED="1413837574561" TEXT="-N"/>
 </node>
 </node>
-<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1431730852400">
+<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1437604709870">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2325,7 +2322,22 @@
 <node CREATED="1417126006197" ID="ID_467918695" MODIFIED="1417126010947" TEXT="ssh-keygen"/>
 <node CREATED="1424296187764" ID="ID_1948242336" MODIFIED="1424296190112" TEXT="logout"/>
 <node CREATED="1417722739289" ID="ID_1810893352" MODIFIED="1417722740997" TEXT="-T"/>
-<node CREATED="1424296472541" ID="ID_371449245" MODIFIED="1424296474395" TEXT="scp"/>
+<node CREATED="1424296472541" ID="ID_371449245" MODIFIED="1437604751759" TEXT="scp">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      scp source_file_name username@destination_host:destination_folder
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1424459296982" ID="ID_883558229" MODIFIED="1424459423507" TEXT="ssh-keygen">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4201,7 +4213,10 @@
 </node>
 <node CREATED="1418327215978" ID="ID_1807480287" MODIFIED="1418327221015" TEXT="pkg-config"/>
 </node>
-<node CREATED="1435598899073" ID="ID_1412526341" LINK="http://freedesktop.org/wiki/Software/systemd/" MODIFIED="1435599016917" POSITION="right" TEXT="systemd">
+<node CREATED="1437604200968" ID="ID_149989198" MODIFIED="1437604206777" POSITION="right" TEXT="PowerShell">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1435598899073" FOLDED="true" ID="ID_1412526341" LINK="http://freedesktop.org/wiki/Software/systemd/" MODIFIED="1437604189055" POSITION="right" TEXT="systemd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411233453908" ID="ID_1371304450" MODIFIED="1435598905204">
 <richcontent TYPE="NODE"><html>

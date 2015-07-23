@@ -1785,7 +1785,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401833716574" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1435531990073" POSITION="right">
+<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1436601182068" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1820,7 +1820,8 @@
       git push origin master
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402007699904" ID="ID_1935266958" MODIFIED="1417125448000">
 <richcontent TYPE="NODE"><html>
@@ -1872,7 +1873,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417380937987" ID="ID_1205914089" MODIFIED="1435532002331" TEXT="commands">
+<node CREATED="1417380937987" FOLDED="true" ID="ID_1205914089" MODIFIED="1436601181245" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417380923635" FOLDED="true" ID="ID_1689171388" MODIFIED="1432398370346">
 <richcontent TYPE="NODE"><html>
@@ -2450,7 +2451,7 @@
 <node CREATED="1417381452042" ID="ID_1532674825" LINK="http://githowto.com/" MODIFIED="1417381468659" TEXT="githowto.com"/>
 </node>
 </node>
-<node CREATED="1398557051048" FOLDED="true" ID="ID_228093404" MODIFIED="1430341241086" POSITION="right" STYLE="bubble">
+<node CREATED="1398557051048" FOLDED="true" ID="ID_228093404" MODIFIED="1436601199900" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2663,7 +2664,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1430341146790" POSITION="right" STYLE="bubble">
+<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1436601194588" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2743,7 +2744,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402074564850" ID="ID_308820005" MODIFIED="1433961970658" POSITION="right" STYLE="bubble">
+<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1436601202314" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2755,7 +2756,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1434774331206">
+<node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1436601189584">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2897,7 +2898,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1434775096530">
+<node CREATED="1403979717646" FOLDED="true" ID="ID_1656694262" MODIFIED="1436601189588">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3258,7 +3259,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1409695069433" ID="ID_854089042" MODIFIED="1430341121991">
+<node CREATED="1409695069433" ID="ID_854089042" MODIFIED="1436601189592">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3270,9 +3271,9 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1416946452903" ID="ID_1660435815" MODIFIED="1430341121991" TEXT="pacman"/>
+<node CREATED="1416946452903" ID="ID_1660435815" MODIFIED="1436601189594" TEXT="pacman"/>
 </node>
-<node CREATED="1410019498962" ID="ID_608826311" MODIFIED="1430341121991">
+<node CREATED="1410019498962" ID="ID_608826311" MODIFIED="1436601189595">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3284,7 +3285,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411229036485" ID="ID_646852149" MODIFIED="1430341121991">
+<node CREATED="1411229036485" ID="ID_646852149" MODIFIED="1436601189597">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3298,14 +3299,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1411229071611" ID="ID_1973531558" LINK="http://wiki.gentoo.org/wiki/Project:Portage" MODIFIED="1430341121991" TEXT="Portage">
+<node CREATED="1411229071611" ID="ID_1973531558" LINK="http://wiki.gentoo.org/wiki/Project:Portage" MODIFIED="1436601189600" TEXT="Portage">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1411229235288" ID="ID_1939846601" MODIFIED="1430341121991" TEXT="emerge">
+<node CREATED="1411229235288" ID="ID_1939846601" MODIFIED="1436601189601" TEXT="emerge">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1411339708508" FOLDED="true" ID="ID_1664887593" MODIFIED="1432398474238">
+<node CREATED="1411339708508" FOLDED="true" ID="ID_1664887593" MODIFIED="1436601189601">
 <richcontent TYPE="NODE"><html>
   <head>
     
