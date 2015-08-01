@@ -805,7 +805,7 @@
 <node CREATED="1432759300215" ID="ID_162250613" MODIFIED="1432759302357" TEXT="make"/>
 <node CREATED="1432759780384" ID="ID_1370356160" MODIFIED="1432759782926" TEXT="checkinstall"/>
 </node>
-<node CREATED="1407074986052" ID="ID_714158331" MODIFIED="1437604701147">
+<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1438023539014">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1163,7 +1163,7 @@
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1437604348574" STYLE="fork">
+<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1438023545127" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1179,20 +1179,20 @@
 </html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398811598128" FOLDED="true" ID="ID_125872665" MODIFIED="1429311610813">
+<node CREATED="1398811598128" FOLDED="true" ID="ID_125872665" MODIFIED="1438023689495">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: left">
-      <b>cp</b>
+      <b>cp </b><i>[option] file destination</i>
     </p>
     <p>
-      copy
+      <font size="2">copy </font>
     </p>
     <p>
-      <font color="#3296fa">copy files and directories</font>
+      <font size="2" color="#3296fa">copy files and directories</font>
     </p>
   </body>
 </html></richcontent>
@@ -1362,7 +1362,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1404944127571" ID="ID_1594359000" MODIFIED="1404944129506" TEXT="free"/>
-<node CREATED="1398811328994" FOLDED="true" ID="ID_1010935878" MODIFIED="1429311610814">
+<node CREATED="1398811328994" FOLDED="true" ID="ID_1010935878" MODIFIED="1438023575266">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1372,14 +1372,33 @@
       <b>ln </b>[<i>options</i>] <i>sourcename </i>[<i>destname</i>]
     </p>
     <p>
-      <font color="#3296fa"><i>make links between files </i></font>
+      <font size="2" color="#6496fa"><i>make links between files </i></font>
     </p>
     <p>
-      [<font color="#3296fa"><i>Mike Parker, David MacKenzie</i></font>]
+      <font size="2" color="#3296fa"><i>Mike Parker, David MacKenzie</i></font>
     </p>
   </body>
 </html></richcontent>
 <node CREATED="1407710834520" ID="ID_867850512" MODIFIED="1407710837671" TEXT="-s"/>
+</node>
+<node CREATED="1438023711698" ID="ID_1627643081" MODIFIED="1438023758045">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>readlink </b>
+    </p>
+    <p>
+      <font size="2" color="#6496fa"><i>print resolved symbolic </i></font>
+    </p>
+    <p>
+      <font size="2" color="#6496fa"><i>links or canonical file names</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1398554659553" FOLDED="true" ID="ID_255286384" MODIFIED="1429311610814">
 <richcontent TYPE="NODE"><html>
@@ -1477,7 +1496,7 @@
 <node CREATED="1398811499793" ID="ID_225216149" MODIFIED="1398811504047" TEXT="-d"/>
 </node>
 <node CREATED="1414891785281" ID="ID_1024658369" MODIFIED="1414891788846" TEXT="lsattr"/>
-<node CREATED="1398811608176" ID="ID_1543650439" MODIFIED="1435306043450">
+<node CREATED="1398811608176" ID="ID_1543650439" MODIFIED="1438023703654">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1497,7 +1516,7 @@
   </head>
   <body>
     <p>
-      <i><font color="#6496fa">create n numbers of directories</font></i>
+      <font color="#6496fa"><i>create n numbers of directories</i></font>
     </p>
     <p>
       <b>$ mdkir ./name{1..100}{a..z}{A..Z} </b>
@@ -1506,7 +1525,7 @@
       
     </p>
     <p>
-      <i><font color="#6496fa">create a set of directories</font></i>
+      <font color="#6496fa"><i>create a set of directories</i></font>
     </p>
     <p>
       <b>mkdir -p ~/rpmbuild/{BUILD,RPMS,SOURCES,SPECS,SRPMS} </b>
@@ -1641,7 +1660,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408226448490" ID="ID_1085427569" LINK="https://rsync.samba.org/" MODIFIED="1437604511740">
+<node CREATED="1408226448490" FOLDED="true" ID="ID_1085427569" LINK="https://rsync.samba.org/" MODIFIED="1438023703709">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1654,28 +1673,26 @@
       <i><font size="2" color="#6496fa">transfer files, frequently across network</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font size="3" face="SansSerif" color="rgb(0, 0, 0)"><b>$:</b>&#160;<b>rsync</b>&#160;-<b>avz</b>&#160;-<b>e</b>&#160;<b>ssh</b>&#160; remoteuser@remotehost:/remote/dir /this/dir/&#160; </font>
+      <font color="rgb(0, 0, 0)" size="3" face="SansSerif"><b>$:</b>&#160;<b>rsync</b>&#160;-<b>avz</b>&#160;-<b>e</b>&#160;<b>ssh</b>&#160; remoteuser@remotehost:/remote/dir /this/dir/&#160; </font>
     </p>
     <p>
       
     </p>
     <p>
-      <i><font color="#3296fa">copy from one machine to another</font></i>
+      <font color="#3296fa"><i>copy from one machine to another</i></font>
     </p>
     <p>
       <b>#: rsync -v -e ssh </b>&lt;host&gt;<b>:/</b>path_to_copping_file <b>~/</b>dist_dir_on_local_host
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1421000481132" FOLDED="true" ID="ID_865599162" MODIFIED="1437604460032" TEXT="Options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421000695207" ID="ID_1171340881" MODIFIED="1421000695207" TEXT="--address=ADDRESS       bind address for outgoing socket to daemon"/>
@@ -1993,7 +2010,7 @@
 <node CREATED="1416668336714" ID="ID_1729445529" MODIFIED="1416668344824" TEXT="arecord, aplay"/>
 <node CREATED="1432755673584" ID="ID_1459718106" MODIFIED="1432755823297" TEXT="puls"/>
 </node>
-<node CREATED="1399409789401" ID="ID_833760425" MODIFIED="1437604709869">
+<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1437718055859">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2307,21 +2324,31 @@
 <node CREATED="1413837573284" ID="ID_645118185" MODIFIED="1413837574561" TEXT="-N"/>
 </node>
 </node>
-<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1437604709870">
+<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1437717925982">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>openssh</b>
+      <b>OpenSSH </b>
+    </p>
+    <p>
+      1999
+    </p>
+    <p>
+      <font size="2">[ </font><font size="2" color="#3296fa">OpenBSD</font><font size="2">&#160;]</font>
     </p>
   </body>
 </html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417125929766" ID="ID_635815480" MODIFIED="1417125932994" TEXT="ssh-agent"/>
 <node CREATED="1417126006197" ID="ID_467918695" MODIFIED="1417126010947" TEXT="ssh-keygen"/>
 <node CREATED="1424296187764" ID="ID_1948242336" MODIFIED="1424296190112" TEXT="logout"/>
-<node CREATED="1417722739289" ID="ID_1810893352" MODIFIED="1417722740997" TEXT="-T"/>
+<node CREATED="1437718030796" ID="ID_460526987" MODIFIED="1437718046557" TEXT="Options">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417722739289" ID="ID_1810893352" MODIFIED="1437718044190" TEXT="-T"/>
+</node>
 <node CREATED="1424296472541" ID="ID_371449245" MODIFIED="1437604751759" TEXT="scp">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2335,9 +2362,9 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
+<node CREATED="1437717841327" ID="ID_1488171320" MODIFIED="1437717843053" TEXT="ssh"/>
 <node CREATED="1424459296982" ID="ID_883558229" MODIFIED="1424459423507" TEXT="ssh-keygen">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3762,7 +3789,7 @@
 <node CREATED="1408313017187" ID="ID_1329878499" MODIFIED="1408313018241" TEXT="zip"/>
 </node>
 </node>
-<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1435271254842">
+<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1438023531579">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4141,7 +4168,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408402286294" ID="ID_1569716893" MODIFIED="1408402289188" TEXT="useradd"/>
 <node CREATED="1408402301605" ID="ID_1790531500" MODIFIED="1408402303636" TEXT="userdel"/>
-<node CREATED="1408403163056" ID="ID_1515463359" MODIFIED="1408486880579">
+<node CREATED="1408403163056" ID="ID_1515463359" MODIFIED="1438023524894">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4151,10 +4178,24 @@
       <b>usermod </b>[<i>options</i>] <i>user </i>
     </p>
     <p>
-      <i><font color="#3296fa">modify user account information</font></i>
+      <i><font size="2" color="#6496fa">modify user account information</font></i>
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#6496fa">Change A User's Login</font>
+    </p>
+    <p>
+      <b>#: usermod</b>&#160;<b>-l</b>&#160;<i>new_name old_name</i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1408402857570" ID="ID_1176607688" MODIFIED="1408402860336" TEXT="users"/>
 </node>
@@ -4239,7 +4280,7 @@
 <node CREATED="1435599003265" ID="ID_112872409" MODIFIED="1435599005436" TEXT="nspawn"/>
 </node>
 <node CREATED="1435599031327" ID="ID_1524585462" MODIFIED="1435599033372" POSITION="right" TEXT="init"/>
-<node CREATED="1400174804803" ID="ID_1363757303" MODIFIED="1432326957102" POSITION="right">
+<node CREATED="1400174804803" FOLDED="true" ID="ID_1363757303" MODIFIED="1438023535342" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4853,7 +4894,7 @@
 <node CREATED="1432327538257" ID="ID_88014871" MODIFIED="1432327540255" TEXT="cmd.exe"/>
 </node>
 </node>
-<node CREATED="1417377656934" ID="ID_1949155085" MODIFIED="1436390787947" POSITION="right" TEXT="terminal emulators">
+<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1438023536790" POSITION="right" TEXT="terminal emulators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417378969784" MODIFIED="1417378969784" TEXT="aterm"/>
 <node CREATED="1417378969785" MODIFIED="1417378969785" TEXT="eterm"/>
