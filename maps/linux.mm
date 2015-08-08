@@ -1785,7 +1785,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1436601182068" POSITION="right">
+<node CREATED="1401833716574" FOLDED="true" ID="ID_1558424724" LINK="http://git-scm.com/" MODIFIED="1438462595325" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2311,8 +2311,7 @@
       <i><font size="2" color="#6496fa">manage set of tracked repos</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2325,8 +2324,7 @@
       <b>git remote set-url </b>origin&#160;git@github.com:&lt;Username&gt;/&lt;Project&gt;.git
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1428194356495" FOLDED="true" ID="ID_1609746641" MODIFIED="1429310592954" TEXT="commands">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1428194370130" FOLDED="true" ID="ID_1206631312" MODIFIED="1429310592953" TEXT="add">
@@ -2744,17 +2742,21 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402074564850" FOLDED="true" ID="ID_308820005" MODIFIED="1436601202314" POSITION="right" STYLE="fork">
+<node CREATED="1402074564850" ID="ID_308820005" MODIFIED="1438796203506" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="../icons/package_management.png" />
+      Package <img src="../icons/package_management.png" />
+    </p>
+    <p>
+      Managers
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1402074586132" FOLDED="true" ID="ID_1348669715" MODIFIED="1436601189584">
 <richcontent TYPE="NODE"><html>

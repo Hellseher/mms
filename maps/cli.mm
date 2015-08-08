@@ -1163,7 +1163,7 @@
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1438023545127" STYLE="fork">
+<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1438801982417" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1397,8 +1397,7 @@
       <font size="2" color="#6496fa"><i>links or canonical file names</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398554659553" FOLDED="true" ID="ID_255286384" MODIFIED="1429311610814">
 <richcontent TYPE="NODE"><html>
@@ -4194,8 +4193,7 @@
       <b>#: usermod</b>&#160;<b>-l</b>&#160;<i>new_name old_name</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408402857570" ID="ID_1176607688" MODIFIED="1408402860336" TEXT="users"/>
 </node>
@@ -4253,6 +4251,7 @@
 </node>
 </node>
 <node CREATED="1418327215978" ID="ID_1807480287" MODIFIED="1418327221015" TEXT="pkg-config"/>
+<node CREATED="1438801992575" ID="ID_410100956" MODIFIED="1438802009548" TEXT="tset, reset"/>
 </node>
 <node CREATED="1437604200968" ID="ID_149989198" MODIFIED="1437604206777" POSITION="right" TEXT="PowerShell">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

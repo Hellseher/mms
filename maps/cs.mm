@@ -1,19 +1,20 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1426031394259" ID="ID_322066631" MODIFIED="1435900043922">
+<node CREATED="1426031394259" ID="ID_322066631" MODIFIED="1438463401032">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      Computer
+      <b>Computer </b>
     </p>
     <p style="text-align: center">
-      Science
+      <b>Science</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1426113754316" ID="ID_284900263" MODIFIED="1432320238403" POSITION="right" TEXT="Programming Language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1427668933883" ID="ID_822457051" MODIFIED="1427668937160" TEXT="Syntax"/>
@@ -224,13 +225,11 @@
 <node CREATED="1429659340335" ID="ID_1644191666" MODIFIED="1429659351899" POSITION="left" TEXT="wedget"/>
 <node CREATED="1431777962991" ID="ID_762507685" MODIFIED="1431777966364" POSITION="left" TEXT="pointer"/>
 <node CREATED="1431777967263" ID="ID_1043918633" MODIFIED="1431777970684" POSITION="left" TEXT="hash table"/>
-<node CREATED="1431793004628" ID="ID_97922409" MODIFIED="1431793011168" POSITION="left" TEXT="Dynamic Programming"/>
-<node CREATED="1432320177075" ID="ID_307336597" MODIFIED="1432320181153" POSITION="left" TEXT="deployment"/>
 <node CREATED="1432320195923" ID="ID_1031730844" MODIFIED="1432320200513" POSITION="left" TEXT="compiler"/>
 <node CREATED="1432320200947" ID="ID_459018568" MODIFIED="1432320202656" POSITION="left" TEXT="parser"/>
 <node CREATED="1433181816158" ID="ID_897186260" MODIFIED="1433181820665" POSITION="right" TEXT="runtime"/>
 <node CREATED="1433181821117" ID="ID_966756822" MODIFIED="1433181825225" POSITION="right" TEXT="debug"/>
-<node CREATED="1417126224449" FOLDED="true" ID="ID_1542645377" MODIFIED="1435900042760" POSITION="right" TEXT="Criptography">
+<node CREATED="1417126224449" ID="ID_1542645377" MODIFIED="1438463392952" POSITION="right" TEXT="Criptography">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411669362733" ID="ID_92854863" MODIFIED="1416956192190" TEXT="Ciphers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -354,8 +353,7 @@
       <font size="2">Programming</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1418255910291" FOLDED="true" ID="ID_1837733047" MODIFIED="1429311483956" TEXT="abstraction">
 <node CREATED="1418256396619" ID="ID_932493386" MODIFIED="1418256401191" TEXT="abstruction levels"/>
@@ -456,6 +454,11 @@
 <node CREATED="1424820069425" ID="ID_508369269" MODIFIED="1424820074195" TEXT="COP">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1431793004628" ID="ID_97922409" MODIFIED="1431793011168" TEXT="Dynamic Programming"/>
+</node>
+<node CREATED="1438463402048" ID="ID_1517058429" MODIFIED="1438463406578" POSITION="left" TEXT="Theorems">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1438463407504" ID="ID_1168236393" MODIFIED="1438463415453" TEXT="CAP theorem"/>
 </node>
 </node>
 </map>

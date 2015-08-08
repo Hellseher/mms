@@ -390,7 +390,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1413070122372" ID="ID_1153654712" MODIFIED="1436601219484" POSITION="right">
+<node CREATED="1413070122372" FOLDED="true" ID="ID_1153654712" MODIFIED="1439008821117" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -422,8 +422,7 @@
       <i><font size="2" color="#6496fa">display available commands</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1425338731245" ID="ID_534359517" MODIFIED="1425338733290" TEXT="-c"/>
 <node CREATED="1425338733757" ID="ID_1903971267" MODIFIED="1425338735130" TEXT="-a"/>
 <node CREATED="1425338737564" ID="ID_1009218129" MODIFIED="1425338740538" TEXT="-b"/>
