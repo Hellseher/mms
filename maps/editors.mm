@@ -185,7 +185,7 @@
 </html></richcontent>
 <node CREATED="1414183396275" ID="ID_568030618" LINK="http://www.xemacs.org/" MODIFIED="1414183902096" TEXT="XEmacs"/>
 </node>
-<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1438801696991" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1440194767903" POSITION="left" TEXT="IDE">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -195,9 +195,10 @@
       An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion... [wiki]
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1408468706000" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1438801546863">
+<node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1440194742843">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -207,13 +208,14 @@
       <b>Eclipse</b>&#160;<img src="../icons/eclipse.png" />
     </p>
     <p>
-      Java
-    </p>
-    <p>
       2001
     </p>
+    <p>
+      <font size="2">Java</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1414183976055" ID="ID_1951380072" MODIFIED="1414183980020" TEXT="PHPEclipse"/>
 </node>
 <node CREATED="1414183983463" ID="ID_449833586" MODIFIED="1414183987060" TEXT="PhpED"/>
@@ -243,7 +245,28 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414183959687" ID="ID_1036223944" MODIFIED="1414183962468" TEXT="NetBeans"/>
+<node CREATED="1414183959687" ID="ID_1036223944" LINK="https://chocolatapp.com/" MODIFIED="1440194711392">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>NetBeans </b><img src="../icons/netbeans.png" />
+    </p>
+    <p>
+      1996
+    </p>
+    <p>
+      <font size="2">GPL2 | Java | </font>
+    </p>
+    <p>
+      <font size="2">[ </font><font size="2" color="#3296fa">Oracle</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1414183964263" ID="ID_1418462241" MODIFIED="1414183968132" TEXT="phpDesigner"/>
 <node CREATED="1414187334564" ID="ID_952787146" MODIFIED="1414187341265" TEXT="Aptana"/>
 <node CREATED="1415905483745" ID="ID_365131411" LINK="https://www.panic.com/coda/" MODIFIED="1415905587607">
@@ -318,7 +341,7 @@
 </node>
 </node>
 <node CREATED="1434315386039" ID="ID_253931574" LINK="https://www.kdevelop.org/" MODIFIED="1434315406120" TEXT="KDevelop"/>
-<node CREATED="1438801099131" ID="ID_929953639" MODIFIED="1438801105053" TEXT="JetBrains">
+<node CREATED="1438801099131" FOLDED="true" ID="ID_929953639" MODIFIED="1440193733677" TEXT="JetBrains">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414187357667" ID="ID_217709310" MODIFIED="1438801009997">
 <richcontent TYPE="NODE"><html>
@@ -443,7 +466,28 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906025176" ID="ID_1148968239" LINK="http://www.pspad.com/" MODIFIED="1415906035179" POSITION="left" TEXT="PSPad"/>
+<node CREATED="1415906025176" ID="ID_1148968239" LINK="http://www.pspad.com/" MODIFIED="1440194346510" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>PSPad</b>&#160;<img src="../icons/pspad.png" />
+    </p>
+    <p>
+      2001
+    </p>
+    <p style="text-align: left">
+      <font size="2">Freeware | Delphy | Win </font>
+    </p>
+    <p style="text-align: left">
+      <i><font size="3" color="#3296fa">Jan Fiala</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1415905666494" ID="ID_1996171305" LINK="http://www.scintilla.org/SciTE.html" MODIFIED="1415905734638" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -766,6 +810,63 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+<node CREATED="1440192931897" ID="ID_583264413" LINK="https://chocolatapp.com/" MODIFIED="1440193128176" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Chocolate</b>&#160;<img src="../icons/chocolat.png" />
+    </p>
+    <p>
+      2011
+    </p>
+    <p>
+      <font size="2">OS X</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1440193178648" ID="ID_1697819100" MODIFIED="1440193250582" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Espresso</b>
+    </p>
+    <p>
+      2004
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1440194771892" ID="ID_1959480993" LINK="https://codemirror.net/" MODIFIED="1440195020109" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>CodeMirror</b>&#160;<img src="../icons/codemirror.png" />
+    </p>
+    <p>
+      2007
+    </p>
+    <p>
+      <font size="2">MIT | JavaScript </font>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">Marijn Haverbeke</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
