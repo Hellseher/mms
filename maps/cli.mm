@@ -189,7 +189,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" FOLDED="true" ID="ID_82536923" MODIFIED="1443370420394" POSITION="right" TEXT="*nix cmd">
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1443475313930" POSITION="right" TEXT="*nix cmd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416668031026" FOLDED="true" ID="ID_24323361" MODIFIED="1432756162531">
 <richcontent TYPE="NODE"><html>
@@ -1385,7 +1385,7 @@
 </node>
 <node CREATED="1413926037282" ID="ID_136472826" MODIFIED="1413926045902" TEXT="exiftool"/>
 </node>
-<node CREATED="1400174804803" FOLDED="true" ID="ID_1363757303" MODIFIED="1443370142078">
+<node CREATED="1400174804803" ID="ID_1363757303" MODIFIED="1443478201161">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1867,7 +1867,7 @@
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1442962050392">
+<node CREATED="1407074986052" ID="ID_714158331" MODIFIED="1443478201195">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1959,24 +1959,6 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1407702242914" ID="ID_1775988938" MODIFIED="1432755294499">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>dmesg </b>[<i>options</i>]
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>pring/control the kernel </i></font>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>ring buffer</i></font>
-    </p>
-  </body>
-</html></richcontent>
 </node>
 <node CREATED="1412363312339" ID="ID_1529891566" MODIFIED="1412363924065">
 <richcontent TYPE="NODE"><html>
@@ -2170,21 +2152,6 @@
 <node CREATED="1409246610455" ID="ID_236448187" MODIFIED="1409246615754" TEXT="lsscsi"/>
 <node CREATED="1407075754847" ID="ID_753647616" MODIFIED="1407075759183" TEXT="lsusb">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1433955776304" ID="ID_539060065" MODIFIED="1433961702194">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>modinfo</b>&#160;[<i>options</i>] <i>object-file </i>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">info about kernel module object-file</font></i>
-    </p>
-  </body>
-</html></richcontent>
 </node>
 <node CREATED="1442528556429" ID="ID_1002729174" MODIFIED="1442528632400">
 <richcontent TYPE="NODE"><html>
@@ -3257,55 +3224,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1443370109167" TEXT="sys adm">
+<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1443475315876" TEXT="sys adm">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1439117306057" FOLDED="true" ID="ID_1017384787" MODIFIED="1440830855933" TEXT="audit">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1439117310724" ID="ID_553853586" MODIFIED="1439117314368" TEXT="SELinux">
-<node CREATED="1439117315572" ID="ID_147496252" MODIFIED="1439117318705" TEXT="setsebool"/>
-</node>
-</node>
 <node CREATED="1411240349365" ID="ID_1973370963" MODIFIED="1411240351155" TEXT="fuser"/>
 <node CREATED="1442096058178" ID="ID_1425660807" MODIFIED="1442096061119" TEXT="hostnamectl"/>
-<node CREATED="1440452048248" ID="ID_1230130900" MODIFIED="1442962308813" TEXT="kernel">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &#160;Q. How do you list all kernel modules that are compiled in or enabled?
-    </p>
-    <p>
-      A. You can execute:
-    </p>
-    <p>
-      cat /boot/config-$(uname -r)
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1409004013196" ID="ID_1945175354" MODIFIED="1442875521611">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>lsmod </b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">list all loaded modules</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1442875501507" ID="ID_170216753" MODIFIED="1442875503648" TEXT="sysctl"/>
-<node CREATED="1442962062680" ID="ID_992839971" MODIFIED="1442962064613" TEXT="modprobe"/>
-<node CREATED="1443368623175" ID="ID_522527889" MODIFIED="1443368626724" TEXT="bootparam"/>
-<node CREATED="1443368627996" ID="ID_1127302962" MODIFIED="1443368630257" TEXT="kernel-doc"/>
-<node CREATED="1443368630612" ID="ID_1093934999" MODIFIED="1443368634697" TEXT="linux-doc"/>
-</node>
 <node CREATED="1409609443264" ID="ID_573915490" MODIFIED="1440874175006">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3357,6 +3279,7 @@
 <node CREATED="1414791220952" ID="ID_11029685" MODIFIED="1414791227366" TEXT="-base64"/>
 </node>
 </node>
+<node CREATED="1418327215978" ID="ID_1807480287" MODIFIED="1418327221015" TEXT="pkg-config"/>
 <node CREATED="1407276494758" ID="ID_887271924" MODIFIED="1407276545314">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3414,6 +3337,275 @@
 </html></richcontent>
 <node CREATED="1406418563037" ID="ID_183176490" MODIFIED="1406418582317" TEXT="David MacKenzie">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1439117306057" FOLDED="true" ID="ID_1017384787" MODIFIED="1443475338413" TEXT="~ audit">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1439117310724" ID="ID_553853586" MODIFIED="1439117314368" TEXT="SELinux">
+<node CREATED="1439117315572" ID="ID_147496252" MODIFIED="1439117318705" TEXT="setsebool"/>
+</node>
+</node>
+<node CREATED="1440452048248" ID="ID_1230130900" MODIFIED="1443475358064" TEXT="~ kernel">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;Q. How do you list all kernel modules that are compiled in or enabled?
+    </p>
+    <p>
+      A. You can execute:
+    </p>
+    <p>
+      cat /boot/config-$(uname -r)
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1443368623175" ID="ID_522527889" MODIFIED="1443368626724" TEXT="bootparam"/>
+<node CREATED="1443478799478" ID="ID_211962318" MODIFIED="1443478803610" TEXT="depmod"/>
+<node CREATED="1407702242914" ID="ID_1775988938" MODIFIED="1432755294499">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>dmesg </b>[<i>options</i>]
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>pring/control the kernel </i></font>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>ring buffer</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1443478770846" ID="ID_523659247" MODIFIED="1443478773435" TEXT="insmod"/>
+<node CREATED="1443368627996" ID="ID_1127302962" MODIFIED="1443368630257" TEXT="kernel-doc"/>
+<node CREATED="1443368630612" ID="ID_1093934999" MODIFIED="1443368634697" TEXT="linux-doc"/>
+<node CREATED="1409004013196" ID="ID_1945175354" MODIFIED="1442875521611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>lsmod </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">list all loaded modules</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1443478789333" ID="ID_1190021759" MODIFIED="1443478840289" TEXT="modprobe"/>
+<node CREATED="1433955776304" ID="ID_539060065" MODIFIED="1433961702194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>modinfo</b>&#160;[<i>options</i>] <i>object-file </i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">info about kernel module object-file</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1443478779350" ID="ID_469672616" MODIFIED="1443478781154" TEXT="rmmod"/>
+<node CREATED="1442875501507" ID="ID_170216753" MODIFIED="1442875503648" TEXT="sysctl">
+<node CREATED="1443475361104" ID="ID_336661848" MODIFIED="1443475365099" TEXT="Options">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1443475366207" ID="ID_1360539349" MODIFIED="1443475422375">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-p</b>[FILE], <b>--load</b>[=FILE]&#160;
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>load&#160;&#160;settings from the file</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1408998360978" FOLDED="true" ID="ID_1226382505" MODIFIED="1443475353941">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ~ test <img src="../icons/test_and_repair.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1408998371666" FOLDED="true" ID="ID_261247798" MODIFIED="1429311610821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>badblocks&#xa0;</b>[<i>options</i>] <i>deviceblock-count</i>
+    </p>
+    <p>
+      <i><font color="#3296fa">search a device for bad blocks</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1409179191869" ID="ID_1008933507" MODIFIED="1409250672804">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-v </b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>verbose</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409179194141" ID="ID_1661340987" MODIFIED="1409250638165">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-s </b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>show the progress</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409179195981" ID="ID_1088824290" MODIFIED="1409250600277">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-n </b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>no-distructive read-write mode</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409179198429" ID="ID_1159582384" MODIFIED="1409179200477" TEXT="-b"/>
+<node CREATED="1409179434748" ID="ID_735165954" MODIFIED="1409179523768">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-e&#xa0;</b><i>number </i>
+    </p>
+    <p>
+      <i><font color="#3296fa">abort test after[ number]</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409179200845" ID="ID_154734260" MODIFIED="1409179201804" TEXT="-c"/>
+</node>
+<node CREATED="1407354082345" FOLDED="true" ID="ID_1509323031" MODIFIED="1429311610822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>fdisk&#xa0;</b>[<i>option</i>] [<i>device</i>]
+    </p>
+    <p>
+      <i><font color="#3296fa">create, deletes, changes and </font></i>
+    </p>
+    <p>
+      <i><font color="#3296fa">get info. about disk partitions</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1409167179999" ID="ID_250903408" MODIFIED="1409167225643">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-l</b>
+    </p>
+    <p>
+      <i><font color="#3296fb">list partition table, exit</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1409079745460" ID="ID_1509342577" MODIFIED="1409079750500" TEXT="partprobe"/>
+<node CREATED="1408998399734" ID="ID_1929550091" MODIFIED="1441318877350">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>fsck&#160;</b>[<i>options</i>] [<i>filesystem</i>]
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">check and repair unmounted systems</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409005439395" ID="ID_432358772" LINK="https://www.smartmontools.org/" MODIFIED="1441546295331">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>smartctl </b>[<i>options</i>] <i>device</i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409003666222" ID="ID_1618721601" MODIFIED="1409003703419">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>tune2fs</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>adjust tunable filesystem </i></font>
+    </p>
+    <p>
+      <font color="#3296fa"><i>parameters on ext2/ext3/ext4 filesystems</i></font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1441555212128" FOLDED="true" ID="ID_285433190" MODIFIED="1442525745892" TEXT="~Initialization">
@@ -3936,176 +4128,6 @@
     </p>
     <p>
       <i><font color="#6496fa" size="2">run the cmd repeatedly</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1418327215978" ID="ID_1807480287" MODIFIED="1418327221015" TEXT="pkg-config"/>
-<node CREATED="1408998360978" ID="ID_1226382505" MODIFIED="1443370148742">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      test <img src="../icons/test_and_repair.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1408998371666" FOLDED="true" ID="ID_261247798" MODIFIED="1429311610821">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>badblocks&#xa0;</b>[<i>options</i>] <i>deviceblock-count</i>
-    </p>
-    <p>
-      <i><font color="#3296fa">search a device for bad blocks</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1409179191869" ID="ID_1008933507" MODIFIED="1409250672804">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-v </b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>verbose</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409179194141" ID="ID_1661340987" MODIFIED="1409250638165">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-s </b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>show the progress</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409179195981" ID="ID_1088824290" MODIFIED="1409250600277">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-n </b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>no-distructive read-write mode</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409179198429" ID="ID_1159582384" MODIFIED="1409179200477" TEXT="-b"/>
-<node CREATED="1409179434748" ID="ID_735165954" MODIFIED="1409179523768">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-e&#xa0;</b><i>number </i>
-    </p>
-    <p>
-      <i><font color="#3296fa">abort test after[ number]</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409179200845" ID="ID_154734260" MODIFIED="1409179201804" TEXT="-c"/>
-</node>
-<node CREATED="1407354082345" FOLDED="true" ID="ID_1509323031" MODIFIED="1429311610822">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>fdisk&#xa0;</b>[<i>option</i>] [<i>device</i>]
-    </p>
-    <p>
-      <i><font color="#3296fa">create, deletes, changes and </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">get info. about disk partitions</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1409167179999" ID="ID_250903408" MODIFIED="1409167225643">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-l</b>
-    </p>
-    <p>
-      <i><font color="#3296fb">list partition table, exit</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1409079745460" ID="ID_1509342577" MODIFIED="1409079750500" TEXT="partprobe"/>
-<node CREATED="1408998399734" ID="ID_1929550091" MODIFIED="1441318877350">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>fsck&#160;</b>[<i>options</i>] [<i>filesystem</i>]
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">check and repair unmounted systems</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409005439395" ID="ID_432358772" LINK="https://www.smartmontools.org/" MODIFIED="1441546295331">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>smartctl </b>[<i>options</i>] <i>device</i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1409003666222" ID="ID_1618721601" MODIFIED="1409003703419">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>tune2fs</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>adjust tunable filesystem </i></font>
-    </p>
-    <p>
-      <font color="#3296fa"><i>parameters on ext2/ext3/ext4 filesystems</i></font>
     </p>
   </body>
 </html></richcontent>
