@@ -265,7 +265,7 @@
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
 </node>
-<node CREATED="1398556276933" ID="ID_1853920621" MODIFIED="1443480578831">
+<node CREATED="1398556276933" ID="ID_1853920621" MODIFIED="1443824772122">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -771,20 +771,57 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413488093998" FOLDED="true" ID="ID_954642326" MODIFIED="1429310592949" TEXT="/etc/udev">
-<node CREATED="1413488102094" ID="ID_648763785" MODIFIED="1413488114939" TEXT="/etc/udev/udev.conf"/>
-</node>
-<node CREATED="1407105147589" FOLDED="true" ID="ID_459013448" MODIFIED="1431283904792">
+<node CREATED="1413488093998" ID="ID_954642326" MODIFIED="1443824802785">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /etc/<b>X11</b>
+      /etc/<b>udev</b>/
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1413488102094" ID="ID_648763785" MODIFIED="1443824810509">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/udev/<b>udev.conf</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1443824827463" ID="ID_602236585" MODIFIED="1443824848226">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/udev/<b>rules.d</b>/
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1407105147589" FOLDED="true" ID="ID_459013448" MODIFIED="1443824801641">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/<b>X11/</b>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1420904336253" ID="ID_1671039889" MODIFIED="1420904438787">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1137,17 +1174,50 @@
 </html></richcontent>
 <node CREATED="1413484394230" ID="ID_1374251777" MODIFIED="1413484402323" TEXT="/statnd/vmunix"/>
 </node>
-<node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1429310592950" TEXT="/sys">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1398810192552" TEXT="/sys/block"/>
-<node CREATED="1398810204522" ID="ID_990932109" MODIFIED="1398810210344" TEXT="/sys/devices"/>
-<node CREATED="1398810210890" ID="ID_1340315194" MODIFIED="1398810215016" TEXT="/sys/fs"/>
-<node CREATED="1398810215753" ID="ID_232422502" MODIFIED="1398810220520" TEXT="/sys/kernel"/>
-<node CREATED="1398810221066" ID="ID_1818746774" MODIFIED="1398810224744" TEXT="/sys/power"/>
+<node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1443824767364">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>/sys </b>
+    </p>
+    <p>
+      <font color="#6496fa" size="2">sys available devices</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      from kernel v2.6
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1443822969166">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/<b>block</b>
+    </p>
+    <p>
+      <font color="#6496fa" size="2">storage device</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1398810225226" ID="ID_1641748460" MODIFIED="1398810229544" TEXT="/sys/bus"/>
-<node CREATED="1398810230746" ID="ID_695722491" MODIFIED="1398810233576" TEXT="/sys/dev"/>
-<node CREATED="1398810234025" ID="ID_1413455656" MODIFIED="1398810241464" TEXT="/sys/firmware"/>
-<node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1429310435898">
+<node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1443823100005">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1157,10 +1227,11 @@
       /sys/<b>class </b>
     </p>
     <p>
-      <i><font color="#3296fa">device types</font></i>
+      <font color="#6496fa" size="2"><i>device types</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1424559212358" ID="ID_391392184" MODIFIED="1424559212358" TEXT="/sys/class/ata_device"/>
 <node CREATED="1424559212358" ID="ID_623284036" MODIFIED="1424559212358" TEXT="/sys/class/ata_link"/>
 <node CREATED="1424559212359" ID="ID_915287387" MODIFIED="1424559212359" TEXT="/sys/class/ata_port"/>
@@ -1220,6 +1291,12 @@
 <node CREATED="1424559212370" ID="ID_1298942431" MODIFIED="1424559212370" TEXT="/sys/class/vtconsole"/>
 <node CREATED="1424559212371" ID="ID_1645084231" MODIFIED="1424559212371" TEXT="/sys/class/watchdog"/>
 </node>
+<node CREATED="1398810230746" ID="ID_695722491" MODIFIED="1398810233576" TEXT="/sys/dev"/>
+<node CREATED="1398810204522" ID="ID_990932109" MODIFIED="1398810210344" TEXT="/sys/devices"/>
+<node CREATED="1398810234025" ID="ID_1413455656" MODIFIED="1398810241464" TEXT="/sys/firmware"/>
+<node CREATED="1398810210890" ID="ID_1340315194" MODIFIED="1398810215016" TEXT="/sys/fs"/>
+<node CREATED="1398810215753" ID="ID_232422502" MODIFIED="1398810220520" TEXT="/sys/kernel"/>
+<node CREATED="1398810221066" ID="ID_1818746774" MODIFIED="1398810224744" TEXT="/sys/power"/>
 </node>
 <node CREATED="1401730114065" ID="ID_380210278" MODIFIED="1410815830112" TEXT="/tmp">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

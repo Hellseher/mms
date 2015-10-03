@@ -222,7 +222,7 @@
 <node CREATED="1414088715073" ID="ID_1137713109" MODIFIED="1414088717693" TEXT="base64"/>
 <node CREATED="1439728206278" ID="ID_1404050125" MODIFIED="1439728207985" TEXT="gpg"/>
 </node>
-<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1443368555395" STYLE="fork">
+<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1443823818339" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1027,7 +1027,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1407711338501" FOLDED="true" ID="ID_856517822" MODIFIED="1439673244861">
+<node CREATED="1407711338501" ID="ID_856517822" MODIFIED="1443823845418">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1037,21 +1037,23 @@
       <b>stat </b>[<i>option</i>] <i>file</i>
     </p>
     <p>
-      <font size="2" color="#6496fa"><i>display file or file system status </i></font>
+      <font color="#6496fa" size="2"><i>display file or file system status </i></font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Michael Meskes</font></i>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1439673188896" MODIFIED="1439673188896">
+</html>
+</richcontent>
+<node CREATED="1439673188896" ID="ID_988438223" MODIFIED="1443823835761">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      [<font color="#3296fa"><i>Michael Meskes</i></font>]
-    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1399410099025" ID="ID_368151233" MODIFIED="1442527326674">
@@ -1079,7 +1081,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1409008499294" FOLDED="true" ID="ID_1513158750" MODIFIED="1439673404869">
+<node CREATED="1409008499294" FOLDED="true" ID="ID_1513158750" MODIFIED="1443823876745">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1089,13 +1091,11 @@
       <b>touch&#160;</b>[<i>otions</i>] <i>files</i>
     </p>
     <p>
-      <font size="2" color="#6496fa"><i>update the access time </i></font>
-    </p>
-    <p>
-      <font size="2" color="#6496fa"><i>and modification time</i></font>
+      <font color="#6496fa" size="2"><i>update the access |&#160;modification time</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1409008578382" ID="ID_156527620" MODIFIED="1409008629082">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2759,7 +2759,7 @@
 <node CREATED="1424296474941" ID="ID_1544743969" MODIFIED="1424296476619" TEXT="sftp"/>
 </node>
 </node>
-<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1443370419178">
+<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1443821706311">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2771,7 +2771,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399410573215" FOLDED="true" ID="ID_1329724197" MODIFIED="1443370368147">
+<node CREATED="1399410573215" FOLDED="true" ID="ID_1329724197" MODIFIED="1443821706341">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2833,7 +2833,8 @@
       $:<b>&#160;find ./ -type f -exec grep </b>&quot;&lt;string&gt;&quot; {} /dev/null \;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1407797975023" ID="ID_1185175125" MODIFIED="1409411127836">
 <richcontent TYPE="NODE"><html>
   <head>
