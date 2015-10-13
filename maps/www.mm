@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1414186819132" ID="ID_293414614" MODIFIED="1432331100567">
+<node CREATED="1414186819132" ID="ID_293414614" MODIFIED="1444744389996">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415405892036" FOLDED="true" ID="ID_64918932" MODIFIED="1435526269420" POSITION="left">
+<node CREATED="1415405892036" ID="ID_64918932" MODIFIED="1439762595689" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -31,382 +31,8 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1415406087569" ID="ID_1064823589" MODIFIED="1434394429900" TEXT="lib">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1432330212296" ID="ID_1260619625" LINK="http://backbonejs.org/" MODIFIED="1432330527825">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Backbone.js</b>&#160;<img src="../icons/backbonejs.png" />
-    </p>
-    <p>
-      2010
-    </p>
-    <p>
-      <font size="2" color="#3296fa"><i>Jeremy Ashkenas</i></font>
-    </p>
-  </body>
-</html></richcontent>
 </node>
-<node CREATED="1415834175533" ID="ID_312989719" LINK="http://directwebremoting.org/dwr/index.html" MODIFIED="1432331277965">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>DWR</b>&#160;<img src="../icons/dwr.png" />
-    </p>
-    <p>
-      2004
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>David Marginian </i></font>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Joe Walker</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415406007427" ID="ID_846616708" LINK="http://jsphp.co/javascript/php/page/home" MODIFIED="1432331268109">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>jsPHP</b>&#160;<img src="../icons/jsphp.png" />
-    </p>
-    <p>
-      2011
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Kevin van Zonneveld</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415833611384" ID="ID_1614676823" LINK="http://openrico.sourceforge.net/examples/index.html" MODIFIED="1415833701407" TEXT="Pico"/>
-<node CREATED="1415405992066" ID="ID_400065694" LINK="http://prototypejs.org/" MODIFIED="1432331418616">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Prototype</b>
-    </p>
-    <p>
-      2005
-    </p>
-    <p>
-      <font color="#3296fa"><i>Sam Stephenson</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1741832866" ENDARROW="Default" ENDINCLINATION="515;0;" ID="Arrow_ID_166975935" STARTARROW="None" STARTINCLINATION="515;0;"/>
-</node>
-<node CREATED="1415405997635" ID="ID_725214537" LINK="http://script.aculo.us/" MODIFIED="1415406625728" TEXT="script.aculo.us"/>
-<node CREATED="1415406112881" ID="ID_1528012317" LINK="http://yuilibrary.com/" MODIFIED="1415406156479">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>YUI</b>
-    </p>
-    <p>
-      Yahoo! User Interface
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1432331521476" ID="ID_130015849" MODIFIED="1434394446384" TEXT="widgets">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1421783337705" ID="ID_671310861" LINK="https://angularjs.org/" MODIFIED="1421783465267">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>AngularJS</b>&#160;<img src="../icons/angularjs.png" />
-    </p>
-    <p>
-      2000
-    </p>
-    <p>
-      [ <font color="#3296fa">Google</font>&#160;]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1415406003587" ID="ID_1244913743" LINK="http://www.sencha.com/products/extjs/" MODIFIED="1415406646220" TEXT="Ext Core"/>
-<node CREATED="1415406033122" ID="ID_1958983824" MODIFIED="1415406036991" TEXT="Ext JS"/>
-</node>
-<node CREATED="1432331613411" ID="ID_143653282" MODIFIED="1434394442598" TEXT="DOM">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415406040818" FOLDED="true" ID="ID_303382184" LINK="https://dojotoolkit.org/" MODIFIED="1434394445200">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Dojo Toolkit </b><img src="../icons/dojo.png" />
-    </p>
-    <p>
-      2004
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">Alex Russell</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328371252" ID="ID_1182564082" LINK="https://github.com/dojo/dojo" MODIFIED="1432331863708">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1415406013122" FOLDED="true" ID="ID_1695205652" LINK="http://mootools.net/" MODIFIED="1432331557298">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/mootools.png" />
-      
-    </p>
-    <p>
-      2006
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328371252" ID="ID_1270781696" LINK="https://github.com/mootools/mootools-core" MODIFIED="1432331242062">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1414629289784" FOLDED="true" ID="ID_455129655" LINK="https://jquery.com/" MODIFIED="1432331873529">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>jQuery </b><img src="../icons/jquery.png" />
-    </p>
-    <p>
-      2006
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>John Resig</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328371252" ID="ID_1837428906" LINK="https://github.com/jquery/jquery" MODIFIED="1432329617029">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1417477864158" ID="ID_1711125858" LINK="http://nodejs.org/" MODIFIED="1428160252531">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Node.js </b><img src="../icons/node_js.png" />
-    </p>
-    <p>
-      <font size="2">2009 </font>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Pyan Lienhart Dahl</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1432328218855" FOLDED="true" ID="ID_293881334" LINK="https://www.npmjs.com/" MODIFIED="1434394440429">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>npm.js</b>&#160;<img src="../icons/npm.png" />
-    </p>
-    <p>
-      2011
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328371252" ID="ID_1481555636" LINK="https://github.com/npm/npm" MODIFIED="1432328390458">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1432329974508" ID="ID_1587970103" LINK="http://coffeescript.org/" MODIFIED="1432330231995">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>coffe-script</b>&#160;<img src="../icons/coffee_script.png" />
-    </p>
-    <p>
-      2009
-    </p>
-    <p>
-      <font size="2" color="#3296fa"><i>Jeremy Ashkenas</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1432329000747" FOLDED="true" ID="ID_974177486" MODIFIED="1434394454229">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>bower</b>&#160;<img src="../icons/bower.png" />
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328371252" ID="ID_497141709" LINK="https://github.com/bower/bower" MODIFIED="1432329156045">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1424015172094" ID="ID_144404480" MODIFIED="1434394450460" TEXT="TaskRunners">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424015395598" FOLDED="true" ID="ID_1765955690" LINK="http://brunch.io/" MODIFIED="1432329120251">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Brunch</b><img src="../icons/brunch.png" />
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328536883" ID="ID_133325550" LINK="https://github.com/brunch/brunch" MODIFIED="1432328879588">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1424015393420" FOLDED="true" ID="ID_702095545" LINK="http://gulpjs.com/" MODIFIED="1432329121251">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>gulp</b><img src="../icons/gulp.png" />
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328536883" ID="ID_2221446" LINK="https://github.com/gulpjs/gulp" MODIFIED="1432328727297">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1424015184991" FOLDED="true" ID="ID_1866500314" LINK="http://gruntjs.com/" MODIFIED="1432329121883">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>GruntJS</b>&#160;<img src="../icons/grunt.png" />
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1432328536883" ID="ID_1631856090" LINK="https://github.com/gruntjs/grunt" MODIFIED="1432328578599">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../icons/github.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1434394463661" ID="ID_1193472543" LINK="http://modernizr.com/" MODIFIED="1434394482095" TEXT="Modernizr"/>
-<node CREATED="1434394802854" ID="ID_1117408287" LINK="http://d3js.org/" MODIFIED="1434394833691" TEXT="D3js"/>
-</node>
-<node CREATED="1415052925776" FOLDED="true" ID="ID_1087413980" MODIFIED="1432329331875" POSITION="left">
+<node CREATED="1415052925776" FOLDED="true" ID="ID_1087413980" MODIFIED="1440020800185" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -489,7 +115,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414186833035" ID="ID_952601904" LINK="http://www.phpmyadmin.net/home_page/index.php" MODIFIED="1432329384129">
+<node CREATED="1414186833035" FOLDED="true" ID="ID_952601904" LINK="http://www.phpmyadmin.net/home_page/index.php" MODIFIED="1441552501185">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -538,15 +164,15 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1431778028830" FOLDED="true" ID="ID_38936137" MODIFIED="1432753156690" POSITION="left" TEXT="servers">
+<node CREATED="1431778028830" FOLDED="true" ID="ID_38936137" MODIFIED="1444744389995" POSITION="left" TEXT="servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1431778434056" ID="ID_1338529970" MODIFIED="1431778448359" TEXT="Proxy servers">
+<node CREATED="1431778434056" FOLDED="true" ID="ID_1338529970" MODIFIED="1441552501185" TEXT="Proxy servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1431778085661" ID="ID_1338893350" LINK="http://www.squid-cache.org/" MODIFIED="1431778445800" TEXT="squid"/>
 </node>
-<node CREATED="1431778418536" FOLDED="true" ID="ID_1110820607" MODIFIED="1432753155146" TEXT="Web Servers">
+<node CREATED="1431778418536" FOLDED="true" ID="ID_1110820607" MODIFIED="1444744389995" TEXT="Web Servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1431778096125" FOLDED="true" ID="ID_1750077800" LINK="http://nginx.org/" MODIFIED="1432333340589">
+<node CREATED="1431778096125" FOLDED="true" ID="ID_1750077800" LINK="http://nginx.org/" MODIFIED="1440877852366">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -558,6 +184,9 @@
     </p>
     <p>
       2004
+    </p>
+    <p>
+      <font size="2">BSD | C</font>
     </p>
     <p>
       <i><font color="#3296fa" size="2">Igor Sysoev</font></i>
@@ -577,7 +206,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1414790590323" ID="ID_860529771" LINK="https://httpd.apache.org/" MODIFIED="1432333346293">
+<node CREATED="1414790590323" ID="ID_860529771" LINK="https://httpd.apache.org/" MODIFIED="1440877796949">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -590,37 +219,41 @@
       <b>Apache</b>
     </p>
     <p>
-      1995 <font color="#fa0000">US</font>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Robbert McCool </i></font>
+      1995 <font color="#fa0000">US </font>
     </p>
     <p>
       <font size="2">C/C++, XML</font>
     </p>
+    <p>
+      <i><font color="#3296fa" size="2">Robbert McCool </font></i>
+    </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414790643234" ID="ID_1218189159" LINK="https://hadoop.apache.org/" MODIFIED="1432333354005">
+<node CREATED="1440877643272" ID="ID_969595541" LINK="http://www.lighttpd.net/" MODIFIED="1440877881272">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Hadoop </b><img src="../icons/hadoop.png" />
+      <b>Lighttpd</b><img src="../icons/lighttpd.png" />
     </p>
     <p>
-      2005
+      2003
     </p>
     <p>
-      <i><font color="#3296fa" size="2">Doug Cutting</font></i>
+      <font size="2">BSD | C </font>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">Jan Kneschke</font></i>
     </p>
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1444169238684" ID="ID_710589327" LINK="http://www.fastcgi.com/drupal/" MODIFIED="1444169250747" TEXT="FastCGI"/>
 </node>
-<node CREATED="1432321002886" ID="ID_1371773763" MODIFIED="1432321334113">
+<node CREATED="1432321002886" FOLDED="true" ID="ID_1371773763" MODIFIED="1441552501187">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -713,8 +346,11 @@
 </node>
 <node CREATED="1414628885054" ID="ID_1632387169" LINK="http://yacy.net/" MODIFIED="1414629110494" TEXT="YaCy"/>
 </node>
+<node CREATED="1440020779374" FOLDED="true" ID="ID_1624036541" MODIFIED="1441552501187" TEXT="mail servers">
+<node CREATED="1440020783566" ID="ID_714158046" MODIFIED="1440020785706" TEXT="exim"/>
 </node>
-<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1438801720997" POSITION="right" TEXT="Thesarus">
+</node>
+<node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1440020778754" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -793,11 +429,10 @@
       API&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1434325187977" POSITION="right">
+<node CREATED="1415451421836" FOLDED="true" ID="ID_1916043396" MODIFIED="1439762601313" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1236,7 +871,6 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1741832866" ENDARROW="Default" ENDINCLINATION="515;0;" ID="Arrow_ID_166975935" SOURCE="ID_400065694" STARTARROW="None" STARTINCLINATION="515;0;"/>
 </node>
 <node CREATED="1415451532714" ID="ID_1609581552" LINK="http://symfony.com/legacy" MODIFIED="1425250212602" TEXT="Symfony"/>
 <node CREATED="1434305192997" ID="ID_1675248117" LINK="https://phalconphp.com/en/" MODIFIED="1434305425589">
@@ -1264,7 +898,7 @@
 <node CREATED="1415452252447" ID="ID_1470973482" MODIFIED="1415452257260" TEXT="CodeIgniter"/>
 <node CREATED="1432980967552" FOLDED="true" ID="ID_601462725" MODIFIED="1434305128898" TEXT="e-Commerce">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1432981287691" ID="ID_128680090" LINK="http://www.oscommerce.com/" MODIFIED="1432981478293">
+<node CREATED="1432981287691" FOLDED="true" ID="ID_128680090" LINK="http://www.oscommerce.com/" MODIFIED="1441552501188">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1284,7 +918,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1432981483528" ID="ID_1282465157" MODIFIED="1432981487477" TEXT="derived">
+<node CREATED="1432981483528" FOLDED="true" ID="ID_1282465157" MODIFIED="1441552501188" TEXT="derived">
 <node CREATED="1432980975295" ID="ID_87254195" LINK="https://www.zen-cart.com/" MODIFIED="1432981448084">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1341,7 +975,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1432753229063" ID="ID_217151091" LINK="http://gohugo.io/" MODIFIED="1432753273001">
+<node CREATED="1432753229063" FOLDED="true" ID="ID_217151091" LINK="http://gohugo.io/" MODIFIED="1441552501188">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1520,7 +1154,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1434305123146" POSITION="right">
+<node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1440877636267" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1537,6 +1171,21 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1440011629769" ID="ID_755162996" LINK="http://www.aegirproject.org/" MODIFIED="1440012023223">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Aegir</b>&#160;<img src="../icons/aegir.png" />
+    </p>
+    <p>
+      <font size="2">GPL | PHP, JavaScript</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1426544778511" ID="ID_496713427" LINK="http://ajenti.org/" MODIFIED="1432319072320">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1555,12 +1204,81 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1426545233578" ID="ID_889413152" LINK="https://www.ispsystem.com/" MODIFIED="1426545259709" TEXT="ISPSystem"/>
-<node CREATED="1426545269721" ID="ID_951046323" LINK="http://sp.parallels.com/ru/products/plesk/" MODIFIED="1426545283099" TEXT="Plesk Panel"/>
-<node CREATED="1426545392119" ID="ID_105281905" MODIFIED="1426545403587" TEXT="Vesta CP"/>
-<node CREATED="1426545414615" ID="ID_64490991" MODIFIED="1426545418995" TEXT="ISPConfig"/>
-<node CREATED="1426545438710" ID="ID_1389638045" MODIFIED="1426545443027" TEXT="DirectAdmin"/>
+<node CREATED="1440011637145" ID="ID_991662873" LINK="http://www.alternc.com/Home-en" MODIFIED="1440012106190" TEXT="AlternC"/>
+<node CREATED="1440011644729" ID="ID_889815488" MODIFIED="1440011650934" TEXT="Baifox"/>
 <node CREATED="1426544790063" ID="ID_1530837574" MODIFIED="1426544793900" TEXT="cPanel"/>
+<node CREATED="1416953822660" ID="ID_1713816151" LINK="http://cpanel.net/" MODIFIED="1440012039843">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>cPanel </b><img src="../icons/cpanel.png" />
+    </p>
+    <p>
+      1996
+    </p>
+    <p>
+      <font size="2" color="#000000">Perl</font>
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">John Nick Koston </font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1416953971857" ID="ID_246404444" MODIFIED="1416953975262" TEXT="Cube Panel"/>
+<node CREATED="1426545438710" ID="ID_1389638045" MODIFIED="1426545443027" TEXT="DirectAdmin"/>
+<node CREATED="1416953963025" ID="ID_1492622274" MODIFIED="1416953965853" TEXT="DirectAdmin"/>
+<node CREATED="1440011662472" ID="ID_1834035445" MODIFIED="1440011664954" TEXT="Domain Technologie Control"/>
+<node CREATED="1440011674760" ID="ID_1224313955" MODIFIED="1440011676715" TEXT="EasySCP"/>
+<node CREATED="1440011686104" ID="ID_1997750857" MODIFIED="1440011688677" TEXT="EHCP"/>
+<node CREATED="1440011689544" ID="ID_1915010054" MODIFIED="1440011695445" TEXT="Froxlor"/>
+<node CREATED="1440011696136" ID="ID_1699265602" MODIFIED="1440011704485" TEXT="Gnupanel"/>
+<node CREATED="1432319637595" ID="ID_259353964" LINK="http://grappelliproject.com/" MODIFIED="1432319789321">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Grappelli&#160;</b>&#160;<img src="../icons/grappelli.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1416953975568" ID="ID_1907725124" MODIFIED="1416953980478" TEXT="H-Sphere"/>
+<node CREATED="1416953981137" ID="ID_455858787" MODIFIED="1416953983901" TEXT="Helm"/>
+<node CREATED="1440011707880" ID="ID_1470046396" MODIFIED="1440011713445" TEXT="i-MSCP"/>
+<node CREATED="1440011715416" ID="ID_1910719381" MODIFIED="1440011721205" TEXT="ISP Config"/>
+<node CREATED="1426545414615" ID="ID_64490991" MODIFIED="1426545418995" TEXT="ISPConfig"/>
+<node CREATED="1416953984305" ID="ID_20822203" MODIFIED="1416953988190" TEXT="ISPConfig"/>
+<node CREATED="1440011725720" ID="ID_243590688" MODIFIED="1440011728805" TEXT="ispCP"/>
+<node CREATED="1416953959217" ID="ID_545899619" MODIFIED="1416953962638" TEXT="ISPmanager"/>
+<node CREATED="1426545233578" ID="ID_889413152" LINK="https://www.ispsystem.com/" MODIFIED="1426545259709" TEXT="ISPSystem"/>
+<node CREATED="1440011731367" ID="ID_812498660" MODIFIED="1440011733492" TEXT="Kloxo"/>
+<node CREATED="1416953988592" ID="ID_511205678" MODIFIED="1416953991901" TEXT="Lxadmin"/>
+<node CREATED="1440011740583" ID="ID_1226873216" MODIFIED="1440011743492" TEXT="OpenPanel"/>
+<node CREATED="1416953969073" ID="ID_27122960" MODIFIED="1416953971486" TEXT="OpenPanel"/>
+<node CREATED="1416953966561" ID="ID_1767309251" MODIFIED="1416953968526" TEXT="Plesk"/>
+<node CREATED="1426545269721" ID="ID_951046323" LINK="http://sp.parallels.com/ru/products/plesk/" MODIFIED="1426545283099" TEXT="Plesk Panel"/>
+<node CREATED="1440011746263" ID="ID_505139866" MODIFIED="1440011748596" TEXT="Sentora"/>
+<node CREATED="1440011751447" ID="ID_1526827858" MODIFIED="1440011754100" TEXT="SycCP"/>
+<node CREATED="1440011756247" ID="ID_1408994353" MODIFIED="1440011759332" TEXT="usermin"/>
+<node CREATED="1426545392119" ID="ID_105281905" LINK="https://vestacp.com/" MODIFIED="1440011014885">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Vesta CP <img src="../icons/vestacp.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1440011760487" ID="ID_1678669024" MODIFIED="1440011766164" TEXT="Virtualmin"/>
 <node CREATED="1426544796367" FOLDED="true" ID="ID_163407385" LINK="http://www.webmin.com/" MODIFIED="1434304520625">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1598,48 +1316,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1416953822660" ID="ID_1713816151" LINK="http://cpanel.net/" MODIFIED="1432320053000">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>cPanel </b><img src="../icons/cpanel.png" />
-    </p>
-    <p>
-      1996
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">John Nick Koston </font></i>
-    </p>
-    <p>
-      <font color="#000000" size="2">Perl</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1416953959217" ID="ID_545899619" MODIFIED="1416953962638" TEXT="ISPmanager"/>
-<node CREATED="1416953963025" ID="ID_1492622274" MODIFIED="1416953965853" TEXT="DirectAdmin"/>
-<node CREATED="1416953966561" ID="ID_1767309251" MODIFIED="1416953968526" TEXT="Plesk"/>
-<node CREATED="1416953969073" ID="ID_27122960" MODIFIED="1416953971486" TEXT="OpenPanel"/>
-<node CREATED="1416953971857" ID="ID_246404444" MODIFIED="1416953975262" TEXT="Cube Panel"/>
-<node CREATED="1416953975568" ID="ID_1907725124" MODIFIED="1416953980478" TEXT="H-Sphere"/>
-<node CREATED="1416953981137" ID="ID_455858787" MODIFIED="1416953983901" TEXT="Helm"/>
-<node CREATED="1416953984305" ID="ID_20822203" MODIFIED="1416953988190" TEXT="ISPConfig"/>
-<node CREATED="1416953988592" ID="ID_511205678" MODIFIED="1416953991901" TEXT="Lxadmin"/>
-<node CREATED="1432319637595" ID="ID_259353964" LINK="http://grappelliproject.com/" MODIFIED="1432319789321">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Grappelli&#160;</b>&#160;<img src="../icons/grappelli.png" />
-    </p>
-  </body>
-</html></richcontent>
-</node>
+<node CREATED="1440011767415" ID="ID_560166398" MODIFIED="1440011775844" TEXT="WebsitePanel"/>
 </node>
 <node CREATED="1432320850857" FOLDED="true" ID="ID_289403825" MODIFIED="1432331139910" POSITION="right">
 <richcontent TYPE="NODE"><html>

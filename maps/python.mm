@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398203924278" ID="1" MODIFIED="1433179722966">
+<node CREATED="1398203924278" ID="1" MODIFIED="1444744383013">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -588,7 +588,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1435611414990" POSITION="right" STYLE="fork" TEXT="build-in">
+<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1441545941348" POSITION="right" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      build-in
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924280" FOLDED="true" ID="185" MODIFIED="1431558986461" TEXT="converters">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -971,7 +981,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1402522868663" FOLDED="true" ID="ID_639446404" MODIFIED="1435611413822" TEXT="classes">
+<node CREATED="1402522868663" FOLDED="true" ID="ID_639446404" MODIFIED="1441399390436" TEXT="classes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1400103045867" ID="ID_560325981" MODIFIED="1402523325318">
 <richcontent TYPE="NODE"><html>
@@ -1410,7 +1420,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" ID="24" MODIFIED="1435611377910" POSITION="right" STYLE="fork" TEXT="Data types">
+<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1444744383012" POSITION="right" STYLE="fork" TEXT="Data types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1431558986511" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1425,7 +1435,7 @@
 <node CREATED="1398203924282" ID="175" MODIFIED="1398203924282" TEXT="Complex"/>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="28" MODIFIED="1433490501046" TEXT="string">
+<node CREATED="1398203924282" FOLDED="true" ID="28" MODIFIED="1444744383012" TEXT="string">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398549132682" ID="ID_392673022" MODIFIED="1398549174447">
 <richcontent TYPE="NODE"><html>
@@ -1592,9 +1602,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1418686370533" FOLDED="true" ID="ID_1060963041" MODIFIED="1433490499318" TEXT="methods">
+<node CREATED="1418686370533" FOLDED="true" ID="ID_1060963041" MODIFIED="1444744383011" TEXT="methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1431552024265" ID="ID_1114529378" MODIFIED="1433489756060" TEXT="checks">
+<node CREATED="1431552024265" FOLDED="true" ID="ID_1114529378" MODIFIED="1444744383011" TEXT="checks">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398551115578" ID="ID_1465421840" MODIFIED="1398551132010" TEXT="S.isalnum()"/>
 <node CREATED="1398551140617" ID="ID_564618687" MODIFIED="1398551154775" TEXT="S.isdigit()"/>
@@ -1719,7 +1729,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1435611391662">
+<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1441545941353">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1731,49 +1741,36 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1415575737886" FOLDED="true" ID="ID_854407161" MODIFIED="1430434522347" TEXT="dictionary">
+<node CREATED="1415575737886" FOLDED="true" ID="ID_854407161" MODIFIED="1441545941351" TEXT="dictionary">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398541161869" ID="ID_787868320" MODIFIED="1418686538540">
+<node CREATED="1398541161869" ID="ID_787868320" MODIFIED="1441399797991">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>D = { }</b>
+      <font face="SansSerif, sans-serif">dic = {&quot;key&quot;: &quot;value&quot;}</font>
     </p>
     <p>
-      <font color="#3296fa"><i>define a dictionaries</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font face="SansSerif, sans-serif"><span style="font-weight: bold; font-family: SansSerif, sans-serif">D = {&quot;key&quot;: &quot;value&quot;}</span></font></b>
+      <i><font size="2" color="#6496fa">define a dictionaries</font></i>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1418686492739" FOLDED="true" ID="ID_646800322" MODIFIED="1429311095152" TEXT="Dictionary Methods">
+<node CREATED="1418686492739" FOLDED="true" ID="ID_646800322" MODIFIED="1441545941350" TEXT="methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924286" ID="201" MODIFIED="1401923499867">
+<node CREATED="1398203924286" ID="201" MODIFIED="1441399593930">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>D.values()</b>
+      dic<b>.values()</b>
     </p>
     <p>
-      <i><font color="#3296fa">return a copy of </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">the dictionary's list of values.</font></i>
+      <i><font size="2" color="#6496fa">return dict. values</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -1781,20 +1778,17 @@
 <node CREATED="1398203924286" ID="204" MODIFIED="1398203924286" TEXT="D.update(D)"/>
 <node CREATED="1398203924286" ID="203" MODIFIED="1398203924286" TEXT="D.get(key, default)"/>
 <node CREATED="1398203924286" ID="202" MODIFIED="1398203924286" TEXT="D.copy()"/>
-<node CREATED="1398203924286" ID="200" MODIFIED="1401923506042">
+<node CREATED="1398203924286" ID="200" MODIFIED="1441399601189">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>D.keys()</b>
+      dic<b>.keys()</b>
     </p>
     <p>
-      <i><font color="#3296fa">return a copy of </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa">the dictionary's list of keys.</font></i>
+      <i><font size="2" color="#6496fa">return dic.&#160;keys.</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -1826,7 +1820,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" ID="38" MODIFIED="1433613257449" TEXT="lists">
+<node CREATED="1398203924283" FOLDED="true" ID="38" MODIFIED="1441545941352" TEXT="lists">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398541205154" ID="ID_1714088058" MODIFIED="1430435508019">
 <richcontent TYPE="NODE"><html>
@@ -2350,7 +2344,7 @@
 <node CREATED="1398456042393" ID="ID_1734402449" MODIFIED="1398456045447" TEXT="break"/>
 <node CREATED="1398456123640" ID="ID_1944536412" MODIFIED="1398456124662" TEXT="while"/>
 </node>
-<node CREATED="1398527361040" ID="ID_403676226" MODIFIED="1433484302386" TEXT="condition">
+<node CREATED="1398527361040" FOLDED="true" ID="ID_403676226" MODIFIED="1441545941355" TEXT="condition">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398456032136" ID="ID_1404566511" MODIFIED="1398456036999" TEXT="and"/>
 <node CREATED="1398456058280" ID="ID_228168173" MODIFIED="1398456060454" TEXT="elif"/>
@@ -2469,9 +2463,9 @@
 <node CREATED="1417735235814" ID="ID_918437704" MODIFIED="1433104117796" TEXT="__excepthook__"/>
 </node>
 </node>
-<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1435611435215" POSITION="left" STYLE="fork" TEXT="lib">
+<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1441545941357" POSITION="left" STYLE="fork" TEXT="lib">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1435611362759" STYLE="fork" TEXT="standart">
+<node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1441545941357" STYLE="fork" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416682044057" FOLDED="true" ID="ID_614858224" LINK="https://docs.python.org/2/library/base64.html" MODIFIED="1429311095161" TEXT="base64">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -3432,7 +3426,7 @@
 <node CREATED="1417822020334" ID="ID_294896330" MODIFIED="1417822020334" TEXT="traceback"/>
 <node CREATED="1417822020335" ID="ID_1607798791" MODIFIED="1417822020335" TEXT="types"/>
 </node>
-<node CREATED="1398452036990" FOLDED="true" ID="ID_863486132" LINK="https://docs.python.org/2/library/sys.html#module-sys" MODIFIED="1433179722963">
+<node CREATED="1398452036990" FOLDED="true" ID="ID_863486132" LINK="https://docs.python.org/2/library/sys.html#module-sys" MODIFIED="1441399328960">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3468,7 +3462,7 @@
 <node CREATED="1417735235818" MODIFIED="1417735235818" TEXT="sys._getframe"/>
 <node CREATED="1417735235818" MODIFIED="1417735235818" TEXT="sys._mercurial"/>
 <node CREATED="1417735235819" MODIFIED="1417735235819" TEXT="sys.api_version"/>
-<node CREATED="1417735235819" FOLDED="true" ID="ID_1353366175" MODIFIED="1433179722960">
+<node CREATED="1417735235819" FOLDED="true" ID="ID_1353366175" MODIFIED="1440618606927">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4532,7 +4526,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398000845975" FOLDED="true" ID="ID_1395125167" MODIFIED="1435611435216" POSITION="left" STYLE="fork" TEXT="operators">
+<node CREATED="1398000845975" FOLDED="true" ID="ID_1395125167" MODIFIED="1441545941359" POSITION="left" STYLE="fork" TEXT="operators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398001302798" FOLDED="true" ID="ID_1544869825" MODIFIED="1433066988591" TEXT="arithmetic">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4813,7 +4807,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398541641910" FOLDED="true" ID="ID_52973271" MODIFIED="1430434861927">
+<node CREATED="1398541641910" FOLDED="true" ID="ID_52973271" MODIFIED="1441545941358">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4823,10 +4817,10 @@
       <b>bitwise</b>
     </p>
     <p>
-      <font color="#3296fa"><i>operations only make </i></font>
+      <font color="#6496fa" size="2"><i>operations only make </i></font>
     </p>
     <p>
-      <font color="#3296fa"><i>sense for integers</i></font>
+      <font color="#6496fa" size="2"><i>sense for integers</i></font>
     </p>
   </body>
 </html></richcontent>

@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1408468581612" ID="ID_879480445" MODIFIED="1438796891200" STYLE="fork" TEXT="Text Editors">
+<node CREATED="1408468581612" ID="ID_879480445" MODIFIED="1441552556436" STYLE="fork" TEXT="Text Editors">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node CREATED="1415906346131" ID="ID_319742038" LINK="http://akelpad.sourceforge.net/en/index.php" MODIFIED="1415906356811" POSITION="right" TEXT="AkelPad"/>
@@ -163,7 +163,7 @@
 <node CREATED="1432323883646" MODIFIED="1432323883646" TEXT="Federico Mena Quintero"/>
 </node>
 </node>
-<node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1432323448830" POSITION="right">
+<node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1440359065112" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -176,10 +176,7 @@
       1970 <font color="#fa0000">US</font>
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>Richard Stallman </i></font>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Guy L. Steele</i></font>
+      <i><font color="#3296fa" size="2">Richard Stallman, Guy L. Steele</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -195,8 +192,7 @@
       An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion... [wiki]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1440194742843">
 <richcontent TYPE="NODE"><html>
@@ -214,8 +210,7 @@
       <font size="2">Java</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1414183976055" ID="ID_1951380072" MODIFIED="1414183980020" TEXT="PHPEclipse"/>
 </node>
 <node CREATED="1414183983463" ID="ID_449833586" MODIFIED="1414183987060" TEXT="PhpED"/>
@@ -264,8 +259,7 @@
       <font size="2">[ </font><font size="2" color="#3296fa">Oracle</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414183964263" ID="ID_1418462241" MODIFIED="1414183968132" TEXT="phpDesigner"/>
 <node CREATED="1414187334564" ID="ID_952787146" MODIFIED="1414187341265" TEXT="Aptana"/>
@@ -388,7 +382,7 @@
 <node CREATED="1409008746348" ID="ID_1910076720" MODIFIED="1414183902100" POSITION="left" TEXT="kate"/>
 <node CREATED="1409008741629" ID="ID_214558883" MODIFIED="1414183902100" POSITION="left" TEXT="kdit"/>
 <node CREATED="1409008725805" ID="ID_1535844843" MODIFIED="1414183902100" POSITION="left" TEXT="kwrite"/>
-<node CREATED="1416424626802" FOLDED="true" ID="ID_1650094155" LINK="http://lighttable.com/" MODIFIED="1429311603447" POSITION="right">
+<node CREATED="1416424626802" ID="ID_1650094155" LINK="http://lighttable.com/" MODIFIED="1440359050997" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -400,32 +394,14 @@
     <p>
       2012
     </p>
-  </body>
-</html></richcontent>
-<node CREATED="1416424714406" ID="ID_1840415237" MODIFIED="1416424724616">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
     <p>
-      <i><font color="#3296fa">Chris Granger</font></i>
+      <font size="2">MIT | ClojureScript</font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Chris Granger, Robert Attorri</font></i>
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1416424724620" ID="ID_452925273" MODIFIED="1416424724624">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <i><font color="#3296fa">Robert Attorri</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node CREATED="1416427834689" ID="ID_1910810260" LINK="http://limetext.org/" MODIFIED="1416427977698" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -485,8 +461,7 @@
       <i><font size="3" color="#3296fa">Jan Fiala</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415905666494" ID="ID_1996171305" LINK="http://www.scintilla.org/SciTE.html" MODIFIED="1415905734638" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -510,7 +485,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1415906992537" ID="ID_179212178" MODIFIED="1415907000454" POSITION="left" TEXT="Source Insight"/>
-<node CREATED="1408468596731" ID="ID_825102845" LINK="http://www.sublimetext.com/" MODIFIED="1432323413541" POSITION="right">
+<node CREATED="1408468596731" ID="ID_825102845" LINK="http://www.sublimetext.com/" MODIFIED="1440359079316" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -523,10 +498,10 @@
       2008
     </p>
     <p>
-      <font color="#3296fa" size="2"><i>Jon Skinner </i></font>
+      <font size="2">Python, C++</font>
     </p>
     <p>
-      <font size="2">Python, C++</font>
+      <i><font color="#3296fa" size="2">Jon Skinner </font></i>
     </p>
   </body>
 </html></richcontent>
@@ -534,7 +509,7 @@
 <node CREATED="1416428917537" ID="ID_1282392932" LINK="http://www.uvviewsoft.com/synwrite/" MODIFIED="1438800831579" POSITION="right" TEXT="SynWriter"/>
 <node CREATED="1438796894133" FOLDED="true" ID="ID_1427974896" MODIFIED="1438801691869" POSITION="right" TEXT="Terminal-based">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1412961654829" ID="ID_215248594" MODIFIED="1438797040795">
+<node CREATED="1412961654829" FOLDED="true" ID="ID_215248594" MODIFIED="1441552556434">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -551,7 +526,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1438797055539" ID="ID_744331473" MODIFIED="1438797268159" TEXT="vi-derived">
+<node CREATED="1438797055539" FOLDED="true" ID="ID_744331473" MODIFIED="1441552556433" TEXT="vi-derived">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1438797307839" ID="ID_1076836722" MODIFIED="1438797540624">
 <richcontent TYPE="NODE"><html>
@@ -601,7 +576,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408468625145" ID="ID_1133176202" LINK="http://www.vim.org/" MODIFIED="1438797320033">
+<node CREATED="1408468625145" FOLDED="true" ID="ID_1133176202" LINK="http://www.vim.org/" MODIFIED="1441552556432">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -618,7 +593,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1438797337039" ID="ID_466196799" MODIFIED="1438797343504" TEXT="vim-derived">
+<node CREATED="1438797337039" FOLDED="true" ID="ID_466196799" MODIFIED="1441552556431" TEXT="vim-derived">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416080113447" ID="ID_1948274765" LINK="http://neovim.org/" MODIFIED="1416080625103">
 <richcontent TYPE="NODE"><html>
@@ -681,7 +656,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1432323508191" ID="ID_892682292" LINK="https://wiki.haskell.org/Yi" MODIFIED="1438798253815">
+<node CREATED="1432323508191" FOLDED="true" ID="ID_892682292" LINK="https://wiki.haskell.org/Yi" MODIFIED="1441552556435">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -827,8 +802,7 @@
       <font size="2">OS X</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1440193178648" ID="ID_1697819100" MODIFIED="1440193250582" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -843,8 +817,7 @@
       2004
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1440194771892" ID="ID_1959480993" LINK="https://codemirror.net/" MODIFIED="1440195020109" POSITION="left">
 <richcontent TYPE="NODE"><html>
@@ -865,8 +838,7 @@
       <i><font size="2" color="#3296fa">Marijn Haverbeke</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>

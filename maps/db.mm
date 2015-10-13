@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1433609030768" ID="ID_476999947" MODIFIED="1433609044446">
+<node CREATED="1433609030768" ID="ID_476999947" MODIFIED="1441552529957">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1435618177338" ID="ID_1924152665" MODIFIED="1435618183963" POSITION="right" TEXT="Monitoring">
+<node CREATED="1435618177338" FOLDED="true" ID="ID_1924152665" MODIFIED="1441552529952" POSITION="right" TEXT="Monitoring">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433609045459" ID="ID_1992867621" LINK="http://www.zabbix.com/" MODIFIED="1435618254391">
 <richcontent TYPE="NODE"><html>
@@ -36,7 +36,19 @@
 </node>
 </node>
 <node CREATED="1436478906614" ID="ID_1574381288" MODIFIED="1436478911809" POSITION="right" TEXT="Couchbase "/>
-<node CREATED="1433609050449" ID="ID_258575042" LINK="https://www.mysql.com/" MODIFIED="1435525550891" POSITION="right" TEXT="MySQL"/>
+<node CREATED="1433609050449" ID="ID_258575042" LINK="https://www.mysql.com/" MODIFIED="1442962373900" POSITION="right" TEXT="MySQL">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The two most popular storage engines in MySQL are InnoDB and MyISAM
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1435616985387" ID="ID_5967700" MODIFIED="1435616997033" POSITION="right" TEXT="Thesarus">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -82,7 +94,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1434324149247" ID="ID_1518385343" MODIFIED="1434324154912" POSITION="left" TEXT="Graph DB">
+<node CREATED="1434324149247" FOLDED="true" ID="ID_1518385343" MODIFIED="1441552529952" POSITION="left" TEXT="Graph DB">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434324155679" ID="ID_294725339" MODIFIED="1434324166810" TEXT="OpenCog"/>
 <node CREATED="1434323868403" ID="ID_1434564239" LINK="http://orientdb.com/" MODIFIED="1435617205752">
@@ -104,9 +116,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1438463162292" ID="ID_942804083" MODIFIED="1438463594875" POSITION="left" TEXT="Distributed NoSQL DB">
+<node CREATED="1438463162292" FOLDED="true" ID="ID_942804083" MODIFIED="1441552529957" POSITION="left" TEXT="Distributed NoSQL DB">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1438463616708" ID="ID_72299112" LINK="https://en.wikipedia.org/wiki/Column_%28data_store%29" MODIFIED="1438464169431">
+<node CREATED="1438463616708" FOLDED="true" ID="ID_72299112" LINK="https://en.wikipedia.org/wiki/Column_%28data_store%29" MODIFIED="1441552529953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -116,8 +128,7 @@
       Column
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1438464070626" ID="ID_1638207942" MODIFIED="1438464070626" TEXT="Accumulo"/>
 <node CREATED="1438464070627" MODIFIED="1438464070627" TEXT="Cassandra"/>
@@ -125,7 +136,7 @@
 <node CREATED="1438464070628" MODIFIED="1438464070628" TEXT="HBase"/>
 <node CREATED="1438464070628" MODIFIED="1438464070628" TEXT="Vertica"/>
 </node>
-<node CREATED="1438463622436" ID="ID_1818785499" MODIFIED="1438463965712">
+<node CREATED="1438463622436" FOLDED="true" ID="ID_1818785499" MODIFIED="1441552529954">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -135,8 +146,7 @@
       Document:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1438464042242" ID="ID_1803775186" MODIFIED="1438464042242" TEXT="&#xa0;Clusterpoint"/>
 <node CREATED="1438464042243" MODIFIED="1438464042243" TEXT="Apache CouchDB"/>
@@ -149,7 +159,7 @@
 <node CREATED="1438464042246" MODIFIED="1438464042246" TEXT="OrientDB"/>
 <node CREATED="1438464042246" MODIFIED="1438464042246" TEXT="Qizx"/>
 </node>
-<node CREATED="1438463629820" ID="ID_1564234921" MODIFIED="1438463964991">
+<node CREATED="1438463629820" FOLDED="true" ID="ID_1564234921" MODIFIED="1441552529955">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -159,8 +169,7 @@
       Key-value
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1438464002945" ID="ID_958107670" MODIFIED="1438464002945" TEXT="Oracle NoSQL Database"/>
 <node CREATED="1438464002945" MODIFIED="1438464002945" TEXT="Dynamo"/>
@@ -186,7 +195,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1438462901486" ID="ID_1908444732" MODIFIED="1438463072235" TEXT="people">
+<node CREATED="1438462901486" FOLDED="true" ID="ID_1908444732" MODIFIED="1441552529955" TEXT="people">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1438463073101" ID="ID_1698784981" MODIFIED="1438463079579">
 <richcontent TYPE="NODE"><html>
@@ -341,7 +350,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1438463640915" ID="ID_1700277504" MODIFIED="1438463963505">
+<node CREATED="1438463640915" FOLDED="true" ID="ID_1700277504" MODIFIED="1441552529956">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -351,8 +360,7 @@
       Graph
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1438463957470" ID="ID_1253617662" MODIFIED="1438463957470" TEXT="Allegro"/>
 <node CREATED="1438463957471" ID="ID_1218985905" MODIFIED="1438463957471" TEXT="InfiniteGraph"/>
@@ -422,8 +430,7 @@
       retrieval
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>
