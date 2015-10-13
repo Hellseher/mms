@@ -17,7 +17,7 @@
 <node CREATED="1426114510433" ID="ID_1581776675" MODIFIED="1426114518061" TEXT="C-c C-k"/>
 <node CREATED="1426114731837" ID="ID_973310573" MODIFIED="1426114737156" TEXT="M-p"/>
 </node>
-<node CREATED="1426031413359" ID="ID_221246514" MODIFIED="1434698793297" POSITION="left" TEXT="interpretators">
+<node CREATED="1426031413359" FOLDED="true" ID="ID_221246514" MODIFIED="1443649110130" POSITION="left" TEXT="interpretators">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1425431531567" ID="ID_1066375368" LINK="http://www.sbcl.org/manual/" MODIFIED="1425511035980" TEXT="SBCL"/>
 <node CREATED="1425431542380" ID="ID_1987433762" MODIFIED="1425431547625" TEXT="Clozure CL"/>
@@ -34,7 +34,7 @@
 <node CREATED="1434696298339" ID="ID_387107875" MODIFIED="1434696300703" TEXT="MKCL"/>
 <node CREATED="1434696302771" ID="ID_287430342" MODIFIED="1434696306303" TEXT="ScieneerCL"/>
 </node>
-<node CREATED="1426116259141" ID="ID_1727891250" MODIFIED="1434698761746" POSITION="right" TEXT="Functions">
+<node CREATED="1426116259141" FOLDED="true" ID="ID_1727891250" MODIFIED="1443821868701" POSITION="right" TEXT="Functions">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1426114221477" ID="ID_1252417165" MODIFIED="1426114227073" TEXT="(compile-file "/>
 <node CREATED="1426031565833" ID="ID_1162927698" MODIFIED="1434699029936">
@@ -47,8 +47,7 @@
       (<b>defun </b><i><font color="#14aadc">name</font></i>&#160;args <font color="#649632">&amp;body</font>&#160;body)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1426116555456" ID="ID_734928484" MODIFIED="1426116561661" TEXT="(force-output"/>
 <node CREATED="1426031433420" ID="ID_220087069" MODIFIED="1426116254232">
@@ -101,76 +100,10 @@
 <node CREATED="1427672301060" ID="ID_1970901654" MODIFIED="1427672305107" TEXT="(equal"/>
 <node CREATED="1427672305460" ID="ID_936473888" MODIFIED="1427672309250" TEXT="(equalp"/>
 </node>
-<node CREATED="1427645456161" ID="ID_192364988" MODIFIED="1427645471073" TEXT="Lists">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1427645474464" ID="ID_1788382046" MODIFIED="1427671187253">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (<b>list-length </b>list)
-    </p>
-  </body>
-</html></richcontent>
 </node>
-<node CREATED="1427645585390" ID="ID_767894840" MODIFIED="1427645598892">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (<b>list</b>&#160;&amp;rest args)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1427645628334" ID="ID_185678196" MODIFIED="1427645633755" TEXT="(nth n list)"/>
-<node CREATED="1427645877946" ID="ID_525448212" MODIFIED="1427645892920" TEXT="&apos;(a b c d ... n)"/>
-<node CREATED="1426114645518" ID="ID_566976357" MODIFIED="1426114653068" TEXT="(list "/>
-</node>
-<node CREATED="1426118456562" ID="ID_695467929" MODIFIED="1426118460755" TEXT="Math">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1426118377667" ID="ID_691878075" MODIFIED="1426118383376" TEXT="(evenp"/>
-<node CREATED="1427313540490" ID="ID_1732845138" MODIFIED="1427313550091" TEXT="Numerical Functions">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1427313630264" ID="ID_855396100" MODIFIED="1427313640406" TEXT="(abs number)"/>
-<node CREATED="1427313640904" ID="ID_699470608" MODIFIED="1427313649253" TEXT="(expt base power)"/>
-<node CREATED="1427313649688" ID="ID_554413069" MODIFIED="1427313762675" TEXT="(gcd &amp;rest integers)"/>
-<node CREATED="1427313740662" ID="ID_307185368" MODIFIED="1427313757107" TEXT="(lcm &amp;rest integers)"/>
-<node CREATED="1427313764533" ID="ID_324419040" MODIFIED="1427642550556">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      (<b>isqrt</b>&#160;<i>n</i>)
-    </p>
-    <p>
-      <i><font color="#3296fa">return integer square root</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1427641245091" ID="ID_1854856523" MODIFIED="1427641255744" TEXT="(sqrt integer)"/>
-<node CREATED="1427241039068" ID="ID_1763404433" MODIFIED="1427313844738" TEXT="(floor number &amp;optional divisor)"/>
-<node CREATED="1427241044395" ID="ID_1923600991" MODIFIED="1427313860482" TEXT="(ceiling number &amp;optional divisor)"/>
-<node CREATED="1427241049387" ID="ID_1927679404" MODIFIED="1427313877730" TEXT="(truncate number &amp;optional divisor)"/>
-<node CREATED="1427241054955" ID="ID_1980955557" MODIFIED="1427313901425" TEXT="(round number &amp;optional divisor"/>
-<node CREATED="1426118453234" ID="ID_14570793" MODIFIED="1427313914832" TEXT="(mod number divisor)"/>
-<node CREATED="1427313918515" ID="ID_1996580133" MODIFIED="1427313924689" TEXT="(rem number divisor)"/>
-</node>
-</node>
-</node>
-<node CREATED="1427671087480" FOLDED="true" ID="ID_488562205" MODIFIED="1427671930375" POSITION="right" TEXT="Special forms">
+<node CREATED="1427671087480" FOLDED="true" ID="ID_488562205" MODIFIED="1443821867429" POSITION="right" TEXT="Special forms">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1427671094424" ID="ID_81712898" MODIFIED="1427671131445" TEXT="(if test-form then-form [ else-form ])"/>
-<node CREATED="1427671154023" ID="ID_566622268" MODIFIED="1427671159284" TEXT="(quote )">
-<node CREATED="1426114778796" ID="ID_1215994285" MODIFIED="1426114782393" TEXT="(&apos;"/>
-</node>
 <node CREATED="1427240222297" ID="ID_529479873" MODIFIED="1427240245270" TEXT="(setq var [str | lst]"/>
 <node CREATED="1427671543361" ID="ID_382740274" MODIFIED="1427671545278" TEXT="block"/>
 <node CREATED="1427671545792" ID="ID_174908139" MODIFIED="1427671547070" TEXT="catch"/>
@@ -195,7 +128,7 @@
 <node CREATED="1427671619343" ID="ID_1473811090" MODIFIED="1427671620765" TEXT="throw"/>
 <node CREATED="1427671621023" ID="ID_1241141885" MODIFIED="1427671625069" TEXT="uniwind-protect"/>
 </node>
-<node CREATED="1426115536944" FOLDED="true" ID="ID_1900955535" MODIFIED="1432333739485" POSITION="right" TEXT="Macros">
+<node CREATED="1426115536944" FOLDED="true" ID="ID_1900955535" MODIFIED="1443821865701" POSITION="right" TEXT="Macros">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1426115541520" ID="ID_653657594" MODIFIED="1426115546174" TEXT="(dolist"/>
 <node CREATED="1426115184230" ID="ID_1709050356" MODIFIED="1426115191331" TEXT="(defvar "/>
@@ -217,7 +150,8 @@
 <node CREATED="1426284016237" ID="ID_1845423581" MODIFIED="1426284021642" TEXT="QuuickLisp"/>
 <node CREATED="1426284022125" ID="ID_815784517" LINK="https://common-lisp.net/project/asdf/" MODIFIED="1426284035380" TEXT="ASDF"/>
 </node>
-<node CREATED="1427669231398" FOLDED="true" ID="ID_1929609924" MODIFIED="1432333691533" POSITION="right" TEXT="Black Box">
+<node CREATED="1427669231398" FOLDED="true" ID="ID_1929609924" MODIFIED="1443821870205" POSITION="right" TEXT="Black Box">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1427669238342" ID="ID_405275594" MODIFIED="1427669241827" TEXT="reader"/>
 <node CREATED="1427669242118" ID="ID_907383226" MODIFIED="1427669245716" TEXT="evaluator"/>
 <node CREATED="1427669260646" ID="ID_861544664" MODIFIED="1427669265571" TEXT="s-expressions">
@@ -239,7 +173,7 @@
 </node>
 <node CREATED="1427670616799" ID="ID_997113904" MODIFIED="1427670624672" TEXT="elseever">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1427669556737" FOLDED="true" ID="ID_769814453" MODIFIED="1427669925689" TEXT="numbers">
+<node CREATED="1427669556737" ID="ID_769814453" MODIFIED="1443649139186" TEXT="numbers">
 <node CREATED="1427669640733" MODIFIED="1427669640733" TEXT="123       ; the integer one hundred twenty-three"/>
 <node CREATED="1427669640734" MODIFIED="1427669640734" TEXT="3/7       ; the ratio three-sevenths"/>
 <node CREATED="1427669640734" MODIFIED="1427669640734" TEXT="1.0       ; the floating-point number one in default precision"/>
@@ -262,6 +196,184 @@
 <node CREATED="1427670966138" ID="ID_1953575889" MODIFIED="1427670970871" TEXT="special operators"/>
 </node>
 <node CREATED="1427669282918" ID="ID_926188124" MODIFIED="1427669285939" TEXT="Lisp-forms"/>
+</node>
+<node CREATED="1443821877090" ID="ID_1337426663" MODIFIED="1443821880470" POSITION="right" TEXT="Signs">
+<node CREATED="1443821881562" ID="ID_124924411" MODIFIED="1443821883335" TEXT="&apos;"/>
+<node CREATED="1443821883978" ID="ID_1538448600" MODIFIED="1443821885063" TEXT="#">
+<node CREATED="1443821891235" ID="ID_1712607892" MODIFIED="1443821892951" TEXT="#&apos;"/>
+<node CREATED="1443821893467" ID="ID_564396553" MODIFIED="1443821899014" TEXT="#("/>
+<node CREATED="1443821899529" ID="ID_1999159509" MODIFIED="1443821902646" TEXT="#b"/>
+<node CREATED="1443821903066" ID="ID_1074234026" MODIFIED="1443821905102" TEXT="#x"/>
+<node CREATED="1443821905770" ID="ID_542425430" MODIFIED="1443821907335" TEXT="#d"/>
+</node>
+<node CREATED="1443821886018" ID="ID_1623047356" MODIFIED="1443821886878" TEXT=":"/>
+</node>
+<node CREATED="1427645456161" FOLDED="true" ID="ID_192364988" MODIFIED="1443821874293" POSITION="right" TEXT="Lists">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427645474464" ID="ID_1788382046" MODIFIED="1427671187253">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>list-length </b>list)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1427645628334" ID="ID_185678196" MODIFIED="1427645633755" TEXT="(nth n list)"/>
+<node CREATED="1427645877946" ID="ID_525448212" MODIFIED="1427645892920" TEXT="&apos;(a b c d ... n)"/>
+<node CREATED="1443647706532" ID="ID_483719490" MODIFIED="1443647710436" TEXT="selectors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1443647711548" ID="ID_226578567" MODIFIED="1443647760600">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>first</b>&#160;<i>list</i>)
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1443647719844" ID="ID_1711089814" MODIFIED="1443647773654">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>rest</b>&#160;<i>list</i>)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1443647900946" ID="ID_1923934389" MODIFIED="1443647905574" TEXT="constructors">
+<node CREATED="1427645585390" ID="ID_767894840" MODIFIED="1443648365597">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>list</b>&#160;<i>&amp;rest args</i>)
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>contains a list of all of the args</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; (list 'lions 'tigers 'bears)
+    </p>
+    <p>
+      (LIONS TIGERS BEARS)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1443647852378" ID="ID_349916672" MODIFIED="1443648383290">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>cons</b>&#160;<i>se1 se2</i>)
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; (cons 'lions '(tigers bears))
+    </p>
+    <p>
+      (LIONS TIGERS BEARS)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1443647859818" ID="ID_1886497337" MODIFIED="1443648368048" TEXT="(append ">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &gt; (append '(lions) '(tigers bears))
+    </p>
+    <p>
+      (LIONS TIGERS BEARS)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1427671154023" ID="ID_566622268" MODIFIED="1443650171396">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>quote</b>&#160;<i>thing</i>&#160;)
+    </p>
+    <p>
+      <font color="#6496fa" size="2">returns argument(s) unevaluated</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1426114778796" ID="ID_1215994285" MODIFIED="1426114782393" TEXT="(&apos;"/>
+</node>
+<node CREATED="1443650061008" ID="ID_358704318" MODIFIED="1443650078205" TEXT="(backquote "/>
+</node>
+</node>
+<node CREATED="1426118456562" FOLDED="true" ID="ID_695467929" MODIFIED="1443649121409" POSITION="right" TEXT="Math">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1426118377667" ID="ID_691878075" MODIFIED="1426118383376" TEXT="(evenp"/>
+<node CREATED="1427313540490" ID="ID_1732845138" MODIFIED="1427313550091" TEXT="Numerical Functions">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427313630264" ID="ID_855396100" MODIFIED="1427313640406" TEXT="(abs number)"/>
+<node CREATED="1427313640904" ID="ID_699470608" MODIFIED="1427313649253" TEXT="(expt base power)"/>
+<node CREATED="1427313649688" ID="ID_554413069" MODIFIED="1427313762675" TEXT="(gcd &amp;rest integers)"/>
+<node CREATED="1427313740662" ID="ID_307185368" MODIFIED="1427313757107" TEXT="(lcm &amp;rest integers)"/>
+<node CREATED="1427313764533" ID="ID_324419040" MODIFIED="1443648616666">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (<b>isqrt</b>&#160;<i>n</i>)
+    </p>
+    <p>
+      <font color="#6496fa" size="2"><i>return integer square root</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1427641245091" ID="ID_1854856523" MODIFIED="1427641255744" TEXT="(sqrt integer)"/>
+<node CREATED="1427241039068" ID="ID_1763404433" MODIFIED="1427313844738" TEXT="(floor number &amp;optional divisor)"/>
+<node CREATED="1427241044395" ID="ID_1923600991" MODIFIED="1427313860482" TEXT="(ceiling number &amp;optional divisor)"/>
+<node CREATED="1427241049387" ID="ID_1927679404" MODIFIED="1427313877730" TEXT="(truncate number &amp;optional divisor)"/>
+<node CREATED="1427241054955" ID="ID_1980955557" MODIFIED="1427313901425" TEXT="(round number &amp;optional divisor"/>
+<node CREATED="1426118453234" ID="ID_14570793" MODIFIED="1427313914832" TEXT="(mod number divisor)"/>
+<node CREATED="1427313918515" ID="ID_1996580133" MODIFIED="1427313924689" TEXT="(rem number divisor)"/>
+</node>
 </node>
 </node>
 </map>
