@@ -2,9 +2,14 @@
 File          : gnu-core-utilities.md
 
 Created       : Wed 14 Oct 2015 23:07:41
-Last Modified : Wed 14 Oct 2015 23:15:06
+Last Modified : Wed 14 Oct 2015 23:20:34
 Maintainer    : sharlatan
 -->
+# Coreutils - GNU core utilities [↷](https://www.gnu.org/software/coreutils/coreutils.html) #
+
+The GNU Core Utilities are the basic file, shell and text manipulation
+utilities of the GNU operating system.  These are the core utilities which are
+expected to exist on every operating system. 
 
         chcon (1)     - change file SELinux security context
         chgrp (1)     - change group ownership
