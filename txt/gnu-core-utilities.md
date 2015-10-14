@@ -2,7 +2,7 @@
 File          : gnu-core-utilities.md
 
 Created       : Wed 14 Oct 2015 23:07:41
-Last Modified : Wed 14 Oct 2015 23:09:02
+Last Modified : Wed 14 Oct 2015 23:15:06
 Maintainer    : sharlatan
 -->
 
@@ -92,7 +92,7 @@ Maintainer    : sharlatan
         md5sum (1)    - compute and check MD5 message digest
         nl (1)        - number lines of files
         nl (1p)       - line numbering filter
-        numfmt (1)    - Convert numbers from/to human                                             - readable strings
+        numfmt (1)    - Convert numbers from/to huma-readable strings
         od (1)        - dump files in octal and other formats
         od (1p)       - dump files in various formats
         paste (1)     - merge lines of files
@@ -122,9 +122,9 @@ Maintainer    : sharlatan
         uniq (1p)     - report or filter out repeated lines in a file
         wc (1)        - print newline, word, and byte counts for each file
         wc (1p)       - word, line, and byte or character count
-        arch (1)      - print machine hardware name (same as uname                                - m)
+        arch (1)      - print machine hardware name (same as uname - m)
         basename (1)  - strip directory and suffix from filenames
-        basename (1p) - return non                                                                - directory portion of a pathname
+        basename (1p) - return non - directory portion of a pathname
         basename (3)  - parse pathname components
         basename (3p) - return the last component of a pathname
         chroot (1)    - run command or interactive shell with special root directory
@@ -162,7 +162,7 @@ Maintainer    : sharlatan
         nice (1p)     - invoke a utility with an altered nice value
         nice (2)      - change process priority
         nice (3p)     - change the nice value of a process
-        nohup (1)     - run a command immune to hangups, with output to a non                     - tty
+        nohup (1)     - run a command immune to hangups, with output to a non-tty
         nohup (1p)    - invoke a utility immune to hangups
         nproc (1)     - print the number of processing units available
         pathchk (1)   - check whether file names are valid or portable
