@@ -2,7 +2,7 @@
 File          : util-linux.md
 
 Created       : Wed 14 Oct 2015 23:08:36
-Last Modified : Sun 18 Oct 2015 05:16:45
+Last Modified : Sun 18 Oct 2015 05:19:10
 Maintainer    : sharlatan
 -->
 
@@ -68,7 +68,7 @@ Maintainer    : sharlatan
         lscpu (1)            - display information about the CPU architecture
         mount (8)            - mount a filesystem
         namei (1)            - follow a pathname until a terminal point is found
-        partx (8)            - tell the Linux kernel about the presence and numbering of on-disk partitions
+        partx (8)            - tell kernel about the presence and numbering of on-disk partitions
         reset (1)            - terminal initialization
         tailf (1)            - follow the growth of a log file
         wdctl (8)            - show hardware watchdog status
@@ -118,7 +118,7 @@ Maintainer    : sharlatan
         prlimit (2)          - get/set resource limits
         rtcwake (8)          - enter a system sleep state until specified wakeup time
         runuser (1)          - run a command with substitute user and group ID
-        setarch (8)          - change reported architecture in new program environment and set personality flags
+        setarch (8)          - change reported arch in new program env and set personality flags
         setpriv (1)          - run a program with different Linux privilege settings
         setterm (1)          - set terminal attributes
         sulogin (8)          - Single-user login
