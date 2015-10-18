@@ -2,10 +2,12 @@
 File          : util-linux.md
 
 Created       : Wed 14 Oct 2015 23:08:36
-Last Modified : Sun 18 Oct 2015 05:05:59
+Last Modified : Sun 18 Oct 2015 05:13:59
 Maintainer    : sharlatan
 -->
 
+# util-linux #
+![](../icons/github.png)
 
         su (1)               - run a command with substitute user and group ID
         ul (1)               - do underlining
@@ -47,7 +49,6 @@ Maintainer    : sharlatan
         wall (1)             - send a message to everybody's terminal.
         mount (2)            - mount file system
 
-
         flock (2)            - apply or remove an advisory lock on an open file
         mount (2)            - mount file system
         blkid (8)            - locate/print block device attributes
@@ -72,7 +73,6 @@ Maintainer    : sharlatan
         wdctl (8)            - show hardware watchdog status
         write (1)            - send a message to another user
         write (2)            - write to a file descriptor
-
 
         agetty (8)           - alternative Linux getty
         cfdisk (8)           - display or manipulate disk partition table
