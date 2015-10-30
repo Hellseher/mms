@@ -66,7 +66,7 @@
 </node>
 </node>
 <node CREATED="1412965612799" ID="ID_1859055261" MODIFIED="1414183902101" POSITION="left" TEXT="Bravo"/>
-<node CREATED="1415906895482" ID="ID_739471509" LINK="https://www.editplus.com/" MODIFIED="1415906930986" POSITION="left">
+<node CREATED="1415906895482" ID="ID_739471509" LINK="https://www.editplus.com/" MODIFIED="1446244063359" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -76,10 +76,11 @@
       <b>EditPlus</b>
     </p>
     <p>
-      [ <font color="#3296fa">ES-Computing</font>&#160;]
+      <font size="2">[ </font><font size="2" color="#3296fa">ES-Computing</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1414183662972" ID="ID_781708479" LINK="http://editra.org/" MODIFIED="1438800804955" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -99,7 +100,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415906691245" ID="ID_845027523" LINK="https://www.emeditor.com/" MODIFIED="1415906870594" POSITION="left">
+<node CREATED="1415906691245" ID="ID_845027523" LINK="https://www.emeditor.com/" MODIFIED="1446244056897" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -109,10 +110,11 @@
       <b>EmEditor</b>&#160;<img src="../icons/emeditor.png" />
     </p>
     <p>
-      [ <font color="#3296fa">Emusoft, inc </font>]
+      <font size="2">[ </font><font color="#3296fa" size="2">Emusoft, inc </font><font size="2">]</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1416428946817" ID="ID_968569854" LINK="http://www.geany.org/" MODIFIED="1438799105587" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -182,19 +184,26 @@
 </html></richcontent>
 <node CREATED="1414183396275" ID="ID_568030618" LINK="http://www.xemacs.org/" MODIFIED="1414183902096" TEXT="XEmacs"/>
 </node>
-<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1440194767903" POSITION="left" TEXT="IDE">
+<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1446244048294" POSITION="left" TEXT="IDE">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <p>
+    <!--
+        p { margin-top: 0 }
+        body { font-size: 12pt; font-family: SansSerif }
+      -->
+    
+
+    <p type="text/css">
       An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion... [wiki]
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1440194742843">
+<node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1445251425995">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -262,7 +271,22 @@
 </html></richcontent>
 </node>
 <node CREATED="1414183964263" ID="ID_1418462241" MODIFIED="1414183968132" TEXT="phpDesigner"/>
-<node CREATED="1414187334564" ID="ID_952787146" MODIFIED="1414187341265" TEXT="Aptana"/>
+<node CREATED="1414187334564" ID="ID_952787146" LINK="http://www.aptana.com/" MODIFIED="1446243999012">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Aptana Studio&#160;</b><img src="../icons/aptana.png" />
+    </p>
+    <p>
+      <font size="2">[ </font><font size="2" color="#3296fa">Aptana</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1415905483745" ID="ID_365131411" LINK="https://www.panic.com/coda/" MODIFIED="1415905587607">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -334,10 +358,49 @@
 <node CREATED="1432323292613" MODIFIED="1432323292613" TEXT="Visual Studio 2015"/>
 </node>
 </node>
-<node CREATED="1434315386039" ID="ID_253931574" LINK="https://www.kdevelop.org/" MODIFIED="1434315406120" TEXT="KDevelop"/>
-<node CREATED="1438801099131" FOLDED="true" ID="ID_929953639" MODIFIED="1440193733677" TEXT="JetBrains">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414187357667" ID="ID_217709310" MODIFIED="1438801009997">
+<node CREATED="1434315386039" ID="ID_253931574" LINK="https://www.kdevelop.org/" MODIFIED="1446243737253">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>KDevelop</b>&#160;<img src="../icons/kdevelop.png" />
+    </p>
+    <p>
+      1999
+    </p>
+    <p>
+      <font size="2">GNU | C, C++</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1438801099131" FOLDED="true" ID="ID_929953639" LINK="https://www.jetbrains.com/" MODIFIED="1446243570093">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      <img src="../icons/jetbrains.png" />
+      
+    </p>
+    <p>
+      2000 <font color="#fa0000">CZ </font>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">JetBrains</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1414187357667" ID="ID_217709310" MODIFIED="1446241707126">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -346,10 +409,14 @@
     <p>
       <b>PHPStorm</b>&#160;<img src="../icons/phpstorm.png" />
     </p>
+    <p>
+      2009
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1438801151211" ID="ID_111916278" MODIFIED="1438801402067">
+<node CREATED="1438801151211" ID="ID_111916278" MODIFIED="1446241761508">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -358,8 +425,12 @@
     <p>
       <b>IntelliJ IDEA </b><img src="../icons/intellij.png" />
     </p>
+    <p>
+      2001
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1438801165786" ID="ID_1157860905" MODIFIED="1438801518763">
 <richcontent TYPE="NODE"><html>
@@ -373,10 +444,51 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1438801224042" ID="ID_1917174413" MODIFIED="1438801530608" TEXT="PyCharm"/>
-<node CREATED="1438801230329" ID="ID_813121440" MODIFIED="1438801240372" TEXT="WebStorm"/>
-<node CREATED="1438801242105" ID="ID_1148530886" MODIFIED="1438801245110" TEXT="AppCode"/>
-<node CREATED="1438801245897" ID="ID_1982753527" MODIFIED="1438801248646" TEXT="Clion"/>
+<node CREATED="1438801224042" ID="ID_1917174413" MODIFIED="1446241662432">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>PyCharm</b><img src="../icons/pycharm.png" />
+    </p>
+    <p>
+      2010
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1438801230329" ID="ID_813121440" MODIFIED="1446241859751">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>WebStorm </b><img src="../icons/webstorm.png" />
+    </p>
+    <p>
+      2000
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1438801242105" ID="ID_1148530886" MODIFIED="1446242012722">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      AppCode<img src="../icons/appcode.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1409008746348" ID="ID_1910076720" MODIFIED="1414183902100" POSITION="left" TEXT="kate"/>
@@ -421,7 +533,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1411665241526" ID="ID_1354186917" LINK="http://www.notepad-plus-plus.org/" MODIFIED="1415905145801" POSITION="left">
+<node CREATED="1411665241526" ID="ID_1354186917" LINK="http://www.notepad-plus-plus.org/" MODIFIED="1445251455501" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -431,13 +543,13 @@
       <b>Notepad++</b>&#160;<img src="../icons/npp.png" />&#160;
     </p>
     <p>
-      C++
-    </p>
-    <p>
       2003
     </p>
     <p>
-      <font color="#3296fa"><i>Don Ho</i></font>
+      <font size="2">C++ </font>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Don Ho</font></i>
     </p>
   </body>
 </html></richcontent>
@@ -507,7 +619,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1416428917537" ID="ID_1282392932" LINK="http://www.uvviewsoft.com/synwrite/" MODIFIED="1438800831579" POSITION="right" TEXT="SynWriter"/>
-<node CREATED="1438796894133" FOLDED="true" ID="ID_1427974896" MODIFIED="1438801691869" POSITION="right" TEXT="Terminal-based">
+<node CREATED="1438796894133" ID="ID_1427974896" MODIFIED="1445251476210" POSITION="right" TEXT="Terminal-based">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1412961654829" FOLDED="true" ID="ID_215248594" MODIFIED="1441552556434">
 <richcontent TYPE="NODE"><html>
