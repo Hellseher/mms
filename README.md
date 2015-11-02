@@ -1,5 +1,17 @@
+<!--
+File          : README.md
+
+Created       : Mon 02 Nov 2015 02:11:18
+Last Modified : Mon 02 Nov 2015 02:15:37
+Maintainer    : sharlatan
+-->
+
+
+
 # IT-mm
 _FreeMind ready maps_
+
+__27428   ../IT-mm/__
 
 This repository contains mind maps (mm) of my IT-CS (Information Technology -  
 Computer Science) self education. It could be helpfully for beginners  
@@ -29,6 +41,4 @@ For the best compatibility install or compile FreeMind of version 1.0.1 of or
 higher.  If for some reason you can't find appropriate version for your machine  
 in projects branch, try to compile it from scratch.  
 
-+   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-   ![FreeMind](http://a.fsdn.com/allura/p/freemind/icon) 
-+   [Compile FreeMind](http://freemind.sourceforge.net/wiki/index.php/Building)
+![](./icons/freemind.png)[FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)

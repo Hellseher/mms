@@ -1,5 +1,16 @@
+<!--
+File          : README_ru.md
+
+Created       : Mon 02 Nov 2015 02:12:47
+Last Modified : Mon 02 Nov 2015 02:15:50
+Maintainer    : sharlatan
+-->
+
+
 # IT-mm
 _Собранные карты для FreeMind_
+
+__27428   ../IT-mm/__
 
 Этот репозиторий содержит "карты разума" (mind maps - mm)  
 Информационных технологий и компьютерных наук. 
@@ -30,6 +41,5 @@ _Собранные карты для FreeMind_
 Для наилучшей совместимости установите или скопилируйте FreeMind версии не ниже
 1.0.1. Если не нашлось подходящей версии на сайте проекта соберите FreeMind
 сами.
-+   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-    ![FreeMind](http://a.fsdn.com/allura/p/freemind/icon)
-+   [Compile FreeMind](http://freemind.sourceforge.net/wiki/index.php/Building)
+
+![](./icons/freemind.png)[FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
