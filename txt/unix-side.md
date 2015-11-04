@@ -2,14 +2,15 @@
 File          : unix-side.md
 
 Created       : Wed 04 Nov 2015 22:21:55
-Last Modified : Wed 04 Nov 2015 23:44:49
+Last Modified : Wed 04 Nov 2015 23:55:18
 Maintainer    : sharlatan
 -->
 
 # UNIX side #
-This is a list of Unix commands as specified by IEEE Std 1003.1-2008, which is
-part of the Single UNIX Specification (SUS). These commands can be found on
-Unix operating systems and most Unix-like operating systems.o
+This is a list of Unix commands as specified by
+[IEEE Std 1003.1-2008](https://standards.ieee.org/findstds/standard/1003.1-2008.html)
+, which is part of the Single UNIX Specification (SUS). These commands can be found on
+Unix operating systems and most Unix-like operating systems.
 
     ar         - create and maintain library archives
     at         - execute commands at a later time
