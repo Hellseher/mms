@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1445296782633">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1446249599480">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10,18 +10,23 @@
       <b>languages</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      <a href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages" target="_blank">Timeline of programming languages (wiki) </a>
+    <!--
+        p { margin-top: 0 }
+        body { font-size: 12pt; font-family: SansSerif }
+      -->
+    
+
+    <p type="text/css">
+      <a target="_blank" href="https://en.wikipedia.org/wiki/Timeline_of_programming_languages">Timeline of programming languages (wiki) </a>
     </p>
     <p>
-      <a href="http://rosettacode.org/wiki/Rosetta_Code" target="_blank">Rosetta Code</a>
+      <a target="_blank" href="http://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a>
     </p>
   </body>
 </html>
@@ -166,7 +171,7 @@
 <node CREATED="1445296736334" ID="ID_1717601298" MODIFIED="1445296736334" TEXT="Modeling"/>
 <node CREATED="1445296736334" ID="ID_1114780618" MODIFIED="1445297735494" TEXT="Programming language">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1434572837679" FOLDED="true" ID="ID_266356112" MODIFIED="1445296872876" TEXT="P-code">
+<node CREATED="1434572837679" ID="ID_266356112" MODIFIED="1445707619292" TEXT="P-code">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node COLOR="#000000" CREATED="1399824632442" FOLDED="true" ID="ID_384840071" LINK="http://java.com/en/" MODIFIED="1429311483946">
 <richcontent TYPE="NODE"><html>
@@ -215,7 +220,7 @@
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="599;0;" ID="Arrow_ID_186797040" STARTARROW="None" STARTINCLINATION="599;0;"/>
 </node>
 </node>
-<node CREATED="1399824642922" FOLDED="true" ID="ID_483914565" LINK="https://www.ruby-lang.org/en/" MODIFIED="1429311483949">
+<node CREATED="1399824642922" ID="ID_483914565" LINK="https://www.ruby-lang.org/en/" MODIFIED="1446240829461">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -235,6 +240,25 @@
 <node CREATED="1416423343318" ID="ID_70133638" MODIFIED="1416423344243" TEXT="&lt;"/>
 <node CREATED="1416423344614" ID="ID_1910869910" MODIFIED="1416423348486" TEXT="&gt;">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="657;0;" ID="Arrow_ID_814538951" STARTARROW="None" STARTINCLINATION="657;0;"/>
+</node>
+<node CREATED="1445707622951" ID="ID_604973706" LINK="https://rubygems.org/" MODIFIED="1445707675059">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>RubyGem</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">&quot;packet manager&quot;</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1445707676365" ID="ID_1765138103" MODIFIED="1445707681722" TEXT="gem">
+<node CREATED="1445707682894" ID="ID_796952480" MODIFIED="1445707685002" TEXT="install"/>
+<node CREATED="1445707685325" ID="ID_1089067802" MODIFIED="1445707688770" TEXT="unintall"/>
+</node>
 </node>
 </node>
 </node>
@@ -545,7 +569,7 @@
 <node CREATED="1418257629816" ID="ID_1887383149" MODIFIED="1418257630693" TEXT="&lt;"/>
 </node>
 </node>
-<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1445297739009" TEXT="Compiled">
+<node CREATED="1416423580002" ID="ID_1728030669" MODIFIED="1445984791841" TEXT="Compiled">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414972454263" ID="ID_255010547" LINK="http://www.rust-lang.org/" MODIFIED="1414972547910">
 <richcontent TYPE="NODE"><html>
@@ -562,7 +586,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1399824940744" FOLDED="true" ID="ID_1270508210" MODIFIED="1429311483944">
+<node CREATED="1399824940744" FOLDED="true" ID="ID_1270508210" MODIFIED="1445984807206">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -575,10 +599,7 @@
       1957 <font color="#fa0000">US </font>
     </p>
     <p>
-      <font color="#3296fa">John Backus</font>
-    </p>
-    <p>
-      [ <font color="#3296fa">IBM</font>&#160;]
+      <font color="#3296fa" size="2">John Backus </font><font size="2">[ </font><font color="#3296fa" size="2">IBM</font><font size="2">&#160;]</font>
     </p>
   </body>
 </html></richcontent>
@@ -636,10 +657,10 @@
   </body>
 </html></richcontent>
 <node CREATED="1416423009806" ID="ID_1270103190" MODIFIED="1416423621948" TEXT="&lt;">
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_27482317" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="96;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="275;0;" ID="Arrow_ID_1794232383" SOURCE="ID_311815872" STARTARROW="None" STARTINCLINATION="275;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="599;0;" ID="Arrow_ID_186797040" SOURCE="ID_1474263539" STARTARROW="None" STARTINCLINATION="599;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="657;0;" ID="Arrow_ID_814538951" SOURCE="ID_1910869910" STARTARROW="None" STARTINCLINATION="657;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="96;0;" ID="Arrow_ID_27482317" SOURCE="ID_240628614" STARTARROW="None" STARTINCLINATION="96;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="47;0;" ID="Arrow_ID_940786165" SOURCE="ID_876225156" STARTARROW="None" STARTINCLINATION="47;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="178;0;" ID="Arrow_ID_340704962" SOURCE="ID_889756015" STARTARROW="None" STARTINCLINATION="178;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1270103190" ENDARROW="Default" ENDINCLINATION="302;0;" ID="Arrow_ID_902479924" SOURCE="ID_13288565" STARTARROW="None" STARTINCLINATION="302;0;"/>
@@ -743,7 +764,7 @@
 <node CREATED="1416423955245" ID="ID_1571326584" MODIFIED="1416423955914" TEXT="&lt;"/>
 </node>
 <node CREATED="1414222734464" ID="ID_97565479" MODIFIED="1414222738970" TEXT="ALGOL"/>
-<node CREATED="1399824683722" ID="ID_530058893" MODIFIED="1445297749337">
+<node CREATED="1399824683722" ID="ID_530058893" MODIFIED="1445985009255">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -759,8 +780,7 @@
       <i><font color="#3296fa" size="2">John McCarthy</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1445297761928" STYLE="fork" TEXT="LiSP-dialects">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -788,7 +808,7 @@
 <node CREATED="1440397239309" ID="ID_43788810" LINK="http://www.openlogic.com/resources/enterprise-blog/archive/paredit-learn-to-love-writing-lisp-code" MODIFIED="1440397248533" TEXT="My Clojure Workflow, Reloaded"/>
 </node>
 </node>
-<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1445297764474">
+<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1445985331786">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -802,8 +822,48 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      
+    </p>
+    <p>
+      Many of the
+    </p>
+    <p>
+      &#160;more important ideas in programming systems first arose in
+    </p>
+    <p>
+      connection with Lisp.&#160;&#160;These include mixing of interpreted and compiled
+    </p>
+    <p>
+      functions, garbage collection, recursive function
+    </p>
+    <p>
+      &#160;calls, source-level tracing and
+    </p>
+    <p>
+      debugging, and
+    </p>
+    <p>
+      &#160;syntax-directed editors.&#160;&#160;Today Lisp is a leading language for
+    </p>
+    <p>
+      sophisticated research on functional,
+    </p>
+    <p>
+      &#160;object-oriented, and parallel
+    </p>
+    <p>
+      programming styles.
+    </p>
+  </body>
+</html></richcontent>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1694895545" ENDARROW="Default" ENDINCLINATION="582;0;" ID="Arrow_ID_1790447185" SOURCE="ID_1810172944" STARTARROW="None" STARTINCLINATION="582;0;"/>
-<node CREATED="1402184349896" FOLDED="true" ID="ID_1889598577" MODIFIED="1429311483946">
+<node CREATED="1402184349896" ID="ID_1889598577" MODIFIED="1445985101098">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -849,7 +909,7 @@
 <node CREATED="1445297880179" ID="ID_1886527744" MODIFIED="1445297903096" TEXT="ECL"/>
 <node CREATED="1445297880179" ID="ID_1160407945" MODIFIED="1445297905202" TEXT="LispWorks"/>
 <node CREATED="1445297880180" ID="ID_108393837" MODIFIED="1445297906964" TEXT="MKCL"/>
-<node CREATED="1445297880180" ID="ID_1005005132" MODIFIED="1445297908608" TEXT="SBCl"/>
+<node CREATED="1445297880180" ID="ID_1005005132" LINK="http://www.sbcl.org/" MODIFIED="1446249617288" TEXT="SBCl"/>
 <node CREATED="1445297880180" ID="ID_1412626370" MODIFIED="1445297910209" TEXT="Scieneer CL"/>
 </node>
 </node>
@@ -867,7 +927,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1424819969970" ID="ID_429146574" LINK="http://www.schemers.org/" MODIFIED="1445297774231">
+<node CREATED="1424819969970" FOLDED="true" ID="ID_429146574" LINK="http://www.schemers.org/" MODIFIED="1445985017370">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -941,7 +1001,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1426978118432" ID="ID_1491621856" LINK="http://www.newlisp.org/" MODIFIED="1426978505456">
+<node CREATED="1426978118432" ID="ID_1491621856" LINK="http://www.newlisp.org/" MODIFIED="1445985026795">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -951,7 +1011,7 @@
       <b>newLISP</b>&#160;<img src="../icons/newlisp.png" />
     </p>
     <p>
-      <font size="2">1991 </font>
+      <font size="3">1991</font><font size="2">&#160;</font>
     </p>
     <p>
       <i><font color="#3296fa" size="2">Lutz Mueller</font></i>
