@@ -2,13 +2,15 @@
 File          : util-linux.md
 
 Created       : Wed 14 Oct 2015 23:08:36
-Last Modified : Sun 18 Oct 2015 05:19:10
+Last Modified : Fri 06 Nov 2015 21:00:23
 Maintainer    : sharlatan
 -->
 
 # util-linux #
-* * *
+It is a standard package of the Linux operating system.
 [![](../icons/github.png)](https://github.com/karelzak/util-linux)
+
+* * *
 
         su (1)               - run a command with substitute user and group ID
         ul (1)               - do underlining
@@ -48,7 +50,6 @@ Maintainer    : sharlatan
         more (1)             - file perusal filter for crt viewing
         vipw (8)             - edit the password, group, shadow-password or shadow-group file
         wall (1)             - send a message to everybody's terminal.
-        mount (2)            - mount file system
 
         flock (2)            - apply or remove an advisory lock on an open file
         mount (2)            - mount file system
