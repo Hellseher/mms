@@ -2,16 +2,14 @@
 File          : README.md
 
 Created       : Mon 02 Nov 2015 02:11:18
-Last Modified : Mon 02 Nov 2015 02:15:37
+Last Modified : Sat 07 Nov 2015 23:22:29
 Maintainer    : sharlatan
 -->
 
-
-
-# IT-mm
+# mms #
 _FreeMind ready maps_
 
-__27428   ../IT-mm/__
+__9152 ../mms/__
 
 This repository contains mind maps (mm) of my IT-CS (Information Technology -  
 Computer Science) self education. It could be helpfully for beginners  
@@ -26,12 +24,12 @@ Every mm includes credits, links and references.
 ![IT](./IT.png)
 
 ## How to start ##
-To obtain IT-mm you have to download and unpack them, easy isn't it :)?
+To obtain __mms__ you have to download and unpack them, easy isn't it :)?
 
 #### Using Git ####
-This command downloads the whole project in your __$: pwd__ under the name "IT-mm".
+This command downloads the whole project in your __$: pwd__ under the name "mms".
 
-    $: git clone https://github.com/Hellseher/IT-mm  
+    $: git clone https://github.com/Hellseher/mms
 
 #### Using browser ####
 Click __Download ZIP__ on right hand side of the screen.
