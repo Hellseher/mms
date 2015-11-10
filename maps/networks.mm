@@ -10,8 +10,7 @@
       Networks <img src="../icons/network.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1430656326445" FOLDED="true" ID="ID_506996188" MODIFIED="1444744364371" POSITION="right" TEXT="Port Forwarding">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -21,9 +20,9 @@
 <node CREATED="1430656378156" ID="ID_1486685051" MODIFIED="1444744357988" TEXT="UDP 67...68"/>
 <node CREATED="1430656390924" ID="ID_720081634" MODIFIED="1444744357988" TEXT="TCP/UDP 7648"/>
 </node>
-<node CREATED="1400095326860" FOLDED="true" ID="ID_1007216608" MODIFIED="1444744364376" POSITION="right" TEXT="protocols">
+<node CREATED="1400095326860" ID="ID_1007216608" MODIFIED="1447110122079" POSITION="right" TEXT="protocols">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414892053917" FOLDED="true" ID="ID_841732541" MODIFIED="1444744364374" TEXT="Application layer">
+<node CREATED="1414892053917" ID="ID_841732541" MODIFIED="1447110123994" TEXT="Application layer">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432588124969" FOLDED="true" ID="ID_731563316" MODIFIED="1444744357988">
 <richcontent TYPE="NODE"><html>
@@ -189,6 +188,25 @@
 <node CREATED="1400096256375" FOLDED="true" ID="ID_1750503020" MODIFIED="1444744357988" TEXT="LDAP">
 <node CREATED="1400096258856" ID="ID_648894002" MODIFIED="1400096261333" TEXT="LDAPS"/>
 </node>
+<node CREATED="1447113333256" ID="ID_1656218431" MODIFIED="1447113399355">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>NTP </b>
+    </p>
+    <p>
+      1985
+    </p>
+    <p>
+      <font size="2">Network Time Protocol</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1432588226615" FOLDED="true" ID="ID_248982025" MODIFIED="1444744357989" TEXT="POP">
 <node CREATED="1400096265208" ID="ID_1645783572" MODIFIED="1400096269781" TEXT="POP35"/>
 <node CREATED="1400096261799" ID="ID_749584367" MODIFIED="1400096264485" TEXT="POP3"/>
@@ -285,11 +303,11 @@
 </node>
 <node CREATED="1400095525324" ID="ID_241226858" MODIFIED="1444744357989" TEXT="TELNET"/>
 </node>
-<node CREATED="1414892076717" FOLDED="true" ID="ID_1921367394" MODIFIED="1444744364374" TEXT="Internet layer">
+<node CREATED="1414892076717" ID="ID_1921367394" MODIFIED="1447110127869" TEXT="Internet layer">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1410123565404" ID="ID_36153166" MODIFIED="1444744357989" TEXT="IP"/>
 </node>
-<node CREATED="1414892083389" FOLDED="true" ID="ID_1715659476" MODIFIED="1444744364375" TEXT="Link layer">
+<node CREATED="1414892083389" ID="ID_1715659476" MODIFIED="1447110128866" TEXT="Link layer">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414795145164" ID="ID_1135837729" MODIFIED="1444744357989">
 <richcontent TYPE="NODE"><html>
@@ -328,7 +346,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1414892061997" FOLDED="true" ID="ID_1988081671" MODIFIED="1444744364375" TEXT="Transport layer">
+<node CREATED="1414892061997" ID="ID_1988081671" MODIFIED="1447110130949" TEXT="Transport layer">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1410123574124" ID="ID_536218500" MODIFIED="1444744357989">
 <richcontent TYPE="NODE"><html>
@@ -363,7 +381,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1400095338398" ID="ID_1347773090" MODIFIED="1444744357989">
+<node CREATED="1400095338398" ID="ID_1347773090" MODIFIED="1447110443524">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -373,13 +391,17 @@
       <b>TCP </b>
     </p>
     <p>
+      1974
+    </p>
+    <p>
       <font size="2">Transmission </font>
     </p>
     <p>
       <font size="2">Control Protocol</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1410303120042" ID="ID_1657281317" MODIFIED="1444744357989">
 <richcontent TYPE="NODE"><html>
@@ -428,7 +450,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1432588973148" ID="ID_657862565" MODIFIED="1444744357990" POSITION="right" TEXT="port"/>
-<node CREATED="1433609173760" ID="ID_1767745893" MODIFIED="1444744357990" POSITION="left" TEXT="thesaurus">
+<node CREATED="1433609173760" ID="ID_1767745893" MODIFIED="1447110035796" POSITION="left" TEXT="thesaurus">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -444,10 +466,17 @@
       broadcast
     </p>
     <p>
+      LAN&#160;&#160;Local Area Network
+    </p>
+    <p>
+      OSI
+    </p>
+    <p>
       UA&#160;&#160;&#160;&#160;&#160;user agent
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1416955862643" FOLDED="true" ID="ID_1019537539" MODIFIED="1444744357990" POSITION="left" TEXT="ip">
@@ -692,9 +721,9 @@
       balance-alb or 6 &#8211;&#160;&#160;Sets an Active Load Balancing (ALB) mode for fault tolerance &amp; load balancing.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442960750113" ID="ID_1956459933" MODIFIED="1444744357990" TEXT="NIC Teaming"/>
 </node>
+<node CREATED="1447111707974" ID="ID_1567062053" MODIFIED="1447111711668" POSITION="left" TEXT="CIDR"/>
 </node>
 </map>
