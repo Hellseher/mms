@@ -6358,7 +6358,7 @@
 </node>
 <node CREATED="1445556347047" ID="ID_1595668158" MODIFIED="1445556349794" TEXT="crypttab"/>
 </node>
-<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1447109053133" STYLE="fork">
+<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1447712470957" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6960,7 +6960,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408226448490" FOLDED="true" ID="ID_1085427569" LINK="https://rsync.samba.org/" MODIFIED="1444855859515">
+<node CREATED="1408226448490" FOLDED="true" ID="ID_1085427569" LINK="https://rsync.samba.org/" MODIFIED="1447712470978">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6980,7 +6980,7 @@
   </head>
   <body>
     <p>
-      <font color="rgb(0, 0, 0)" face="SansSerif" size="3"><b>$:</b>&#160;<b>rsync</b>&#160;-<b>avz</b>&#160;-<b>e</b>&#160;<b>ssh</b>&#160; remoteuser@remotehost:/remote/dir /this/dir/&#160; </font>
+      <font face="SansSerif" color="rgb(0, 0, 0)" size="3"><b>$:</b>&#160;<b>rsync</b>&#160;-<b>avz</b>&#160;-<b>e</b>&#160;<b>ssh</b>&#160; remoteuser@remotehost:/remote/dir /this/dir/&#160; </font>
     </p>
     <p>
       
@@ -6992,7 +6992,8 @@
       <b>#: rsync -v -e ssh </b>&lt;host&gt;<b>:/</b>path_to_copping_file <b>~/</b>dist_dir_on_local_host
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1421000481132" FOLDED="true" ID="ID_865599162" MODIFIED="1437604460032" TEXT="Options">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1421000695207" ID="ID_1171340881" MODIFIED="1421000695207" TEXT="--address=ADDRESS       bind address for outgoing socket to daemon"/>
@@ -7884,7 +7885,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1442960280962" ID="ID_171422512" MODIFIED="1442960282293" TEXT="sar"/>
-<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1434779862500">
+<node CREATED="1407075006739" FOLDED="true" ID="ID_1936359486" MODIFIED="1448070211189">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7913,7 +7914,7 @@
       
     </p>
     <p>
-      <font color="#3296fa"><i>get gpu infromation </i></font>
+      <i><font color="#3296fa">get gpu infromation </font></i>
     </p>
     <p>
       <b># lshw -numeric -C display </b>
@@ -7928,7 +7929,8 @@
       <b># lshw -c video</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1409248283607" FOLDED="true" ID="ID_401390008" MODIFIED="1429311610811" TEXT="-class">
 <node CREATED="1409248289814" ID="ID_1370876466" MODIFIED="1409248291030" TEXT="disk"/>
@@ -7997,7 +7999,7 @@
 <node CREATED="1420657078962" ID="ID_681750955" MODIFIED="1420657082144" TEXT="xinput"/>
 </node>
 </node>
-<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1447587198902">
+<node CREATED="1399409789401" ID="ID_833760425" MODIFIED="1447703988058">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8349,7 +8351,7 @@
 <node CREATED="1442612720119" ID="ID_1312030281" MODIFIED="1442612721835" TEXT="tc"/>
 <node CREATED="1442612722093" ID="ID_1786640815" MODIFIED="1442612724099" TEXT="ss"/>
 </node>
-<node CREATED="1441923519967" FOLDED="true" ID="ID_613366522" LINK="http://net-tools.sourceforge.net/" MODIFIED="1445891244347">
+<node CREATED="1441923519967" ID="ID_613366522" LINK="http://net-tools.sourceforge.net/" MODIFIED="1447706895437">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8482,7 +8484,7 @@
 <node CREATED="1416955035008" ID="ID_433446379" MODIFIED="1416955042253" TEXT="-s"/>
 <node CREATED="1416955036272" ID="ID_416442696" MODIFIED="1416955038397" TEXT="-P"/>
 </node>
-<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1447453685542">
+<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1447704015212">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8499,20 +8501,6 @@
     </p>
   </body>
 </html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417125929766" ID="ID_635815480" MODIFIED="1417125932994" TEXT="ssh-agent"/>
-<node CREATED="1417126006197" ID="ID_467918695" MODIFIED="1447454152247">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>ssh-keygen</b>&#160;[<i>options</i>]
-    </p>
-  </body>
-</html>
-</richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -8526,6 +8514,20 @@
     </p>
     <p>
       $: <b>ssh-copy-id</b>&#160;-i identity_file.pub user_name@ip.adress.to_your.server
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417125929766" ID="ID_635815480" MODIFIED="1417125932994" TEXT="ssh-agent"/>
+<node CREATED="1417126006197" ID="ID_467918695" MODIFIED="1447704011979">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ssh-keygen</b>&#160;[<i>options</i>]
     </p>
   </body>
 </html>
@@ -8544,6 +8546,7 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1447704001533" ID="ID_188742771" MODIFIED="1447704005755" TEXT="ssh-copy-id"/>
 <node CREATED="1440871436768" ID="ID_1514388170" MODIFIED="1440871441679" TEXT="ssh-copy-id"/>
 <node CREATED="1424296187764" ID="ID_1948242336" MODIFIED="1424296190112" TEXT="logout"/>
 <node CREATED="1437718030796" ID="ID_460526987" MODIFIED="1437718046557" TEXT="Options">
@@ -9091,7 +9094,7 @@
 </node>
 <node CREATED="1445550813155" ID="ID_484000193" MODIFIED="1445550814783" TEXT="fzf"/>
 </node>
-<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1447589555554" TEXT="sys adm">
+<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1448319286986" TEXT="sys adm">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411240349365" ID="ID_1973370963" MODIFIED="1411240351155" TEXT="fuser"/>
 <node CREATED="1442096058178" ID="ID_1425660807" MODIFIED="1442096061119" TEXT="hostnamectl"/>
@@ -9434,7 +9437,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1408998360978" FOLDED="true" ID="ID_1226382505" MODIFIED="1445134261058">
+<node CREATED="1408998360978" ID="ID_1226382505" MODIFIED="1448319286993">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10241,7 +10244,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399409778492" FOLDED="true" ID="ID_1285144250" MODIFIED="1445134090230">
+<node CREATED="1399409778492" ID="ID_1285144250" MODIFIED="1448320843718">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10675,7 +10678,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413572485797" ID="ID_1848824782" MODIFIED="1444992800570">
+<node CREATED="1413572485797" ID="ID_1848824782" MODIFIED="1448320944021">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10692,7 +10695,7 @@
   </head>
   <body>
     <p>
-      <font color="#6496fa"><i>word frequencies</i></font>
+      <i><font color="#6496fa">word frequencies</font></i>
     </p>
     <p>
       $ <b>awk</b>&#160;'{<b>for</b>&#160;(i = 1; i &lt;= NF; i++) {<b>print</b>&#160; tolower($i);}}' file.txt | <b>sort</b>&#160;| <b>uniq</b>&#160;-c | <b>sort</b>&#160; -rm
@@ -10701,13 +10704,23 @@
       
     </p>
     <p>
-      <font color="#6496fa"><i>IP list of ssh failed attempt to log in </i></font>
+      <i><font color="#6496fa">IP list of ssh failed attempt to log in </font></i>
     </p>
     <p>
-      $: <b>awk&#160;-F</b>&quot; &quot;&#160;&#160;'/sshd.*Invalid/ {print $10}' /var/log/secure |<b>&#160; sort&#160;-u </b>
+      $: <b>awk&#160;-F</b>&quot; &quot;&#160;&#160;'/sshd.*Invalid/ {print $10}' /var/log/secure |<b>&#160; sort&#160;</b>-u
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i><font color="#6496fa">print matching line and line before the matched</font></i>
+    </p>
+    <p>
+      $:<b>&#160;awk</b>&#160;'/foo/{if (a &amp;&amp; a !~ /foo/) print a; print} {a=$0}' file
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1413572587572" FOLDED="true" ID="ID_1766920815" MODIFIED="1429311610823" TEXT="Built-it Variables">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413572509589" ID="ID_581393427" MODIFIED="1413572517025" TEXT="NR"/>
@@ -10720,7 +10733,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1445710701617">
+<node CREATED="1408402182454" ID="ID_493014581" MODIFIED="1448314099029">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11366,7 +11379,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1414888711057" FOLDED="true" ID="ID_570841120" MODIFIED="1445710700482" TEXT="~ Users maintain">
+<node CREATED="1414888711057" ID="ID_570841120" MODIFIED="1448314099044" TEXT="~ Users maintain">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408402286294" ID="ID_1569716893" MODIFIED="1445705988736">
 <richcontent TYPE="NODE"><html>
@@ -11400,7 +11413,7 @@
 <node CREATED="1442699116768" ID="ID_1157024912" MODIFIED="1442699118371" TEXT="-s"/>
 </node>
 <node CREATED="1408402301605" ID="ID_1790531500" MODIFIED="1408402303636" TEXT="userdel"/>
-<node CREATED="1408403163056" ID="ID_1515463359" MODIFIED="1438023524894">
+<node CREATED="1408403163056" ID="ID_1515463359" MODIFIED="1448314099061">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11426,7 +11439,8 @@
       <b>#: usermod</b>&#160;<b>-l</b>&#160;<i>new_name old_name</i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1439727075543" ID="ID_1685569933" MODIFIED="1439727123898">
 <richcontent TYPE="NODE"><html>
