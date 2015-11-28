@@ -6358,7 +6358,7 @@
 </node>
 <node CREATED="1445556347047" ID="ID_1595668158" MODIFIED="1445556349794" TEXT="crypttab"/>
 </node>
-<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1447712470957" STYLE="fork">
+<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1448727662294" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7781,7 +7781,7 @@
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1407074986052" ID="ID_714158331" MODIFIED="1447589546194">
+<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1448727660269">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7830,38 +7830,6 @@
 </html></richcontent>
 </node>
 <node CREATED="1409167706538" ID="ID_1041676273" MODIFIED="1409167710460" TEXT="findmnt"/>
-<node CREATED="1408999084781" FOLDED="true" ID="ID_457472167" MODIFIED="1432755301345">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>hdparm&#160;</b>[<i>options</i>] [<i>device</i>]
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>read or set the hard drive parameters</i></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1408999527338" ID="ID_1148110397" MODIFIED="1408999533083" TEXT="-I"/>
-<node CREATED="1408999711833" ID="ID_288636341" MODIFIED="1408999732374">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-t</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>speedometer</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1408999972295" ID="ID_537482645" MODIFIED="1408999974231" TEXT="-M"/>
-</node>
 <node CREATED="1409167616331" FOLDED="true" ID="ID_666159182" MODIFIED="1444771723201">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7999,7 +7967,7 @@
 <node CREATED="1420657078962" ID="ID_681750955" MODIFIED="1420657082144" TEXT="xinput"/>
 </node>
 </node>
-<node CREATED="1399409789401" ID="ID_833760425" MODIFIED="1447703988058">
+<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1448727426337">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8627,7 +8595,7 @@
 <node CREATED="1424296474941" ID="ID_1544743969" MODIFIED="1424296476619" TEXT="sftp"/>
 </node>
 </node>
-<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1447588444542">
+<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1448727427448">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9094,7 +9062,7 @@
 </node>
 <node CREATED="1445550813155" ID="ID_484000193" MODIFIED="1445550814783" TEXT="fzf"/>
 </node>
-<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1448319286986" TEXT="sys adm">
+<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1448740458649" TEXT="sys adm">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1411240349365" ID="ID_1973370963" MODIFIED="1411240351155" TEXT="fuser"/>
 <node CREATED="1442096058178" ID="ID_1425660807" MODIFIED="1442096061119" TEXT="hostnamectl"/>
@@ -9285,7 +9253,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1440452048248" ID="ID_1230130900" MODIFIED="1445892168883" TEXT="~ kernel">
+<node CREATED="1440452048248" FOLDED="true" ID="ID_1230130900" MODIFIED="1448727433592" TEXT="~ kernel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -9437,7 +9405,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1408998360978" ID="ID_1226382505" MODIFIED="1448319286993">
+<node CREATED="1408998360978" FOLDED="true" ID="ID_1226382505" MODIFIED="1448727434888">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9541,7 +9509,25 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1409005439395" ID="ID_432358772" LINK="https://www.smartmontools.org/" MODIFIED="1441546295331">
+<node CREATED="1448573276295" ID="ID_1125613686" LINK="https://www.smartmontools.org/" MODIFIED="1448573426508">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      {<b>smartmontools</b>}
+    </p>
+    <p>
+      2002
+    </p>
+    <p>
+      <font size="2">GPL | C, C++</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1409005439395" ID="ID_432358772" MODIFIED="1448573420588">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9552,6 +9538,7 @@
     </p>
   </body>
 </html></richcontent>
+</node>
 </node>
 <node CREATED="1409003666222" ID="ID_1618721601" MODIFIED="1409003703419">
 <richcontent TYPE="NODE"><html>
@@ -9571,8 +9558,40 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1408999084781" FOLDED="true" ID="ID_457472167" MODIFIED="1432755301345">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>hdparm&#160;</b>[<i>options</i>] [<i>device</i>]
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>read or set the hard drive parameters</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1408999527338" ID="ID_1148110397" MODIFIED="1408999533083" TEXT="-I"/>
+<node CREATED="1408999711833" ID="ID_288636341" MODIFIED="1408999732374">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>-t</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>speedometer</i></font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1441555212128" ID="ID_285433190" MODIFIED="1447587206402" TEXT="~Initialization">
+<node CREATED="1408999972295" ID="ID_537482645" MODIFIED="1408999974231" TEXT="-M"/>
+</node>
+</node>
+<node CREATED="1441555212128" FOLDED="true" ID="ID_285433190" MODIFIED="1448727436200" TEXT="~Initialization">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413754493491" ID="ID_704100240" MODIFIED="1441578106042">
 <richcontent TYPE="NODE"><html>
@@ -9757,7 +9776,7 @@
 </node>
 <node CREATED="1413483837555" ID="ID_665917362" MODIFIED="1413483839758" TEXT="telinit"/>
 </node>
-<node CREATED="1399409772021" FOLDED="true" ID="ID_376573605" MODIFIED="1447593446116">
+<node CREATED="1399409772021" ID="ID_376573605" MODIFIED="1448748801690">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9793,7 +9812,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1399410008267" FOLDED="true" ID="ID_631025407" MODIFIED="1439672422020">
+<node CREATED="1399410008267" FOLDED="true" ID="ID_631025407" MODIFIED="1448753161927">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9807,6 +9826,20 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i><font color="#6496fa">find mount point of [file|dir] </font></i>
+    </p>
+    <p>
+      $: <b>df</b>&#160;-P [<i>file|dir</i>] | <b>tail</b>&#160;-1 | <b>cut</b>&#160;-d' ' -f 1
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1401490996907" ID="ID_423616509" MODIFIED="1401491020012">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9930,7 +9963,7 @@
 </node>
 <node CREATED="1445891881856" ID="ID_863498911" MODIFIED="1445891883925" TEXT="ncdu"/>
 <node CREATED="1435597731221" ID="ID_379148838" MODIFIED="1435597733747" TEXT="pgrep"/>
-<node CREATED="1428699764182" FOLDED="true" ID="ID_338107393" MODIFIED="1429311610809">
+<node CREATED="1428699764182" ID="ID_338107393" MODIFIED="1448740463691">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9947,7 +9980,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1428699826567" FOLDED="true" ID="ID_1321322495" MODIFIED="1429311610809" TEXT="options">
+<node CREATED="1428699826567" FOLDED="true" ID="ID_1321322495" MODIFIED="1448740465811" TEXT="options">
 <node CREATED="1428699832119" ID="ID_723441208" MODIFIED="1428699834862" TEXT="-s"/>
 <node CREATED="1428699835479" ID="ID_1944915751" MODIFIED="1428699837875" TEXT="-c"/>
 <node CREATED="1428699838647" ID="ID_729358041" MODIFIED="1428699840275" TEXT="-x"/>
@@ -10243,8 +10276,9 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1448727446896" ID="ID_1322548583" MODIFIED="1448727449759" TEXT="dconf"/>
 </node>
-<node CREATED="1399409778492" ID="ID_1285144250" MODIFIED="1448320843718">
+<node CREATED="1399409778492" FOLDED="true" ID="ID_1285144250" MODIFIED="1448727424274">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10651,7 +10685,7 @@
 </node>
 <node COLOR="#006699" CREATED="1413572388118" ID="ID_1349411063" MODIFIED="1444992800547" STYLE="fork" TEXT="~Text editors">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1399667523034" ID="ID_363160278" MODIFIED="1409418410899">
+<node CREATED="1399667523034" ID="ID_363160278" MODIFIED="1448577069018">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10665,6 +10699,17 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $: <b>sed</b>&#160;-n '/matched/,$p' file
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1415908608188" ID="ID_1799866226" LINK="vim.mm" MODIFIED="1432246042741">
 <richcontent TYPE="NODE"><html>
@@ -10733,7 +10778,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408402182454" ID="ID_493014581" MODIFIED="1448314099029">
+<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1448727429753">
 <richcontent TYPE="NODE"><html>
   <head>
     
