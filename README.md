@@ -2,7 +2,7 @@
 File          : README.md
 
 Created       : Mon 02 Nov 2015 02:11:18
-Last Modified : Sat 07 Nov 2015 23:22:29
+Last Modified : Sun Mar 20 2016 23:04:20 sharlatan
 Maintainer    : sharlatan
 -->
 
@@ -21,7 +21,7 @@ GNU/Linux  distribution derivatives.
 
 Every mm includes credits, links and references.
 
-![IT](./IT.png)
+![mms](./mms.png)
 
 ## How to start ##
 To obtain __mms__ you have to download and unpack them, easy isn't it :)?
