@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1434742631196" ID="ID_1086376086" MODIFIED="1444743653216">
+<node CREATED="1434742631196" ID="ID_1086376086" MODIFIED="1456365486804">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10,8 +10,7 @@
       <b>IT job</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -50,9 +49,9 @@
 <node CREATED="1441575149433" ID="ID_1470606002" MODIFIED="1441575152157" TEXT="TCP/IP"/>
 </node>
 </node>
-<node CREATED="1435339829277" FOLDED="true" ID="ID_1297452362" MODIFIED="1443817074682" POSITION="left" TEXT="Revision Control">
+<node CREATED="1435339829277" ID="ID_1297452362" MODIFIED="1451434243384" POSITION="left" TEXT="Revision Control">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1435339837037" FOLDED="true" ID="ID_1644452748" LINK="https://git-scm.com/" MODIFIED="1441552548841">
+<node CREATED="1435339837037" ID="ID_1644452748" LINK="https://git-scm.com/" MODIFIED="1451434247038">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -69,7 +68,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1440395818153" FOLDED="true" ID="ID_1057828691" MODIFIED="1441552548840" TEXT="edu">
+<node CREATED="1440395818153" ID="ID_1057828691" MODIFIED="1451434249028" TEXT="edu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1440395823177" ID="ID_164468780" LINK="https://github.com/erlang/otp/wiki/Writing-good-commit-messages" MODIFIED="1440395836655" TEXT="Writing good commit messages"/>
 <node CREATED="1440395848675" ID="ID_1907170199" LINK="https://git-scm.com/book/ru/ch5-2.html" MODIFIED="1440395864675" TEXT="&#x420;&#x430;&#x441;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x451;&#x43d;&#x43d;&#x44b;&#x439; Git - &#x421;&#x43e;&#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x435; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442;&#x443;"/>
@@ -224,8 +223,7 @@
       1986
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1443816972467" MODIFIED="1443816972467" TEXT="Kanban"/>
 <node CREATED="1443816972467" MODIFIED="1443816972467" TEXT="UP"/>
@@ -248,8 +246,7 @@
       <font color="#3296fa" size="2"><i>Kent Beck</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1443816972468" ID="ID_1542426179" MODIFIED="1443817893107">
 <richcontent TYPE="NODE"><html>
@@ -270,8 +267,7 @@
       <font color="#3296fa" size="2"><i>Kent Beck</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1443816972468" MODIFIED="1443816972468" TEXT="ATDD"/>
 <node CREATED="1443816972468" MODIFIED="1443816972468" TEXT="BDD"/>

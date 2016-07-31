@@ -188,7 +188,1014 @@
 </node>
 </node>
 </node>
-<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1453591983049" POSITION="right" TEXT="*nix cmd">
+<node CREATED="1400174804803" ID="ID_1363757303" MODIFIED="1468879458592" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      info <img src="../icons/info.png" />
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1400174812466" ID="ID_229328583" LINK="http://www.gnu.org/software/bash/manual/bashref.html" MODIFIED="1400174819533" TEXT="BASH man"/>
+<node CREATED="1403889553505" ID="ID_184241840" MODIFIED="1440875701556" TEXT="Programs developers">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Here are the names of the programs in this package,
+    </p>
+    <p>
+      each followed by the name(s) of its author(s).
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      arch: David MacKenzie, Karel Zak
+    </p>
+    <p>
+      base64: Simon Josefsson
+    </p>
+    <p>
+      basename: David MacKenzie
+    </p>
+    <p>
+      cat: Torbj&#195;&#182;rn Granlund, Richard M. Stallman
+    </p>
+    <p>
+      chcon: Russell Coker, Jim Meyering
+    </p>
+    <p>
+      chgrp: David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      chmod: David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      chown: David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      chroot: Roland McGrath
+    </p>
+    <p>
+      cksum: Q. Frank Xia
+    </p>
+    <p>
+      comm: Richard M. Stallman, David MacKenzie
+    </p>
+    <p>
+      cp: Torbj&#195;&#182;rn Granlund, David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      csplit: Stuart Kemp, David MacKenzie
+    </p>
+    <p>
+      cut: David M. Ihnat, David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      date: David MacKenzie
+    </p>
+    <p>
+      dd: Paul Rubin, David MacKenzie, Stuart Kemp
+    </p>
+    <p>
+      df: Torbj&#195;&#182;rn Granlund, David MacKenzie, Paul Eggert
+    </p>
+    <p>
+      dir: Richard M. Stallman, David MacKenzie
+    </p>
+    <p>
+      dircolors: H. Peter Anvin
+    </p>
+    <p>
+      dirname: David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      du: Torbj&#195;&#182;rn Granlund, David MacKenzie, Paul Eggert, Jim Meyering
+    </p>
+    <p>
+      echo: Brian Fox, Chet Ramey
+    </p>
+    <p>
+      env: Richard Mlynarik, David MacKenzie
+    </p>
+    <p>
+      expand: David MacKenzie
+    </p>
+    <p>
+      expr: Mike Parker, James Youngman, Paul Eggert
+    </p>
+    <p>
+      factor: Paul Rubin
+    </p>
+    <p>
+      false: Jim Meyering
+    </p>
+    <p>
+      fmt: Ross Paterson
+    </p>
+    <p>
+      fold: David MacKenzie
+    </p>
+    <p>
+      ginstall: David MacKenzie
+    </p>
+    <p>
+      groups: David MacKenzie, James Youngman
+    </p>
+    <p>
+      head: David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      hostid: Jim Meyering
+    </p>
+    <p>
+      hostname: Jim Meyering
+    </p>
+    <p>
+      id: Arnold Robbins, David MacKenzie
+    </p>
+    <p>
+      join: Mike Haertel
+    </p>
+    <p>
+      kill: Paul Eggert
+    </p>
+    <p>
+      link: Michael Stone
+    </p>
+    <p>
+      ln: Mike Parker, David MacKenzie
+    </p>
+    <p>
+      logname: FIXME: unknown
+    </p>
+    <p>
+      ls: Richard M. Stallman, David MacKenzie
+    </p>
+    <p>
+      md5sum: Ulrich Drepper, Scott Miller, David Madore
+    </p>
+    <p>
+      mkdir: David MacKenzie
+    </p>
+    <p>
+      mkfifo: David MacKenzie
+    </p>
+    <p>
+      mknod: David MacKenzie
+    </p>
+    <p>
+      mktemp: Jim Meyering
+    </p>
+    <p>
+      mv: Mike Parker, David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      nice: David MacKenzie
+    </p>
+    <p>
+      nl: Scott Bartram, David MacKenzie
+    </p>
+    <p>
+      nohup: Jim Meyering
+    </p>
+    <p>
+      od: Jim Meyering
+    </p>
+    <p>
+      paste: David M. Ihnat, David MacKenzie
+    </p>
+    <p>
+      pathchk: Paul Eggert, David MacKenzie, Jim Meyering
+    </p>
+    <p>
+      pinky: Joseph Arceneaux, David MacKenzie, Kaveh Ghazi
+    </p>
+    <p>
+      pr: Pete TerMaat, Roland Huebner
+    </p>
+    <p>
+      printenv: David MacKenzie, Richard Mlynarik
+    </p>
+    <p>
+      printf: David MacKenzie
+    </p>
+    <p>
+      ptx: Fran&#195;&#167;ois Pinard
+    </p>
+    <p>
+      pwd: Jim Meyering
+    </p>
+    <p>
+      readlink: Dmitry V. Levin
+    </p>
+    <p>
+      rm: Paul Rubin, David MacKenzie, Richard M. Stallman, Jim Meyering
+    </p>
+    <p>
+      rmdir: David MacKenzie
+    </p>
+    <p>
+      runcon: Russell Coker
+    </p>
+    <p>
+      seq: Ulrich Drepper
+    </p>
+    <p>
+      sha1sum: Ulrich Drepper, Scott Miller, David Madore
+    </p>
+    <p>
+      sha224sum: Ulrich Drepper, Scott Miller, David Madore
+    </p>
+    <p>
+      sha256sum: Ulrich Drepper, Scott Miller, David Madore
+    </p>
+    <p>
+      sha384sum: Ulrich Drepper, Scott Miller, David Madore
+    </p>
+    <p>
+      sha512sum: Ulrich Drepper, Scott Miller, David Madore
+    </p>
+    <p>
+      shred: Colin Plumb
+    </p>
+    <p>
+      shuf: Paul Eggert
+    </p>
+    <p>
+      sleep: Jim Meyering, Paul Eggert
+    </p>
+    <p>
+      sort: Mike Haertel, Paul Eggert
+    </p>
+    <p>
+      split: Torbj&#195;&#182;rn Granlund, Richard M. Stallman
+    </p>
+    <p>
+      stat: Michael Meskes
+    </p>
+    <p>
+      stty: David MacKenzie
+    </p>
+    <p>
+      su: David MacKenzie
+    </p>
+    <p>
+      sum: Kayvan Aghaiepour, David MacKenzie
+    </p>
+    <p>
+      sync: Jim Meyering
+    </p>
+    <p>
+      tac: Jay Lepreau, David MacKenzie
+    </p>
+    <p>
+      tail: Paul Rubin, David MacKenzie, Ian Lance Taylor, Jim Meyering
+    </p>
+    <p>
+      tee: Mike Parker, Richard M. Stallman, David MacKenzie
+    </p>
+    <p>
+      test: Kevin Braunsdorf, Matthew Bradburn
+    </p>
+    <p>
+      timeout: P&#195;&#161;draig Brady
+    </p>
+    <p>
+      touch: Paul Rubin, Arnold Robbins, Jim Kingdon, David MacKenzie, Randy Smith
+    </p>
+    <p>
+      tr: Jim Meyering
+    </p>
+    <p>
+      true: Jim Meyering
+    </p>
+    <p>
+      truncate: P&#195;&#161;draig Brady
+    </p>
+    <p>
+      tsort: Mark Kettenis
+    </p>
+    <p>
+      tty: David MacKenzie
+    </p>
+    <p>
+      uname: David MacKenzie
+    </p>
+    <p>
+      unexpand: David MacKenzie
+    </p>
+    <p>
+      uniq: Richard M. Stallman, David MacKenzie
+    </p>
+    <p>
+      unlink: Michael Stone
+    </p>
+    <p>
+      uptime: Joseph Arceneaux, David MacKenzie, Kaveh Ghazi
+    </p>
+    <p>
+      users: Joseph Arceneaux, David MacKenzie
+    </p>
+    <p>
+      vdir: Richard M. Stallman, David MacKenzie
+    </p>
+    <p>
+      wc: Paul Rubin, David MacKenzie
+    </p>
+    <p>
+      who: Joseph Arceneaux, David MacKenzie, Michael Stone
+    </p>
+    <p>
+      whoami: Richard Mlynarik
+    </p>
+    <p>
+      yes: David MacKenzie
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      ;; Local Variables:
+    </p>
+    <p>
+      ;; coding: utf-8
+    </p>
+    <p>
+      ;; End:
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1415058739256" ID="ID_1924210302" LINK="https://en.wikipedia.org/wiki/List_of_Unix_commands" MODIFIED="1415058748559" TEXT="List of Unix Commands"/>
+<node CREATED="1445891784642" ID="ID_300768275" LINK="https://github.com/jlevy/the-art-of-command-line" MODIFIED="1445891798078" TEXT="Art of Command Line"/>
+<node CREATED="1411679651821" ID="ID_857964240" LINK="BASH.mm" MODIFIED="1411679651822" TEXT="BASH"/>
+<node CREATED="1416767298160" ID="ID_1237790546" LINK="http://www.regexr.com/" MODIFIED="1416767302376" TEXT="http://www.regexr.com/"/>
+<node CREATED="1445892378185" ID="ID_102647186" LINK="http://explainshell.com/" MODIFIED="1445892389765" TEXT="explainshell"/>
+<node CREATED="1445971107067" ID="ID_1207179397" LINK="http://dotshare.it" MODIFIED="1445971116704" TEXT="dotshare.it"/>
+</node>
+<node CREATED="1404510196952" FOLDED="true" ID="ID_268432590" LINK="http://www.regular-expressions.info/" MODIFIED="1455675802849" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      regex
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Regular</b>&#160;<b>expressions</b>&#160;are text strings used for matching a specific&#160;<b>pattern</b>, or to search for a specific location, such as the start or end of a line or a word. Regular expressions can contain both normal characters or so-called&#160;<b>metacharacters</b>, such as&#160;<font color="#6464c8">*</font>&#160;and&#160;<font color="#6464c8">$</font>.
+    </p>
+    <p>
+      Many text editors and utilities such as&#160;<b>vi,&#160;sed,&#160;awk</b>,&#160;find&#160;and&#160;grep&#160;work extensively with regular expressions. Some of the popular computer languages that use regular expressions include&#160;<b>Perl,Python&#160;</b>and&#160;<b>Ruby</b>.
+    </p>
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1404510291943" FOLDED="true" ID="ID_518059675" MODIFIED="1439420152225" TEXT="anchors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1404510216327" ID="ID_1257364655" MODIFIED="1416766116642">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>^</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>BOL</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1404510342455" ID="ID_389794450" MODIFIED="1416766130514">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>$</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>EOL</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439414501078" ID="ID_991142088" MODIFIED="1439416245834">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>\b \B</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">word boundary </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">(^\w|\w$|\W\w|\w\W)</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439416355978" ID="ID_346670989" MODIFIED="1439416377871">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>\G</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">start of match</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439416386139" ID="ID_138795669" MODIFIED="1439416436144">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>\A</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">start of string</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439416388731" ID="ID_614815277" MODIFIED="1439416391895" TEXT="\Z"/>
+<node CREATED="1439416400362" ID="ID_785376523" MODIFIED="1439416410294" TEXT="\z"/>
+</node>
+<node CREATED="1404510511686" FOLDED="true" ID="ID_522865924" MODIFIED="1439420155729" TEXT="chars classes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1398811982893" ID="ID_566526197" MODIFIED="1398811993004" TEXT="[!characters]"/>
+<node CREATED="1398811977214" ID="ID_403665832" MODIFIED="1439416314831" TEXT="[characters]">
+<node CREATED="1398812006126" ID="ID_68420170" MODIFIED="1398812012941" TEXT="[:alnum:]"/>
+<node CREATED="1398812013421" ID="ID_1635153938" MODIFIED="1398812018973" TEXT="[:alpha:]"/>
+<node CREATED="1398812019405" ID="ID_987777666" MODIFIED="1398812025373" TEXT="[:digit:]"/>
+<node CREATED="1398812025805" ID="ID_725695547" MODIFIED="1398812034780" TEXT="[:upper:]"/>
+<node CREATED="1398812035645" ID="ID_246352882" MODIFIED="1398812040860" TEXT="[:lower:]"/>
+</node>
+</node>
+<node CREATED="1404510645733" ID="ID_726669746" MODIFIED="1439420872683" TEXT="quantifiers">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1439417073807" ID="ID_100119737" MODIFIED="1439417076538" TEXT="{}"/>
+<node CREATED="1439417112765" ID="ID_420644092" MODIFIED="1439418017071">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>a?</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">zero or one of a</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Matches an `a` character or nothing.
+    </p>
+    <p>
+      <b>/ba?/</b>
+    </p>
+    <p>
+      <font color="#3296fa">ba b</font>&#160;a
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439417327166" ID="ID_1820694602" MODIFIED="1439417668703">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>a+</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">one or more of a</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Matches one or more consecutive `a` characters.
+    </p>
+    <p>
+      <b>/a+/</b>
+    </p>
+    <p>
+      <font color="#3296fa">a aa aaa aaaa </font>b<font color="#3296fa">a</font>b b<font color="#3296fa">aa</font>b
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439417882634" ID="ID_736552876" MODIFIED="1439417975806">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>a*</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">zero of more of a</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Matches zero or more consecutive `a` characters.
+    </p>
+    <p>
+      <b>/ba*/</b>
+    </p>
+    <p>
+      a <font color="#3296fa">ba</font>&#160;<font color="#3296fa">baa</font>&#160;aaa <font color="#3296fa">ba</font>&#160;<font color="#3296fa">b</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439419541620" ID="ID_1611401107" MODIFIED="1439419546211" TEXT="gready"/>
+<node CREATED="1439419546710" ID="ID_951702930" MODIFIED="1439419548514" TEXT="lazy"/>
+</node>
+<node CREATED="1416766054788" FOLDED="true" ID="ID_798529151" MODIFIED="1439420156785">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font size="3">meta sequences</font></b>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1404510410006" ID="ID_862586374" MODIFIED="1416766087651">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      . (dot)
+    </p>
+    <p>
+      <font color="#3296fa"><i>any character </i></font>
+    </p>
+    <p>
+      <font color="#3296fa"><i>exept newline</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439410444752" ID="ID_1020365534" MODIFIED="1439410765049">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>\d \D</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">digital [0-9] </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">inverted</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439410411168" ID="ID_235550435" MODIFIED="1439410752577">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>\s \S</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">space </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">inserted </font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439410346721" ID="ID_268756707" MODIFIED="1439418538528">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>\w \W</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">all word chars [a-zA-Z0-9_] </font></i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">inverted</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1416766220033" ID="ID_52468841" MODIFIED="1416766226958" TEXT="[^abc]"/>
+<node CREATED="1416766236945" ID="ID_840756304" MODIFIED="1416766240494" TEXT="[abc]"/>
+<node CREATED="1416766227457" ID="ID_749304929" MODIFIED="1416766231246" TEXT="[a-g]"/>
+</node>
+<node CREATED="1439419922627" ID="ID_1908851525" MODIFIED="1439420420456" TEXT="groups">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1411329747745" ID="ID_485149489" MODIFIED="1411329788446">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      a|z
+    </p>
+    <p>
+      <font color="#3296fa"><i>match a or z</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439420032192" ID="ID_887518827" MODIFIED="1439420043454" TEXT="(...)"/>
+<node CREATED="1439420425322" ID="ID_912762202" MODIFIED="1439420488464">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>(?&gt;...) </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">atomic group</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Matches the longest possible substring in the group and doesn't allow later backtracking to reevaluate the group.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1439421850885" ID="ID_1914073516" MODIFIED="1439421859266" TEXT="(?:...)"/>
+</node>
+<node CREATED="1439421805944" ID="ID_175452714" MODIFIED="1439421811657" TEXT="flags">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1439421812679" ID="ID_670909686" MODIFIED="1439421951058" TEXT="i"/>
+<node CREATED="1439421942484" ID="ID_1548340850" MODIFIED="1439421943826" TEXT="m"/>
+<node CREATED="1439421944165" ID="ID_253676577" MODIFIED="1439421944770" TEXT="s"/>
+<node CREATED="1439421945300" ID="ID_784885771" MODIFIED="1439421946336" TEXT="G"/>
+</node>
+</node>
+<node CREATED="1417046137836" ID="ID_1534082994" MODIFIED="1468879456281" POSITION="right" TEXT="shells">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417377619382" ID="ID_1310986501" MODIFIED="1417377623267" TEXT="Linux console"/>
+<node CREATED="1455675837216" ID="ID_1628952741" MODIFIED="1455675839567" TEXT="EFI"/>
+<node CREATED="1432327445795" FOLDED="true" ID="ID_1947953279" MODIFIED="1456365501812" TEXT="Unix-like">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1409694901066" ID="ID_1165725609" MODIFIED="1432327347169">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>bash</b>
+    </p>
+    <p>
+      1987
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Brian Fox</font></i>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">GNU</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411342486447" ID="ID_1557968989" MODIFIED="1411770639757">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ksh</b>
+    </p>
+    <p>
+      1982
+    </p>
+    <p>
+      David Korn
+    </p>
+    <p>
+      [AT&amp;T]
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1414970245433" ID="ID_1478627730" MODIFIED="1414970247302" TEXT="zsh"/>
+<node CREATED="1411342587966" ID="ID_275848496" MODIFIED="1411770530686">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>csh</b>
+    </p>
+    <p>
+      1978
+    </p>
+    <p>
+      Bill Joy
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411342484223" ID="ID_1336569953" MODIFIED="1414627548644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>sh</b>
+    </p>
+    <p>
+      1977
+    </p>
+    <p>
+      <i><font color="#3296fa">Steve Bourne</font></i>
+    </p>
+    <p>
+      [ <font color="#3296fa">AT&amp;T</font>&#160;]
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1411342597853" ID="ID_330091027" MODIFIED="1411770590094">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>tcsh</b>
+    </p>
+    <p>
+      1970
+    </p>
+    <p>
+      Ken Greer
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1417046144572" ID="ID_505739029" LINK="https://mosh.mit.edu/" MODIFIED="1446071934039">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Mosh </b>
+    </p>
+    <p>
+      2012
+    </p>
+    <p>
+      <font size="2">mobile shell</font>
+    </p>
+    <p>
+      <font color="#6496fa" size="2">Keith Winstein</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1432327527905" ID="ID_1313524877" MODIFIED="1454816313660" TEXT="windows">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1432327538257" ID="ID_88014871" MODIFIED="1432327540255" TEXT="cmd.exe"/>
+<node CREATED="1454816316907" ID="ID_1395490103" MODIFIED="1454816322296" TEXT="PowerShell"/>
+</node>
+<node CREATED="1437604200968" ID="ID_149989198" MODIFIED="1437604206777" TEXT="PowerShell">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1439150673953" ID="ID_971108575" LINK="http://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-technologies/index.html" MODIFIED="1439150727784">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>IOS</b>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">Cisco</font><font size="2">&#160;]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1417377656934" FOLDED="true" ID="ID_1949155085" MODIFIED="1455675818848" POSITION="right" TEXT="terminal emulators">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417378969784" ID="ID_1829545496" MODIFIED="1439153410765" TEXT="aterm">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      aterm
+    </p>
+    <p>
+      eterm
+    </p>
+    <p>
+      <span class="l"><a target="_blank" href="https://wiki.gnome.org/Apps/Terminal">~</a></span><a target="_blank" href="https://wiki.gnome.org/Apps/Terminal">&#160;gnome-terminal </a>
+    </p>
+    <p>
+      guake
+    </p>
+    <p>
+      konsole
+    </p>
+    <p>
+      Kuake
+    </p>
+    <p>
+      mrxvt
+    </p>
+    <p>
+      <span class="l"><a target="_blank" href="http://software.schmorp.de/pkg/rxvt-unicode.html">~</a></span><a target="_blank" href="http://software.schmorp.de/pkg/rxvt-unicode.html">&#160;rxvt </a>
+    </p>
+    <p>
+      xfce4
+    </p>
+    <p>
+      <span class="l"><a target="_blank" href="https://launchpad.net/terminator">~</a></span><a target="_blank" href="https://launchpad.net/terminator">&#160;Terminator </a>
+    </p>
+    <p>
+      Terminology
+    </p>
+    <p>
+      <span class="l"><a target="_blank" href="http://tilda.sourceforge.net/tildaabout.php">~</a></span><a target="_blank" href="http://tilda.sourceforge.net/tildaabout.php">&#160;Tilda </a>
+    </p>
+    <p>
+      wterm
+    </p>
+    <p>
+      <span class="l"><a target="_blank" href="http://invisible-island.net/xterm/">~</a></span><a target="_blank" href="http://invisible-island.net/xterm/">&#160;xterm </a>
+    </p>
+    <p>
+      Yakuake
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1417378969785" ID="ID_505269542" MODIFIED="1417378969785" TEXT="eterm"/>
+<node CREATED="1417378969786" ID="ID_486052798" LINK="https://wiki.gnome.org/Apps/Terminal" MODIFIED="1439150804866" TEXT="gnome-terminal"/>
+<node CREATED="1417378969786" ID="ID_1065590366" MODIFIED="1417378969786" TEXT="guake"/>
+<node CREATED="1417378969787" ID="ID_87040850" MODIFIED="1417378969787" TEXT="konsole"/>
+<node CREATED="1417378969787" ID="ID_1541947272" MODIFIED="1417378969787" TEXT="Kuake"/>
+<node CREATED="1417378969788" ID="ID_996587280" MODIFIED="1417378969788" TEXT="mrxvt"/>
+<node CREATED="1417378969788" ID="ID_281231788" LINK="http://software.schmorp.de/pkg/rxvt-unicode.html" MODIFIED="1419374174819" TEXT="rxvt"/>
+<node CREATED="1417378969789" ID="ID_647709737" MODIFIED="1417378969789" TEXT="xfce4"/>
+<node CREATED="1417378969789" ID="ID_1020879587" LINK="https://launchpad.net/terminator" MODIFIED="1436390908398" TEXT="Terminator"/>
+<node CREATED="1417378969790" ID="ID_308982120" MODIFIED="1417378969790" TEXT="Terminology"/>
+<node CREATED="1417378969790" ID="ID_169597338" LINK="http://tilda.sourceforge.net/tildaabout.php" MODIFIED="1436390933198" TEXT="Tilda"/>
+<node CREATED="1417378969791" ID="ID_584687950" MODIFIED="1417378969791" TEXT="wterm"/>
+<node CREATED="1417378969791" ID="ID_644039634" LINK="http://invisible-island.net/xterm/" MODIFIED="1436390861875" TEXT="xterm"/>
+<node CREATED="1417378969791" ID="ID_1603666720" MODIFIED="1417378969791" TEXT="Yakuake"/>
+</node>
+<node CREATED="1429564473616" FOLDED="true" ID="ID_816169975" MODIFIED="1455675828976" POSITION="right" TEXT="multiplexors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417046267322" ID="ID_7768614" LINK="https://www.gnu.org/software/screen/" MODIFIED="1446072044075">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>GNU Screen </b>
+    </p>
+    <p>
+      1987
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Amadeusz S&#322;awi&#324;ski</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1446072172636" ID="ID_129806444" MODIFIED="1446072325403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Byodu </b><img src="../icons/byobu.png" />
+    </p>
+    <p>
+      2009
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Dustin Kirkland </i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1417046221370" ID="ID_1387677672" LINK="http://tmux.sourceforge.net/" MODIFIED="1446071992460">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>tmux</b>
+    </p>
+    <p>
+      2009
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Nicholas Marriott</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1445981996145" ID="ID_1047527744" MODIFIED="1445982004550" POSITION="left" TEXT="OS x only">
+<node CREATED="1442610106525" ID="ID_109697684" MODIFIED="1442610244549">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pbcopy, pbpaste <img src="../icons/apple.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1398813187301" ID="ID_82536923" MODIFIED="1468879463993" POSITION="right" TEXT="*nix cmd">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6309,7 +7316,7 @@
 <node CREATED="1416668336714" ID="ID_1729445529" MODIFIED="1416668344824" TEXT="arecord, aplay"/>
 <node CREATED="1432755673584" ID="ID_1459718106" MODIFIED="1432755823297" TEXT="puls"/>
 </node>
-<node CREATED="1414088710251" ID="ID_415520110" MODIFIED="1445550816968">
+<node CREATED="1414088710251" FOLDED="true" ID="ID_415520110" MODIFIED="1458088178275">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6358,7 +7365,7 @@
 </node>
 <node CREATED="1445556347047" ID="ID_1595668158" MODIFIED="1445556349794" TEXT="crypttab"/>
 </node>
-<node CREATED="1399409735160" ID="ID_382273999" MODIFIED="1454817283173" STYLE="fork">
+<node CREATED="1399409735160" FOLDED="true" ID="ID_382273999" MODIFIED="1465168590396" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7302,7 +8309,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1415658609594" ID="ID_1978575685" MODIFIED="1451170581634" TEXT="~ files">
+<node CREATED="1415658609594" FOLDED="true" ID="ID_1978575685" MODIFIED="1458524760613" TEXT="~ files">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1445550996264" ID="ID_753038937" MODIFIED="1445551189249">
 <richcontent TYPE="NODE"><html>
@@ -7350,7 +8357,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408312998290" FOLDED="true" ID="ID_416839939" MODIFIED="1445551206667">
+<node CREATED="1408312998290" ID="ID_416839939" MODIFIED="1458088468023">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7366,6 +8373,21 @@
 <node CREATED="1408313011859" ID="ID_1942460190" MODIFIED="1408313013889" TEXT="bzip2"/>
 <node CREATED="1408313014947" ID="ID_1688109403" MODIFIED="1408313016417" TEXT="xz"/>
 <node CREATED="1408313017187" ID="ID_1329878499" MODIFIED="1408313018241" TEXT="zip"/>
+<node CREATED="1458088474661" ID="ID_1352855418" MODIFIED="1458088579183">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>tar</b>
+    </p>
+    <p>
+      <font size="2">tape archive</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node COLOR="#000000" CREATED="1399667330856" FOLDED="true" ID="ID_905701175" MODIFIED="1454817290285" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -7534,7 +8556,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1445557561189" FOLDED="true" ID="ID_318516847" MODIFIED="1447109049404" TEXT="~ maintain fs">
+<node CREATED="1445557561189" ID="ID_318516847" MODIFIED="1459490378367" TEXT="~ maintain fs">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1445557577245" ID="ID_635235879" MODIFIED="1445557579171" TEXT=" e2fsck - check a Linux ext2/ext3/ext4 file system "/>
 <node CREATED="1407354168062" FOLDED="true" ID="ID_1924987046" MODIFIED="1445557606987">
@@ -7634,7 +8656,7 @@
 </node>
 <node CREATED="1413926037282" ID="ID_136472826" MODIFIED="1413926045902" TEXT="exiftool"/>
 </node>
-<node CREATED="1399409798059" FOLDED="true" ID="ID_1665666272" MODIFIED="1445891765346">
+<node CREATED="1399409798059" ID="ID_1665666272" MODIFIED="1469966879040">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7747,26 +8769,11 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1409005943263" ID="ID_1442344864" MODIFIED="1440873928779">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>ldd </b>[<i>options</i>] <i>programs</i>
-    </p>
-    <p>
-      <i><font color="#6496fa" size="2">list dependencies</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1409005999503" ID="ID_191847280" MODIFIED="1409006011933" TEXT="readelf"/>
 <node CREATED="1410907664179" ID="ID_987909128" MODIFIED="1410907669615" TEXT="catman"/>
 <node CREATED="1410907769954" ID="ID_1957341863" MODIFIED="1410907772974" TEXT="manpath"/>
 </node>
-<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1448727660269">
+<node CREATED="1407074986052" FOLDED="true" ID="ID_714158331" MODIFIED="1465168588099">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7889,7 +8896,7 @@
 <node CREATED="1409248584533" ID="ID_1021607894" MODIFIED="1409248592725" TEXT="network"/>
 </node>
 </node>
-<node CREATED="1407074998324" ID="ID_819071606" MODIFIED="1445891515586">
+<node CREATED="1407074998324" ID="ID_819071606" MODIFIED="1458524782295">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7925,22 +8932,6 @@
 <node CREATED="1407075754847" ID="ID_753647616" MODIFIED="1407075759183" TEXT="lsusb">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1442528556429" ID="ID_1002729174" MODIFIED="1442528632400">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>pmap</b>&#160;[<i>options</i>]&#160;<i>pids </i>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">display mem maps of pids</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1442961671811" ID="ID_1326345273" MODIFIED="1442961673696" TEXT="-x"/>
-</node>
 <node CREATED="1409247450860" ID="ID_839178609" MODIFIED="1409247452684" TEXT="sdparm"/>
 <node CREATED="1409177591560" ID="ID_700368984" MODIFIED="1409177595287" TEXT="udisks"/>
 <node CREATED="1419712426909" ID="ID_1001096665" MODIFIED="1432755513109" TEXT="X server">
@@ -7951,7 +8942,7 @@
 <node CREATED="1420657078962" ID="ID_681750955" MODIFIED="1420657082144" TEXT="xinput"/>
 </node>
 </node>
-<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1453591956922">
+<node CREATED="1399409789401" FOLDED="true" ID="ID_833760425" MODIFIED="1469966885434">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7963,7 +8954,6 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1445891805322" ID="ID_664132095" MODIFIED="1445891820348" TEXT=" mtr - a network diagnostic tool "/>
 <node CREATED="1445892067358" ID="ID_873850614" MODIFIED="1445892067960" TEXT="ab"/>
 <node CREATED="1442962182507" ID="ID_1597737763" MODIFIED="1442962185983" TEXT="arping"/>
 <node CREATED="1409095436920" ID="ID_130197990" MODIFIED="1409095463540">
@@ -8016,9 +9006,8 @@
 <node CREATED="1445891291217" ID="ID_1727355155" LINK="https://github.com/jkbrzt/httpie" MODIFIED="1445891309423" TEXT="httpie"/>
 <node CREATED="1414793655475" ID="ID_1560145364" MODIFIED="1414793658304" TEXT="ifdown"/>
 <node CREATED="1445892033478" ID="ID_1812912606" MODIFIED="1445892039339" TEXT="iftop"/>
-<node CREATED="1448757553300" ID="ID_1044936240" MODIFIED="1448757554721" TEXT="snort"/>
 <node CREATED="1414793652579" ID="ID_1768799015" MODIFIED="1414793654944" TEXT="ifup"/>
-<node CREATED="1410812905518" ID="ID_687530994" MODIFIED="1410813679570">
+<node CREATED="1410812905518" ID="ID_687530994" MODIFIED="1458087375649">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8028,15 +9017,15 @@
       <b>ipcalc</b>&#160;<img src="../icons/debian.png" />
     </p>
     <p>
-      <i><font color="#3296fa">IP Netmask/broadcast/etc calculator </font></i>
+      <i><font color="#3296fa" size="2">IP Netmask/broadcast/etc calculator </font></i>
     </p>
     <p>
-      <i><font color="#3296fa">Krischan Jodies</font></i>
+      <i><font color="#3296fa" size="2">Krischan Jodies</font></i>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1410812545910" ID="ID_298152511" MODIFIED="1410813723458">
+<node CREATED="1410812545910" ID="ID_298152511" MODIFIED="1458087392953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8046,28 +9035,32 @@
       <b>ipcalc</b>&#160;<img src="../icons/redhat.png" />
     </p>
     <p>
-      <i><font color="#3296fa">perform simple manipulation </font></i>
+      <i><font color="#3296fa" size="2">perform simple manipulation </font></i>
     </p>
     <p>
-      <i><font color="#3296fa">of IP addresses </font></i>
+      <i><font color="#3296fa" size="2">of IP addresses </font></i>
     </p>
     <p>
-      <i><font color="#3296fa">Erik Troan, Preston Brown</font></i>
+      <i><font color="#3296fa" size="2">Erik Troan, Preston Brown</font></i>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413836121851" ID="ID_1993983492" MODIFIED="1440451997667">
+<node CREATED="1413836121851" FOLDED="true" ID="ID_1993983492" MODIFIED="1458087670581">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>iptables</b>
+      <b>iptables </b>
+    </p>
+    <p>
+      <font size="2">[ </font><font color="#3296fa" size="2">netfilter.org</font><font size="2">&#160;]</font>
     </p>
   </body>
 </html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1440451970190" ID="ID_330008285" MODIFIED="1440451974681" TEXT="doc">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1440451975132" ID="ID_85359952" LINK="https://wiki.centos.org/HowTos/Network/IPTables" MODIFIED="1440451991140" TEXT="IPTables CentOS"/>
@@ -8076,6 +9069,21 @@
 <node CREATED="1410820588081" ID="ID_1176156073" MODIFIED="1410820592957" TEXT="iptraf"/>
 <node CREATED="1414090472086" ID="ID_103575578" MODIFIED="1414090474532" TEXT="iw"/>
 <node CREATED="1413835711752" ID="ID_502162702" MODIFIED="1413835713837" TEXT="iwconfig"/>
+<node CREATED="1445891805322" ID="ID_664132095" MODIFIED="1458087735059">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>mtr</b>
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">a network diagnostic tool</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1445551339882" ID="ID_685543404" LINK="http://nc110.sourceforge.net/" MODIFIED="1447109424769">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -8162,7 +9170,8 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1410820581777" ID="ID_1272304462" LINK="http://www.tcpdump.org/" MODIFIED="1448756889215">
+<node CREATED="1448757553300" ID="ID_1044936240" MODIFIED="1448757554721" TEXT="snort"/>
+<node CREATED="1410820581777" ID="ID_1272304462" LINK="http://www.tcpdump.org/" MODIFIED="1458087739453">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8239,7 +9248,7 @@
 </html></richcontent>
 <node CREATED="1410819527714" ID="ID_303068065" MODIFIED="1410819528958" TEXT="to"/>
 </node>
-<node CREATED="1410821613136" ID="ID_1883183146" MODIFIED="1448754300876" TEXT="wget">
+<node CREATED="1410821613136" ID="ID_1883183146" MODIFIED="1458087739479" TEXT="wget">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -8460,7 +9469,7 @@
 <node CREATED="1416955035008" ID="ID_433446379" MODIFIED="1416955042253" TEXT="-s"/>
 <node CREATED="1416955036272" ID="ID_416442696" MODIFIED="1416955038397" TEXT="-P"/>
 </node>
-<node CREATED="1399410729293" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1451434097318">
+<node CREATED="1399410729293" FOLDED="true" ID="ID_1234363340" LINK="http://www.openssh.com/" MODIFIED="1469919863282">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8492,7 +9501,8 @@
       $: <b>ssh-copy-id</b>&#160;-i identity_file.pub user_name@ip.adress.to_your.server
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417125929766" ID="ID_635815480" MODIFIED="1417125932994" TEXT="ssh-agent"/>
 <node CREATED="1417126006197" ID="ID_467918695" MODIFIED="1447704011979">
@@ -8622,7 +9632,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1399409794324" ID="ID_729282476" MODIFIED="1451170542038">
+<node CREATED="1399409794324" FOLDED="true" ID="ID_729282476" MODIFIED="1469746543348">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8634,7 +9644,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399410573215" FOLDED="true" ID="ID_1329724197" MODIFIED="1447588462711">
+<node CREATED="1399410573215" FOLDED="true" ID="ID_1329724197" MODIFIED="1469574890310">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8696,7 +9706,8 @@
       $:<b>&#160;find ./ -type f -exec grep </b>&quot;&lt;string&gt;&quot; {} /dev/null \;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1407797975023" ID="ID_1185175125" MODIFIED="1409411127836">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -8909,7 +9920,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1407354075437" FOLDED="true" ID="ID_1800889324" MODIFIED="1453592058525" TEXT="sys adm">
+<node CREATED="1407354075437" ID="ID_1800889324" MODIFIED="1469746610613" TEXT="sys adm">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1448727446896" ID="ID_1322548583" MODIFIED="1448727449759" TEXT="dconf"/>
 <node CREATED="1411240349365" ID="ID_1973370963" MODIFIED="1411240351155" TEXT="fuser"/>
@@ -8952,6 +9963,7 @@
 </node>
 </node>
 <node CREATED="1418327215978" ID="ID_1807480287" MODIFIED="1418327221015" TEXT="pkg-config"/>
+<node CREATED="1458524797978" ID="ID_1493173472" MODIFIED="1458524803630" TEXT="rpcinfo"/>
 <node CREATED="1407276494758" ID="ID_887271924" MODIFIED="1407276545314">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9003,11 +10015,12 @@
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1439117306057" FOLDED="true" ID="ID_1017384787" MODIFIED="1445892197940" TEXT="~ audit">
+<node CREATED="1439117306057" ID="ID_1017384787" MODIFIED="1469746567202" TEXT="~ audit">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1439117310724" ID="ID_553853586" MODIFIED="1439117314368" TEXT="SELinux">
 <node CREATED="1439117315572" ID="ID_147496252" MODIFIED="1439117318705" TEXT="setsebool"/>
 </node>
+<node CREATED="1469746569098" ID="ID_1386620545" MODIFIED="1469746571790" TEXT="AppArm"/>
 </node>
 <node CREATED="1445137055528" FOLDED="true" ID="ID_288096253" MODIFIED="1445891688395" TEXT="~ devices">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -9101,7 +10114,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1440452048248" FOLDED="true" ID="ID_1230130900" MODIFIED="1448727433592" TEXT="~ kernel">
+<node CREATED="1440452048248" FOLDED="true" ID="ID_1230130900" MODIFIED="1469746556105" TEXT="~ kernel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -9171,26 +10184,6 @@
 </html></richcontent>
 </node>
 <node CREATED="1443478779350" ID="ID_469672616" MODIFIED="1443478781154" TEXT="rmmod"/>
-<node CREATED="1442875501507" FOLDED="true" ID="ID_170216753" MODIFIED="1445892191171" TEXT="sysctl">
-<node CREATED="1443475361104" ID="ID_336661848" MODIFIED="1443475365099" TEXT="Options">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1443475366207" ID="ID_1360539349" MODIFIED="1443475422375">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>-p</b>[FILE], <b>--load</b>[=FILE]&#160;
-    </p>
-    <p>
-      <font color="#6496fa" size="2"><i>load&#160;&#160;settings from the file</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
 </node>
 <node CREATED="1445134106932" FOLDED="true" ID="ID_554505730" MODIFIED="1447587341500" TEXT="~ partitioning">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -9252,7 +10245,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1408998360978" FOLDED="true" ID="ID_1226382505" MODIFIED="1448727434888">
+<node CREATED="1408998360978" FOLDED="true" ID="ID_1226382505" MODIFIED="1459404033315">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9385,6 +10378,7 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1459404002028" ID="ID_1564133767" MODIFIED="1459404004006" TEXT="smartd"/>
 </node>
 <node CREATED="1409003666222" ID="ID_1618721601" MODIFIED="1409003703419">
 <richcontent TYPE="NODE"><html>
@@ -9437,7 +10431,7 @@
 <node CREATED="1408999972295" ID="ID_537482645" MODIFIED="1408999974231" TEXT="-M"/>
 </node>
 </node>
-<node CREATED="1441555212128" FOLDED="true" ID="ID_285433190" MODIFIED="1448727436200" TEXT="~Initialization">
+<node CREATED="1441555212128" FOLDED="true" ID="ID_285433190" MODIFIED="1469966889714" TEXT="~Initialization">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413754493491" ID="ID_704100240" MODIFIED="1441578106042">
 <richcontent TYPE="NODE"><html>
@@ -9454,16 +10448,15 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1435599031327" ID="ID_1524585462" MODIFIED="1435599033372" TEXT="init"/>
 <node CREATED="1441555252367" ID="ID_346275214" MODIFIED="1441555255757" TEXT="runlevel"/>
-<node CREATED="1413754360263" FOLDED="true" ID="ID_1491850406" MODIFIED="1445892184139" TEXT="service">
+<node CREATED="1413754360263" FOLDED="true" ID="ID_1491850406" MODIFIED="1469746625224" TEXT="service">
 <node CREATED="1441579754567" ID="ID_1012985959" MODIFIED="1441579758947" TEXT="--status-all"/>
 </node>
-<node CREATED="1435598899073" FOLDED="true" ID="ID_1412526341" LINK="http://freedesktop.org/wiki/Software/systemd/" MODIFIED="1445892179837" TEXT="systemd">
+<node CREATED="1435598899073" ID="ID_1412526341" LINK="http://freedesktop.org/wiki/Software/systemd/" MODIFIED="1469746793980" TEXT="systemd">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1441661566821" ID="ID_932900874" MODIFIED="1441662005776" TEXT="utilities">
+<node CREATED="1441661566821" FOLDED="true" ID="ID_932900874" MODIFIED="1469746797597" TEXT="utilities">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1411233453908" ID="ID_1371304450" MODIFIED="1435598905204">
+<node CREATED="1411233453908" FOLDED="true" ID="ID_1371304450" MODIFIED="1469746689740">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9547,24 +10540,97 @@
 <node CREATED="1441661624859" ID="ID_1292224275" MODIFIED="1441661634528" TEXT="logind"/>
 <node CREATED="1441661634980" ID="ID_1303554379" MODIFIED="1441661638601" TEXT="user session"/>
 </node>
-<node CREATED="1441661642988" ID="ID_249459146" MODIFIED="1441662999257" TEXT="targets">
+<node CREATED="1441661642988" ID="ID_249459146" MODIFIED="1469747061683" TEXT="targets">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      basic.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Basic System
+    </p>
+    <p>
+      cryptsetup.target&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Encrypted Volumes
+    </p>
+    <p>
+      getty.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Login Prompts
+    </p>
+    <p>
+      graphical.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Graphical Interface
+    </p>
+    <p>
+      local-fs-pre.target&#160;&#160;&#160;&#160;loaded active active Local File Systems (Pre)
+    </p>
+    <p>
+      local-fs.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Local File Systems
+    </p>
+    <p>
+      multi-user.target&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Multi-User System
+    </p>
+    <p>
+      network-online.target&#160;&#160;loaded active active Network is Online
+    </p>
+    <p>
+      network.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Network
+    </p>
+    <p>
+      nfs-client.target&#160;&#160;&#160;&#160;&#160;&#160;loaded active active NFS client services
+    </p>
+    <p>
+      nss-lookup.target&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Host and Network Name Lookups
+    </p>
+    <p>
+      nss-user-lookup.target loaded active active User and Group Name Lookups
+    </p>
+    <p>
+      paths.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Paths
+    </p>
+    <p>
+      remote-fs-pre.target&#160;&#160;&#160;loaded active active Remote File Systems (Pre)
+    </p>
+    <p>
+      remote-fs.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Remote File Systems
+    </p>
+    <p>
+      rpcbind.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active RPC Port Mapper
+    </p>
+    <p>
+      slices.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Slices
+    </p>
+    <p>
+      sockets.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Sockets
+    </p>
+    <p>
+      sound.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Sound Card
+    </p>
+    <p>
+      swap.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Swap
+    </p>
+    <p>
+      sysinit.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active System Initialization
+    </p>
+    <p>
+      timers.target&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;loaded active active Timers
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1441661648707" ID="ID_1870383359" MODIFIED="1441661651824" TEXT="bootmode"/>
-<node CREATED="1441661652179" ID="ID_52221760" MODIFIED="1441661653239" TEXT="basic"/>
-<node CREATED="1441661653578" ID="ID_1375290814" MODIFIED="1441661657032" TEXT="shutdown"/>
-<node CREATED="1441661657387" ID="ID_1178084245" MODIFIED="1441661659536" TEXT="reboot"/>
-<node CREATED="1441661660083" ID="ID_1841144241" MODIFIED="1441661669411" TEXT="multi-user">
+<node CREATED="1441661648707" ID="ID_1870383359" MODIFIED="1469746857363" TEXT="rescue.target"/>
+<node CREATED="1441661653578" ID="ID_1375290814" MODIFIED="1469746831867" TEXT="poweroff.target"/>
+<node CREATED="1441661657387" ID="ID_1178084245" MODIFIED="1469746821827" TEXT="reboot.target"/>
+<node CREATED="1441661660083" ID="ID_1841144241" MODIFIED="1469746869043" TEXT="multi-user.target">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441661669827" ID="ID_990488941" MODIFIED="1441661672440" TEXT="dbus"/>
 <node CREATED="1441661672731" ID="ID_865427606" MODIFIED="1441661673776" TEXT="dlog"/>
 <node CREATED="1441661674099" ID="ID_930245564" MODIFIED="1441661677592" TEXT="telephony"/>
 <node CREATED="1441661678107" ID="ID_1559059783" MODIFIED="1441661681424" TEXT="logind"/>
 </node>
-<node CREATED="1441661683723" ID="ID_789622100" MODIFIED="1441661690347" TEXT="graphical">
+<node CREATED="1441661683723" ID="ID_789622100" MODIFIED="1469746838627" TEXT="graphical.target">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1441661703626" ID="ID_1668364221" MODIFIED="1441663008591" TEXT="core">
+<node CREATED="1441661703626" ID="ID_1668364221" MODIFIED="1469747070575" TEXT="core">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441661706442" ID="ID_1198348748" MODIFIED="1441661708815" TEXT="manager"/>
 <node CREATED="1441661709802" ID="ID_22542100" MODIFIED="1441661712102" TEXT="systemd"/>
@@ -9621,8 +10687,11 @@
 </node>
 </node>
 <node CREATED="1413483837555" ID="ID_665917362" MODIFIED="1413483839758" TEXT="telinit"/>
+<node CREATED="1469746733767" ID="ID_106546742" MODIFIED="1469746741940" TEXT="{ Upstart }">
+<node CREATED="1435599031327" ID="ID_1524585462" MODIFIED="1435599033372" TEXT="init"/>
 </node>
-<node CREATED="1413070684011" FOLDED="true" ID="ID_1179428748" MODIFIED="1445134197987" TEXT="~scheduling">
+</node>
+<node CREATED="1413070684011" ID="ID_1179428748" MODIFIED="1458951559143" TEXT="~scheduling">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413070697675" FOLDED="true" ID="ID_1399911305" MODIFIED="1435598816737">
 <richcontent TYPE="NODE"><html>
@@ -9688,23 +10757,8 @@
 <node CREATED="1413070723338" ID="ID_46913701" MODIFIED="1413070725431" TEXT="atq"/>
 <node CREATED="1413071195603" ID="ID_1339257800" MODIFIED="1413071196912" TEXT="cron"/>
 <node CREATED="1413156013925" ID="ID_1358842604" MODIFIED="1413156017121" TEXT="crontab"/>
-<node CREATED="1435598459127" ID="ID_778040991" MODIFIED="1435598800513">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>watch</b>&#160;[<i>options</i>] <i>command</i>&#160;[<i>cmd_option</i>]
-    </p>
-    <p>
-      <i><font color="#6496fa" size="2">run the cmd repeatedly</font></i>
-    </p>
-  </body>
-</html></richcontent>
 </node>
-</node>
-<node CREATED="1399409772021" FOLDED="true" ID="ID_376573605" MODIFIED="1453591993229">
+<node CREATED="1399409772021" ID="ID_376573605" MODIFIED="1469966869154">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9722,24 +10776,8 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1445892259650" ID="ID_1936460376" MODIFIED="1445892261964" TEXT=" ldd - print shared library dependencies"/>
 <node CREATED="1445892214064" ID="ID_866121272" MODIFIED="1445892216527" TEXT=" ltrace - A library call tracer"/>
-<node CREATED="1445892130332" ID="ID_1193667039" MODIFIED="1447589662382">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>strace</b>&#160;[<i>options</i>] <i>command</i>&#160;[<i>arguments</i>]
-    </p>
-    <p>
-      <i><font color="#6496fa" size="2">trace system calls and signals&#160;</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1399410008267" FOLDED="true" ID="ID_631025407" MODIFIED="1448753161927">
+<node CREATED="1399410008267" FOLDED="true" ID="ID_631025407" MODIFIED="1469966915780">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9813,7 +10851,7 @@
 </node>
 </node>
 <node CREATED="1445891531470" ID="ID_1905411409" MODIFIED="1445891533131" TEXT="dstat"/>
-<node CREATED="1398813389507" FOLDED="true" ID="ID_760237530" MODIFIED="1445892029299">
+<node CREATED="1398813389507" FOLDED="true" ID="ID_760237530" MODIFIED="1469966915805">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9849,46 +10887,26 @@
 <node CREATED="1442527296527" ID="ID_150737927" MODIFIED="1442527297388" TEXT="-c"/>
 <node CREATED="1442527298079" ID="ID_1866287681" MODIFIED="1442527299316" TEXT="-B"/>
 </node>
-<node CREATED="1404944127571" ID="ID_1594359000" MODIFIED="1439672559862">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>free</b>&#160;[<i>options</i>]
-    </p>
-    <p>
-      <font size="2" color="#6496fa"><i>memory usage</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1445891630428" ID="ID_96027418" LINK="https://github.com/nicolargo/glances" MODIFIED="1445891637410" TEXT="glances"/>
 <node CREATED="1445891338769" ID="ID_1673872213" MODIFIED="1445891340621" TEXT="iostat"/>
-<node CREATED="1404942162217" FOLDED="true" ID="ID_462833045" MODIFIED="1435597701458">
+<node CREATED="1458952163299" ID="ID_1196169446" MODIFIED="1458952165374" TEXT="iotop"/>
+<node CREATED="1409005943263" ID="ID_1442344864" MODIFIED="1469966952267">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>kill</b>&#160;[<i>options</i>] [<i>pids</i>]
+      <b>ldd </b>[<i>options</i>] <i>path_programs</i>
     </p>
     <p>
-      <i><font color="#6496fa" size="2">to terminate process IDs</font></i>
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Albert Cahalan</i></font>
+      <i><font color="#6496fa" size="2">list soname of the library</font></i>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1404942884604" ID="ID_588193485" MODIFIED="1404942889724" TEXT="-1"/>
-<node CREATED="1404942890444" ID="ID_1680743705" MODIFIED="1404942895226" TEXT="-15"/>
-<node CREATED="1404942895804" ID="ID_1013474503" MODIFIED="1404942899467" TEXT="-9"/>
+</html>
+</richcontent>
 </node>
 <node CREATED="1445891881856" ID="ID_863498911" MODIFIED="1445891883925" TEXT="ncdu"/>
-<node CREATED="1435597731221" ID="ID_379148838" MODIFIED="1435597733747" TEXT="pgrep"/>
 <node CREATED="1428699764182" ID="ID_338107393" MODIFIED="1448740463691">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9913,7 +10931,93 @@
 <node CREATED="1428699840743" ID="ID_1503935941" MODIFIED="1428699843539" TEXT="-o"/>
 </node>
 </node>
-<node CREATED="1435597726789" ID="ID_1704910816" MODIFIED="1440195031254" TEXT="pkill">
+<node CREATED="1404511771565" ID="ID_799241066" MODIFIED="1447587272879">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>pstree&#160;</b>[<i>options</i>]
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">display a tree of processes</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1409095191033" ID="ID_739065529" MODIFIED="1409095229558">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>pv</b>
+    </p>
+    <p>
+      <font color="#3296fa"><i>monitor the progress </i></font>
+    </p>
+    <p>
+      <font color="#3296fa"><i>of data through a pipe </i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1445892130332" ID="ID_1193667039" MODIFIED="1447589662382">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>strace</b>&#160;[<i>options</i>] <i>command</i>&#160;[<i>arguments</i>]
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">trace system calls and signals&#160;</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1458951213315" ID="ID_474191387" MODIFIED="1458951709063" TEXT="{ procps-ng }">
+<node CREATED="1404944127571" ID="ID_1594359000" MODIFIED="1439672559862">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>free</b>&#160;[<i>options</i>]
+    </p>
+    <p>
+      <font size="2" color="#6496fa"><i>memory usage</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1404942162217" FOLDED="true" ID="ID_462833045" MODIFIED="1435597701458">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>kill</b>&#160;[<i>options</i>] [<i>pids</i>]
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">to terminate process IDs</font></i>
+    </p>
+    <p>
+      <font color="#3296fa" size="2"><i>Albert Cahalan</i></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1404942884604" ID="ID_588193485" MODIFIED="1404942889724" TEXT="-1"/>
+<node CREATED="1404942890444" ID="ID_1680743705" MODIFIED="1404942895226" TEXT="-15"/>
+<node CREATED="1404942895804" ID="ID_1013474503" MODIFIED="1404942899467" TEXT="-9"/>
+</node>
+<node CREATED="1435597731221" ID="ID_379148838" MODIFIED="1435597733747" TEXT="pgrep"/>
+<node CREATED="1435597726789" ID="ID_1704910816" MODIFIED="1458951151451" TEXT="pkill">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -9931,7 +11035,23 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1404511768702" FOLDED="true" ID="ID_257585083" MODIFIED="1447587300545">
+<node CREATED="1442528556429" ID="ID_1002729174" MODIFIED="1442528632400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>pmap</b>&#160;[<i>options</i>]&#160;<i>pids </i>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">display mem maps of pids</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1442961671811" ID="ID_1326345273" MODIFIED="1442961673696" TEXT="-x"/>
+</node>
+<node CREATED="1404511768702" FOLDED="true" ID="ID_257585083" MODIFIED="1458951217197">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10018,39 +11138,30 @@
 <node CREATED="1428700342815" ID="ID_1429873182" MODIFIED="1428700343627" TEXT="Z"/>
 </node>
 </node>
-<node CREATED="1404511771565" ID="ID_799241066" MODIFIED="1447587272879">
+<node CREATED="1458951516388" ID="ID_1236288439" MODIFIED="1458951518503" TEXT="pwdx"/>
+<node CREATED="1458951529364" ID="ID_989464466" MODIFIED="1458951530978" TEXT="skill"/>
+<node CREATED="1458951539516" ID="ID_1768728643" MODIFIED="1458951540945" TEXT="snice"/>
+<node CREATED="1442875501507" FOLDED="true" ID="ID_170216753" MODIFIED="1445892191171" TEXT="sysctl">
+<node CREATED="1443475361104" ID="ID_336661848" MODIFIED="1443475365099" TEXT="Options">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1443475366207" ID="ID_1360539349" MODIFIED="1443475422375">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>pstree&#160;</b>[<i>options</i>]
+      <b>-p</b>[FILE], <b>--load</b>[=FILE]&#160;
     </p>
     <p>
-      <i><font color="#6496fa" size="2">display a tree of processes</font></i>
+      <font color="#6496fa" size="2"><i>load&#160;&#160;settings from the file</i></font>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1409095191033" ID="ID_739065529" MODIFIED="1409095229558">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>pv</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>monitor the progress </i></font>
-    </p>
-    <p>
-      <font color="#3296fa"><i>of data through a pipe </i></font>
-    </p>
-  </body>
-</html></richcontent>
 </node>
+</node>
+<node CREATED="1458951549547" ID="ID_1802839799" MODIFIED="1458951550881" TEXT="tload"/>
 <node CREATED="1404511750918" ID="ID_653919394" MODIFIED="1447587329886">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10103,6 +11214,21 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1435598459127" ID="ID_778040991" MODIFIED="1435598800513">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>watch</b>&#160;[<i>options</i>] <i>command</i>&#160;[<i>cmd_option</i>]
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">run the cmd repeatedly</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1409171929982" ID="ID_1056190672" MODIFIED="1447587253338">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10120,19 +11246,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1399409778492" FOLDED="true" ID="ID_1285144250" MODIFIED="1453591988383">
+</node>
+<node CREATED="1399409778492" ID="ID_1285144250" MODIFIED="1469969210935">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      text <img src="../icons/text.png" />
+      text/files <img src="../icons/text.png" />
     </p>
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399667479631" ID="ID_983597464" MODIFIED="1411332536851">
+<node CREATED="1399667479631" ID="ID_983597464" MODIFIED="1458949798928">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10142,10 +11269,10 @@
       <b>cut</b>&#160;<i>options </i>[<i>files</i>]
     </p>
     <p>
-      <font color="#3296fa"><i>cut out selected columns or </i></font>
+      <font color="#6496fa" size="2"><i>cut out selected columns or </i></font>
     </p>
     <p>
-      <font color="#3296fa"><i>fields from one or more files</i></font>
+      <font color="#6496fa" size="2"><i>fields from one or more files</i></font>
     </p>
   </body>
 </html></richcontent>
@@ -10165,24 +11292,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1399667511754" ID="ID_150633397" MODIFIED="1411325269516">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>join&#160;</b>[<i>options</i>] <i>file1 file2 </i>
-    </p>
-    <p>
-      <font color="#3296fa"><i>join lines of two sorted files </i></font>
-    </p>
-    <p>
-      <font color="#3296fa"><i>by matching on a common field</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1399667610086" ID="ID_1028299608" MODIFIED="1404840273379">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10197,20 +11306,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1399667519887" FOLDED="true" ID="ID_1424249270" MODIFIED="1429311610822">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>paste&#160;</b>[<i>options</i>] <i>files</i>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1411326493111" ID="ID_237556505" MODIFIED="1411326495604" TEXT="-d"/>
-<node CREATED="1411326497655" ID="ID_1451116806" MODIFIED="1411326500100" TEXT="-s"/>
 </node>
 <node CREATED="1412888462283" ID="ID_256731670" MODIFIED="1412888495644">
 <richcontent TYPE="NODE"><html>
@@ -10461,7 +11556,7 @@
 <node CREATED="1408401088861" ID="ID_1157641945" MODIFIED="1408401090763" TEXT="-l"/>
 <node CREATED="1411331819454" ID="ID_1629526281" MODIFIED="1411331825611" TEXT="-c, --bytes"/>
 </node>
-<node CREATED="1408224078123" FOLDED="true" ID="ID_1050149184" MODIFIED="1443370202413" TEXT="~ Comparing">
+<node CREATED="1408224078123" ID="ID_1050149184" MODIFIED="1458949751660" TEXT="~ Comparing">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399667485067" FOLDED="true" ID="ID_1174682352" MODIFIED="1429311610810">
 <richcontent TYPE="NODE"><html>
@@ -10545,6 +11640,38 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1399667511754" ID="ID_150633397" MODIFIED="1411325269516">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>join&#160;</b>[<i>options</i>] <i>file1 file2 </i>
+    </p>
+    <p>
+      <font color="#3296fa"><i>join lines of two sorted files </i></font>
+    </p>
+    <p>
+      <font color="#3296fa"><i>by matching on a common field</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1399667519887" FOLDED="true" ID="ID_1424249270" MODIFIED="1429311610822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>paste&#160;</b>[<i>options</i>] <i>files</i>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1411326493111" ID="ID_237556505" MODIFIED="1411326495604" TEXT="-d"/>
+<node CREATED="1411326497655" ID="ID_1451116806" MODIFIED="1411326500100" TEXT="-s"/>
+</node>
 </node>
 <node COLOR="#006699" CREATED="1413572388118" ID="ID_1349411063" MODIFIED="1444992800547" STYLE="fork" TEXT="~Text editors">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
@@ -10585,7 +11712,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1413572485797" ID="ID_1848824782" MODIFIED="1448320944021">
+<node CREATED="1413572485797" ID="ID_1848824782" MODIFIED="1469969210955">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10626,7 +11753,8 @@
       $:<b>&#160;awk</b>&#160;'/foo/{if (a &amp;&amp; a !~ /foo/) print a; print} {a=$0}' file
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1413572587572" FOLDED="true" ID="ID_1766920815" MODIFIED="1429311610823" TEXT="Built-it Variables">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413572509589" ID="ID_581393427" MODIFIED="1413572517025" TEXT="NR"/>
@@ -10637,6 +11765,8 @@
 <node CREATED="1417636311083" ID="ID_1360109556" MODIFIED="1417636315497" TEXT="seen[]"/>
 <node CREATED="1417636317995" ID="ID_572193989" MODIFIED="1417636320008" TEXT="lines[]"/>
 </node>
+<node CREATED="1458949698462" ID="ID_490826473" MODIFIED="1458949699755" TEXT="ed"/>
+<node CREATED="1458949700206" ID="ID_1126777929" MODIFIED="1458949701163" TEXT="ack"/>
 <node CREATED="1399410585542" FOLDED="true" ID="ID_719512608" MODIFIED="1451170542054">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10831,7 +11961,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1453592055790">
+<node CREATED="1408402182454" FOLDED="true" ID="ID_493014581" MODIFIED="1469746545194">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10879,6 +12009,7 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1455241307739" ID="ID_1843401197" MODIFIED="1455241320320" TEXT="chpasswd"/>
 <node CREATED="1408402261717" ID="ID_1134343942" MODIFIED="1408402261720">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11478,7 +12609,7 @@
 </node>
 <node CREATED="1453592042752" ID="ID_520582866" MODIFIED="1453592046320" TEXT="setgid"/>
 </node>
-<node CREATED="1414888711057" FOLDED="true" ID="ID_570841120" MODIFIED="1453592053509" TEXT="~ Users maintain">
+<node CREATED="1414888711057" ID="ID_570841120" MODIFIED="1455240785932" TEXT="~ Users maintain">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408402286294" ID="ID_1569716893" MODIFIED="1445705988736">
 <richcontent TYPE="NODE"><html>
@@ -11612,1012 +12743,6 @@
 </node>
 <node CREATED="1453591997035" ID="ID_1615747194" MODIFIED="1453591999153" TEXT="setuid"/>
 </node>
-</node>
-</node>
-<node CREATED="1400174804803" FOLDED="true" ID="ID_1363757303" MODIFIED="1446071763726" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      info <img src="../icons/info.png" />
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1400174812466" ID="ID_229328583" LINK="http://www.gnu.org/software/bash/manual/bashref.html" MODIFIED="1400174819533" TEXT="BASH man"/>
-<node CREATED="1403889553505" ID="ID_184241840" MODIFIED="1440875701556" TEXT="Programs developers">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Here are the names of the programs in this package,
-    </p>
-    <p>
-      each followed by the name(s) of its author(s).
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      arch: David MacKenzie, Karel Zak
-    </p>
-    <p>
-      base64: Simon Josefsson
-    </p>
-    <p>
-      basename: David MacKenzie
-    </p>
-    <p>
-      cat: Torbj&#195;&#182;rn Granlund, Richard M. Stallman
-    </p>
-    <p>
-      chcon: Russell Coker, Jim Meyering
-    </p>
-    <p>
-      chgrp: David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      chmod: David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      chown: David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      chroot: Roland McGrath
-    </p>
-    <p>
-      cksum: Q. Frank Xia
-    </p>
-    <p>
-      comm: Richard M. Stallman, David MacKenzie
-    </p>
-    <p>
-      cp: Torbj&#195;&#182;rn Granlund, David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      csplit: Stuart Kemp, David MacKenzie
-    </p>
-    <p>
-      cut: David M. Ihnat, David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      date: David MacKenzie
-    </p>
-    <p>
-      dd: Paul Rubin, David MacKenzie, Stuart Kemp
-    </p>
-    <p>
-      df: Torbj&#195;&#182;rn Granlund, David MacKenzie, Paul Eggert
-    </p>
-    <p>
-      dir: Richard M. Stallman, David MacKenzie
-    </p>
-    <p>
-      dircolors: H. Peter Anvin
-    </p>
-    <p>
-      dirname: David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      du: Torbj&#195;&#182;rn Granlund, David MacKenzie, Paul Eggert, Jim Meyering
-    </p>
-    <p>
-      echo: Brian Fox, Chet Ramey
-    </p>
-    <p>
-      env: Richard Mlynarik, David MacKenzie
-    </p>
-    <p>
-      expand: David MacKenzie
-    </p>
-    <p>
-      expr: Mike Parker, James Youngman, Paul Eggert
-    </p>
-    <p>
-      factor: Paul Rubin
-    </p>
-    <p>
-      false: Jim Meyering
-    </p>
-    <p>
-      fmt: Ross Paterson
-    </p>
-    <p>
-      fold: David MacKenzie
-    </p>
-    <p>
-      ginstall: David MacKenzie
-    </p>
-    <p>
-      groups: David MacKenzie, James Youngman
-    </p>
-    <p>
-      head: David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      hostid: Jim Meyering
-    </p>
-    <p>
-      hostname: Jim Meyering
-    </p>
-    <p>
-      id: Arnold Robbins, David MacKenzie
-    </p>
-    <p>
-      join: Mike Haertel
-    </p>
-    <p>
-      kill: Paul Eggert
-    </p>
-    <p>
-      link: Michael Stone
-    </p>
-    <p>
-      ln: Mike Parker, David MacKenzie
-    </p>
-    <p>
-      logname: FIXME: unknown
-    </p>
-    <p>
-      ls: Richard M. Stallman, David MacKenzie
-    </p>
-    <p>
-      md5sum: Ulrich Drepper, Scott Miller, David Madore
-    </p>
-    <p>
-      mkdir: David MacKenzie
-    </p>
-    <p>
-      mkfifo: David MacKenzie
-    </p>
-    <p>
-      mknod: David MacKenzie
-    </p>
-    <p>
-      mktemp: Jim Meyering
-    </p>
-    <p>
-      mv: Mike Parker, David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      nice: David MacKenzie
-    </p>
-    <p>
-      nl: Scott Bartram, David MacKenzie
-    </p>
-    <p>
-      nohup: Jim Meyering
-    </p>
-    <p>
-      od: Jim Meyering
-    </p>
-    <p>
-      paste: David M. Ihnat, David MacKenzie
-    </p>
-    <p>
-      pathchk: Paul Eggert, David MacKenzie, Jim Meyering
-    </p>
-    <p>
-      pinky: Joseph Arceneaux, David MacKenzie, Kaveh Ghazi
-    </p>
-    <p>
-      pr: Pete TerMaat, Roland Huebner
-    </p>
-    <p>
-      printenv: David MacKenzie, Richard Mlynarik
-    </p>
-    <p>
-      printf: David MacKenzie
-    </p>
-    <p>
-      ptx: Fran&#195;&#167;ois Pinard
-    </p>
-    <p>
-      pwd: Jim Meyering
-    </p>
-    <p>
-      readlink: Dmitry V. Levin
-    </p>
-    <p>
-      rm: Paul Rubin, David MacKenzie, Richard M. Stallman, Jim Meyering
-    </p>
-    <p>
-      rmdir: David MacKenzie
-    </p>
-    <p>
-      runcon: Russell Coker
-    </p>
-    <p>
-      seq: Ulrich Drepper
-    </p>
-    <p>
-      sha1sum: Ulrich Drepper, Scott Miller, David Madore
-    </p>
-    <p>
-      sha224sum: Ulrich Drepper, Scott Miller, David Madore
-    </p>
-    <p>
-      sha256sum: Ulrich Drepper, Scott Miller, David Madore
-    </p>
-    <p>
-      sha384sum: Ulrich Drepper, Scott Miller, David Madore
-    </p>
-    <p>
-      sha512sum: Ulrich Drepper, Scott Miller, David Madore
-    </p>
-    <p>
-      shred: Colin Plumb
-    </p>
-    <p>
-      shuf: Paul Eggert
-    </p>
-    <p>
-      sleep: Jim Meyering, Paul Eggert
-    </p>
-    <p>
-      sort: Mike Haertel, Paul Eggert
-    </p>
-    <p>
-      split: Torbj&#195;&#182;rn Granlund, Richard M. Stallman
-    </p>
-    <p>
-      stat: Michael Meskes
-    </p>
-    <p>
-      stty: David MacKenzie
-    </p>
-    <p>
-      su: David MacKenzie
-    </p>
-    <p>
-      sum: Kayvan Aghaiepour, David MacKenzie
-    </p>
-    <p>
-      sync: Jim Meyering
-    </p>
-    <p>
-      tac: Jay Lepreau, David MacKenzie
-    </p>
-    <p>
-      tail: Paul Rubin, David MacKenzie, Ian Lance Taylor, Jim Meyering
-    </p>
-    <p>
-      tee: Mike Parker, Richard M. Stallman, David MacKenzie
-    </p>
-    <p>
-      test: Kevin Braunsdorf, Matthew Bradburn
-    </p>
-    <p>
-      timeout: P&#195;&#161;draig Brady
-    </p>
-    <p>
-      touch: Paul Rubin, Arnold Robbins, Jim Kingdon, David MacKenzie, Randy Smith
-    </p>
-    <p>
-      tr: Jim Meyering
-    </p>
-    <p>
-      true: Jim Meyering
-    </p>
-    <p>
-      truncate: P&#195;&#161;draig Brady
-    </p>
-    <p>
-      tsort: Mark Kettenis
-    </p>
-    <p>
-      tty: David MacKenzie
-    </p>
-    <p>
-      uname: David MacKenzie
-    </p>
-    <p>
-      unexpand: David MacKenzie
-    </p>
-    <p>
-      uniq: Richard M. Stallman, David MacKenzie
-    </p>
-    <p>
-      unlink: Michael Stone
-    </p>
-    <p>
-      uptime: Joseph Arceneaux, David MacKenzie, Kaveh Ghazi
-    </p>
-    <p>
-      users: Joseph Arceneaux, David MacKenzie
-    </p>
-    <p>
-      vdir: Richard M. Stallman, David MacKenzie
-    </p>
-    <p>
-      wc: Paul Rubin, David MacKenzie
-    </p>
-    <p>
-      who: Joseph Arceneaux, David MacKenzie, Michael Stone
-    </p>
-    <p>
-      whoami: Richard Mlynarik
-    </p>
-    <p>
-      yes: David MacKenzie
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      ;; Local Variables:
-    </p>
-    <p>
-      ;; coding: utf-8
-    </p>
-    <p>
-      ;; End:
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1415058739256" ID="ID_1924210302" LINK="https://en.wikipedia.org/wiki/List_of_Unix_commands" MODIFIED="1415058748559" TEXT="List of Unix Commands"/>
-<node CREATED="1445891784642" ID="ID_300768275" LINK="https://github.com/jlevy/the-art-of-command-line" MODIFIED="1445891798078" TEXT="Art of Command Line"/>
-<node CREATED="1411679651821" ID="ID_857964240" LINK="BASH.mm" MODIFIED="1411679651822" TEXT="BASH"/>
-<node CREATED="1416767298160" ID="ID_1237790546" LINK="http://www.regexr.com/" MODIFIED="1416767302376" TEXT="http://www.regexr.com/"/>
-<node CREATED="1445892378185" ID="ID_102647186" LINK="http://explainshell.com/" MODIFIED="1445892389765" TEXT="explainshell"/>
-<node CREATED="1445971107067" ID="ID_1207179397" LINK="http://dotshare.it" MODIFIED="1445971116704" TEXT="dotshare.it"/>
-</node>
-<node CREATED="1437604200968" ID="ID_149989198" MODIFIED="1437604206777" POSITION="right" TEXT="PowerShell">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1439150673953" ID="ID_971108575" LINK="http://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-technologies/index.html" MODIFIED="1439150727784" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>IOS</b>
-    </p>
-    <p>
-      <font size="2">[ </font><font color="#3296fa" size="2">Cisco</font><font size="2">&#160;]</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1404510196952" FOLDED="true" ID="ID_268432590" LINK="http://www.regular-expressions.info/" MODIFIED="1446071757402" POSITION="left">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      regex
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Regular</b>&#160;<b>expressions</b>&#160;are text strings used for matching a specific&#160;<b>pattern</b>, or to search for a specific location, such as the start or end of a line or a word. Regular expressions can contain both normal characters or so-called&#160;<b>metacharacters</b>, such as&#160;<font color="#6464c8">*</font>&#160;and&#160;<font color="#6464c8">$</font>.
-    </p>
-    <p>
-      Many text editors and utilities such as&#160;<b>vi,&#160;sed,&#160;awk</b>,&#160;find&#160;and&#160;grep&#160;work extensively with regular expressions. Some of the popular computer languages that use regular expressions include&#160;<b>Perl,Python&#160;</b>and&#160;<b>Ruby</b>.
-    </p>
-  </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1404510291943" FOLDED="true" ID="ID_518059675" MODIFIED="1439420152225" TEXT="anchors">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1404510216327" ID="ID_1257364655" MODIFIED="1416766116642">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>^</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>BOL</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1404510342455" ID="ID_389794450" MODIFIED="1416766130514">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>$</b>
-    </p>
-    <p>
-      <font color="#3296fa"><i>EOL</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439414501078" ID="ID_991142088" MODIFIED="1439416245834">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>\b \B</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">word boundary </font></i>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">(^\w|\w$|\W\w|\w\W)</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439416355978" ID="ID_346670989" MODIFIED="1439416377871">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>\G</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">start of match</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439416386139" ID="ID_138795669" MODIFIED="1439416436144">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>\A</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">start of string</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439416388731" ID="ID_614815277" MODIFIED="1439416391895" TEXT="\Z"/>
-<node CREATED="1439416400362" ID="ID_785376523" MODIFIED="1439416410294" TEXT="\z"/>
-</node>
-<node CREATED="1404510511686" FOLDED="true" ID="ID_522865924" MODIFIED="1439420155729" TEXT="chars classes">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398811982893" ID="ID_566526197" MODIFIED="1398811993004" TEXT="[!characters]"/>
-<node CREATED="1398811977214" ID="ID_403665832" MODIFIED="1439416314831" TEXT="[characters]">
-<node CREATED="1398812006126" ID="ID_68420170" MODIFIED="1398812012941" TEXT="[:alnum:]"/>
-<node CREATED="1398812013421" ID="ID_1635153938" MODIFIED="1398812018973" TEXT="[:alpha:]"/>
-<node CREATED="1398812019405" ID="ID_987777666" MODIFIED="1398812025373" TEXT="[:digit:]"/>
-<node CREATED="1398812025805" ID="ID_725695547" MODIFIED="1398812034780" TEXT="[:upper:]"/>
-<node CREATED="1398812035645" ID="ID_246352882" MODIFIED="1398812040860" TEXT="[:lower:]"/>
-</node>
-</node>
-<node CREATED="1404510645733" ID="ID_726669746" MODIFIED="1439420872683" TEXT="quantifiers">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1439417073807" ID="ID_100119737" MODIFIED="1439417076538" TEXT="{}"/>
-<node CREATED="1439417112765" ID="ID_420644092" MODIFIED="1439418017071">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>a?</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">zero or one of a</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Matches an `a` character or nothing.
-    </p>
-    <p>
-      <b>/ba?/</b>
-    </p>
-    <p>
-      <font color="#3296fa">ba b</font>&#160;a
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439417327166" ID="ID_1820694602" MODIFIED="1439417668703">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>a+</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">one or more of a</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Matches one or more consecutive `a` characters.
-    </p>
-    <p>
-      <b>/a+/</b>
-    </p>
-    <p>
-      <font color="#3296fa">a aa aaa aaaa </font>b<font color="#3296fa">a</font>b b<font color="#3296fa">aa</font>b
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439417882634" ID="ID_736552876" MODIFIED="1439417975806">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>a*</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">zero of more of a</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Matches zero or more consecutive `a` characters.
-    </p>
-    <p>
-      <b>/ba*/</b>
-    </p>
-    <p>
-      a <font color="#3296fa">ba</font>&#160;<font color="#3296fa">baa</font>&#160;aaa <font color="#3296fa">ba</font>&#160;<font color="#3296fa">b</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439419541620" ID="ID_1611401107" MODIFIED="1439419546211" TEXT="gready"/>
-<node CREATED="1439419546710" ID="ID_951702930" MODIFIED="1439419548514" TEXT="lazy"/>
-</node>
-<node CREATED="1416766054788" FOLDED="true" ID="ID_798529151" MODIFIED="1439420156785">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font size="3">meta sequences</font></b>
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1404510410006" ID="ID_862586374" MODIFIED="1416766087651">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      . (dot)
-    </p>
-    <p>
-      <font color="#3296fa"><i>any character </i></font>
-    </p>
-    <p>
-      <font color="#3296fa"><i>exept newline</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439410444752" ID="ID_1020365534" MODIFIED="1439410765049">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>\d \D</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">digital [0-9] </font></i>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">inverted</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439410411168" ID="ID_235550435" MODIFIED="1439410752577">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>\s \S</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">space </font></i>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">inserted </font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439410346721" ID="ID_268756707" MODIFIED="1439418538528">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>\w \W</b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">all word chars [a-zA-Z0-9_] </font></i>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">inverted</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1416766220033" ID="ID_52468841" MODIFIED="1416766226958" TEXT="[^abc]"/>
-<node CREATED="1416766236945" ID="ID_840756304" MODIFIED="1416766240494" TEXT="[abc]"/>
-<node CREATED="1416766227457" ID="ID_749304929" MODIFIED="1416766231246" TEXT="[a-g]"/>
-</node>
-<node CREATED="1439419922627" ID="ID_1908851525" MODIFIED="1439420420456" TEXT="groups">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1411329747745" ID="ID_485149489" MODIFIED="1411329788446">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      a|z
-    </p>
-    <p>
-      <font color="#3296fa"><i>match a or z</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439420032192" ID="ID_887518827" MODIFIED="1439420043454" TEXT="(...)"/>
-<node CREATED="1439420425322" ID="ID_912762202" MODIFIED="1439420488464">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>(?&gt;...) </b>
-    </p>
-    <p>
-      <i><font size="2" color="#6496fa">atomic group</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Matches the longest possible substring in the group and doesn't allow later backtracking to reevaluate the group.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1439421850885" ID="ID_1914073516" MODIFIED="1439421859266" TEXT="(?:...)"/>
-</node>
-<node CREATED="1439421805944" ID="ID_175452714" MODIFIED="1439421811657" TEXT="flags">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1439421812679" ID="ID_670909686" MODIFIED="1439421951058" TEXT="i"/>
-<node CREATED="1439421942484" ID="ID_1548340850" MODIFIED="1439421943826" TEXT="m"/>
-<node CREATED="1439421944165" ID="ID_253676577" MODIFIED="1439421944770" TEXT="s"/>
-<node CREATED="1439421945300" ID="ID_784885771" MODIFIED="1439421946336" TEXT="G"/>
-</node>
-</node>
-<node CREATED="1417046137836" ID="ID_1534082994" MODIFIED="1454816302268" POSITION="right" TEXT="shells">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417377619382" ID="ID_1310986501" MODIFIED="1417377623267" TEXT="Linux console"/>
-<node CREATED="1432327445795" ID="ID_1947953279" MODIFIED="1446071769059" TEXT="Unix-like">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1409694901066" ID="ID_1165725609" MODIFIED="1432327347169">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>bash</b>
-    </p>
-    <p>
-      1987
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">Brian Fox</font></i>
-    </p>
-    <p>
-      <font size="2">[ </font><font color="#3296fa" size="2">GNU</font><font size="2">&#160;]</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1411342486447" ID="ID_1557968989" MODIFIED="1411770639757">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>ksh</b>
-    </p>
-    <p>
-      1982
-    </p>
-    <p>
-      David Korn
-    </p>
-    <p>
-      [AT&amp;T]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1414970245433" ID="ID_1478627730" MODIFIED="1414970247302" TEXT="zsh"/>
-<node CREATED="1411342587966" ID="ID_275848496" MODIFIED="1411770530686">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>csh</b>
-    </p>
-    <p>
-      1978
-    </p>
-    <p>
-      Bill Joy
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1411342484223" ID="ID_1336569953" MODIFIED="1414627548644">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>sh</b>
-    </p>
-    <p>
-      1977
-    </p>
-    <p>
-      <i><font color="#3296fa">Steve Bourne</font></i>
-    </p>
-    <p>
-      [ <font color="#3296fa">AT&amp;T</font>&#160;]
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1411342597853" ID="ID_330091027" MODIFIED="1411770590094">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>tcsh</b>
-    </p>
-    <p>
-      1970
-    </p>
-    <p>
-      Ken Greer
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1417046144572" ID="ID_505739029" LINK="https://mosh.mit.edu/" MODIFIED="1446071934039">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Mosh </b>
-    </p>
-    <p>
-      2012
-    </p>
-    <p>
-      <font size="2">mobile shell</font>
-    </p>
-    <p>
-      <font color="#6496fa" size="2">Keith Winstein</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1432327527905" ID="ID_1313524877" MODIFIED="1454816313660" TEXT="windows">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1432327538257" ID="ID_88014871" MODIFIED="1432327540255" TEXT="cmd.exe"/>
-<node CREATED="1454816316907" ID="ID_1395490103" MODIFIED="1454816322296" TEXT="PowerShell"/>
-</node>
-</node>
-<node CREATED="1417377656934" ID="ID_1949155085" MODIFIED="1454816324647" POSITION="right" TEXT="terminal emulators">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417378969784" ID="ID_1829545496" MODIFIED="1439153410765" TEXT="aterm">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      aterm
-    </p>
-    <p>
-      eterm
-    </p>
-    <p>
-      <span class="l"><a target="_blank" href="https://wiki.gnome.org/Apps/Terminal">~</a></span><a target="_blank" href="https://wiki.gnome.org/Apps/Terminal">&#160;gnome-terminal </a>
-    </p>
-    <p>
-      guake
-    </p>
-    <p>
-      konsole
-    </p>
-    <p>
-      Kuake
-    </p>
-    <p>
-      mrxvt
-    </p>
-    <p>
-      <span class="l"><a target="_blank" href="http://software.schmorp.de/pkg/rxvt-unicode.html">~</a></span><a target="_blank" href="http://software.schmorp.de/pkg/rxvt-unicode.html">&#160;rxvt </a>
-    </p>
-    <p>
-      xfce4
-    </p>
-    <p>
-      <span class="l"><a target="_blank" href="https://launchpad.net/terminator">~</a></span><a target="_blank" href="https://launchpad.net/terminator">&#160;Terminator </a>
-    </p>
-    <p>
-      Terminology
-    </p>
-    <p>
-      <span class="l"><a target="_blank" href="http://tilda.sourceforge.net/tildaabout.php">~</a></span><a target="_blank" href="http://tilda.sourceforge.net/tildaabout.php">&#160;Tilda </a>
-    </p>
-    <p>
-      wterm
-    </p>
-    <p>
-      <span class="l"><a target="_blank" href="http://invisible-island.net/xterm/">~</a></span><a target="_blank" href="http://invisible-island.net/xterm/">&#160;xterm </a>
-    </p>
-    <p>
-      Yakuake
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1417378969785" ID="ID_505269542" MODIFIED="1417378969785" TEXT="eterm"/>
-<node CREATED="1417378969786" ID="ID_486052798" LINK="https://wiki.gnome.org/Apps/Terminal" MODIFIED="1439150804866" TEXT="gnome-terminal"/>
-<node CREATED="1417378969786" ID="ID_1065590366" MODIFIED="1417378969786" TEXT="guake"/>
-<node CREATED="1417378969787" ID="ID_87040850" MODIFIED="1417378969787" TEXT="konsole"/>
-<node CREATED="1417378969787" ID="ID_1541947272" MODIFIED="1417378969787" TEXT="Kuake"/>
-<node CREATED="1417378969788" ID="ID_996587280" MODIFIED="1417378969788" TEXT="mrxvt"/>
-<node CREATED="1417378969788" ID="ID_281231788" LINK="http://software.schmorp.de/pkg/rxvt-unicode.html" MODIFIED="1419374174819" TEXT="rxvt"/>
-<node CREATED="1417378969789" ID="ID_647709737" MODIFIED="1417378969789" TEXT="xfce4"/>
-<node CREATED="1417378969789" ID="ID_1020879587" LINK="https://launchpad.net/terminator" MODIFIED="1436390908398" TEXT="Terminator"/>
-<node CREATED="1417378969790" ID="ID_308982120" MODIFIED="1417378969790" TEXT="Terminology"/>
-<node CREATED="1417378969790" ID="ID_169597338" LINK="http://tilda.sourceforge.net/tildaabout.php" MODIFIED="1436390933198" TEXT="Tilda"/>
-<node CREATED="1417378969791" ID="ID_584687950" MODIFIED="1417378969791" TEXT="wterm"/>
-<node CREATED="1417378969791" ID="ID_644039634" LINK="http://invisible-island.net/xterm/" MODIFIED="1436390861875" TEXT="xterm"/>
-<node CREATED="1417378969791" ID="ID_1603666720" MODIFIED="1417378969791" TEXT="Yakuake"/>
-</node>
-<node CREATED="1429564473616" ID="ID_816169975" MODIFIED="1454816331370" POSITION="right" TEXT="multiplexors">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1417046267322" ID="ID_7768614" LINK="https://www.gnu.org/software/screen/" MODIFIED="1446072044075">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>GNU Screen </b>
-    </p>
-    <p>
-      1987
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">Amadeusz S&#322;awi&#324;ski</font></i>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1446072172636" ID="ID_129806444" MODIFIED="1446072325403">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Byodu </b><img src="../icons/byobu.png" />
-    </p>
-    <p>
-      2009
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Dustin Kirkland </i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1417046221370" ID="ID_1387677672" LINK="http://tmux.sourceforge.net/" MODIFIED="1446071992460">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>tmux</b>
-    </p>
-    <p>
-      2009
-    </p>
-    <p>
-      <font color="#3296fa" size="2"><i>Nicholas Marriott</i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1445981996145" ID="ID_1047527744" MODIFIED="1445982004550" POSITION="left" TEXT="OS x only">
-<node CREATED="1442610106525" ID="ID_109697684" MODIFIED="1442610244549">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      pbcopy, pbpaste <img src="../icons/apple.png" />
-    </p>
-  </body>
-</html></richcontent>
 </node>
 </node>
 </node>

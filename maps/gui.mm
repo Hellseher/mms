@@ -124,18 +124,22 @@
 <node CREATED="1417296340015" ID="ID_1591249503" MODIFIED="1417296364544" POSITION="left" TEXT="Display manager">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1417297438174" FOLDED="true" ID="ID_712302856" MODIFIED="1442869906389" POSITION="left">
+<node CREATED="1417297438174" ID="ID_712302856" MODIFIED="1465767373690" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      WM <img src="../icons/de_wm.png" />
+      <b>WM</b>&#160;<img src="../icons/de_wm.png" />
+    </p>
+    <p>
+      <font size="2">window manager</font>
     </p>
   </body>
-</html></richcontent>
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1417298281130" ID="ID_1802967983" MODIFIED="1417298281130" TEXT="MWM"/>
 <node CREATED="1417298281130" ID="ID_1354886572" MODIFIED="1417298281130" TEXT="olwm"/>
 <node CREATED="1417298281131" ID="ID_1625738680" MODIFIED="1417298281131" TEXT="PLWM"/>
@@ -148,7 +152,7 @@
 <node CREATED="1417298281134" ID="ID_504887434" MODIFIED="1417298281134" TEXT="wm2"/>
 <node CREATED="1417298281135" ID="ID_571511731" MODIFIED="1417298281135" TEXT="wmx"/>
 <node CREATED="1399322458146" ID="ID_1061689773" MODIFIED="1399322463696" TEXT="WMaker"/>
-<node CREATED="1417300353201" FOLDED="true" ID="ID_1958118582" MODIFIED="1440615005646" TEXT="composite">
+<node CREATED="1417300353201" ID="ID_1958118582" MODIFIED="1465767420030" TEXT="composite">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399812709342" FOLDED="true" ID="ID_1634763815" LINK="http://www.compiz.org/" MODIFIED="1429310793906">
 <richcontent TYPE="NODE"><html>
@@ -312,6 +316,7 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1465767430567" ID="ID_39533918" MODIFIED="1465767433515" TEXT="Muffin"/>
 </node>
 </node>
 <node CREATED="1417300425711" FOLDED="true" ID="ID_538987514" MODIFIED="1433179989632" TEXT="stacking">
@@ -408,7 +413,7 @@
 <node CREATED="1417301288776" MODIFIED="1417301288776" TEXT="Window"/>
 <node CREATED="1417301288776" MODIFIED="1417301288776" TEXT="Maker"/>
 </node>
-<node CREATED="1417300469375" FOLDED="true" ID="ID_820003479" MODIFIED="1433179990776" TEXT="tilling">
+<node CREATED="1417300469375" FOLDED="true" ID="ID_820003479" MODIFIED="1465767351392" TEXT="tilling">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1403351808565" ID="ID_105536534" LINK="http://i3wm.org/" MODIFIED="1424625571788">
 <richcontent TYPE="NODE"><html>
@@ -422,8 +427,17 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417298281126" ID="ID_713264829" MODIFIED="1417298281126" TEXT="dwm"/>
-<node CREATED="1411938262464" ID="ID_200753159" LINK="https://code.google.com/p/wmii/" MODIFIED="1411938276070" TEXT="wmii"/>
+<node CREATED="1417298281126" ID="ID_713264829" LINK="http://dwm.suckless.org/" MODIFIED="1454355423706">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>dwm</b>&#160;<img src="../icons/dwm.png" />
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1399322544177" ID="ID_1044172723" LINK="http://awesome.naquadah.org/" MODIFIED="1411254380998">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -442,7 +456,27 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1411938262464" ID="ID_200753159" LINK="https://code.google.com/p/wmii/" MODIFIED="1411938276070" TEXT="wmii"/>
+<node CREATED="1454355485070" ID="ID_1903591876" MODIFIED="1454355488092" TEXT="xmonad"/>
+<node CREATED="1454355507974" ID="ID_620176375" MODIFIED="1454355513083" TEXT="echinus"/>
+</node>
 <node CREATED="1403351808566" ID="ID_532125373" MODIFIED="1403351808566" TEXT="ion"/>
+<node CREATED="1454357403232" ID="ID_742590435" LINK="http://www.nongnu.org/ratpoison/" MODIFIED="1454357496661" TEXT="ratpoison"/>
+<node CREATED="1454357621113" ID="ID_435481244" LINK="http://www.oroborus.org/" MODIFIED="1454357717741">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Oroborus </b><img src="../icons/oroborus.png" />
+    </p>
+    <p>
+      2003
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1403351808560" ID="ID_1364090139" MODIFIED="1403351808560" TEXT="Consort"/>
 <node CREATED="1403351808562" ID="ID_720745820" MODIFIED="1403351808562" TEXT="Equinox"/>
@@ -460,8 +494,22 @@
 <node CREATED="1403351808572" ID="ID_149423730" MODIFIED="1403351808572" TEXT="XBMC"/>
 <node CREATED="1411937807687" ID="ID_1814997764" LINK="http://www.sugarlabs.org/" MODIFIED="1411937819822" TEXT="Sugar"/>
 </node>
-<node CREATED="1417296355983" ID="ID_759953660" MODIFIED="1442869915890" POSITION="left" TEXT="DE">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1417296355983" ID="ID_759953660" MODIFIED="1465767397226" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>DE</b>
+    </p>
+    <p>
+      <font size="2">desktop environment</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397937262168" ID="ID_94654175" LINK="http://lxde.org/" MODIFIED="1442869932541" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -478,8 +526,7 @@
       <i><font size="2" color="#3296fa">Hong Jen Yee (PCMan)</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1399841159936" FOLDED="true" ID="ID_1904150748" MODIFIED="1429310793909" TEXT="LXQt">
 <node CREATED="1414369571548" ID="ID_1395151613" LINK="http://www.nongnu.org/moonlightde/" MODIFIED="1414369677561">
 <richcontent TYPE="NODE"><html>
@@ -522,7 +569,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1397937228440" ID="ID_673997155" LINK="https://www.gnome.org" MODIFIED="1417300276243" STYLE="fork">
+<node CREATED="1397937228440" ID="ID_673997155" LINK="https://www.gnome.org" MODIFIED="1448727919467" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -535,13 +582,38 @@
       1997
     </p>
     <p>
-      <font color="#3296fa"><i>Miguel de Icaza </i></font>
+      <i><font color="#3296fa" size="2">Miguel de Icaza </font></i>
     </p>
     <p>
-      <font color="#3296fa"><i>Federico Mena</i></font>
+      <i><font color="#3296fa" size="2">Federico Mena</font></i>
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1448727906458" ID="ID_1291152050" MODIFIED="1448727908159" TEXT="dconf"/>
+<node CREATED="1448727908834" ID="ID_1448488988" MODIFIED="1448727910375" TEXT="gconf"/>
+<node CREATED="1448728100711" ID="ID_1691221031" MODIFIED="1448728102712" TEXT="dconf(7), gsettings(1), dconf-editor(1) "/>
+<node CREATED="1448732553079" ID="ID_551152867" MODIFIED="1448732557008" TEXT="commands">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1448732558062" ID="ID_1878203379" MODIFIED="1448732561882" TEXT="gnome-shell"/>
+</node>
+<node CREATED="1397939341785" ID="ID_1915545042" LINK="http://cinnamon.linuxmint.com/" MODIFIED="1465767162046" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Cinnamon</b>&#160;
+    </p>
+    <p>
+      2011
+    </p>
+    <p>
+      <font size="2">[</font><i><font color="#3296fa" size="2">Linux Mint team</font></i><font size="2">]</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1397937265496" ID="ID_144115454" LINK="http://www.xfce.org/" MODIFIED="1408394917713" STYLE="fork">
 <richcontent TYPE="NODE"><html>
@@ -635,24 +707,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1397939341785" ID="ID_1915545042" LINK="http://cinnamon.linuxmint.com/" MODIFIED="1413039806052" STYLE="fork">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Cinnamon</b>&#160;
-    </p>
-    <p>
-      2011
-    </p>
-    <p>
-      [<i><font color="#3296fa">Linux Mint team</font></i>]
-    </p>
-  </body>
-</html></richcontent>
-</node>
 <node CREATED="1399322268307" ID="ID_1528589861" LINK="http://mate-desktop.org/" MODIFIED="1399843227847">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -673,7 +727,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1417296420878" FOLDED="true" ID="ID_171099615" MODIFIED="1433180133706" POSITION="left" TEXT="GUI">
+<node CREATED="1417296420878" ID="ID_171099615" MODIFIED="1448732589100" POSITION="left" TEXT="GUI">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -718,7 +772,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1417296530908" FOLDED="true" ID="ID_1602339313" LINK="http://www.qt.io/" MODIFIED="1433180025159">
+<node CREATED="1417296530908" ID="ID_1602339313" LINK="http://www.qt.io/" MODIFIED="1465767291532">
 <richcontent TYPE="NODE"><html>
   <head>
     

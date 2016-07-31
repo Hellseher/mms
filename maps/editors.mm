@@ -79,8 +79,7 @@
       <font size="2">[ </font><font size="2" color="#3296fa">ES-Computing</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414183662972" ID="ID_781708479" LINK="http://editra.org/" MODIFIED="1438800804955" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -113,8 +112,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">Emusoft, inc </font><font size="2">]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1416428946817" ID="ID_968569854" LINK="http://www.geany.org/" MODIFIED="1438799105587" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -165,7 +163,7 @@
 <node CREATED="1432323883646" MODIFIED="1432323883646" TEXT="Federico Mena Quintero"/>
 </node>
 </node>
-<node CREATED="1408468657817" FOLDED="true" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1440359065112" POSITION="right">
+<node CREATED="1408468657817" ID="ID_817233510" LINK="http://www.gnu.org/software/emacs/" MODIFIED="1466459928783" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -175,16 +173,25 @@
       <b>GNU Emacs</b>&#160;<img src="../icons/emacs.png" />
     </p>
     <p>
-      1970 <font color="#fa0000">US</font>
+      1970 <font color="#fa0000">US </font>
+    </p>
+    <p>
+      GPL | C, Elisp
     </p>
     <p>
       <i><font color="#3296fa" size="2">Richard Stallman, Guy L. Steele</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1414183396275" ID="ID_568030618" LINK="http://www.xemacs.org/" MODIFIED="1414183902096" TEXT="XEmacs"/>
+<node CREATED="1457642772317" ID="ID_665716918" MODIFIED="1457642778515" TEXT="MicroEMACS"/>
+<node CREATED="1457642802560" MODIFIED="1457642802560" TEXT="Climacs Epsilon Freemacs EINE Gosling Emacs">
+<node CREATED="1457642802561" MODIFIED="1457642802561" TEXT="Mocklisp Hemlock JOVE mg MicroEMACS MINCE Multics Emacs Perfect Writer GNU TeXmacs vile Zile Zmacs ZWEI"/>
 </node>
-<node CREATED="1414183931048" FOLDED="true" ID="ID_1347439886" MODIFIED="1446244048294" POSITION="left" TEXT="IDE">
+<node CREATED="1457642812743" MODIFIED="1457642812743" TEXT="GNU Emacs XEmacs SXEmacs Aquamacs"/>
+</node>
+<node CREATED="1414183931048" ID="ID_1347439886" MODIFIED="1457742279820" POSITION="left" TEXT="IDE">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -200,8 +207,7 @@
       An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion... [wiki]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408468706000" FOLDED="true" ID="ID_1150236352" LINK="http://www.eclipse.org/" MODIFIED="1445251425995">
 <richcontent TYPE="NODE"><html>
@@ -284,8 +290,7 @@
       <font size="2">[ </font><font size="2" color="#3296fa">Aptana</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1415905483745" ID="ID_365131411" LINK="https://www.panic.com/coda/" MODIFIED="1415905587607">
 <richcontent TYPE="NODE"><html>
@@ -374,8 +379,7 @@
       <font size="2">GNU | C, C++</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1438801099131" FOLDED="true" ID="ID_929953639" LINK="https://www.jetbrains.com/" MODIFIED="1446243570093">
 <richcontent TYPE="NODE"><html>
@@ -397,8 +401,7 @@
       <font size="2">[ </font><font color="#3296fa" size="2">JetBrains</font><font size="2">&#160;]</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414187357667" ID="ID_217709310" MODIFIED="1446241707126">
 <richcontent TYPE="NODE"><html>
@@ -413,8 +416,7 @@
       2009
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1438801151211" ID="ID_111916278" MODIFIED="1446241761508">
 <richcontent TYPE="NODE"><html>
@@ -429,8 +431,7 @@
       2001
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1438801165786" ID="ID_1157860905" MODIFIED="1438801518763">
 <richcontent TYPE="NODE"><html>
@@ -457,8 +458,7 @@
       2010
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1438801230329" ID="ID_813121440" MODIFIED="1446241859751">
 <richcontent TYPE="NODE"><html>
@@ -473,8 +473,7 @@
       2000
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1438801242105" ID="ID_1148530886" MODIFIED="1446242012722">
 <richcontent TYPE="NODE"><html>
@@ -486,10 +485,11 @@
       AppCode<img src="../icons/appcode.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
+<node CREATED="1457742290917" ID="ID_1807637555" MODIFIED="1457742293890" TEXT="xCode"/>
+<node CREATED="1466459808767" ID="ID_182471392" LINK="http://eric-ide.python-projects.org/" MODIFIED="1466459842074" TEXT="eric-ide"/>
 </node>
 <node CREATED="1409008746348" ID="ID_1910076720" MODIFIED="1414183902100" POSITION="left" TEXT="kate"/>
 <node CREATED="1409008741629" ID="ID_214558883" MODIFIED="1414183902100" POSITION="left" TEXT="kdit"/>
@@ -619,7 +619,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1416428917537" ID="ID_1282392932" LINK="http://www.uvviewsoft.com/synwrite/" MODIFIED="1438800831579" POSITION="right" TEXT="SynWriter"/>
-<node CREATED="1438796894133" ID="ID_1427974896" MODIFIED="1445251476210" POSITION="right" TEXT="Terminal-based">
+<node CREATED="1438796894133" FOLDED="true" ID="ID_1427974896" MODIFIED="1456365491283" POSITION="right" TEXT="Terminal-based">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1412961654829" FOLDED="true" ID="ID_215248594" MODIFIED="1441552556434">
 <richcontent TYPE="NODE"><html>

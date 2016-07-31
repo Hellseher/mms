@@ -588,7 +588,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1441545941348" POSITION="right" STYLE="fork">
+<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1455071625747" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -674,7 +674,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398547960942" FOLDED="true" ID="ID_1211193620" MODIFIED="1435611404478" TEXT="list">
+<node CREATED="1398547960942" ID="ID_1211193620" MODIFIED="1452383126102" TEXT="list">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398548021391" ID="ID_1573317089" MODIFIED="1398548036843" TEXT="filter(function, iterable)"/>
 <node CREATED="1398544478937" ID="ID_1813115261" MODIFIED="1433484332167">
@@ -1420,7 +1420,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1444744383012" POSITION="right" STYLE="fork" TEXT="Data types">
+<node CREATED="1398203924282" FOLDED="true" ID="24" MODIFIED="1455071624747" POSITION="right" STYLE="fork" TEXT="Data types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1431558986511" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1729,7 +1729,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1441545941353">
+<node CREATED="1398203924283" ID="40" MODIFIED="1452383140496">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1820,7 +1820,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" FOLDED="true" ID="38" MODIFIED="1441545941352" TEXT="lists">
+<node CREATED="1398203924283" ID="38" MODIFIED="1452383143254" TEXT="lists">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398541205154" ID="ID_1714088058" MODIFIED="1430435508019">
 <richcontent TYPE="NODE"><html>
@@ -1957,7 +1957,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398545988606" FOLDED="true" ID="ID_1248159037" MODIFIED="1431545375731" TEXT="slicing">
+<node CREATED="1398545988606" ID="ID_1248159037" MODIFIED="1452383146267" TEXT="slicing">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398546027133" ID="ID_407582172" MODIFIED="1398547317863" TEXT="L[start:end:stride]">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -2463,7 +2463,7 @@
 <node CREATED="1417735235814" ID="ID_918437704" MODIFIED="1433104117796" TEXT="__excepthook__"/>
 </node>
 </node>
-<node CREATED="1398203924278" FOLDED="true" ID="68" MODIFIED="1441545941357" POSITION="left" STYLE="fork" TEXT="lib">
+<node CREATED="1398203924278" ID="68" MODIFIED="1455071626947" POSITION="left" STYLE="fork" TEXT="lib">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924279" FOLDED="true" ID="69" MODIFIED="1441545941357" STYLE="fork" TEXT="standart">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -4342,7 +4342,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398284883230" FOLDED="true" ID="ID_542604586" MODIFIED="1433066782833" TEXT="3d party">
+<node CREATED="1398284883230" ID="ID_542604586" MODIFIED="1455071629683" TEXT="3d party">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398284924490" FOLDED="true" ID="ID_1242023302" LINK="http://scipy.org/" MODIFIED="1431558986610">
 <richcontent TYPE="NODE"><html>
@@ -4524,6 +4524,7 @@
 <node CREATED="1418080165268" ID="ID_1476672306" LINK="http://www.nltk.org/" MODIFIED="1430434881559" TEXT="NLTK">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1455071635458" ID="ID_630198675" MODIFIED="1455071638775" TEXT="Jupyter"/>
 </node>
 </node>
 <node CREATED="1398000845975" FOLDED="true" ID="ID_1395125167" MODIFIED="1441545941359" POSITION="left" STYLE="fork" TEXT="operators">

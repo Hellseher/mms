@@ -26,8 +26,7 @@
       <font size="2">copy on write</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1458523753976" ID="ID_599143641" MODIFIED="1458523773621" POSITION="right">
 <richcontent TYPE="NODE"><html>
@@ -42,12 +41,28 @@
       <font size="2">direct memory access</font>
     </p>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1459404364739" ID="ID_1972543243" MODIFIED="1459404383770" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>LVM</b>
+    </p>
+    <p>
+      <font size="2">logical Volume Management</font>
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
 <node CREATED="1453591845894" ID="ID_1223547197" MODIFIED="1457221596618" POSITION="right" TEXT="File systems">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1454015286568" ID="ID_521961519" MODIFIED="1458522822895" TEXT="*nix">
+<node CREATED="1454015286568" ID="ID_521961519" MODIFIED="1459404089873" TEXT="*nix">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1457222561049" ID="ID_1875574638" MODIFIED="1457222563823" TEXT="UFS"/>
 <node CREATED="1457227295587" ID="ID_596517260" MODIFIED="1458523238048" TEXT="ext">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -96,7 +111,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1457227309739" ID="ID_332095787" MODIFIED="1457227314188" TEXT="layout">
+<node CREATED="1457227309739" ID="ID_332095787" MODIFIED="1459489423804" TEXT="Layout">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1457227315435" ID="ID_1407449903" MODIFIED="1457227320648" TEXT="super block"/>
 <node CREATED="1457227321002" ID="ID_1819438734" MODIFIED="1457227331176" TEXT="groupe discription"/>
@@ -119,20 +134,22 @@
       1994
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1457832301827" ID="ID_571007925" LINK="https://btrfs.wiki.kernel.org/index.php/Main_Page" MODIFIED="1458523825061">
+<node CREATED="1457832301827" ID="ID_571007925" LINK="https://btrfs.wiki.kernel.org/index.php/Main_Page" MODIFIED="1459404314243">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>btrsf</b>
+      <b>btrsf </b>
     </p>
     <p>
-      <i><font size="2" color="#3296fa">Chris Mason</font></i>
+      2013
+    </p>
+    <p>
+      <i><font color="#3296fa" size="2">Chris Mason</font></i>
     </p>
   </body>
 </html>
@@ -151,15 +168,19 @@
       2008
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1457481022965" ID="ID_120066508" MODIFIED="1457481026090" TEXT="FFS"/>
 </node>
+<node CREATED="1459404092311" ID="ID_980784241" MODIFIED="1459404094892" TEXT="NSS"/>
+<node CREATED="1459404095502" ID="ID_1743616161" MODIFIED="1459404097316" TEXT="JFS"/>
+<node CREATED="1459404097950" ID="ID_260443388" MODIFIED="1459404102059" TEXT="ReFS"/>
+<node CREATED="1459404103717" ID="ID_1767506437" MODIFIED="1459404105692" TEXT="BFS"/>
 <node CREATED="1457222684023" ID="ID_404684025" MODIFIED="1457222688333" TEXT="ReiserFS"/>
-<node CREATED="1454015833025" ID="ID_559362446" MODIFIED="1454015836399" TEXT="block size"/>
-<node CREATED="1457227499712" ID="ID_984411453" MODIFIED="1457227504566" TEXT="magic number"/>
-<node CREATED="1454015836777" ID="ID_804727394" MODIFIED="1457223033531" TEXT="inode">
+<node CREATED="1456020807552" ID="ID_303204677" MODIFIED="1456020809652" TEXT="GFS"/>
+<node CREATED="1459404069071" ID="ID_1663999115" MODIFIED="1459404078317" TEXT="Fitures">
+<node CREATED="1454016056189" ID="ID_1606033890" MODIFIED="1454016061899" TEXT="symbolic link"/>
+<node CREATED="1454015836777" FOLDED="true" ID="ID_804727394" MODIFIED="1459404058077" TEXT="inode">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1457221828725" ID="ID_436315805" MODIFIED="1457221845970" TEXT="POSIX description">
 <node CREATED="1457221847245" ID="ID_1357106844" MODIFIED="1457221857698" TEXT="size of ifle in bytes"/>
@@ -172,8 +193,9 @@
 <node CREATED="1457221931011" ID="ID_409399671" MODIFIED="1457221938841" TEXT="pointer to the disck block"/>
 </node>
 </node>
-<node CREATED="1454016056189" ID="ID_1606033890" MODIFIED="1454016061899" TEXT="symbolic link"/>
-<node CREATED="1456020807552" ID="ID_303204677" MODIFIED="1456020809652" TEXT="GFS"/>
+<node CREATED="1457227499712" ID="ID_984411453" MODIFIED="1457227504566" TEXT="magic number"/>
+<node CREATED="1454015833025" ID="ID_559362446" MODIFIED="1454015836399" TEXT="block size"/>
+</node>
 </node>
 </node>
 </map>

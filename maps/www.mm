@@ -164,7 +164,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1431778028830" FOLDED="true" ID="ID_38936137" MODIFIED="1444744389995" POSITION="left" TEXT="servers">
+<node CREATED="1431778028830" ID="ID_38936137" MODIFIED="1447631356891" POSITION="left" TEXT="servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1431778434056" FOLDED="true" ID="ID_1338529970" MODIFIED="1441552501185" TEXT="Proxy servers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -346,8 +346,16 @@
 </node>
 <node CREATED="1414628885054" ID="ID_1632387169" LINK="http://yacy.net/" MODIFIED="1414629110494" TEXT="YaCy"/>
 </node>
-<node CREATED="1440020779374" FOLDED="true" ID="ID_1624036541" MODIFIED="1441552501187" TEXT="mail servers">
+<node CREATED="1447631361601" ID="ID_850697601" MODIFIED="1447631366133" TEXT="ftp server">
+<node CREATED="1447631367761" ID="ID_1843434215" MODIFIED="1447631374116" TEXT="sftpd"/>
+<node CREATED="1447631374631" ID="ID_114834033" MODIFIED="1447631374631" TEXT=""/>
+</node>
+<node CREATED="1440020779374" ID="ID_1624036541" MODIFIED="1447975218509" TEXT="mail servers">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1440020783566" ID="ID_714158046" MODIFIED="1440020785706" TEXT="exim"/>
+<node CREATED="1447975211957" ID="ID_1121347978" MODIFIED="1447975216096" TEXT="Sendmail"/>
+<node CREATED="1449522112862" ID="ID_447192755" MODIFIED="1449522210306" TEXT="dovecot"/>
+<node CREATED="1449522757021" ID="ID_1799699590" MODIFIED="1449522759811" TEXT="postfix"/>
 </node>
 </node>
 <node CREATED="1415451842021" ID="ID_1291865682" MODIFIED="1440020778754" POSITION="right" TEXT="Thesarus">
@@ -1154,7 +1162,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1426535692413" FOLDED="true" ID="ID_1312472638" MODIFIED="1440877636267" POSITION="right">
+<node CREATED="1426535692413" ID="ID_1312472638" MODIFIED="1462476556276" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1463,6 +1471,38 @@
 <node CREATED="1432322054105" ID="ID_457655325" MODIFIED="1432322054105" TEXT="vlibTemplate"/>
 <node CREATED="1432322054106" ID="ID_1597335520" MODIFIED="1432322054106" TEXT="WebMacro"/>
 <node CREATED="1432322054106" ID="ID_1901109618" MODIFIED="1432322054106" TEXT="ZeniTPL"/>
+</node>
+<node CREATED="1447975417614" ID="ID_1400874399" MODIFIED="1448154212303" POSITION="left" TEXT="web mail clients">
+<node CREATED="1447975424334" ID="ID_1490599121" MODIFIED="1448154241094">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>rainloop</b>
+    </p>
+    <p>
+      <font size="2">GPL | PHP</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1447976178363" ID="ID_39997591" MODIFIED="1448154228655">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>mailpile</b>&#160;<img src="../icons/mailpile.png" />
+    </p>
+    <p>
+      <font size="2">GPL | Python</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 </map>

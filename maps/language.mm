@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1446249599480">
+<node CREATED="1399824569999" ID="ID_1293774273" MODIFIED="1456196910095">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -29,8 +29,7 @@
       <a target="_blank" href="http://rosettacode.org/wiki/Rosetta_Code">Rosetta Code</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1399828711389" FOLDED="true" ID="ID_1268856589" MODIFIED="1445296909035" POSITION="left" TEXT="Mac API">
 <node CREATED="1399828718045" ID="ID_1410829608" MODIFIED="1399828720315" TEXT="Cocoa"/>
 <node CREATED="1399828720733" ID="ID_260258861" MODIFIED="1399828724859" TEXT="Carbon"/>
@@ -781,7 +780,7 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1445297761928" STYLE="fork" TEXT="LiSP-dialects">
+<node COLOR="#329632" CREATED="1416424879103" ID="ID_310643877" MODIFIED="1465772116326" STYLE="fork" TEXT="LiSP-dialects">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416424910382" FOLDED="true" ID="ID_67820810" LINK="http://clojure.org/" MODIFIED="1441828236227">
@@ -808,7 +807,39 @@
 <node CREATED="1440397239309" ID="ID_43788810" LINK="http://www.openlogic.com/resources/enterprise-blog/archive/paredit-learn-to-love-writing-lisp-code" MODIFIED="1440397248533" TEXT="My Clojure Workflow, Reloaded"/>
 </node>
 </node>
-<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1445985331786">
+<node CREATED="1465771565432" ID="ID_434997862" MODIFIED="1465771647369">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Maclisp</b>
+    </p>
+    <p>
+      1965-1985
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1465771612167" ID="ID_1092879322" MODIFIED="1465771638649">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Interlisp</b>
+    </p>
+    <p>
+      1970-1990
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1465772455375">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -900,17 +931,37 @@
 <node COLOR="#329632" CREATED="1441828243933" ID="ID_1529263346" MODIFIED="1445297776650" STYLE="fork" TEXT="implementation">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1445297880176" MODIFIED="1445297880176" TEXT="ABCL"/>
+<node CREATED="1445297880176" ID="ID_479142843" MODIFIED="1445297880176" TEXT="ABCL"/>
 <node CREATED="1445297880177" ID="ID_191350401" MODIFIED="1445297887310" TEXT="Allegro CL"/>
+<node CREATED="1456196925914" ID="ID_895837349" MODIFIED="1456196942248" TEXT="CCL"/>
 <node CREATED="1445297880177" ID="ID_591841040" MODIFIED="1445297891524" TEXT="Clasp"/>
+<node CREATED="1445297880178" ID="ID_584818487" LINK="http://www.clisp.org/" MODIFIED="1456198571065" TEXT="CLISP"/>
 <node CREATED="1445297880177" ID="ID_1233729719" MODIFIED="1445297894134" TEXT="Clozure CL"/>
-<node CREATED="1445297880178" ID="ID_584818487" MODIFIED="1445297896426" TEXT="CLISP"/>
 <node CREATED="1445297880178" ID="ID_1880522956" MODIFIED="1445297898231" TEXT="CMUCL"/>
 <node CREATED="1445297880179" ID="ID_1886527744" MODIFIED="1445297903096" TEXT="ECL"/>
+<node CREATED="1456196946874" ID="ID_1141495347" MODIFIED="1456196949543" TEXT="ECL"/>
 <node CREATED="1445297880179" ID="ID_1160407945" MODIFIED="1445297905202" TEXT="LispWorks"/>
 <node CREATED="1445297880180" ID="ID_108393837" MODIFIED="1445297906964" TEXT="MKCL"/>
 <node CREATED="1445297880180" ID="ID_1005005132" LINK="http://www.sbcl.org/" MODIFIED="1446249617288" TEXT="SBCl"/>
 <node CREATED="1445297880180" ID="ID_1412626370" MODIFIED="1445297910209" TEXT="Scieneer CL"/>
+<node CREATED="1456197009290" ID="ID_358553717" MODIFIED="1456197011608" TEXT="xcl"/>
+</node>
+<node CREATED="1465772477394" ID="ID_154660489" MODIFIED="1465772489895" TEXT="CommonLisp-dialects">
+<node CREATED="1465772490891" ID="ID_34620647" MODIFIED="1465772497295" TEXT="CLtL1"/>
+<node CREATED="1465772498162" ID="ID_1565533725" MODIFIED="1465772503511" TEXT="CLtL2"/>
+<node CREATED="1465772504058" ID="ID_983591811" MODIFIED="1465772516463" TEXT="ANSI Common Lisp"/>
+</node>
+<node CREATED="1456198810936" FOLDED="true" ID="ID_1477520089" MODIFIED="1465772459123" TEXT="info">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1456198819800" ID="ID_25281393" MODIFIED="1456198823077" TEXT="books">
+<node CREATED="1456198833191" ID="ID_956295380" MODIFIED="1456198836069" TEXT=" &#x9; Lisp, Third Edition Berthold K. P. Horn, Coauthor"/>
+<node CREATED="1456198836679" ID="ID_1536030820" MODIFIED="1456198845918" TEXT=" &#x9;  Artificial Intelligence, Third Edition"/>
+<node CREATED="1456198864927" ID="ID_529995192" MODIFIED="1456198867510" TEXT="Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp"/>
+<node CREATED="1456198913966" ID="ID_1028641505" MODIFIED="1456198916910" TEXT="COMMON LISP: A Gentle Introduction to Symbolic Computation"/>
+<node CREATED="1456198931302" ID="ID_369337423" MODIFIED="1456198933718" TEXT="ANSI Common Lisp - Paul Graham"/>
+<node CREATED="1456198967470" ID="ID_1882110603" MODIFIED="1456198969709" TEXT="Common Lisp Recipes"/>
+<node CREATED="1456198970381" ID="ID_1074531848" MODIFIED="1456198981098" TEXT="Practical Common Lisp"/>
+</node>
 </node>
 </node>
 <node CREATED="1429447576971" FOLDED="true" ID="ID_1298184263" LINK="http://www.egison.org/" MODIFIED="1434692517716" TEXT="Egison">
@@ -927,7 +978,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1424819969970" FOLDED="true" ID="ID_429146574" LINK="http://www.schemers.org/" MODIFIED="1445985017370">
+<node CREATED="1424819969970" FOLDED="true" ID="ID_429146574" LINK="http://www.schemers.org/" MODIFIED="1465772454628">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1000,6 +1051,24 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1465772410923" ID="ID_636221562" MODIFIED="1465772418456" TEXT="Scheme-dialcets">
+<node CREATED="1465772419739" ID="ID_749345363" MODIFIED="1465772432445">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      T
+    </p>
+    <p>
+      1980
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1426978118432" ID="ID_1491621856" LINK="http://www.newlisp.org/" MODIFIED="1445985026795">
 <richcontent TYPE="NODE"><html>
@@ -1019,8 +1088,80 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1465771727037" ID="ID_1399058800" MODIFIED="1465771749488">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ISLISP</b>
+    </p>
+    <p>
+      1985
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1440397186377" FOLDED="true" ID="ID_180086279" MODIFIED="1445297761038" TEXT="edu">
+<node CREATED="1465771780965" ID="ID_853999818" MODIFIED="1465771825446">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>EuLisp</b>
+    </p>
+    <p>
+      1990
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1465771944845" ID="ID_1915755119" LINK="http://docs.hylang.org/en/latest/" MODIFIED="1465772210833">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Hy </b><img src="../icons/hy_cuddles.png" />
+    </p>
+    <p>
+      2013
+    </p>
+    <i><font size="2" color="#3296fa">Paul Tagliamonte</font></i>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1465772284413" ID="ID_671448017" LINK="http://lfe.io/" MODIFIED="1465772343355">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>LFI</b>
+    </p>
+    <p>
+      <font size="2">Lisp Flavored Eralng </font>
+    </p>
+    <p>
+      <font size="3">2008 </font>
+    </p>
+    <p>
+      <font size="2" color="#3296fa"><i>Robert Virding</i></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1465771787372" ID="ID_1660061887" MODIFIED="1465771790210" TEXT="Le Lisp"/>
+</node>
+<node CREATED="1440397186377" ID="ID_180086279" MODIFIED="1456199095959" TEXT="edu">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1440397189505" ID="ID_500941945" LINK="http://www.openlogic.com/resources/enterprise-blog/archive/paredit-learn-to-love-writing-lisp-code" MODIFIED="1440397204888" TEXT="ParEdit: Learn to Love Writing Lisp Code"/>
 </node>
@@ -1745,7 +1886,7 @@
 <node CREATED="1424899688598" ID="ID_872143039" MODIFIED="1424899690116" TEXT="Perl"/>
 <node CREATED="1424899709157" ID="ID_232425213" MODIFIED="1424899710755" TEXT="Ruby"/>
 </node>
-<node CREATED="1424899486265" ID="ID_1810172944" MODIFIED="1441825396800" TEXT="mod">
+<node CREATED="1424899486265" ID="ID_1810172944" MODIFIED="1456200159887" TEXT="mod">
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_885152691" ENDARROW="Default" ENDINCLINATION="672;0;" ID="Arrow_ID_1332065513" STARTARROW="None" STARTINCLINATION="672;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_1694895545" ENDARROW="Default" ENDINCLINATION="582;0;" ID="Arrow_ID_1790447185" STARTARROW="None" STARTINCLINATION="582;0;"/>
 <arrowlink COLOR="#b0b0b0" DESTINATION="ID_429146574" ENDARROW="Default" ENDINCLINATION="504;0;" ID="Arrow_ID_1751711977" STARTARROW="None" STARTINCLINATION="504;0;"/>

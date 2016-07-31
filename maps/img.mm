@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1398448211389" ID="ID_705054280" MODIFIED="1432325004246" TEXT="img">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1432325006120" FOLDED="true" ID="ID_1641696335" MODIFIED="1432326310830" POSITION="right" TEXT="formats">
+<node CREATED="1432325006120" FOLDED="true" ID="ID_1641696335" MODIFIED="1453590334495" POSITION="right" TEXT="formats">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398448246370" ID="ID_894485745" MODIFIED="1398448247810" TEXT="RAW"/>
 <node CREATED="1398448239395" ID="ID_184401319" MODIFIED="1398448242416" TEXT="PNG"/>
@@ -72,8 +72,7 @@
       <font size="2">GPL | C++, gtkmm</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1432325963177" ID="ID_346477737" MODIFIED="1432325966486" POSITION="right" TEXT="standarts"/>

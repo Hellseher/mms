@@ -52,7 +52,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1454984368281">
+<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1458525617413">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -265,7 +265,7 @@
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
 </node>
-<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1449443408280">
+<node CREATED="1398556276933" ID="ID_1853920621" MODIFIED="1469574674261">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -327,6 +327,7 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1442960545324" ID="ID_1593801669" MODIFIED="1442960556279" TEXT="/etc/exportfs"/>
 <node CREATED="1398556336675" ID="ID_112723023" MODIFIED="1448746799739">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -383,7 +384,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1442960545324" ID="ID_1593801669" MODIFIED="1442960556279" TEXT="/etc/exportfs"/>
 <node CREATED="1398556356771" ID="ID_1974490391" MODIFIED="1443480713936">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -439,6 +439,18 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1465769201396" ID="ID_1933722646" MODIFIED="1465769220237">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/<b>issue</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1411077568240" ID="ID_586385236" MODIFIED="1411077582829">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -454,6 +466,18 @@
 <node CREATED="1429657274880" ID="ID_252851786" MODIFIED="1429657282406" TEXT="/etc/lsb-release"/>
 <node CREATED="1429657274880" ID="ID_1219204339" MODIFIED="1429657315723" TEXT="/etc/lsb-release.d"/>
 <node CREATED="1408225143443" ID="ID_842530579" MODIFIED="1408225146738" TEXT="/etc/magic"/>
+<node CREATED="1443480624937" ID="ID_1866746347" MODIFIED="1443480641177">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/<b>modprobe.d</b>/
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1409003942797" ID="ID_838091591" MODIFIED="1443480622601">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -465,18 +489,6 @@
     </p>
     <p>
       <font color="#6496fa" size="2"><i>kernel modules </i></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1443480624937" ID="ID_1866746347" MODIFIED="1443480641177">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      /etc/<b>modprobe.d</b>/
     </p>
   </body>
 </html></richcontent>
@@ -523,6 +535,7 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1465769392769" ID="ID_191119541" MODIFIED="1465769421134" TEXT="/etc/os-release"/>
 <node CREATED="1398556323892" ID="ID_349442526" MODIFIED="1441577692908">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -591,22 +604,23 @@
 <node CREATED="1416668543191" ID="ID_1837567757" MODIFIED="1416668584355" TEXT="/etc/pulse/daemon.conf"/>
 <node CREATED="1416668543191" ID="ID_1493520634" MODIFIED="1416668591012" TEXT="/etc/pulse/system.pa"/>
 </node>
-<node CREATED="1441576040550" ID="ID_1698340536" MODIFIED="1441576759662">
+<node CREATED="1441576040550" ID="ID_1698340536" MODIFIED="1469574705987">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /etc/<b>rc.d/</b>
+      /etc/<b>rc{number}.d/</b>
     </p>
     <p>
-      <i><font size="2" color="#6496fa">run commands</font></i>
+      <i><font color="#6496fa" size="2">run commands</font></i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1408142440156" ID="ID_1817669004" MODIFIED="1408142497096">
+<node CREATED="1408142440156" ID="ID_1817669004" MODIFIED="1469574753227">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -616,10 +630,11 @@
       /etc/<b>resolv.conf</b>
     </p>
     <p>
-      <font color="#3296fa"><i>host name to ip address mapping (DNS)</i></font>
+      <font color="#6496fa" size="2"><i>host name to ip address mapping (DNS)</i></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1414890202506" FOLDED="true" ID="ID_10379971" MODIFIED="1429310592949" TEXT="/etc/security">
 <node CREATED="1414890212186" ID="ID_1103756220" MODIFIED="1414890229369">
@@ -755,6 +770,7 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1465769426497" ID="ID_1459880625" MODIFIED="1465769439269" TEXT="/etc/system-release"/>
 <node CREATED="1412891534305" ID="ID_230692386" LINK="http://freedesktop.org/wiki/Software/systemd/" MODIFIED="1412892644406">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -944,7 +960,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" ID="ID_278437396" MODIFIED="1457399439763">
+<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1469488418614">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1090,7 +1106,21 @@
 </html></richcontent>
 </node>
 <node CREATED="1411234825438" ID="ID_323618803" MODIFIED="1411234838075" TEXT="/proc/modules"/>
-<node CREATED="1408141493443" ID="ID_261452690" MODIFIED="1408141502545" TEXT="/proc/mounts"/>
+<node CREATED="1408141493443" ID="ID_261452690" MODIFIED="1459491312459">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/<b>mounts </b>
+    </p>
+    <p>
+      <font size="2" color="#6496fa"><i>list of mounted fs</i></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1408053698357" ID="ID_1021531294" MODIFIED="1449443537511">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1158,7 +1188,7 @@
 <node CREATED="1413486039485" ID="ID_520208479" MODIFIED="1413486049834" TEXT="/proc/sys/sunrpc"/>
 <node CREATED="1413486050301" ID="ID_719756766" MODIFIED="1413486057499" TEXT="/proc/sys/vm"/>
 </node>
-<node CREATED="1408141502930" ID="ID_1828905776" MODIFIED="1449443757116">
+<node CREATED="1408141502930" ID="ID_1828905776" MODIFIED="1468879447234">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1172,6 +1202,44 @@
     </p>
   </body>
 </html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      See also
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      /etc/os-release
+    </p>
+    <p>
+      /etc/system-release
+    </p>
+    <p>
+      /etc/issue
+    </p>
+    <p>
+      /etc/issue.net
+    </p>
+    <p>
+      /etc/lsb-release
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      $ lsb_release
+    </p>
+    <p>
+      $ dmesg | head
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1457399461250" ID="ID_1469694514" MODIFIED="1457399487157">
 <richcontent TYPE="NODE"><html>
@@ -1183,10 +1251,9 @@
       /proc/<b>uptime</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1457399470362" ID="ID_1180468554" MODIFIED="1457399693982">
+<node CREATED="1457399470362" ID="ID_1180468554" MODIFIED="1465767278552">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1196,8 +1263,7 @@
       /proc/<b>loadavg</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1205,8 +1271,7 @@
   <body>
     0.20 0.18 0.12 1/80 1123 The first three columns measure CPU and IO utilization of the last one, five, and 10 minute periods. The fourth column shows the number of currently running processes and the total number of processes. The last column displays the last process ID used.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1398558585455" ID="ID_981228919" MODIFIED="1443480116298" TEXT="/root">
@@ -1263,7 +1328,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401730120609" FOLDED="true" ID="ID_1299020193" MODIFIED="1449443865667">
+<node CREATED="1401730120609" ID="ID_1299020193" MODIFIED="1458525622600">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1303,7 +1368,7 @@
 </html></richcontent>
 <node CREATED="1413484394230" ID="ID_1374251777" MODIFIED="1413484402323" TEXT="/statnd/vmunix"/>
 </node>
-<node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1443824767364">
+<node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1469574669804">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1326,7 +1391,8 @@
       from kernel v2.6
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1443822969166">
 <richcontent TYPE="NODE"><html>
@@ -1344,7 +1410,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1398810225226" ID="ID_1641748460" MODIFIED="1398810229544" TEXT="/sys/bus"/>
-<node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1443823100005">
+<node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1469488560022">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1418,7 +1484,22 @@
 <node CREATED="1424559212371" ID="ID_1645084231" MODIFIED="1424559212371" TEXT="/sys/class/watchdog"/>
 </node>
 <node CREATED="1398810230746" ID="ID_695722491" MODIFIED="1398810233576" TEXT="/sys/dev"/>
-<node CREATED="1398810204522" ID="ID_990932109" MODIFIED="1398810210344" TEXT="/sys/devices"/>
+<node CREATED="1398810204522" ID="ID_990932109" MODIFIED="1469488513400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/<b>devices</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">all kernel devices</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1398810234025" ID="ID_1413455656" MODIFIED="1398810241464" TEXT="/sys/firmware"/>
 <node CREATED="1398810210890" ID="ID_1340315194" MODIFIED="1398810215016" TEXT="/sys/fs"/>
 <node CREATED="1398810215753" ID="ID_232422502" MODIFIED="1398810220520" TEXT="/sys/kernel"/>
@@ -1427,7 +1508,7 @@
 <node CREATED="1401730114065" ID="ID_380210278" MODIFIED="1410815830112" TEXT="/tmp">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1457399437130">
+<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1459491264329">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1626,7 +1707,7 @@
 <node CREATED="1398557865098" ID="ID_1321990808" MODIFIED="1398557870729" TEXT="/usr/local/share"/>
 <node CREATED="1398557871386" ID="ID_276000621" MODIFIED="1398557875129" TEXT="/usr/local/src"/>
 </node>
-<node CREATED="1413071753386" FOLDED="true" ID="ID_1340043965" MODIFIED="1454984378947">
+<node CREATED="1413071753386" ID="ID_1340043965" MODIFIED="1458952379518">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2147,8 +2228,9 @@
 </node>
 <node CREATED="1408142350155" ID="ID_1950057638" MODIFIED="1408142353723" TEXT="/var/www"/>
 </node>
+<node CREATED="1458949624809" ID="ID_1515008094" MODIFIED="1458949629868" TEXT="vmlinuz"/>
 </node>
-<node CREATED="1401488838970" ID="ID_1415149498" MODIFIED="1453590379003" TEXT="symbol">
+<node CREATED="1401488838970" FOLDED="true" ID="ID_1415149498" MODIFIED="1458086889775" TEXT="symbol">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1401484482567" ID="ID_308334461" MODIFIED="1453590476568">
 <richcontent TYPE="NODE"><html>
@@ -2935,7 +3017,7 @@
 <node CREATED="1417381452042" ID="ID_1532674825" LINK="http://githowto.com/" MODIFIED="1417381468659" TEXT="githowto.com"/>
 </node>
 </node>
-<node CREATED="1398557051048" FOLDED="true" ID="ID_228093404" MODIFIED="1436601199900" POSITION="right" STYLE="fork">
+<node CREATED="1398557051048" ID="ID_228093404" MODIFIED="1458086962782" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2947,9 +3029,9 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1400101268215" FOLDED="true" ID="ID_340137625" MODIFIED="1429310592955" TEXT="links">
+<node CREATED="1400101268215" FOLDED="true" ID="ID_340137625" MODIFIED="1458525613888" TEXT="links">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1399834188599" FOLDED="true" ID="ID_1912401328" MODIFIED="1429310562808" TEXT="misc">
+<node CREATED="1399834188599" ID="ID_1912401328" MODIFIED="1458086988666" TEXT="misc">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398557066344" ID="ID_1791843445" LINK="http://linuxcommand.org/index.php" MODIFIED="1398557087119" TEXT="www.linuxcommand.org"/>
 <node CREATED="1398559526480" ID="ID_928271275" LINK="http://www.linux.org.ru/" MODIFIED="1398559546595" TEXT="www.linux.org.ru"/>
@@ -2989,6 +3071,7 @@
 <node CREATED="1399323993464" ID="ID_374211390" LINK="http://www.unixmen.com/" MODIFIED="1399323999294" TEXT="http://www.unixmen.com/"/>
 <node CREATED="1399324066152" ID="ID_1537078952" LINK="http://desktoplinuxreviews.com/" MODIFIED="1399324070156" TEXT="http://desktoplinuxreviews.com/"/>
 <node CREATED="1399849922390" ID="ID_199579324" LINK="http://linux.about.com/" MODIFIED="1399849927516" TEXT="http://linux.about.com/"/>
+<node CREATED="1458087013029" ID="ID_1073156487" LINK="https://lwn.net" MODIFIED="1458087027175" TEXT="https://lwn.net"/>
 <node CREATED="1401493572458" ID="ID_858650465" LINK="http://www.linfo.org/index.html" MODIFIED="1401493585933" TEXT="http://www.linfo.org/"/>
 <node CREATED="1402186080694" ID="ID_958965524" LINK="http://www.oldlinux.org/" MODIFIED="1402186085824" TEXT="http://www.oldlinux.org/"/>
 <node CREATED="1402186550360" ID="ID_1782360776" LINK="http://linuxcounter.net/" MODIFIED="1402186561169" TEXT="http://linuxcounter.net/"/>
@@ -3006,11 +3089,13 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1399834135127" FOLDED="true" ID="ID_1967298193" MODIFIED="1429310563791" TEXT="offisial">
+<node CREATED="1399834135127" ID="ID_1967298193" MODIFIED="1458086967056" TEXT="offisial">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398559401265" ID="ID_608960417" LINK="http://www.linux.org/" MODIFIED="1398559506997" TEXT="www.linux.org"/>
 <node CREATED="1398559477760" ID="ID_1061027011" LINK="http://www.linux.com/" MODIFIED="1398559492899" TEXT="www.linux.com"/>
-<node CREATED="1398559834362" ID="ID_1183582991" LINK="https://www.kernel.org/" MODIFIED="1398559852959" TEXT="www.kernel.org"/>
+<node CREATED="1398559834362" ID="ID_1183582991" LINK="https://www.kernel.org/" MODIFIED="1398559852959" TEXT="www.kernel.org">
+<node CREATED="1458087112691" ID="ID_20638647" LINK="https://wiki.kernel.org/" MODIFIED="1458087117737" TEXT="https://wiki.kernel.org/"/>
+</node>
 <node CREATED="1398559879897" ID="ID_619768587" LINK="http://www.linuxfoundation.org/" MODIFIED="1398559898288" TEXT="www.linuxfoundation.org"/>
 <node CREATED="1399840626867" ID="ID_749119915" LINK="http://www.tldp.org/" MODIFIED="1401730179879">
 <richcontent TYPE="NODE"><html>
@@ -3028,11 +3113,11 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1399833156302" FOLDED="true" ID="ID_1049766246" MODIFIED="1429310592955" TEXT="magasines">
+<node CREATED="1399833156302" ID="ID_1049766246" MODIFIED="1458086976949" TEXT="magasines">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399833195070" ID="ID_819254378" LINK="http://www.linuxformat.ru/" MODIFIED="1399833219058" TEXT="Linux Format eng"/>
 </node>
-<node CREATED="1399588038840" FOLDED="true" ID="ID_1361190746" MODIFIED="1429310592955" TEXT="Trees and distro">
+<node CREATED="1399588038840" ID="ID_1361190746" MODIFIED="1458086981086" TEXT="Trees and distro">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1399587959590" ID="ID_1394555520" LINK="http://futurist.se/gldt/" MODIFIED="1399587970062" TEXT="http://futurist.se/gldt/"/>
 <node CREATED="1399588072074" ID="ID_1556827459" LINK="https://launchpad.net/gnuclad" MODIFIED="1399588077741" TEXT="https://launchpad.net/gnuclad"/>
@@ -3040,7 +3125,7 @@
 </node>
 <node CREATED="1402182581205" ID="ID_1976575458" LINK="http://openbuildservice.org/" MODIFIED="1402182598958" TEXT="Open Build Service"/>
 </node>
-<node CREATED="1399916952894" FOLDED="true" ID="ID_871920423" LINK="https://www.kernel.org/" MODIFIED="1447454694012" POSITION="right">
+<node CREATED="1399916952894" FOLDED="true" ID="ID_871920423" LINK="https://www.kernel.org/" MODIFIED="1458086961293" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3152,7 +3237,7 @@
 <node CREATED="1441050773932" ID="ID_961774221" LINK="https://training.linuxfoundation.org/linux-courses/system-administration-training" MODIFIED="1441050789391" TEXT="Enterprise IT &amp; Linux System Administration Training"/>
 </node>
 </node>
-<node CREATED="1441230986698" FOLDED="true" ID="ID_705541557" MODIFIED="1454984363817" POSITION="right" TEXT="bootloaders">
+<node CREATED="1441230986698" FOLDED="true" ID="ID_705541557" MODIFIED="1458086955390" POSITION="right" TEXT="bootloaders">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441230992746" ID="ID_46710415" MODIFIED="1441316425397">
 <richcontent TYPE="NODE"><html>
@@ -3199,7 +3284,7 @@
 <node CREATED="1441231081681" ID="ID_1296369203" MODIFIED="1441231086310" TEXT="ELILO"/>
 <node CREATED="1441553903522" MODIFIED="1441553903522" TEXT="gummiboot"/>
 </node>
-<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1436601194588" POSITION="right" STYLE="fork">
+<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1458086954086" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3276,7 +3361,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1441550981134" FOLDED="true" ID="ID_836848200" MODIFIED="1457219369979" POSITION="left" TEXT="Initialization system">
+<node CREATED="1441550981134" ID="ID_836848200" MODIFIED="1458086894192" POSITION="left" TEXT="Initialization system">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441551007287" ID="ID_1051964300" MODIFIED="1441551009044" TEXT="init"/>
 <node CREATED="1441551160171" ID="ID_1713643487" LINK="http://upstart.ubuntu.com/" MODIFIED="1441551461491">
