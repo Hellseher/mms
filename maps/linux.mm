@@ -265,7 +265,7 @@
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
 </node>
-<node CREATED="1398556276933" ID="ID_1853920621" MODIFIED="1469574674261">
+<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1470092351400">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -300,7 +300,8 @@
       &#160;&#160;&#160;&#160;csh.login, exports, fstab, ftpusers, gateways, gettydefs,&#160;&#160;&#160;&#160;&#160;group, host.conf, hosts.allow, hosts.deny, hosts,equiv,&#160;&#160;&#160;&#160;&#160;hosts.lpd, inetd.conf, inittab, issue, ld.so.conf, motd,&#160;&#160;&#160;&#160;&#160;mtab, mtools.conf, networks, passwd, printcap, profile,&#160;&#160;&#160;&#160;&#160;protocols, resolv.conf, rpc, securetty, services, shells,&#160;&#160;&#160;&#160;&#160;syslog.conf.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1413071651483" ID="ID_1284065277" MODIFIED="1413071656696" TEXT="/etc/anacrontab"/>
 <node CREATED="1413071662411" ID="ID_862731658" MODIFIED="1413071669352" TEXT="/etc/crontab"/>
 <node CREATED="1432754877405" ID="ID_326225392" MODIFIED="1441231316965">
@@ -960,7 +961,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1469488418614">
+<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1470436635802">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -989,7 +990,7 @@
 <node CREATED="1409003148594" ID="ID_1069350389" MODIFIED="1409003153505" TEXT="/proc/bus/usb"/>
 <node CREATED="1409003153970" ID="ID_893879930" MODIFIED="1409003175744" TEXT="/proc/bus/input"/>
 </node>
-<node CREATED="1430340640834" ID="ID_1163927427" MODIFIED="1430340743196">
+<node CREATED="1430340640834" ID="ID_1163927427" MODIFIED="1470092373465">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1018,7 +1019,8 @@
       ro root=/dev/VolGroup00/LogVol00 rhgb quiet 3
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1408141472915" ID="ID_1283441402" MODIFIED="1411232009665">
 <richcontent TYPE="NODE"><html>
@@ -1151,18 +1153,38 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408141652642" FOLDED="true" ID="ID_96495748" MODIFIED="1457399445299">
+<node CREATED="1408141652642" ID="ID_96495748" MODIFIED="1470092424864">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /proc/<b>sys/</b>
+      /proc/<b>sys/ </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">tunable system parameters</font></i>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1413486015742" ID="ID_1890767434" MODIFIED="1413486022219" TEXT="/proc/sys/abi"/>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1413486015742" ID="ID_1890767434" MODIFIED="1470092478833">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/sys/<b>abi</b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">files with app binary information</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1413486081693" ID="ID_100005374" MODIFIED="1413486089194" TEXT="/proc/sys/crypto"/>
 <node CREATED="1413486024862" ID="ID_889784115" MODIFIED="1413486032283" TEXT="/proc/sys/debug"/>
 <node CREATED="1413486032701" ID="ID_1249952002" MODIFIED="1413486039083" TEXT="/proc/sys/dev"/>
@@ -1368,7 +1390,7 @@
 </html></richcontent>
 <node CREATED="1413484394230" ID="ID_1374251777" MODIFIED="1413484402323" TEXT="/statnd/vmunix"/>
 </node>
-<node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1469574669804">
+<node CREATED="1398810169786" ID="ID_826119695" MODIFIED="1470436637391">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1394,20 +1416,54 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1443822969166">
+<node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1470437122269">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /sys/<b>block</b>
+      /sys/<b>block/</b>
     </p>
     <p>
       <font color="#6496fa" size="2">storage device</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1470436858022" ID="ID_65890805" MODIFIED="1470437114119" TEXT="/sys/block/sdX/">
+<node CREATED="1470436991820" ID="ID_893834746" MODIFIED="1470437116936" TEXT="/sys/block/&lt;device&gt;/queue/">
+<node CREATED="1470436991820" ID="ID_871384070" MODIFIED="1470437132075">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/<b>iosched/</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1470436643169" ID="ID_278824848" MODIFIED="1470437100132">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/<b>rotational </b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">HDD: 1, SSD: 0</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1398810225226" ID="ID_1641748460" MODIFIED="1398810229544" TEXT="/sys/bus"/>
 <node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1469488560022">
