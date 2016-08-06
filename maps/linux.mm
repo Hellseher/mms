@@ -961,7 +961,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1470436635802">
+<node CREATED="1398559185925" ID="ID_278437396" MODIFIED="1470526785284">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1153,7 +1153,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408141652642" ID="ID_96495748" MODIFIED="1470092424864">
+<node CREATED="1408141652642" ID="ID_96495748" MODIFIED="1470526896144">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1208,7 +1208,75 @@
 <node CREATED="1413486006045" ID="ID_198838276" MODIFIED="1413486015051" TEXT="/proc/sys/kernel"/>
 <node CREATED="1413485996830" ID="ID_1124857491" MODIFIED="1413486005676" TEXT="/proc/sys/net"/>
 <node CREATED="1413486039485" ID="ID_520208479" MODIFIED="1413486049834" TEXT="/proc/sys/sunrpc"/>
-<node CREATED="1413486050301" ID="ID_719756766" MODIFIED="1413486057499" TEXT="/proc/sys/vm"/>
+<node CREATED="1413486050301" ID="ID_719756766" LINK="https://www.kernel.org/doc/Documentation/sysctl/vm.txt" MODIFIED="1470527110895">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/sys/<b>vm</b>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1413486050301" ID="ID_1895510594" MODIFIED="1470526830146">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/sys/vm/<b>drop_caches</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1470526906599" MODIFIED="1470526906599" TEXT="admin_reserve_kbytes"/>
+<node CREATED="1470526906599" MODIFIED="1470526906599" TEXT="- block_dump"/>
+<node CREATED="1470526906600" MODIFIED="1470526906600" TEXT="- compact_memory"/>
+<node CREATED="1470526906600" MODIFIED="1470526906600" TEXT="- compact_unevictable_allowed"/>
+<node CREATED="1470526906601" MODIFIED="1470526906601" TEXT="- dirty_background_bytes"/>
+<node CREATED="1470526906601" MODIFIED="1470526906601" TEXT="- dirty_background_ratio"/>
+<node CREATED="1470526906601" MODIFIED="1470526906601" TEXT="- dirty_bytes"/>
+<node CREATED="1470526906602" MODIFIED="1470526906602" TEXT="- dirty_expire_centisecs"/>
+<node CREATED="1470526906602" MODIFIED="1470526906602" TEXT="- dirty_ratio"/>
+<node CREATED="1470526906602" MODIFIED="1470526906602" TEXT="- dirty_writeback_centisecs"/>
+<node CREATED="1470526906603" MODIFIED="1470526906603" TEXT="- drop_caches"/>
+<node CREATED="1470526906603" MODIFIED="1470526906603" TEXT="- extfrag_threshold"/>
+<node CREATED="1470526906603" MODIFIED="1470526906603" TEXT="- hugepages_treat_as_movable"/>
+<node CREATED="1470526906604" MODIFIED="1470526906604" TEXT="- hugetlb_shm_group"/>
+<node CREATED="1470526906604" MODIFIED="1470526906604" TEXT="- laptop_mode"/>
+<node CREATED="1470526906605" MODIFIED="1470526906605" TEXT="- legacy_va_layout"/>
+<node CREATED="1470526906605" MODIFIED="1470526906605" TEXT="- lowmem_reserve_ratio"/>
+<node CREATED="1470526906605" MODIFIED="1470526906605" TEXT="- max_map_count"/>
+<node CREATED="1470526906606" MODIFIED="1470526906606" TEXT="- memory_failure_early_kill"/>
+<node CREATED="1470526906606" MODIFIED="1470526906606" TEXT="- memory_failure_recovery"/>
+<node CREATED="1470526906606" MODIFIED="1470526906606" TEXT="- min_free_kbytes"/>
+<node CREATED="1470526906607" MODIFIED="1470526906607" TEXT="- min_slab_ratio"/>
+<node CREATED="1470526906607" MODIFIED="1470526906607" TEXT="- min_unmapped_ratio"/>
+<node CREATED="1470526906607" MODIFIED="1470526906607" TEXT="- mmap_min_addr"/>
+<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- mmap_rnd_bits"/>
+<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- mmap_rnd_compat_bits"/>
+<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- nr_hugepages"/>
+<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- nr_overcommit_hugepages"/>
+<node CREATED="1470526906609" MODIFIED="1470526906609" TEXT="- nr_trim_pages         (only if CONFIG_MMU=n)"/>
+<node CREATED="1470526906609" MODIFIED="1470526906609" TEXT="- numa_zonelist_order"/>
+<node CREATED="1470526906609" MODIFIED="1470526906609" TEXT="- oom_dump_tasks"/>
+<node CREATED="1470526906610" MODIFIED="1470526906610" TEXT="- oom_kill_allocating_task"/>
+<node CREATED="1470526906610" MODIFIED="1470526906610" TEXT="- overcommit_kbytes"/>
+<node CREATED="1470526906610" MODIFIED="1470526906610" TEXT="- overcommit_memory"/>
+<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- overcommit_ratio"/>
+<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- page-cluster"/>
+<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- panic_on_oom"/>
+<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- percpu_pagelist_fraction"/>
+<node CREATED="1470526906612" MODIFIED="1470526906612" TEXT="- stat_interval"/>
+<node CREATED="1470526906612" MODIFIED="1470526906612" TEXT="- stat_refresh"/>
+<node CREATED="1470526906612" MODIFIED="1470526906612" TEXT="- swappiness"/>
+<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- user_reserve_kbytes"/>
+<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- vfs_cache_pressure"/>
+<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- watermark_scale_factor"/>
+<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- zone_reclaim_mode"/>
+</node>
 </node>
 <node CREATED="1408141502930" ID="ID_1828905776" MODIFIED="1468879447234">
 <richcontent TYPE="NODE"><html>
@@ -1431,9 +1499,31 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1470436858022" ID="ID_65890805" MODIFIED="1470437114119" TEXT="/sys/block/sdX/">
-<node CREATED="1470436991820" ID="ID_893834746" MODIFIED="1470437116936" TEXT="/sys/block/&lt;device&gt;/queue/">
-<node CREATED="1470436991820" ID="ID_871384070" MODIFIED="1470437132075">
+<node CREATED="1470436858022" ID="ID_65890805" MODIFIED="1470519297098">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/<b>&lt;device&gt;</b>/
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1470436991820" ID="ID_893834746" MODIFIED="1470518916460">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/<b>queue</b>/
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1470436991820" ID="ID_871384070" MODIFIED="1470438708279">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1443,8 +1533,373 @@
       /sys/block/&lt;device&gt;/queue/<b>iosched/</b>
     </p>
   </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      http://www.ibm.com/developerworks/linux/library/l-async/
+    </p>
+  </body>
 </html>
 </richcontent>
+<node CREATED="1470437629699" ID="ID_76716277" MODIFIED="1470438629188" TEXT="      slice_async_rq ">
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &amp;#65533;&amp;#65533;This parameter is used to limit the 
+    dispatching of asynchronous requests 
+     to the device request-queue in 
+    queue&amp;#25; s slice time. This limits the  
+    number of asynchronous requests are 
+    executed (dispatched). The maximum  
+    number of requests that are allowed 
+    to be dispatched also depends upon  
+    the io priority. The equations for 
+    computing the maximum number of  
+    requests is, max_nr_requests = 2 * 
+    (slice_async_rq + slice_async_rq * 
+    (7  &amp;#19; io_priority)). The default for 
+    slice_async_rq is 2.
+
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437632619" ID="ID_1998065016" MODIFIED="1470438608509" TEXT="    slice_sync      ">
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &amp;#65533;&amp;#65533;Remember that when a queue is 
+    selected for execution, the queues 
+    IO  requests are only executed for a 
+    certain amount of time (the 
+    time_slice)  before switching to 
+    another queue. This parameter is 
+    used to calculate  the time slice of 
+    the synchronous queue. The default 
+    value for this  parameter is 100 ms, 
+    but this isn&amp;#25; t the true time slice. 
+    Rather the time  slice is computed 
+    from the following: time_slice = 
+    slice_sync +  (slice_sync / 5 * 4 &amp;#19; 
+    io_priority)). If you want the time 
+    slice for the  synchronous queue to 
+    be longer (perhaps you have more 
+    synchronous  operations), then 
+    increase the value of slice_sync.
+
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437622859" ID="ID_1295058682" MODIFIED="1470437626515" TEXT=" group_idle      "/>
+<node CREATED="1470437613311" ID="ID_1284345422" MODIFIED="1470438556534">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/iosched/<b>back_seek_max </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">Maximum backwards seek, in KB (Default = 16K)</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    This parameter, given in Kbytes, sets 
+    the maximum &amp;#28; distance&amp;#29; for  backward 
+    seeking. By default, this parameter 
+    is set to 16 MBytes. This  distance 
+    is the amount of space from the 
+    current head location to the  
+    sectors that are em&amp;gt;backward/em&amp;gt; in 
+    terms of distance. This idea comes  
+    from the Anticipatory Scheduler (AS) 
+    about anticipating the location of  
+    the next request. This parameter 
+    allows the scheduler to anticipate  
+    requests in the &amp;#28; backward&amp;#29; or 
+    opposite direction and consider the  
+    requests as being &amp;#28; next&amp;#29; if they are 
+    within this distance from the  
+    current head location.
+  &lt;/body&gt;
+  &lt;p&gt;
+    
+  &lt;/p&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437635747" ID="ID_953187827" MODIFIED="1470438573118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/iosched/<b>back_seek_penalty </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">Penalty for a backwards seek. (Default = 2)</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    This parameter is used to compute the cost of backward seeking. If the 
+    backward distance of a request is just (1/back_seek_penalty) from a &amp;#28; 
+    front&amp;#29; request, then the seeking cost of the two requests is considered 
+    equivalent and the scheduler will not bias toward one or the other 
+    (otherwise the scheduler will bias the selection to &amp;#28; front direction 
+    requests). Recall, the CFQ has the concept of elevators so it will try to 
+    seek in the current direction as much as possible to avoid the latency 
+    associated with a seek. This parameters defaults to 2 so if the distance 
+    is only 1/2 of the forward distance, CFQ will consider the backward 
+    request to be close enough to the current head location to be &amp;#28; close&amp;#29; . 
+    Therefore it will consider it as a forward request.
+
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437618580" ID="ID_1244213856" MODIFIED="1470438584750">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/iosched/<b>fifo_expire_async </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">FIFO timeout for async requests (Default = HZ/8)</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &amp;#65533;&amp;#65533;This particular parameter is used to 
+    set the timeout of asynchronous  
+    requests. Recall that CFQ maintains 
+    a fifo (first-in, first-out) list to 
+     manage timeout requests. In 
+    addition, CFQ doesn&amp;#25; t check the 
+    expired  requests from the fifo 
+    queue after one timeout is 
+    dispatched (i.e. there  is a delay 
+    in processing the expired request). 
+    The default value for  this 
+    parameter is 250 ms. A smaller value 
+    means the timeout is  considered 
+    much more quickly than a larger 
+    value.
+
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437639427" ID="ID_121473700" MODIFIED="1470438594035">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/iosched/<b>fifo_expire_sync </b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">FIFO timeout for sync quests. (Default = HZ/2)</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    &#65533;&#65533;This parameter is the same as fifo_expire_async but for synchronous requests. The default value for this parameter is 125 ms. If you want to favor synchronous request over asynchronous requests, then this value should be decreased relative to fifo_expire_asynchronous.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1470437626515" ID="ID_1560639405" MODIFIED="1470438646555">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/queue/iosched/<b>quantum</b>
+    </p>
+    <p>
+      <i><font color="#6496fa" size="2">Maximum queue length in one round of service. (Default = 4)</font></i>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &amp;#65533;&amp;#65533;This parameter controls the number 
+    of dispatched requests to the device 
+     queue, request-device (i.e. the 
+    number of requests that are executed 
+    or  at least sent for execution). In 
+    a queue&amp;#25; s time slice, a request will 
+     not be dispatched if the number of 
+    requests in the device 
+    request-device  exceeds this 
+    parameter. For the asynchronous 
+    queue, dispatching the  requests is 
+    also restricted by the parameter 
+    slice_async_rq. The default  for 
+    this parameter is 4.
+
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437650207" ID="ID_1427245085" MODIFIED="1470437653165">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;low_latency&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1470437656071" ID="ID_442226262" MODIFIED="1470438636774">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;slice_idle&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE">&lt;html&gt;
+  &lt;head&gt;
+    
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &amp;#65533;&amp;#65533;This parameter is the idle time for 
+    the synchronous queue only. In a  
+    queue&amp;#25; s time slice (the amount of 
+    time operations can be dispatched),  
+    when there are no requests in the 
+    synchronous queue CFQ will not 
+    switch  to another queue but will 
+    sit idle to wait for the process 
+    creating more  requests. If there 
+    are no new requests submitted within 
+    the idle time,  then the queue will 
+    expire. The default value for this 
+    parameter is 8  ms. This parameters 
+    can control the amount of time the 
+    schedulers waits  for synchronous 
+    requests. This can be important 
+    since synchronous  requests tend to 
+    block execution of the process until 
+    the operation is  completed. 
+    Consequently, the IO scheduler looks 
+    for synchronous requests  within the 
+    idle window of time that might come 
+    from a streaming video  application 
+    or something that needs synchronous 
+    operations.
+
+    &lt;p&gt;
+      
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richcontent>
+</node>
+<node CREATED="1470437660039" ID="ID_595404907" MODIFIED="1470437660041">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;target_latency
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1470437653166" ID="ID_1965383797" MODIFIED="1470438621490">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#160;&#160;&#160;&#160;slice_async&#160;&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    &#65533;&#65533;This parameter is the same as slice_sync but for the asynchronous queue. The default is 40 ms. Notice that synchronous operations are preferred over asynchronous operations.
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1470436643169" ID="ID_278824848" MODIFIED="1470437100132">
 <richcontent TYPE="NODE"><html>
@@ -1459,9 +1914,22 @@
       <i><font color="#6496fa" size="2">HDD: 1, SSD: 0</font></i>
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1470519297099" ID="ID_1310459158" MODIFIED="1470519350718">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;device&gt;/<b>size</b>
+    </p>
+    <i><font size="2" color="#6496fa">the number of 512 byte sectors</font></i>
+  </body>
 </html>
 </richcontent>
-</node>
 </node>
 </node>
 </node>
