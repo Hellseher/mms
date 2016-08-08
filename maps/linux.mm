@@ -1,7 +1,9 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1429310592962" TEXT="Linux">
+<node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1470611696583" TEXT="Linux">
 <icon BUILTIN="penguin"/>
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
+<hook NAME="accessories/plugins/RevisionPlugin.properties"/>
 <node CREATED="1398556175894" ID="ID_338041253" MODIFIED="1457399434737" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -975,7 +977,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1409003122386" ID="ID_972249013" MODIFIED="1449443765732">
+<node CREATED="1409003122386" FOLDED="true" ID="ID_972249013" MODIFIED="1470611716803">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1019,8 +1021,7 @@
       ro root=/dev/VolGroup00/LogVol00 rhgb quiet 3
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408141472915" ID="ID_1283441402" MODIFIED="1411232009665">
 <richcontent TYPE="NODE"><html>
@@ -1030,18 +1031,6 @@
   <body>
     <p>
       /proc/<b>cpuinfo</b>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1449443820534" ID="ID_1405134170" MODIFIED="1449443833987">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      /proc/<b>irq/</b>
     </p>
   </body>
 </html></richcontent>
@@ -1094,6 +1083,38 @@
 <node CREATED="1448747265504" ID="ID_1320449153" MODIFIED="1448747265504" TEXT="btrfs"/>
 </node>
 <node CREATED="1408141480355" ID="ID_351462044" MODIFIED="1408141487426" TEXT="/proc/interrupts"/>
+<node CREATED="1449443820534" ID="ID_1405134170" MODIFIED="1449443833987">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/<b>irq/</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1457399470362" ID="ID_1180468554" MODIFIED="1465767278552">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /proc/<b>loadavg</b>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    0.20 0.18 0.12 1/80 1123 The first three columns measure CPU and IO utilization of the last one, five, and 10 minute periods. The fourth column shows the number of currently running processes and the total number of processes. The last column displays the last process ID used.
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1408141487827" ID="ID_199816144" MODIFIED="1408141518497" TEXT="/proc/meminfo"/>
 <node CREATED="1409003002083" ID="ID_1572888558" MODIFIED="1409003030417">
 <richcontent TYPE="NODE"><html>
@@ -1153,7 +1174,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408141652642" ID="ID_96495748" MODIFIED="1470526896144">
+<node CREATED="1408141652642" FOLDED="true" ID="ID_96495748" MODIFIED="1470611665469">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1166,8 +1187,7 @@
       <i><font size="2" color="#6496fa">tunable system parameters</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413486015742" ID="ID_1890767434" MODIFIED="1470092478833">
 <richcontent TYPE="NODE"><html>
@@ -1182,8 +1202,7 @@
       <i><font size="2" color="#6496fa">files with app binary information</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1413486081693" ID="ID_100005374" MODIFIED="1413486089194" TEXT="/proc/sys/crypto"/>
 <node CREATED="1413486024862" ID="ID_889784115" MODIFIED="1413486032283" TEXT="/proc/sys/debug"/>
@@ -1208,75 +1227,75 @@
 <node CREATED="1413486006045" ID="ID_198838276" MODIFIED="1413486015051" TEXT="/proc/sys/kernel"/>
 <node CREATED="1413485996830" ID="ID_1124857491" MODIFIED="1413486005676" TEXT="/proc/sys/net"/>
 <node CREATED="1413486039485" ID="ID_520208479" MODIFIED="1413486049834" TEXT="/proc/sys/sunrpc"/>
-<node CREATED="1413486050301" ID="ID_719756766" LINK="https://www.kernel.org/doc/Documentation/sysctl/vm.txt" MODIFIED="1470527110895">
+<node CREATED="1413486050301" FOLDED="true" ID="ID_719756766" LINK="https://www.kernel.org/doc/Documentation/sysctl/vm.txt" MODIFIED="1470611663676">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /proc/sys/<b>vm</b>
+      /proc/sys/<b>vm/</b>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1413486050301" ID="ID_1895510594" MODIFIED="1470526830146">
+<node CREATED="1470611641845" MODIFIED="1470611641845" TEXT="/proc/sys/vm/admin_reserve_kbytes"/>
+<node CREATED="1470611641845" MODIFIED="1470611641845" TEXT="/proc/sys/vm/block_dump"/>
+<node CREATED="1470611641845" MODIFIED="1470611641845" TEXT="/proc/sys/vm/compact_memory"/>
+<node CREATED="1470611641845" MODIFIED="1470611641845" TEXT="/proc/sys/vm/compact_unevictable_allowed"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/dirty_background_bytes"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/dirty_background_ratio"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/dirty_bytes"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/dirty_expire_centisecs"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/dirty_ratio"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/dirty_writeback_centisecs"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/drop_caches"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/extfrag_threshold"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/hugepages_treat_as_movable"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/hugetlb_shm_group"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/laptop_mode"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/legacy_va_layout"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/lowmem_reserve_ratio"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/max_map_count"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/memory_failure_early_kill"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/memory_failure_recovery"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/min_free_kbytes"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/min_slab_ratio"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/min_unmapped_ratio"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/mmap_min_addr"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/mmap_rnd_bits"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/mmap_rnd_compat_bits"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/nr_hugepages"/>
+<node CREATED="1470611641846" MODIFIED="1470611641846" TEXT="/proc/sys/vm/nr_overcommit_hugepages"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/nr_trim_pages         (only if CONFIG_MMU=n)"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/numa_zonelist_order"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/oom_dump_tasks"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/oom_kill_allocating_task"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/overcommit_kbytes"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/overcommit_memory"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/overcommit_ratio"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/page-cluster"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/panic_on_oom"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/percpu_pagelist_fraction"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/stat_interval"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/stat_refresh"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/swappiness"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/user_reserve_kbytes"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/vfs_cache_pressure"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/watermark_scale_factor"/>
+<node CREATED="1470611641847" MODIFIED="1470611641847" TEXT="/proc/sys/vm/zone_reclaim_mode"/>
+</node>
+</node>
+<node CREATED="1457399461250" ID="ID_1469694514" MODIFIED="1457399487157">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /proc/sys/vm/<b>drop_caches</b>
+      /proc/<b>uptime</b>
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1470526906599" MODIFIED="1470526906599" TEXT="admin_reserve_kbytes"/>
-<node CREATED="1470526906599" MODIFIED="1470526906599" TEXT="- block_dump"/>
-<node CREATED="1470526906600" MODIFIED="1470526906600" TEXT="- compact_memory"/>
-<node CREATED="1470526906600" MODIFIED="1470526906600" TEXT="- compact_unevictable_allowed"/>
-<node CREATED="1470526906601" MODIFIED="1470526906601" TEXT="- dirty_background_bytes"/>
-<node CREATED="1470526906601" MODIFIED="1470526906601" TEXT="- dirty_background_ratio"/>
-<node CREATED="1470526906601" MODIFIED="1470526906601" TEXT="- dirty_bytes"/>
-<node CREATED="1470526906602" MODIFIED="1470526906602" TEXT="- dirty_expire_centisecs"/>
-<node CREATED="1470526906602" MODIFIED="1470526906602" TEXT="- dirty_ratio"/>
-<node CREATED="1470526906602" MODIFIED="1470526906602" TEXT="- dirty_writeback_centisecs"/>
-<node CREATED="1470526906603" MODIFIED="1470526906603" TEXT="- drop_caches"/>
-<node CREATED="1470526906603" MODIFIED="1470526906603" TEXT="- extfrag_threshold"/>
-<node CREATED="1470526906603" MODIFIED="1470526906603" TEXT="- hugepages_treat_as_movable"/>
-<node CREATED="1470526906604" MODIFIED="1470526906604" TEXT="- hugetlb_shm_group"/>
-<node CREATED="1470526906604" MODIFIED="1470526906604" TEXT="- laptop_mode"/>
-<node CREATED="1470526906605" MODIFIED="1470526906605" TEXT="- legacy_va_layout"/>
-<node CREATED="1470526906605" MODIFIED="1470526906605" TEXT="- lowmem_reserve_ratio"/>
-<node CREATED="1470526906605" MODIFIED="1470526906605" TEXT="- max_map_count"/>
-<node CREATED="1470526906606" MODIFIED="1470526906606" TEXT="- memory_failure_early_kill"/>
-<node CREATED="1470526906606" MODIFIED="1470526906606" TEXT="- memory_failure_recovery"/>
-<node CREATED="1470526906606" MODIFIED="1470526906606" TEXT="- min_free_kbytes"/>
-<node CREATED="1470526906607" MODIFIED="1470526906607" TEXT="- min_slab_ratio"/>
-<node CREATED="1470526906607" MODIFIED="1470526906607" TEXT="- min_unmapped_ratio"/>
-<node CREATED="1470526906607" MODIFIED="1470526906607" TEXT="- mmap_min_addr"/>
-<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- mmap_rnd_bits"/>
-<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- mmap_rnd_compat_bits"/>
-<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- nr_hugepages"/>
-<node CREATED="1470526906608" MODIFIED="1470526906608" TEXT="- nr_overcommit_hugepages"/>
-<node CREATED="1470526906609" MODIFIED="1470526906609" TEXT="- nr_trim_pages         (only if CONFIG_MMU=n)"/>
-<node CREATED="1470526906609" MODIFIED="1470526906609" TEXT="- numa_zonelist_order"/>
-<node CREATED="1470526906609" MODIFIED="1470526906609" TEXT="- oom_dump_tasks"/>
-<node CREATED="1470526906610" MODIFIED="1470526906610" TEXT="- oom_kill_allocating_task"/>
-<node CREATED="1470526906610" MODIFIED="1470526906610" TEXT="- overcommit_kbytes"/>
-<node CREATED="1470526906610" MODIFIED="1470526906610" TEXT="- overcommit_memory"/>
-<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- overcommit_ratio"/>
-<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- page-cluster"/>
-<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- panic_on_oom"/>
-<node CREATED="1470526906611" MODIFIED="1470526906611" TEXT="- percpu_pagelist_fraction"/>
-<node CREATED="1470526906612" MODIFIED="1470526906612" TEXT="- stat_interval"/>
-<node CREATED="1470526906612" MODIFIED="1470526906612" TEXT="- stat_refresh"/>
-<node CREATED="1470526906612" MODIFIED="1470526906612" TEXT="- swappiness"/>
-<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- user_reserve_kbytes"/>
-<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- vfs_cache_pressure"/>
-<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- watermark_scale_factor"/>
-<node CREATED="1470526906613" MODIFIED="1470526906613" TEXT="- zone_reclaim_mode"/>
-</node>
 </node>
 <node CREATED="1408141502930" ID="ID_1828905776" MODIFIED="1468879447234">
 <richcontent TYPE="NODE"><html>
@@ -1327,39 +1346,6 @@
     <p>
       $ dmesg | head
     </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1457399461250" ID="ID_1469694514" MODIFIED="1457399487157">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      /proc/<b>uptime</b>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1457399470362" ID="ID_1180468554" MODIFIED="1465767278552">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      /proc/<b>loadavg</b>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    0.20 0.18 0.12 1/80 1123 The first three columns measure CPU and IO utilization of the last one, five, and 10 minute periods. The fourth column shows the number of currently running processes and the total number of processes. The last column displays the last process ID used.
   </body>
 </html></richcontent>
 </node>
