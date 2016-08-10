@@ -1,10 +1,9 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1470611696583" TEXT="Linux">
+<node CREATED="1398556161258" ID="ID_1972098469" MODIFIED="1470692328442" TEXT="Linux">
 <icon BUILTIN="penguin"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
-<hook NAME="accessories/plugins/RevisionPlugin.properties"/>
-<node CREATED="1398556175894" ID="ID_338041253" MODIFIED="1457399434737" POSITION="right">
+<node CREATED="1398556175894" ID="ID_338041253" MODIFIED="1470777879965" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -963,7 +962,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" ID="ID_278437396" MODIFIED="1470526785284">
+<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1470693611870">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1297,7 +1296,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408141502930" ID="ID_1828905776" MODIFIED="1468879447234">
+<node CREATED="1408141502930" ID="ID_1828905776" MODIFIED="1470692287382">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1347,7 +1346,11 @@
       $ dmesg | head
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+</node>
+<node CREATED="1470692365263" ID="ID_1556686468" MODIFIED="1470692374724" TEXT="/proc/&lt;PID&gt;/">
+<node CREATED="1470692377544" ID="ID_1076176026" MODIFIED="1470692394237" TEXT="/porc/&lt;PID&gt;/oom_score"/>
 </node>
 </node>
 <node CREATED="1398558585455" ID="ID_981228919" MODIFIED="1443480116298" TEXT="/root">
@@ -1404,7 +1407,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1401730120609" ID="ID_1299020193" MODIFIED="1458525622600">
+<node CREATED="1401730120609" FOLDED="true" ID="ID_1299020193" MODIFIED="1470777883711">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1444,7 +1447,7 @@
 </html></richcontent>
 <node CREATED="1413484394230" ID="ID_1374251777" MODIFIED="1413484402323" TEXT="/statnd/vmunix"/>
 </node>
-<node CREATED="1398810169786" ID="ID_826119695" MODIFIED="1470436637391">
+<node CREATED="1398810169786" ID="ID_826119695" MODIFIED="1470777890979">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1470,7 +1473,7 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1470437122269">
+<node CREATED="1398810181290" FOLDED="true" ID="ID_1680919758" MODIFIED="1470692358880">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1920,7 +1923,7 @@
 </node>
 </node>
 <node CREATED="1398810225226" ID="ID_1641748460" MODIFIED="1398810229544" TEXT="/sys/bus"/>
-<node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1469488560022">
+<node CREATED="1398810193146" ID="ID_1085703181" MODIFIED="1470777893463">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1960,17 +1963,18 @@
 <node CREATED="1424559212365" ID="ID_695950990" MODIFIED="1424559212365" TEXT="/sys/class/mem"/>
 <node CREATED="1424559212365" ID="ID_586927002" MODIFIED="1424559212365" TEXT="/sys/class/misc"/>
 <node CREATED="1424559212365" ID="ID_1926643587" MODIFIED="1424559212365" TEXT="/sys/class/msr"/>
-<node CREATED="1424558772553" ID="ID_1409534610" MODIFIED="1424558800284">
+<node CREATED="1424558772553" ID="ID_1409534610" LINK="https://www.kernel.org/doc/Documentation/ABI/testing/sysfs-class-net" MODIFIED="1470777971760">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /sys/class/<b>net</b>/
+      /sys/class/<b>net</b>/&lt;interface&gt;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1424559212366" ID="ID_897777388" MODIFIED="1424559212366" TEXT="/sys/class/pci_bus"/>
 <node CREATED="1424559212366" ID="ID_1242810614" MODIFIED="1424559212366" TEXT="/sys/class/pcmcia_socket"/>
@@ -3635,7 +3639,7 @@
 </node>
 <node CREATED="1402182581205" ID="ID_1976575458" LINK="http://openbuildservice.org/" MODIFIED="1402182598958" TEXT="Open Build Service"/>
 </node>
-<node CREATED="1399916952894" FOLDED="true" ID="ID_871920423" LINK="https://www.kernel.org/" MODIFIED="1458086961293" POSITION="right">
+<node CREATED="1399916952894" FOLDED="true" ID="ID_871920423" LINK="https://www.kernel.org/" MODIFIED="1470694615455" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3704,7 +3708,7 @@
 </node>
 <node CREATED="1442876911366" ID="ID_98016187" LINK="https://kernel.org/doc/Documentation/kernel-parameters.txt" MODIFIED="1442876918392" TEXT="parameters"/>
 </node>
-<node CREATED="1406932072909" FOLDED="true" ID="ID_500901491" LINK="http://www.linuxfoundation.org/" MODIFIED="1441230983458" POSITION="right">
+<node CREATED="1406932072909" FOLDED="true" ID="ID_500901491" LINK="http://www.linuxfoundation.org/" MODIFIED="1470694621598" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3747,7 +3751,7 @@
 <node CREATED="1441050773932" ID="ID_961774221" LINK="https://training.linuxfoundation.org/linux-courses/system-administration-training" MODIFIED="1441050789391" TEXT="Enterprise IT &amp; Linux System Administration Training"/>
 </node>
 </node>
-<node CREATED="1441230986698" FOLDED="true" ID="ID_705541557" MODIFIED="1458086955390" POSITION="right" TEXT="bootloaders">
+<node CREATED="1441230986698" FOLDED="true" ID="ID_705541557" MODIFIED="1470694609407" POSITION="right" TEXT="bootloaders">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441230992746" ID="ID_46710415" MODIFIED="1441316425397">
 <richcontent TYPE="NODE"><html>
@@ -3794,7 +3798,7 @@
 <node CREATED="1441231081681" ID="ID_1296369203" MODIFIED="1441231086310" TEXT="ELILO"/>
 <node CREATED="1441553903522" MODIFIED="1441553903522" TEXT="gummiboot"/>
 </node>
-<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1458086954086" POSITION="right" STYLE="fork">
+<node CREATED="1413223398882" FOLDED="true" ID="ID_1472131931" MODIFIED="1470694611863" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3832,7 +3836,7 @@
 </node>
 <node CREATED="1414969492566" ID="ID_596960019" LINK="https://www.novell.com/training/certinfo/cle/" MODIFIED="1414969574204" TEXT="Novell CLE"/>
 </node>
-<node CREATED="1413494088884" FOLDED="true" ID="ID_1801141706" MODIFIED="1432398533798" POSITION="left" TEXT="Shorcuts">
+<node CREATED="1413494088884" FOLDED="true" ID="ID_1801141706" MODIFIED="1470694625767" POSITION="left" TEXT="Shorcuts">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1413494093043" ID="ID_1943890075" MODIFIED="1413494094656" TEXT="PID"/>
 <node CREATED="1413494094995" ID="ID_1674394291" MODIFIED="1413494097360" TEXT="UID"/>
@@ -3848,7 +3852,7 @@
 </node>
 <node CREATED="1402185928156" ID="ID_443079415" MODIFIED="1402185932330" TEXT="ELF"/>
 </node>
-<node CREATED="1397940983743" FOLDED="true" ID="ID_1418801965" MODIFIED="1432398500110" POSITION="left" STYLE="fork" TEXT="Standarts">
+<node CREATED="1397940983743" FOLDED="true" ID="ID_1418801965" MODIFIED="1470694623798" POSITION="left" STYLE="fork" TEXT="Standarts">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397940993151" ID="ID_1583785693" MODIFIED="1398631447789" STYLE="fork" TEXT="POSIX"/>
 <node CREATED="1397940998543" ID="ID_1923271654" MODIFIED="1398631447789" STYLE="fork" TEXT="SUS"/>
@@ -3871,7 +3875,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1441550981134" ID="ID_836848200" MODIFIED="1458086894192" POSITION="left" TEXT="Initialization system">
+<node CREATED="1441550981134" FOLDED="true" ID="ID_836848200" MODIFIED="1470694601791" POSITION="left" TEXT="Initialization system">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441551007287" ID="ID_1051964300" MODIFIED="1441551009044" TEXT="init"/>
 <node CREATED="1441551160171" ID="ID_1713643487" LINK="http://upstart.ubuntu.com/" MODIFIED="1441551461491">
