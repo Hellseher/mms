@@ -2,14 +2,12 @@
 File          : README.md
 
 Created       : Mon 02 Nov 2015 02:11:18
-Last Modified : Sun Mar 20 2016 23:04:20 sharlatan
+Last Modified : Wed 31 Aug 2016 23:04:14 sharlatan
 Maintainer    : sharlatan
 -->
 
 # mms #
 _FreeMind ready maps_
-
-__9152 ../mms/__
 
 This repository contains mind maps (mm) of my IT-CS (Information Technology -  
 Computer Science) self education. It could be helpfully for beginners  
@@ -23,15 +21,15 @@ Every mm includes credits, links and references.
 
 ![mms](./mms.png)
 
-## How to start ##
+## How to start
 To obtain __mms__ you have to download and unpack them, easy isn't it :)?
 
-#### Using Git ####
+#### Using Git
 This command downloads the whole project in your __$: pwd__ under the name "mms".
 
     $: git clone https://github.com/Hellseher/mms
 
-#### Using browser ####
+#### Using browser
 Click __Download ZIP__ on right hand side of the screen.
 
 ## Software ##

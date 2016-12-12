@@ -53,7 +53,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1458525617413">
+<node CREATED="1398556187398" ID="ID_256627718" MODIFIED="1474746860034">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -141,7 +141,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398810123499" FOLDED="true" ID="ID_899518779" MODIFIED="1434743670483">
+<node CREATED="1398810123499" FOLDED="true" ID="ID_899518779" MODIFIED="1477215209367">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -265,8 +265,20 @@
 </html></richcontent>
 </node>
 <node CREATED="1412375478442" ID="ID_653352307" MODIFIED="1412375483591" TEXT="/dev/urandom"/>
+<node CREATED="1474925874268" ID="ID_114159403" MODIFIED="1474925884061">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /dev/<b>net</b>/
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1398556276933" FOLDED="true" ID="ID_1853920621" MODIFIED="1470092351400">
+</node>
+<node CREATED="1398556276933" ID="ID_1853920621" MODIFIED="1481501090025">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -386,7 +398,8 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398556356771" ID="ID_1974490391" MODIFIED="1443480713936">
+<node CREATED="1470871127218" ID="ID_1779707903" MODIFIED="1470871130311" TEXT="/etc/init"/>
+<node CREATED="1398556356771" FOLDED="true" ID="ID_1974490391" MODIFIED="1470871118962">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -453,6 +466,7 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1470871101778" ID="ID_744649837" MODIFIED="1470871111080" TEXT="/etc/login.defs"/>
 <node CREATED="1411077568240" ID="ID_586385236" MODIFIED="1411077582829">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -538,7 +552,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1465769392769" ID="ID_191119541" MODIFIED="1465769421134" TEXT="/etc/os-release"/>
-<node CREATED="1398556323892" ID="ID_349442526" MODIFIED="1441577692908">
+<node CREATED="1398556323892" ID="ID_349442526" MODIFIED="1481501092781">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -606,6 +620,18 @@
 <node CREATED="1416668543191" ID="ID_1837567757" MODIFIED="1416668584355" TEXT="/etc/pulse/daemon.conf"/>
 <node CREATED="1416668543191" ID="ID_1493520634" MODIFIED="1416668591012" TEXT="/etc/pulse/system.pa"/>
 </node>
+<node CREATED="1481229548490" ID="ID_1462369866" MODIFIED="1481229566838">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/<b>rc.conf</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1441576040550" ID="ID_1698340536" MODIFIED="1469574705987">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -619,8 +645,7 @@
       <i><font color="#6496fa" size="2">run commands</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408142440156" ID="ID_1817669004" MODIFIED="1469574753227">
 <richcontent TYPE="NODE"><html>
@@ -635,8 +660,7 @@
       <font color="#6496fa" size="2"><i>host name to ip address mapping (DNS)</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1414890202506" FOLDED="true" ID="ID_10379971" MODIFIED="1429310592949" TEXT="/etc/security">
 <node CREATED="1414890212186" ID="ID_1103756220" MODIFIED="1414890229369">
@@ -787,6 +811,22 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1481501102256" ID="ID_983268641" MODIFIED="1481501148182">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/<b>termcap </b>
+    </p>
+    <p>
+      <i><font size="2" color="#6496fa">terminal capabilities</font></i>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1413488093998" ID="ID_954642326" MODIFIED="1443824802785">
 <richcontent TYPE="NODE"><html>
@@ -962,7 +1002,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1470693611870">
+<node CREATED="1398559185925" FOLDED="true" ID="ID_278437396" MODIFIED="1481229517508">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1022,7 +1062,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1408141472915" ID="ID_1283441402" MODIFIED="1411232009665">
+<node CREATED="1408141472915" ID="ID_1283441402" LINK="https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/plain/arch/x86/include/asm/cpufeatures.h?id=refs/tags/v4.7.2" MODIFIED="1479684761849">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1346,14 +1386,13 @@
       $ dmesg | head
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1470692365263" ID="ID_1556686468" MODIFIED="1470692374724" TEXT="/proc/&lt;PID&gt;/">
 <node CREATED="1470692377544" ID="ID_1076176026" MODIFIED="1470692394237" TEXT="/porc/&lt;PID&gt;/oom_score"/>
 </node>
 </node>
-<node CREATED="1398558585455" ID="ID_981228919" MODIFIED="1443480116298" TEXT="/root">
+<node CREATED="1398558585455" ID="ID_981228919" MODIFIED="1474746868130" TEXT="/root/">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1408233203847" ID="ID_1101109252" MODIFIED="1449443850834" TEXT="/run/">
@@ -1447,14 +1486,14 @@
 </html></richcontent>
 <node CREATED="1413484394230" ID="ID_1374251777" MODIFIED="1413484402323" TEXT="/statnd/vmunix"/>
 </node>
-<node CREATED="1398810169786" ID="ID_826119695" MODIFIED="1470777890979">
+<node CREATED="1398810169786" FOLDED="true" ID="ID_826119695" MODIFIED="1479684742133">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>/sys </b>
+      <b>/sys/</b>
     </p>
     <p>
       <font color="#6496fa" size="2">sys available devices</font>
@@ -1473,7 +1512,7 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398810181290" FOLDED="true" ID="ID_1680919758" MODIFIED="1470692358880">
+<node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1478945301157">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1486,33 +1525,30 @@
       <font color="#6496fa" size="2">storage device</font>
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1470436858022" ID="ID_65890805" MODIFIED="1470519297098">
+</html></richcontent>
+<node CREATED="1470436858022" ID="ID_65890805" MODIFIED="1478945789385">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /sys/block/<b>&lt;device&gt;</b>/
+      /sys/block/<b>&lt;dev&gt;</b>/
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1470436991820" ID="ID_893834746" MODIFIED="1470518916460">
+</html></richcontent>
+<node CREATED="1470436991820" FOLDED="true" ID="ID_893834746" MODIFIED="1478945771385">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /sys/block/&lt;device&gt;/<b>queue</b>/
+      /sys/block/&lt;dev&gt;/<b>queue</b>/
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1470436991820" ID="ID_871384070" MODIFIED="1470438708279">
+</html></richcontent>
+<node CREATED="1470436991820" FOLDED="true" ID="ID_871384070" MODIFIED="1478945362614">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1532,36 +1568,16 @@
       http://www.ibm.com/developerworks/linux/library/l-async/
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1470437629699" ID="ID_76716277" MODIFIED="1470438629188" TEXT="      slice_async_rq ">
-<richcontent TYPE="NOTE">&lt;html&gt;
-  &lt;head&gt;
+</html></richcontent>
+<node CREATED="1470437629699" ID="ID_76716277" MODIFIED="1478945356949" TEXT="      slice_async_rq ">
+<richcontent TYPE="NOTE"><html>
+  <head>
     
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    &amp;#65533;&amp;#65533;This parameter is used to limit the 
-    dispatching of asynchronous requests 
-     to the device request-queue in 
-    queue&amp;#25; s slice time. This limits the  
-    number of asynchronous requests are 
-    executed (dispatched). The maximum  
-    number of requests that are allowed 
-    to be dispatched also depends upon  
-    the io priority. The equations for 
-    computing the maximum number of  
-    requests is, max_nr_requests = 2 * 
-    (slice_async_rq + slice_async_rq * 
-    (7  &amp;#19; io_priority)). The default for 
-    slice_async_rq is 2.
-
-    &lt;p&gt;
-      
-    &lt;/p&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+  </head>
+  <body>
+    This parameter is used to limit the dispatching of asynchronous requests to the device request-queue in queue&amp;#25; s slice time. This limits the number of asynchronous requests are executed (dispatched). The maximum number of requests that are allowed to be dispatched also depends upon the io priority. The equations for computing the maximum number of requests is, max_nr_requests = 2 * (slice_async_rq + slice_async_rq * (7 &amp;#19; io_priority)). The default for slice_async_rq is 2.
+  </body>
+</html></richcontent>
 </node>
 <node CREATED="1470437632619" ID="ID_1998065016" MODIFIED="1470438608509" TEXT="    slice_sync      ">
 <richcontent TYPE="NOTE">&lt;html&gt;
@@ -1593,8 +1609,7 @@
       
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 </node>
 <node CREATED="1470437622859" ID="ID_1295058682" MODIFIED="1470437626515" TEXT=" group_idle      "/>
 <node CREATED="1470437613311" ID="ID_1284345422" MODIFIED="1470438556534">
@@ -1643,8 +1658,7 @@
       
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 </node>
 <node CREATED="1470437635747" ID="ID_953187827" MODIFIED="1470438573118">
 <richcontent TYPE="NODE"><html>
@@ -1682,8 +1696,7 @@
       
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 </node>
 <node CREATED="1470437618580" ID="ID_1244213856" MODIFIED="1470438584750">
 <richcontent TYPE="NODE"><html>
@@ -1725,8 +1738,7 @@
       
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 </node>
 <node CREATED="1470437639427" ID="ID_121473700" MODIFIED="1470438594035">
 <richcontent TYPE="NODE"><html>
@@ -1749,8 +1761,7 @@
   <body>
     &#65533;&#65533;This parameter is the same as fifo_expire_async but for synchronous requests. The default value for this parameter is 125 ms. If you want to favor synchronous request over asynchronous requests, then this value should be decreased relative to fifo_expire_asynchronous.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1470437626515" ID="ID_1560639405" MODIFIED="1470438646555">
 <richcontent TYPE="NODE"><html>
@@ -1791,8 +1802,7 @@
       
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 </node>
 <node CREATED="1470437650207" ID="ID_1427245085" MODIFIED="1470437653165">
 <richcontent TYPE="NODE"><html>
@@ -1853,8 +1863,7 @@
       
     &lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-</richcontent>
+&lt;/html&gt;</richcontent>
 </node>
 <node CREATED="1470437660039" ID="ID_595404907" MODIFIED="1470437660041">
 <richcontent TYPE="NODE"><html>
@@ -1886,8 +1895,7 @@
   <body>
     &#65533;&#65533;This parameter is the same as slice_sync but for the asynchronous queue. The default is 40 ms. Notice that synchronous operations are preferred over asynchronous operations.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1470436643169" ID="ID_278824848" MODIFIED="1470437100132">
@@ -1905,25 +1913,113 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1470519297099" ID="ID_1310459158" MODIFIED="1470519350718">
+<node CREATED="1478945371430" ID="ID_462843738" MODIFIED="1478945467143">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /sys/block/&lt;device&gt;/<b>size</b>
+      /sys/block/&lt;device&gt;/queue/<b>pysical_bolock_size </b>
     </p>
-    <i><font size="2" color="#6496fa">the number of 512 byte sectors</font></i>
+    <i><font size="2" color="#6496fa">return information on the physical sector size</font></i>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1470519297099" ID="ID_1310459158" MODIFIED="1478945777665">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;dev&gt;/<b>size</b>
+    </p>
+    <i><font color="#6496fa" size="2">the number of 512 byte sectors</font></i>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1478945611025" ID="ID_1701705225" MODIFIED="1478945908185">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /sys/block/&lt;dev&gt;/<b>stat</b>
+    </p>
+  </body>
+</html></richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://www.kernel.org/doc/Documentation/block/stat.txt
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      The stat file consists of a single line of text containing 11 decimal
+    </p>
+    <p>
+      values separated by whitespace.&#160;&#160;The fields are summarized in the
+    </p>
+    <p>
+      following table, and described in more detail below.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Name&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;units&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;description
+    </p>
+    <p>
+      ----&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-----&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-----------
+    </p>
+    <p>
+      read I/Os&#160;&#160;&#160;&#160;&#160;&#160;&#160;requests&#160;&#160;&#160;&#160;&#160;&#160;number of read I/Os processed
+    </p>
+    <p>
+      read merges&#160;&#160;&#160;&#160;&#160;requests&#160;&#160;&#160;&#160;&#160;&#160;number of read I/Os merged with in-queue I/O
+    </p>
+    <p>
+      read sectors&#160;&#160;&#160;&#160;sectors&#160;&#160;&#160;&#160;&#160;&#160;&#160;number of sectors read
+    </p>
+    <p>
+      read ticks&#160;&#160;&#160;&#160;&#160;&#160;milliseconds&#160;&#160;total wait time for read requests
+    </p>
+    <p>
+      write I/Os&#160;&#160;&#160;&#160;&#160;&#160;requests&#160;&#160;&#160;&#160;&#160;&#160;number of write I/Os processed
+    </p>
+    <p>
+      write merges&#160;&#160;&#160;&#160;requests&#160;&#160;&#160;&#160;&#160;&#160;number of write I/Os merged with in-queue I/O
+    </p>
+    <p>
+      write sectors&#160;&#160;&#160;sectors&#160;&#160;&#160;&#160;&#160;&#160;&#160;number of sectors written
+    </p>
+    <p>
+      write ticks&#160;&#160;&#160;&#160;&#160;milliseconds&#160;&#160;total wait time for write requests
+    </p>
+    <p>
+      in_flight&#160;&#160;&#160;&#160;&#160;&#160;&#160;requests&#160;&#160;&#160;&#160;&#160;&#160;number of I/Os currently in flight
+    </p>
+    <p>
+      io_ticks&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;milliseconds&#160;&#160;total time this block device has been active
+    </p>
+    <p>
+      time_in_queue&#160;&#160;&#160;milliseconds&#160;&#160;total wait time for all requests
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1398810225226" ID="ID_1641748460" MODIFIED="1398810229544" TEXT="/sys/bus"/>
-<node CREATED="1398810193146" ID="ID_1085703181" MODIFIED="1470777893463">
+<node CREATED="1398810193146" FOLDED="true" ID="ID_1085703181" MODIFIED="1470866409287">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1973,8 +2069,7 @@
       /sys/class/<b>net</b>/&lt;interface&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1424559212366" ID="ID_897777388" MODIFIED="1424559212366" TEXT="/sys/class/pci_bus"/>
 <node CREATED="1424559212366" ID="ID_1242810614" MODIFIED="1424559212366" TEXT="/sys/class/pcmcia_socket"/>
@@ -2011,8 +2106,7 @@
       <i><font color="#6496fa" size="2">all kernel devices</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398810234025" ID="ID_1413455656" MODIFIED="1398810241464" TEXT="/sys/firmware"/>
 <node CREATED="1398810210890" ID="ID_1340315194" MODIFIED="1398810215016" TEXT="/sys/fs"/>
@@ -2022,7 +2116,7 @@
 <node CREATED="1401730114065" ID="ID_380210278" MODIFIED="1410815830112" TEXT="/tmp">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1459491264329">
+<node CREATED="1398556504033" FOLDED="true" ID="ID_278395263" MODIFIED="1478945276226">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2175,7 +2269,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398557687149" FOLDED="true" ID="ID_547412481" MODIFIED="1449429198520">
+<node CREATED="1398557687149" ID="ID_547412481" MODIFIED="1477215225421">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2219,6 +2313,7 @@
 </node>
 <node CREATED="1398557860234" ID="ID_648110541" MODIFIED="1398557864313" TEXT="/usr/local/sbin"/>
 <node CREATED="1398557865098" ID="ID_1321990808" MODIFIED="1398557870729" TEXT="/usr/local/share"/>
+<node CREATED="1477215231116" ID="ID_1040294137" MODIFIED="1477215237209" TEXT="/user/local/admin/"/>
 <node CREATED="1398557871386" ID="ID_276000621" MODIFIED="1398557875129" TEXT="/usr/local/src"/>
 </node>
 <node CREATED="1413071753386" ID="ID_1340043965" MODIFIED="1458952379518">
@@ -2267,7 +2362,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1398556888859" FOLDED="true" ID="ID_1019478244" MODIFIED="1454984376971">
+<node CREATED="1398556888859" FOLDED="true" ID="ID_1019478244" MODIFIED="1477215218875">
 <richcontent TYPE="NODE"><html>
   <head>
     

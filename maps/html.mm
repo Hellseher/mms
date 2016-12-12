@@ -413,7 +413,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1415749396779" FOLDED="true" ID="ID_787679918" MODIFIED="1434395621978">
+<node CREATED="1415749396779" FOLDED="true" ID="ID_787679918" MODIFIED="1477431950906">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -547,7 +547,7 @@
 </node>
 </node>
 <node CREATED="1415749396795" ID="ID_1572294772" MODIFIED="1415749396795" TEXT="&lt;figcaption&gt;        Defines a caption for a &lt;figure&gt; element"/>
-<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1435615253900">
+<node CREATED="1433970454362" FOLDED="true" ID="ID_572205096" MODIFIED="1477431956402">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -729,7 +729,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1415834391516" FOLDED="true" ID="ID_1843430762" MODIFIED="1435615255819" TEXT="~Word emphasize">
+<node CREATED="1415834391516" ID="ID_1843430762" MODIFIED="1477431995135" TEXT="~Word emphasize">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396831" ID="ID_246519277" MODIFIED="1415834357229">
 <richcontent TYPE="NODE"><html>
@@ -855,7 +855,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1415907952122" FOLDED="true" ID="ID_1761787956" MODIFIED="1433970453055" TEXT="table">
+<node CREATED="1415907952122" FOLDED="true" ID="ID_1761787956" MODIFIED="1477431960290" TEXT="table">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1415749396825" ID="ID_1588058472" MODIFIED="1415907967698">
 <richcontent TYPE="NODE"><html>
@@ -1008,7 +1008,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1415837674569" FOLDED="true" ID="ID_212049435" MODIFIED="1435526432047">
+<node CREATED="1415837674569" ID="ID_212049435" MODIFIED="1477431998195">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1402,7 +1402,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1434575097436" FOLDED="true" ID="ID_761564481" MODIFIED="1435531738277" TEXT="atr">
+<node CREATED="1434575097436" ID="ID_761564481" MODIFIED="1477431929167" TEXT="atr">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434575212526" ID="ID_1025394501" MODIFIED="1435526489785">
 <richcontent TYPE="NODE"><html>
@@ -1844,8 +1844,7 @@
       <i><font size="2" color="#6496fa">(&lt;video&gt; and &lt;audio&gt;)</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1433970685606" ID="ID_1790302421" MODIFIED="1433970689363" TEXT="interactive"/>
@@ -2115,7 +2114,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433367645051" FOLDED="true" ID="ID_537891902" MODIFIED="1435531754493">
+<node CREATED="1433367645051" ID="ID_537891902" MODIFIED="1477431970268">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2315,7 +2314,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1433626851519" FOLDED="true" ID="ID_494627017" MODIFIED="1435610920838">
+<node CREATED="1433626851519" ID="ID_494627017" MODIFIED="1477432027010">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2558,7 +2557,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1434317898032" FOLDED="true" ID="ID_359600380" MODIFIED="1434395524413">
+<node CREATED="1434317898032" ID="ID_359600380" MODIFIED="1477432025146">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2612,7 +2611,7 @@
 <node CREATED="1415749396833" ID="ID_23673390" MODIFIED="1415749396833" TEXT="&lt;wbr&gt;                Defines a possible line-break"/>
 </node>
 </node>
-<node CREATED="1434575149356" FOLDED="true" ID="ID_1163704137" MODIFIED="1435613943087" POSITION="left" TEXT="Global Attributes">
+<node CREATED="1434575149356" FOLDED="true" ID="ID_1163704137" MODIFIED="1477432041681" POSITION="left" TEXT="Global Attributes">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1434575178110" MODIFIED="1434575178110" TEXT="accesskey        Specifies a shortcut key to activate/focus an element"/>
 <node CREATED="1434575178111" MODIFIED="1434575178111" TEXT="class        Specifies one or more classnames for an element (refers to a class in a style sheet)"/>

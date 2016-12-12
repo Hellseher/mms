@@ -12,7 +12,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1430656326445" ID="ID_506996188" MODIFIED="1448057025091" POSITION="right" TEXT="Port Forwarding">
+<node CREATED="1430656326445" ID="ID_506996188" MODIFIED="1474403045339" POSITION="right" TEXT="Port Forwarding">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1430656350090" ID="ID_1359977225" MODIFIED="1444744357987" TEXT="TCP 5190"/>
 <node CREATED="1430656366028" ID="ID_1449781245" MODIFIED="1444744357987" TEXT="TCP 179"/>
@@ -20,9 +20,9 @@
 <node CREATED="1430656378156" ID="ID_1486685051" MODIFIED="1444744357988" TEXT="UDP 67...68"/>
 <node CREATED="1430656390924" ID="ID_720081634" MODIFIED="1444744357988" TEXT="TCP/UDP 7648"/>
 </node>
-<node CREATED="1400095326860" ID="ID_1007216608" MODIFIED="1448056839606" POSITION="right" TEXT="protocols">
+<node CREATED="1400095326860" ID="ID_1007216608" MODIFIED="1474403048893" POSITION="right" TEXT="protocols">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414892053917" ID="ID_841732541" MODIFIED="1463345040774" TEXT="Application layer">
+<node CREATED="1414892053917" FOLDED="true" ID="ID_841732541" MODIFIED="1474742706497" TEXT="Application layer">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1432588124969" ID="ID_731563316" MODIFIED="1448057058620">
 <richcontent TYPE="NODE"><html>
@@ -91,7 +91,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1414892131564" ID="ID_724488712" MODIFIED="1444744357988">
+<node CREATED="1414892131564" ID="ID_724488712" MODIFIED="1474741670540">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -101,10 +101,7 @@
       <b>DHCP</b>
     </p>
     <p>
-      <font size="2">Dynamic Host </font>
-    </p>
-    <p>
-      <font size="2">Configuration Protocol </font>
+      <font size="2">Dynamic Host Configuration Protocol </font>
     </p>
     <p>
       <font size="2">port 67/68</font>
@@ -150,7 +147,7 @@
 <node CREATED="1400096286583" ID="ID_716192248" MODIFIED="1400096291477" TEXT="TFTP"/>
 <node CREATED="1400096235368" ID="ID_736217294" MODIFIED="1400096239094" TEXT="FTPS"/>
 </node>
-<node CREATED="1400096244344" ID="ID_160610574" MODIFIED="1463345095508">
+<node CREATED="1400096244344" FOLDED="true" ID="ID_160610574" MODIFIED="1474741652304">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -166,8 +163,7 @@
       <font size="2">port: 80</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1400096246631" ID="ID_379675078" MODIFIED="1444744357988" TEXT="HTTPS"/>
 <node CREATED="1435609509261" ID="ID_622270733" MODIFIED="1463345056267" TEXT="request methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -205,7 +201,7 @@
 <node CREATED="1400096250040" FOLDED="true" ID="ID_856591685" MODIFIED="1444744357988" TEXT="IMAP">
 <node CREATED="1400096253432" ID="ID_1493323082" MODIFIED="1400096256037" TEXT="IMAPS"/>
 </node>
-<node CREATED="1400096256375" FOLDED="true" ID="ID_1750503020" MODIFIED="1456018178171">
+<node CREATED="1400096256375" FOLDED="true" ID="ID_1750503020" MODIFIED="1474741842857">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -220,14 +216,26 @@
       <font size="2">Lightweight Directory Access Protocol </font>
     </p>
     <p>
-      <i><font color="#3296fa" size="2">Tim Howes (1963 - ) </font></i>
-    </p>
-    <p>
-      <i><font color="#3296fa" size="2">Steve Kille (</font></i>
+      <i><font color="#3296fa" size="2">Tim Howes (1963 - ),&#160; Steve Kille (</font></i>
     </p>
   </body>
 </html></richcontent>
 <node CREATED="1400096258856" ID="ID_648894002" MODIFIED="1400096261333" TEXT="LDAPS"/>
+</node>
+<node CREATED="1474741852854" ID="ID_755033592" MODIFIED="1474741868640">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>BOOTP</b>
+    </p>
+    <p>
+      1984
+    </p>
+  </body>
+</html></richcontent>
 </node>
 <node CREATED="1447113333256" ID="ID_1656218431" MODIFIED="1447113399355">
 <richcontent TYPE="NODE"><html>
@@ -269,8 +277,7 @@
       <font size="2">port: 25</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1400096283895" ID="ID_192484775" MODIFIED="1400096286181" TEXT="SMTPS"/>
 </node>
 <node CREATED="1433609352781" ID="ID_1531409880" MODIFIED="1444744357989">
@@ -310,8 +317,7 @@
       <i><font size="2" color="#3296fa">Tatu Yl&#246;nen (1968- )</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1400096276567" ID="ID_1643556193" MODIFIED="1444744357989">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -367,8 +373,25 @@
       <font size="2">Internet Protocol Security</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node CREATED="1410303120042" ID="ID_1657281317" LINK="https://tools.ietf.org/html/rfc792" MODIFIED="1476116063079">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>ICMP </b>
+    </p>
+    <p>
+      1981
+    </p>
+    <p>
+      <font size="2">Internet Control Message Protocol</font>
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1414892083389" ID="ID_1715659476" MODIFIED="1447110128866" TEXT="Link layer">
@@ -445,7 +468,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1400095338398" ID="ID_1347773090" MODIFIED="1447110443524">
+<node CREATED="1400095338398" ID="ID_1347773090" MODIFIED="1474742731195">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -458,28 +481,7 @@
       1974
     </p>
     <p>
-      <font size="2">Transmission </font>
-    </p>
-    <p>
-      <font size="2">Control Protocol</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1410303120042" ID="ID_1657281317" MODIFIED="1444744357989">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>ICMP </b>
-    </p>
-    <p>
-      <font size="2">Internet Control </font>
-    </p>
-    <p>
-      <font size="2">Message Protocol</font>
+      <font size="2">Transmission Control Protocol</font>
     </p>
   </body>
 </html></richcontent>
@@ -487,7 +489,7 @@
 </node>
 </node>
 <node CREATED="1434690138644" ID="ID_1017359549" MODIFIED="1444744357989" POSITION="right" TEXT="PPTP"/>
-<node CREATED="1433609400907" FOLDED="true" ID="ID_1968956192" MODIFIED="1444744364376" POSITION="right" TEXT="Network monitoring">
+<node CREATED="1433609400907" FOLDED="true" ID="ID_1968956192" MODIFIED="1474403057297" POSITION="right" TEXT="Network monitoring">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1433609600665" ID="ID_1479834906" LINK="https://opmantek.com/" MODIFIED="1444744357990" TEXT="NMIS"/>
 </node>
@@ -541,14 +543,14 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1416955862643" FOLDED="true" ID="ID_1019537539" MODIFIED="1444744357990" POSITION="left" TEXT="ip">
+<node CREATED="1416955862643" FOLDED="true" ID="ID_1019537539" MODIFIED="1474402994962" POSITION="left" TEXT="ip">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1416956093439" ID="ID_369894135" MODIFIED="1416956097533" TEXT="Ip4"/>
 <node CREATED="1416956099472" ID="ID_593396552" MODIFIED="1416956105820" TEXT="ip6"/>
 </node>
-<node CREATED="1442526192880" FOLDED="true" ID="ID_1831479405" MODIFIED="1444744364380" POSITION="left" TEXT="Interface">
+<node CREATED="1442526192880" ID="ID_1831479405" MODIFIED="1474403060122" POSITION="left" TEXT="Interface">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1442526328758" FOLDED="true" ID="ID_392989913" MODIFIED="1444744364376" TEXT="Wired">
+<node CREATED="1442526328758" ID="ID_392989913" MODIFIED="1474403071575" TEXT="Wired">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1442525864005" ID="ID_619918655" MODIFIED="1444744357990">
 <richcontent TYPE="NODE"><html>
@@ -576,9 +578,9 @@
 <node CREATED="1442526269479" ID="ID_1112722887" MODIFIED="1444744357990" TEXT="UART"/>
 <node CREATED="1442526271766" ID="ID_1085930205" MODIFIED="1444744357990" TEXT="JTAG"/>
 </node>
-<node CREATED="1442526339661" FOLDED="true" ID="ID_529243882" MODIFIED="1444744364379" TEXT="Air">
+<node CREATED="1442526339661" ID="ID_529243882" MODIFIED="1474403063289" TEXT="Air">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1414089425286" FOLDED="true" ID="ID_1321475920" MODIFIED="1444744357990" STYLE="fork">
+<node CREATED="1414089425286" ID="ID_1321475920" MODIFIED="1474403082597" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -596,7 +598,7 @@
 <node CREATED="1414090392663" FOLDED="true" ID="ID_899525286" MODIFIED="1444744364377" TEXT="5.0GHz">
 <node CREATED="1414090402631" ID="ID_78975515" MODIFIED="1442525809270" TEXT="23chanals"/>
 </node>
-<node CREATED="1414090850369" FOLDED="true" ID="ID_96225769" MODIFIED="1444744364377" TEXT="Ciphers">
+<node CREATED="1414090850369" ID="ID_96225769" MODIFIED="1474403087444" TEXT="Ciphers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1414090844033" FOLDED="true" ID="ID_456344677" MODIFIED="1444744364377" TEXT="CCMP">
 <node CREATED="1414098946516" ID="ID_544111971" MODIFIED="1442525809270" TEXT="AES"/>
@@ -632,10 +634,31 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1474403107290" ID="ID_674382583" MODIFIED="1474488844197">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>AES Rijndael</b>
+    </p>
+    <font size="2">Advanced Encryption Standard</font>
+
+    <p>
+      1998
+    </p>
+    <p>
+      <i><font size="2" color="#3296fa">Vincent Rijmen, Joan Daemen</font></i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1474403110290" ID="ID_1034960137" MODIFIED="1474403110290" TEXT=""/>
 </node>
 <node CREATED="1414091087181" ID="ID_669605329" MODIFIED="1442525809273" TEXT="BSSID"/>
 <node CREATED="1414091093660" ID="ID_1418756533" MODIFIED="1442525809273" TEXT="ESSID"/>
-<node CREATED="1414091112316" FOLDED="true" ID="ID_1859291966" MODIFIED="1444744364378" TEXT="Beacons">
+<node CREATED="1414091112316" ID="ID_1859291966" MODIFIED="1474404007259" TEXT="Beacons">
 <node CREATED="1414091116159" ID="ID_180042033" MODIFIED="1442525809274" TEXT="100msec"/>
 </node>
 <node CREATED="1414091230298" FOLDED="true" ID="ID_827743610" MODIFIED="1444744364378" TEXT="Short preamble">
@@ -738,6 +761,21 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1474739313036" ID="ID_376096647" MODIFIED="1474739337278">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>QoS</b>
+    </p>
+    <p>
+      <font size="2">Quality of Service</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1442526348925" ID="ID_660784224" MODIFIED="1444744357990" TEXT="RFID"/>
 <node CREATED="1442526353757" ID="ID_1603207280" MODIFIED="1444744357990" TEXT="NFC"/>
@@ -755,7 +793,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1442960736841" FOLDED="true" ID="ID_683622460" MODIFIED="1444744364380" POSITION="left" TEXT="Network Bonding">
+<node CREATED="1442960736841" FOLDED="true" ID="ID_683622460" MODIFIED="1474402975634" POSITION="left" TEXT="Network Bonding">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -803,8 +841,37 @@
       <font color="rgb(37, 37, 37)" face="sans-serif" size="2">Open Systems Interconnection model</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node CREATED="1474741404285" ID="ID_1970886102" MODIFIED="1474741418642" POSITION="left" TEXT="Spatial Scope">
+<node CREATED="1474741366326" ID="ID_302832796" MODIFIED="1474741368147" TEXT="WAN"/>
+<node CREATED="1474741363862" ID="ID_1719050555" MODIFIED="1474741365555" TEXT="LAN"/>
+<node CREATED="1474741430596" ID="ID_802946881" MODIFIED="1474741433794" TEXT="Nanoscale"/>
+<node CREATED="1474741434692" ID="ID_1610093683" MODIFIED="1474741439434" TEXT="Near-field"/>
+<node CREATED="1474741440581" ID="ID_1174212493" MODIFIED="1474741444626" TEXT="PAN"/>
+<node CREATED="1474741447326" ID="ID_350419459" MODIFIED="1474741449946" TEXT="NAN"/>
+<node CREATED="1474741452932" ID="ID_1616257640" MODIFIED="1474741456001" TEXT="HAN"/>
+<node CREATED="1474741456540" ID="ID_375407058" MODIFIED="1474741459569" TEXT="SAN"/>
+<node CREATED="1474741460555" ID="ID_1231735901" MODIFIED="1474741462482" TEXT="CAN"/>
+<node CREATED="1474741463157" ID="ID_1962916697" MODIFIED="1474741467297" TEXT="Backbone"/>
+<node CREATED="1474741467812" ID="ID_1797329762" MODIFIED="1474741469258" TEXT="MAN"/>
+<node CREATED="1474741469677" ID="ID_722901738" MODIFIED="1474741471778" TEXT="WAN"/>
+<node CREATED="1474741472372" ID="ID_732467607" MODIFIED="1474741474073" TEXT="IAN"/>
+<node CREATED="1474741474612" ID="ID_1000643078" MODIFIED="1474741477938" TEXT="Internet"/>
+</node>
+<node CREATED="1474742859367" ID="ID_1184350451" MODIFIED="1474742866053" POSITION="right" TEXT="Topology">
+<node CREATED="1474742867143" ID="ID_1393764433" MODIFIED="1474742875236" TEXT="Ring"/>
+<node CREATED="1474742875599" ID="ID_972011682" MODIFIED="1474742877180" TEXT="Mesh"/>
+<node CREATED="1474742877566" ID="ID_401062574" MODIFIED="1474742878653" TEXT="Line"/>
+<node CREATED="1474742879335" ID="ID_1507037884" MODIFIED="1474742881149" TEXT="Star"/>
+<node CREATED="1474742881599" ID="ID_307612882" MODIFIED="1474742882788" TEXT="Tree"/>
+<node CREATED="1474742883208" ID="ID_673658153" MODIFIED="1474742887124" TEXT="Bus"/>
+<node CREATED="1474742888462" ID="ID_977321268" MODIFIED="1474742896950" TEXT="Fully Connected"/>
+</node>
+<node CREATED="1475270797244" ID="ID_1392662420" MODIFIED="1475270807650" POSITION="left" TEXT="MISC_INVISTIGATE">
+<node CREATED="1475268855137" ID="ID_652017485" MODIFIED="1475268857286" TEXT="MTU"/>
+<node CREATED="1475270814157" ID="ID_1223645173" MODIFIED="1475270817978" TEXT="TUN"/>
+<node CREATED="1475270819669" ID="ID_1362417266" MODIFIED="1475270821490" TEXT="TAP"/>
 </node>
 </node>
 </map>
