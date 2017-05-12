@@ -820,8 +820,7 @@
       1965-1985
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1465771612167" ID="ID_1092879322" MODIFIED="1465771638649">
 <richcontent TYPE="NODE"><html>
@@ -836,10 +835,9 @@
       1970-1990
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1465772455375">
+<node CREATED="1424819964852" ID="ID_1694895545" LINK="https://common-lisp.net/" MODIFIED="1490300073738">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -928,7 +926,7 @@
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#329632" CREATED="1441828243933" ID="ID_1529263346" MODIFIED="1445297776650" STYLE="fork" TEXT="implementation">
+<node COLOR="#329632" CREATED="1441828243933" FOLDED="true" ID="ID_1529263346" MODIFIED="1484410809202" STYLE="fork" TEXT="implementation">
 <edge COLOR="#969696" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1445297880176" ID="ID_479142843" MODIFIED="1445297880176" TEXT="ABCL"/>
@@ -1065,8 +1063,7 @@
       1980
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1101,8 +1098,7 @@
       1985
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1465771780965" ID="ID_853999818" MODIFIED="1465771825446">
 <richcontent TYPE="NODE"><html>
@@ -1117,8 +1113,7 @@
       1990
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1465771944845" ID="ID_1915755119" LINK="http://docs.hylang.org/en/latest/" MODIFIED="1465772210833">
 <richcontent TYPE="NODE"><html>
@@ -1134,8 +1129,7 @@
     </p>
     <i><font size="2" color="#3296fa">Paul Tagliamonte</font></i>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1465772284413" ID="ID_671448017" LINK="http://lfe.io/" MODIFIED="1465772343355">
 <richcontent TYPE="NODE"><html>
@@ -1156,8 +1150,7 @@
       <font size="2" color="#3296fa"><i>Robert Virding</i></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1465771787372" ID="ID_1660061887" MODIFIED="1465771790210" TEXT="Le Lisp"/>
 </node>

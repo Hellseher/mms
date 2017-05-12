@@ -707,6 +707,19 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1481501617097" ID="ID_1976365041" MODIFIED="1481501700672">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      /etc/<b>ttys</b>&#160;<img src="../icons/freebsd.png" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1408402500820" ID="ID_1208502945" MODIFIED="1408402570979">
 <richcontent TYPE="NODE"><html>
   <head>
