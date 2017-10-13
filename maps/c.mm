@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1397948184523" ID="ID_1885079368" MODIFIED="1433186261320">
+<node CREATED="1397948184523" ID="ID_1885079368" MODIFIED="1500929619752">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -53,9 +53,10 @@
       http://linux.die.net/ [Linux Documentation]
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
-<node CREATED="1397991744737" FOLDED="true" ID="ID_1090358281" MODIFIED="1433186261318" POSITION="left">
+<node CREATED="1397991744737" ID="ID_1090358281" MODIFIED="1500929621591" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -67,7 +68,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1398000469865" FOLDED="true" ID="ID_601416880" MODIFIED="1433186261318" TEXT="main">
+<node CREATED="1398000469865" ID="ID_601416880" MODIFIED="1500929624337" TEXT="main">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397992568734" ID="ID_176775557" MODIFIED="1397997028430">
 <richcontent TYPE="NODE"><html>
@@ -319,9 +320,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1397992585611" FOLDED="true" ID="ID_1724616284" MODIFIED="1429310622181" TEXT="Types">
+<node CREATED="1397992585611" ID="ID_1724616284" MODIFIED="1500929636470" TEXT="Types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1397992745179" FOLDED="true" ID="ID_77234809" MODIFIED="1429310622180" TEXT="Basic">
+<node CREATED="1397992745179" ID="ID_77234809" MODIFIED="1500929646397" TEXT="Basic">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397992498445" ID="ID_1339590459" MODIFIED="1397997165101">
 <richcontent TYPE="NODE"><html>
@@ -348,7 +349,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1397992818928" FOLDED="true" ID="ID_455659425" MODIFIED="1429310622180" TEXT="Floating point">
+<node CREATED="1397992818928" ID="ID_455659425" MODIFIED="1500929648637" TEXT="Floating point">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397992478855" ID="ID_128897638" MODIFIED="1397998718411">
 <richcontent TYPE="NODE"><html>
@@ -375,7 +376,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1397992778794" FOLDED="true" ID="ID_1774135124" MODIFIED="1429310622181" TEXT="Modifiers">
+<node CREATED="1397992778794" ID="ID_1774135124" MODIFIED="1500929650241" TEXT="Modifiers">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397992522016" ID="ID_215100290" MODIFIED="1397998647378">
 <richcontent TYPE="NODE"><html>
@@ -1249,7 +1250,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398115155444" FOLDED="true" ID="ID_1018283019" MODIFIED="1433186261320" POSITION="right" STYLE="fork">
+<node CREATED="1398115155444" ID="ID_1018283019" MODIFIED="1500929659829" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1302,7 +1303,7 @@
 <node CREATED="1398115264611" ID="ID_1477564261" MODIFIED="1432398986152" TEXT="#if"/>
 <node CREATED="1398115273715" ID="ID_1995097654" MODIFIED="1432398986152" TEXT="#import"/>
 <node CREATED="1398115267827" ID="ID_398201929" MODIFIED="1432398986152" TEXT="#ifdef"/>
-<node CREATED="1397948195333" FOLDED="true" ID="ID_1466279016" MODIFIED="1433186261319">
+<node CREATED="1397948195333" ID="ID_1466279016" MODIFIED="1500929659840">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1567,7 +1568,7 @@
 <node CREATED="1397991670129" ID="ID_1404097065" MODIFIED="1397991683054" TEXT="tmpnam( );"/>
 </node>
 </node>
-<node CREATED="1397948550350" FOLDED="true" ID="ID_1104927695" MODIFIED="1429310622189" STYLE="fork">
+<node CREATED="1397948550350" ID="ID_1104927695" MODIFIED="1500929659845" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1579,17 +1580,29 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<node CREATED="1397948652812" FOLDED="true" ID="ID_181895530" MODIFIED="1429310622187" TEXT="Type Conversion">
+<node CREATED="1397948652812" ID="ID_181895530" MODIFIED="1500929659847" TEXT="Type Conversion">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397948645548" ID="ID_47552608" MODIFIED="1397950282398" TEXT="atol( );"/>
-<node CREATED="1397948640027" ID="ID_1747141174" MODIFIED="1397950287262" TEXT="atoi( );"/>
+<node CREATED="1397948640027" ID="ID_1747141174" MODIFIED="1500929742908">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#32fa32">int</font>&#160;atoi( );
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1397948631963" ID="ID_1964074099" MODIFIED="1397950292462" TEXT="atof( );"/>
 <node CREATED="1397948673326" ID="ID_1183406790" MODIFIED="1397950295742" TEXT="strtod( );"/>
 <node CREATED="1397948681963" ID="ID_1732082661" MODIFIED="1397950300910" TEXT="strtoul( );"/>
 <node CREATED="1397948686763" ID="ID_28101952" MODIFIED="1397950304430" TEXT="strtoll( );"/>
 <node CREATED="1397948696731" ID="ID_1612632311" MODIFIED="1397950308030" TEXT="strtoull( );"/>
 </node>
-<node CREATED="1397948708539" FOLDED="true" ID="ID_21303367" MODIFIED="1429310622188" TEXT="Pseudo-random">
+<node CREATED="1397948708539" ID="ID_21303367" MODIFIED="1500929674898" TEXT="Pseudo-random">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397948741227" ID="ID_911473969" MODIFIED="1397950341763">
 <richcontent TYPE="NODE"><html>
@@ -1615,17 +1628,18 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1397948741227" ID="ID_1200517268" MODIFIED="1397950350882">
+<node CREATED="1397948741227" ID="ID_1200517268" MODIFIED="1500929782767">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b><font color="#1dc53a">void </font><font color="#010101">srand</font></b><font color="#010101">&#xa0;(</font><b><font color="#1dc53a">unsigned int </font>seed</b><font color="#010101">&#xa0;);</font>
+      <b><font color="#1dc53a">void </font><font color="#010101">srand</font></b><font color="#010101">&#160;(</font><b><font color="#1ec83c">unsigned</font><font color="#1dc53a">&#160;int </font>seed</b><font color="#010101">&#160;);</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1397948741227" ID="ID_1451399327" MODIFIED="1397950355602">
 <richcontent TYPE="NODE"><html>
@@ -1640,7 +1654,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1397949022970" FOLDED="true" ID="ID_1919078437" MODIFIED="1429310622188">
+<node CREATED="1397949022970" ID="ID_1919078437" MODIFIED="1500929790126">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1661,7 +1675,7 @@
 <node CREATED="1397950387712" ID="ID_721920088" MODIFIED="1397950395997" TEXT="free( );"/>
 </node>
 <node CREATED="1417822189002" ID="ID_1325332942" MODIFIED="1417822195607" TEXT="putenv()"/>
-<node CREATED="1397950398768" FOLDED="true" ID="ID_152109352" MODIFIED="1429310622188" STYLE="fork" TEXT="Process control">
+<node CREATED="1397950398768" ID="ID_152109352" MODIFIED="1500929796065" STYLE="fork" TEXT="Process control">
 <edge COLOR="#808080" STYLE="bezier"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1397950562879" ID="ID_98749345" MODIFIED="1397950569308" TEXT="abort( );"/>

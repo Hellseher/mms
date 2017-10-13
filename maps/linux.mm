@@ -313,21 +313,21 @@
       &#160;&#160;&#160;&#160;csh.login, exports, fstab, ftpusers, gateways, gettydefs,&#160;&#160;&#160;&#160;&#160;group, host.conf, hosts.allow, hosts.deny, hosts,equiv,&#160;&#160;&#160;&#160;&#160;hosts.lpd, inetd.conf, inittab, issue, ld.so.conf, motd,&#160;&#160;&#160;&#160;&#160;mtab, mtools.conf, networks, passwd, printcap, profile,&#160;&#160;&#160;&#160;&#160;protocols, resolv.conf, rpc, securetty, services, shells,&#160;&#160;&#160;&#160;&#160;syslog.conf.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1413071651483" ID="ID_1284065277" MODIFIED="1413071656696" TEXT="/etc/anacrontab"/>
 <node CREATED="1413071662411" ID="ID_862731658" MODIFIED="1413071669352" TEXT="/etc/crontab"/>
-<node CREATED="1432754877405" ID="ID_326225392" MODIFIED="1441231316965">
+<node CREATED="1432754877405" ID="ID_326225392" MODIFIED="1504910890610">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      /etc/<b>default</b>/ <img src="../icons/debian.png" />
+      /etc/<b>default</b>/ <img src="../icons/debian.png" />&#160;<img src="../icons/redhat.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1413495178915" ID="ID_604600362" MODIFIED="1413495215776">
 <richcontent TYPE="NODE"><html>
@@ -552,7 +552,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1465769392769" ID="ID_191119541" MODIFIED="1465769421134" TEXT="/etc/os-release"/>
-<node CREATED="1398556323892" ID="ID_349442526" MODIFIED="1481501092781">
+<node CREATED="1398556323892" ID="ID_349442526" MODIFIED="1505862463768">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -569,19 +569,6 @@
     </p>
     <p>
       <i><font color="#3296fa">home directory...)</font></i>
-    </p>
-  </body>
-</html></richcontent>
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#3296fa"><i>list UserName UserID and GroupID in readable format</i></font>
-    </p>
-    <p>
-      <b>$ awk -F: '{ print &quot;UN: &quot; $1&quot;*&quot; &quot;UID: &quot; $3&quot;*&quot; &quot;GID: &quot; $4 }' /etc/passwd | column -t -s '*' | nl</b>
     </p>
   </body>
 </html></richcontent>
@@ -717,8 +704,7 @@
       /etc/<b>ttys</b>&#160;<img src="../icons/freebsd.png" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1408402500820" ID="ID_1208502945" MODIFIED="1408402570979">
 <richcontent TYPE="NODE"><html>
@@ -838,8 +824,7 @@
       <i><font size="2" color="#6496fa">terminal capabilities</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1413488093998" ID="ID_954642326" MODIFIED="1443824802785">
 <richcontent TYPE="NODE"><html>
@@ -1522,8 +1507,7 @@
       from kernel v2.6
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398810181290" ID="ID_1680919758" MODIFIED="1478945301157">
 <richcontent TYPE="NODE"><html>

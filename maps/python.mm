@@ -588,7 +588,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924280" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1477151148690" POSITION="right" STYLE="fork">
+<node CREATED="1398203924280" FOLDED="true" ID="63" LINK="https://docs.python.org/2/library/functions.html#built-in-functions" MODIFIED="1506984565263" POSITION="right" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -889,7 +889,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1400104329875" ID="ID_1281294302" MODIFIED="1477865323203" TEXT="sequences">
+<node CREATED="1400104329875" FOLDED="true" ID="ID_1281294302" MODIFIED="1506984564115" TEXT="sequences">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398544491386" ID="ID_1853082742" MODIFIED="1402526459304">
 <richcontent TYPE="NODE"><html>
@@ -1042,7 +1042,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1398544363433" ID="ID_1383444122" MODIFIED="1477865331102" TEXT="misc">
+<node CREATED="1398544363433" FOLDED="true" ID="ID_1383444122" MODIFIED="1506984561233" TEXT="misc">
 <node CREATED="1398544580263" ID="ID_1438184416" MODIFIED="1398544585623">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1420,7 +1420,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924282" ID="24" MODIFIED="1476639304280" POSITION="right" STYLE="fork" TEXT="Data types">
+<node CREATED="1398203924282" ID="24" MODIFIED="1506984570573" POSITION="right" STYLE="fork" TEXT="Data types">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924282" FOLDED="true" ID="25" MODIFIED="1477151276006" TEXT="numeric">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1663,8 +1663,7 @@
       [out] '1,2,3,4,5'
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1418078179410" ID="ID_1815362689" MODIFIED="1477216329937" TEXT="S.lower()">
 <richcontent TYPE="NOTE"><html>
@@ -1741,7 +1740,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1398203924283" ID="40" MODIFIED="1477262064798">
+<node CREATED="1398203924283" FOLDED="true" ID="40" MODIFIED="1506984572126">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1768,8 +1767,7 @@
       <i><font color="#6496fa" size="2">define a dictionaries</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1418686492739" ID="ID_646800322" MODIFIED="1477134579237" TEXT="methods">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -1786,8 +1784,7 @@
       <i><font color="#6496fa" size="2">return dict. values</font></i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1398203924286" ID="204" MODIFIED="1398203924286" TEXT="D.update(D)"/>
 <node CREATED="1398203924286" ID="202" MODIFIED="1398203924286" TEXT="D.copy()"/>
@@ -2205,7 +2202,7 @@
 </node>
 <node CREATED="1430434502724" ID="ID_190977057" MODIFIED="1430434522347" TEXT="sets"/>
 </node>
-<node CREATED="1398203924284" ID="44" MODIFIED="1477151266527" TEXT="file">
+<node CREATED="1398203924284" FOLDED="true" ID="44" MODIFIED="1506984573462" TEXT="file">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1398203924284" FOLDED="true" ID="47" MODIFIED="1432479960686" TEXT="Operations">
 <node CREATED="1398203924284" ID="132" MODIFIED="1398203924284" TEXT="New"/>
